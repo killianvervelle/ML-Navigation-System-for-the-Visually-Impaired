@@ -1,0 +1,12 @@
+global:
+  tlsDisable: true
+
+server:
+  ha:
+    enabled: false
+
+  authDelegator:
+    enabled: false
+
+injector:
+  enabled: false

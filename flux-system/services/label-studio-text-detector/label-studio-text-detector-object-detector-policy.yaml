@@ -1,0 +1,15 @@
+---
+apiVersion: image.toolkit.fluxcd.io/v1beta1
+kind: ImagePolicy
+metadata:
+  name: label-studio-text-detector
+  namespace: visionaid-flux-system
+spec:
+  filterTags:
+    extract: $ts
+    pattern: '^main-(?P<ts>[0-9]*)'
+  imageRepositoryRef:
+    name: label-studio-text-detector
+  policy:
+    alphabetical:
+      order: asc

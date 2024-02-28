@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: visionaid-photo-validator-deployment
+  namespace: visionaid-flux-system
+  labels:
+    app: visionaid-photo-validator
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: visionaid-photo-validator
+  template:
+    metadata:
+      labels:
+        app: visionaid-photo-validator
+    spec:
+      containers:
+      - name: visionaid-photo-validator
+        image: registry.forge.hefr.ch/pi_aimarket-visionaid/photo-validator/visionaid-photo-validator:1683736353 # {"$imagepolicy": "visionaid-flux-system:photo-validator"}
+        ports:
+        - containerPort: 8000
+      imagePullSecrets:
+      - name: visionaid-regsecret

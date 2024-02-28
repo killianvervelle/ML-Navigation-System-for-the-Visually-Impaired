@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: visionaid-label-studio-text-detector
+  namespace: visionaid-flux-system
+  labels:
+    app: visionaid-label-studio-text-detector
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: visionaid-label-studio-text-detector
+  template:
+    metadata:
+      labels:
+        app: visionaid-label-studio-text-detector
+    spec:
+      containers:
+      - name: visionaid-label-studio-text-detector
+        image: registry.forge.hefr.ch/pi_aimarket-visionaid/label-studio-text-detector/visionaid-label-studio-text-detector:main-1684863692 # {"$imagepolicy": "visionaid-flux-system:label-studio-text-detector"}
+        ports:
+        - containerPort: 9000
+        env:
+        - name: MINIO_HOSTNAME
+          value: minio1.isc.heia-fr.ch:9013
+        - name: MINIO_ACCESS_KEY
+          valueFrom:
+            secretKeyRef:
+              name: visionaid-label-studio-text-detector-secret
+              key: MINIO_ACCESS_KEY
+        - name: MINIO_SECRET_KEY
+          valueFrom:
+            secretKeyRef:
+              name: visionaid-label-studio-text-detector-secret
+              key: MINIO_SECRET_KEY
+        - name: BUS_SCREEN_URL
+          value: http://visionaid-bus-screen-text-detector-dev.visionaid-flux-system.svc.cluster.local:8000/process
+      imagePullSecrets:
+      - name: visionaid-regsecret

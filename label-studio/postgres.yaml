@@ -1,0 +1,64 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: postgres
+  namespace: visionaid-label-studio
+  labels:
+    app: postgres
+spec:
+  selector:
+    app: postgres
+  ports:
+    - port: 5432
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: postgres
+  namespace: visionaid-label-studio
+  labels:
+    app: postgres
+spec:
+  selector:
+    matchLabels:
+      app: postgres
+  template:
+    metadata:
+      labels:
+        app: postgres
+    spec:
+      containers:
+        - name: postgres
+          image: postgres:14.0-alpine3.14
+          ports:
+            - containerPort: 5432
+          env:
+            - name: POSTGRES_DB
+              value: labelstudio
+            - name: POSTGRES_USER
+              value: labelstudio
+            - name: POSTGRES_PASSWORD
+              value: labelstudio12345
+            - name: PGDATA
+              value: /var/lib/postgresql/data/pgdata
+          volumeMounts:
+            - mountPath: /var/lib/postgresql/data
+              name: database-claim
+      volumes:
+        - name: database-claim
+          persistentVolumeClaim:
+            claimName: database-claim
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: database-claim
+  namespace: visionaid-label-studio
+  labels:
+    app: database
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 50Gi

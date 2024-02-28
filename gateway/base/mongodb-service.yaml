@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: visionaid-gateway-mongodb
+  namespace: visionaid-flux-system
+spec:
+  selector:
+    app: visionaid-gateway-mongodb
+  ports:
+  - protocol: TCP
+    port: 27017

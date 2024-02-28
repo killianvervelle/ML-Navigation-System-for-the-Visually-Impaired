@@ -1,0 +1,12 @@
+---
+apiVersion: image.toolkit.fluxcd.io/v1beta1
+kind: ImageRepository
+metadata:
+  name: bus-screen-text-detector
+  namespace: visionaid-flux-system
+spec:
+  image: registry.forge.hefr.ch/pi_aimarket-visionaid/bus-screen-text-detector/visionaid-bus-screen-text-detector
+  interval: 1m0s
+  secretRef:
+    name: visionaid-regsecret
+

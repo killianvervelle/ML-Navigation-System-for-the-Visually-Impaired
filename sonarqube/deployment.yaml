@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  labels:
+    app: sonarqube
+  name: sonarqube
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sonarqube
+  template:
+    metadata:
+      labels:
+        app: sonarqube
+    spec:
+      containers:
+        - name: sonarqube
+          image: sonarqube:10-community
+          resources:
+            requests:
+              cpu: 500m
+              memory: 1024Mi
+            limits:
+              cpu: 2000m
+              memory: 2048Mi
+          volumeMounts:
+          - mountPath: "/opt/sonarqube/data/"
+            name: sonar-data
+          ports:
+          - containerPort: 9000
+            protocol: TCP
+      volumes:
+      - name: sonar-data
+        persistentVolumeClaim:
+          claimName: sonar-data

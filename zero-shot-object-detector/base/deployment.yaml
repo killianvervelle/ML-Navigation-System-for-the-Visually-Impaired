@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: visionaid-zero-shot-object-detector-deployment
+  namespace: visionaid-flux-system
+  labels:
+    app: visionaid-zero-shot-object-detector
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: visionaid-zero-shot-object-detector
+  template:
+    metadata:
+      labels:
+        app: visionaid-zero-shot-object-detector
+    spec:
+      containers:
+      - name: visionaid-zero-shot-object-detector
+        image: registry.forge.hefr.ch/pi_aimarket-visionaid/zero-shot-object-detector/visionaid-zero-shot-object-detector:latest # {"$imagepolicy": "visionaid-flux-system:object-detector"}
+        ports:
+        - containerPort: 8000
+        resources:
+          requests:
+            tencent.com/vcuda-core: 20
+            tencent.com/vcuda-memory: 16
+          limits:
+            tencent.com/vcuda-core: 20
+            tencent.com/vcuda-memory: 16
+      imagePullSecrets:
+      - name: visionaid-regsecret
