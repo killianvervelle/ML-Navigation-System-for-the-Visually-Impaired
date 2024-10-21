@@ -1,0 +1,4084 @@
+outs:
+- path: runs
+  files:
+  - relpath: detect/exp2/00bd63bd-20230330-tpf-volvo-8700-nr102-100278.jpg
+    md5: 353669a7e8abac8012ce26b85e084964
+    size: 303984
+    cloud:
+      myminio:
+        etag: 353669a7e8abac8012ce26b85e084964
+        version_id: 0b713944-59e4-4c56-8afa-7599eb160b3d
+  - relpath: detect/exp2/00fcf273-20230330-1-5.jpg
+    md5: c6de7aef52f10edc4a427ac5ec0bb11f
+    size: 239468
+    cloud:
+      myminio:
+        etag: c6de7aef52f10edc4a427ac5ec0bb11f
+        version_id: 33848509-a6b5-498a-ba49-7c938b13dda6
+  - relpath: detect/exp2/01ce03cf-20230330-bus-regionaux--regionalbusse.jpg
+    md5: 007b767d86d978ec1c2ebb36c1a51b78
+    size: 458595
+    cloud:
+      myminio:
+        etag: 007b767d86d978ec1c2ebb36c1a51b78
+        version_id: 9a53a9cf-c05b-45ee-bf80-f28ba0077b9e
+  - relpath: detect/exp2/0a81b9fe-20230330-tpf.jpg
+    md5: 65e356ac38f02d71086e455bc1c66d8f
+    size: 441356
+    cloud:
+      myminio:
+        etag: 65e356ac38f02d71086e455bc1c66d8f
+        version_id: c33b3ea8-a3c3-4474-b038-c505099f977e
+  - relpath: detect/exp2/0af06166-20230330-7.jpg
+    md5: 07faad59f23584eec407e80f5aac02ed
+    size: 314329
+    cloud:
+      myminio:
+        etag: 07faad59f23584eec407e80f5aac02ed
+        version_id: be96097f-34a7-4c96-954f-413d376a60bd
+  - relpath: detect/exp2/0d4a8452-20230330-tpf-hess-swisstrolleybus-nr525-unter.jpg
+    md5: 6c6f3854cb80bf5fce7f75909198cb0b
+    size: 364248
+    cloud:
+      myminio:
+        etag: 6c6f3854cb80bf5fce7f75909198cb0b
+        version_id: b5a2daf0-b9d8-4ce7-910e-f45cd666f64c
+  - relpath: detect/exp2/0e59475b-20230330-tpf13x.jpg
+    md5: f07fb0f39d064d135832718522861045
+    size: 125619
+    cloud:
+      myminio:
+        etag: f07fb0f39d064d135832718522861045
+        version_id: d4c34a66-a59f-4d21-a863-28f8049a119f
+  - relpath: detect/exp2/0ed201ad-20230330-CHFR300441.jpg
+    md5: cda800cf1cf968e94dbb1383660ca497
+    size: 168889
+    cloud:
+      myminio:
+        etag: cda800cf1cf968e94dbb1383660ca497
+        version_id: 21ef503b-2ba9-44e5-a6f1-bfdd1e392638
+  - relpath: detect/exp2/0fe83d2c-20230330-tpf-fribourg-nr-597fr-300399-52646.jpg
+    md5: fbdfe9532e78cb8b60a678715509de79
+    size: 219906
+    cloud:
+      myminio:
+        etag: fbdfe9532e78cb8b60a678715509de79
+        version_id: d032242b-8ed9-4b54-931c-499b843a6115
+  - relpath: detect/exp2/1ab07f1b-20230330-tpf-mercedes-citaro-nr383-70723.jpg
+    md5: 0db04382c7fa512fbcffb91472d2a6a1
+    size: 383540
+    cloud:
+      myminio:
+        etag: 0db04382c7fa512fbcffb91472d2a6a1
+        version_id: b1126d7d-3ded-4956-8e5f-c867dc6d382c
+  - relpath: detect/exp2/1b8fb4f9-20230330-5-5.jpg
+    md5: 9047dee1db8733bcd5dbf90f89bec954
+    size: 251189
+    cloud:
+      myminio:
+        etag: 9047dee1db8733bcd5dbf90f89bec954
+        version_id: b3f26956-406b-4b4a-8fbf-308b27bb3358
+  - relpath: detect/exp2/1cbafa0b-20230330-auch-mehrere-jahre-nach-fusion-46281.jpg
+    md5: 9fb5fe0fba2d1ea6aa0fcf51c9b7d394
+    size: 212934
+    cloud:
+      myminio:
+        etag: 9fb5fe0fba2d1ea6aa0fcf51c9b7d394
+        version_id: ca3a6ead-851a-400e-86c6-c2a903a9c799
+  - relpath: detect/exp2/1e841dbe-20230330-14-1.jpg
+    md5: 536462cb9152225f5e2905653a0b4763
+    size: 285344
+    cloud:
+      myminio:
+        etag: 536462cb9152225f5e2905653a0b4763
+        version_id: c8f49fd3-1acf-423f-bc29-34532bce50f7
+  - relpath: detect/exp2/1f6e415b-20230330-bus_web.jpg
+    md5: 0c64da88e104392f00f952571433b822
+    size: 449754
+    cloud:
+      myminio:
+        etag: 0c64da88e104392f00f952571433b822
+        version_id: f6598979-ef16-46b0-b048-47aac98cbf09
+  - relpath: detect/exp2/2a04b4ae-20230330-tpf-volvo-hess-trolleybus-nr502-3610.jpg
+    md5: 13c48f80882c20bf6d50f4073d33a1d6
+    size: 249759
+    cloud:
+      myminio:
+        etag: 13c48f80882c20bf6d50f4073d33a1d6
+        version_id: 23a24a28-512e-4840-b0bf-8e1e5d542f4f
+  - relpath: detect/exp2/2af13718-20230330-10-2.jpg
+    md5: f3df1a11addcf2f8976f6c72d6be867d
+    size: 239438
+    cloud:
+      myminio:
+        etag: f3df1a11addcf2f8976f6c72d6be867d
+        version_id: 0a4d3e42-4a49-44d1-b6a8-9925b35d8a55
+  - relpath: detect/exp2/2bfa639e-20230330-20170506_095522.jpg
+    md5: 4246808725e9be32e92c6b66f9817a8c
+    size: 5043487
+    cloud:
+      myminio:
+        etag: 4246808725e9be32e92c6b66f9817a8c
+        version_id: ebc890dc-5fe6-48dc-9526-bcac6649a147
+  - relpath: detect/exp2/2cbc5445-20230330-201040-tpf-fribourg-wieland-646989.jpg
+    md5: df20a1e6b52c9ef5bdbddab53e7da83a
+    size: 257160
+    cloud:
+      myminio:
+        etag: df20a1e6b52c9ef5bdbddab53e7da83a
+        version_id: 259b499f-44cd-4a7c-9c31-0d49bcbdff78
+  - relpath: detect/exp2/2d444850-20230330-201017_Palezieux_bus_TPF.JPG
+    md5: 66daf8a87ac146a04a2acff6c242ffd6
+    size: 794825
+    cloud:
+      myminio:
+        etag: 66daf8a87ac146a04a2acff6c242ffd6
+        version_id: 173d9c5e-8b97-4ebd-8ace-8bce9fc27ccb
+  - relpath: detect/exp2/2db00b99-20230330-tpf-fribourg-nr-527-90432.jpg
+    md5: 051fbe3cc321cde383851cb53363207a
+    size: 288357
+    cloud:
+      myminio:
+        etag: 051fbe3cc321cde383851cb53363207a
+        version_id: f27e9a2a-524f-467b-9694-2a94fca1a3ff
+  - relpath: detect/exp2/2dcd8c84-20230330-tpf-mercedes-citaro-nr82-13271.jpg
+    md5: 1ce6ff93484950dbd97f8989da489c90
+    size: 142559
+    cloud:
+      myminio:
+        etag: 1ce6ff93484950dbd97f8989da489c90
+        version_id: 085479ad-aa0c-4d78-aa4f-b93f1f0f2f7c
+  - relpath: detect/exp2/2deffc29-20230330-tpf-353ode7.jpg
+    md5: 2eb2b9c31f7dd9e95db0af944e7f0fd5
+    size: 317963
+    cloud:
+      myminio:
+        etag: 2eb2b9c31f7dd9e95db0af944e7f0fd5
+        version_id: 640cf249-5a79-408e-8200-999450228be4
+  - relpath: detect/exp2/2e2c440d-20230330-4755748_orig.jpg
+    md5: 527610e6aebc0ab446a67fa09bd7785b
+    size: 262342
+    cloud:
+      myminio:
+        etag: 527610e6aebc0ab446a67fa09bd7785b
+        version_id: eb10e2a2-f6a5-496d-bdab-ef3a069e1808
+  - relpath: detect/exp2/2edaadea-20230330-169202_orig.jpg
+    md5: 601e06a2365e8a7e308658451e75fe1d
+    size: 232792
+    cloud:
+      myminio:
+        etag: 601e06a2365e8a7e308658451e75fe1d
+        version_id: 17b4513e-f8c2-416a-9bdb-d3598f0cd041
+  - relpath: detect/exp2/2fa1903e-20230330-tpf-trolleybus-513-unterwegs-154966.jpg
+    md5: c341add72c087c444190d2de19dc0f2c
+    size: 409316
+    cloud:
+      myminio:
+        etag: c341add72c087c444190d2de19dc0f2c
+        version_id: 51bd1a62-822b-4e9e-adbd-54b547eb4519
+  - relpath: detect/exp2/3bb4a01d-20230330-3-7.jpg
+    md5: f61cdab801045ca80c355e36fe94db75
+    size: 246409
+    cloud:
+      myminio:
+        etag: f61cdab801045ca80c355e36fe94db75
+        version_id: 98e3d7f6-39de-44e8-aadc-c9f9ba093efa
+  - relpath: detect/exp2/3c9b43f9-20230330-4.jpg
+    md5: 677eb2547deeab2b3a55801568c88b51
+    size: 260823
+    cloud:
+      myminio:
+        etag: 677eb2547deeab2b3a55801568c88b51
+        version_id: b14440bc-7622-4450-a068-b1e57cfe3afb
+  - relpath: detect/exp2/3cebc3e8-20230330-tpf-fribourg-nr-524-69237.jpg
+    md5: 3d86e98cc0aa2ed09368db82d7ab0cc5
+    size: 279403
+    cloud:
+      myminio:
+        etag: 3d86e98cc0aa2ed09368db82d7ab0cc5
+        version_id: dc2deafc-99c3-48eb-9db1-688107159729
+  - relpath: detect/exp2/3dc7da10-20230330-tpf-mercedes-citaro-nr560-155534.jpg
+    md5: f71728e5083c5c15f5dc3a1dd802bd9e
+    size: 386313
+    cloud:
+      myminio:
+        etag: f71728e5083c5c15f5dc3a1dd802bd9e
+        version_id: 2445d000-3de4-4128-958b-70ad4afbb35c
+  - relpath: detect/exp2/3de65fc1-20230330-2013-04-04_Fribourg_0534_1a.jpg
+    md5: a3b5bf707a1b0a7642f44a7214b2bfab
+    size: 119836
+    cloud:
+      myminio:
+        etag: a3b5bf707a1b0a7642f44a7214b2bfab
+        version_id: 1de4a8a4-9e8c-4db5-824b-84ac955be042
+  - relpath: detect/exp2/e098223e-20230330-tpf-fribourg-nr-599fr-300420-52640.jpg
+    md5: 9316cd21ddd820d1bbde379649e4b713
+    size: 231458
+    cloud:
+      myminio:
+        etag: 9316cd21ddd820d1bbde379649e4b713
+        version_id: 25a2597e-b420-4fa7-ac2c-4d8be02d5885
+  - relpath: detect/exp2/e567980f-20230330-4-5.jpg
+    md5: 9a8b257737d80dd2150d8fcfdbd6d8f9
+    size: 240057
+    cloud:
+      myminio:
+        etag: 9a8b257737d80dd2150d8fcfdbd6d8f9
+        version_id: 614b7567-404d-42d5-9af2-c04e4dc2d749
+  - relpath: detect/exp2/ea854ebe-20230330-6091838160db387e09ee50058fdb9bb9.jpg
+    md5: ef968c22882806b258c11c19f8035732
+    size: 133552
+    cloud:
+      myminio:
+        etag: ef968c22882806b258c11c19f8035732
+        version_id: be47da69-e82b-41cb-9966-3a65bc3e1875
+  - relpath: detect/exp2/eb9ec36f-20230330-tpf-volvo-8700-bus-13274.jpg
+    md5: fc181834b1a43783287207d824aec386
+    size: 131506
+    cloud:
+      myminio:
+        etag: fc181834b1a43783287207d824aec386
+        version_id: 66731ca3-87d6-4cd9-80a4-8cc22f8d6d96
+  - relpath: detect/exp2/ed746c10-20230330-4-8.jpg
+    md5: cf81660cd4b7eaa78e9fda4b4a371f92
+    size: 270350
+    cloud:
+      myminio:
+        etag: cf81660cd4b7eaa78e9fda4b4a371f92
+        version_id: bfdf9463-e8a5-49f3-9a0b-f24287a2b9ad
+  - relpath: detect/exp2/edaf9ccc-20230330-tpf-nr-527-hess-swisstrolley-164695.jpg
+    md5: 362b0d35586151c1b45245c608e84019
+    size: 256725
+    cloud:
+      myminio:
+        etag: 362b0d35586151c1b45245c608e84019
+        version_id: c305a403-7b34-4358-8629-65cd4676f0da
+  - relpath: detect/exp2/ede05553-20230330-195613-tpf-fribourg--625316.jpg
+    md5: 0489d88c50995fa9d212e01cf8e39ae3
+    size: 444126
+    cloud:
+      myminio:
+        etag: 0489d88c50995fa9d212e01cf8e39ae3
+        version_id: 93cff3ba-7300-4140-8043-557e6d455567
+  - relpath: detect/exp2/ee7b5bfc-20230330-4-1.jpg
+    md5: 2c433f0e4d8422d1ace6eec037c707e1
+    size: 250513
+    cloud:
+      myminio:
+        etag: 2c433f0e4d8422d1ace6eec037c707e1
+        version_id: 701acdb4-d859-423d-82e2-e48ed70669c0
+  - relpath: detect/exp2/ee944371-20230330-tpf-volvo-8700-nr18-70883.jpg
+    md5: 0cb466e0420278da644c4e7e90fcc9d0
+    size: 339042
+    cloud:
+      myminio:
+        etag: 0cb466e0420278da644c4e7e90fcc9d0
+        version_id: c621e07c-4370-4f43-b70f-80f8f372a852
+  - relpath: detect/exp2/ee95f003-20230330-tpf-fribourg-350fr-300418-man-10954.jpg
+    md5: 998c7f7ce52a12b3f5729bb62a43443e
+    size: 137619
+    cloud:
+      myminio:
+        etag: 998c7f7ce52a12b3f5729bb62a43443e
+        version_id: 7a9d3131-207f-491c-9653-18cd028c8ffc
+  - relpath: detect/exp2/eeaf1794-20230330-tpf-trolleybus-nr521-fr-137130.jpg
+    md5: 610eb8c856fc23743fc2f3dbc3dbf5f3
+    size: 382949
+    cloud:
+      myminio:
+        etag: 610eb8c856fc23743fc2f3dbc3dbf5f3
+        version_id: 04dd2d37-ee8e-4b66-9953-9292590528ee
+  - relpath: detect/exp2/efa245cb-20230330-transport_030420awi_07.jpg
+    md5: 041a8636c500781d6a1d85dec57e949b
+    size: 162308
+    cloud:
+      myminio:
+        etag: 041a8636c500781d6a1d85dec57e949b
+        version_id: 2ec5663a-2a62-4a1b-9853-35dde51e6ab0
+  - relpath: detect/exp2/f2031d74-20230330-tpf-fribourg-nr-4-fr-27072.jpg
+    md5: 8c4d838bbc76c62e27b55ad1961dd105
+    size: 140900
+    cloud:
+      myminio:
+        etag: 8c4d838bbc76c62e27b55ad1961dd105
+        version_id: 2e3297b6-cc1d-449b-8ccf-50556b4d3aa7
+  - relpath: detect/exp2/f250affd-20230330-tpf-mercedes-citaro-nr1020-188986.jpg
+    md5: b060df5706d5f872d457618a77523506
+    size: 416509
+    cloud:
+      myminio:
+        etag: b060df5706d5f872d457618a77523506
+        version_id: 5bcab92c-bdc9-4c19-81cd-809d25f0df2c
+  - relpath: detect/exp2/f32562bd-20230330-tpf_520.jpg
+    md5: 8073a9861d741ddf00bd35a4dbf84ced
+    size: 60375
+    cloud:
+      myminio:
+        etag: 8073a9861d741ddf00bd35a4dbf84ced
+        version_id: 1625318f-59c6-4e64-a28b-35db0b93aded
+  - relpath: detect/exp2/f42989b3-20230330-18.jpg
+    md5: 030548f9974901e7dc192bfc5d4fb269
+    size: 215521
+    cloud:
+      myminio:
+        etag: 030548f9974901e7dc192bfc5d4fb269
+        version_id: fcd40c99-286b-47ce-85d9-ae909f9d5d95
+  - relpath: detect/exp2/f496ad43-20230330-tpf-507a6gx.jpg
+    md5: 836d22f85bcffa3387bb9adaad2eedd3
+    size: 334584
+    cloud:
+      myminio:
+        etag: 836d22f85bcffa3387bb9adaad2eedd3
+        version_id: a827e386-3433-4ec5-a859-5d27a6b2af37
+  - relpath: detect/exp2/f499177b-20230330-tpf-mercedes-citaro-nr594-104995.jpg
+    md5: 06f4917f2b1b688453971dab00e69f54
+    size: 294949
+    cloud:
+      myminio:
+        etag: 06f4917f2b1b688453971dab00e69f54
+        version_id: 2a5c928a-564d-4a95-9195-cc04bae7b7ad
+  - relpath: detect/exp2/f50ecf50-20230330-tpf-volvo-8700-bus-13876.jpg
+    md5: 6d101383c7d0d11dd6bcb64dc929eab8
+    size: 167311
+    cloud:
+      myminio:
+        etag: 6d101383c7d0d11dd6bcb64dc929eab8
+        version_id: 02fd3279-d69b-49dc-a929-c06d3c9093f5
+  - relpath: detect/exp2/f5da857b-20230330-tpf-hess-trolleybus-nr-190635.jpg
+    md5: 74e09f96bc739d1ac3a682590f36dbf7
+    size: 324270
+    cloud:
+      myminio:
+        etag: 74e09f96bc739d1ac3a682590f36dbf7
+        version_id: 19924918-25cd-405c-86da-f79fd7110583
+  - relpath: detect/exp2/f8543dc9-20230330-0.97118400_1340382719.jpg
+    md5: 135523ce187f0ddb1a056bcf6391b996
+    size: 113201
+    cloud:
+      myminio:
+        etag: 135523ce187f0ddb1a056bcf6391b996
+        version_id: ab111838-548e-4eb6-8b4d-29e1f0070d91
+  - relpath: detect/exp2/f8ea9a14-20230330-tpf-mercedes-citaro-nr84-128751.jpg
+    md5: c9b0a1717b0ddb6464e1d87b4a854617
+    size: 408860
+    cloud:
+      myminio:
+        etag: c9b0a1717b0ddb6464e1d87b4a854617
+        version_id: aac9cb28-ad9d-4e3d-9637-dd98552e80b5
+  - relpath: detect/exp2/f99e33c2-20230330-201020-tpf-fribourg-wieland-646969.jpg
+    md5: 7979d4fa755ca8f34fb113277668eae5
+    size: 254058
+    cloud:
+      myminio:
+        etag: 7979d4fa755ca8f34fb113277668eae5
+        version_id: 313026f1-0643-4dd7-8495-1a3427b1b231
+  - relpath: detect/exp2/fa46d230-20230330-2-9.jpg
+    md5: ccacab7a810f7ebc2d7513626bb604db
+    size: 242486
+    cloud:
+      myminio:
+        etag: ccacab7a810f7ebc2d7513626bb604db
+        version_id: 7ceba175-ce62-4cdc-9ee6-2fb98c0fdca5
+  - relpath: detect/exp2/fb3b7f5d-20230330-tpf-mercedes-citaro-nr125-163096.jpg
+    md5: 150dffc4b1011a007bc11c583c284e2f
+    size: 347584
+    cloud:
+      myminio:
+        etag: 150dffc4b1011a007bc11c583c284e2f
+        version_id: 61fba9b5-f853-43bd-87a9-ee4b9579a1a8
+  - relpath: detect/exp2/fbb5589d-20230330-2615644.jpg
+    md5: d7cc24615bec7ce7571d7e40646396ef
+    size: 65065
+    cloud:
+      myminio:
+        etag: d7cc24615bec7ce7571d7e40646396ef
+        version_id: 2b2f59d7-e039-4b18-a6a8-ab13af8a959a
+  - relpath: detect/exp2/fe41c0e4-20230330-tpf_513.jpg
+    md5: 2110fa3197fee253a2d6830eca70be9e
+    size: 64874
+    cloud:
+      myminio:
+        etag: 2110fa3197fee253a2d6830eca70be9e
+        version_id: 99338665-3b1e-49e6-815d-9bb30efab050
+  - relpath: detect/exp2/ff768bba-20230330-tpf-volvo-8700-nr105-71073.jpg
+    md5: 4cbf9e11412b948876822b0dfcabe45a
+    size: 272004
+    cloud:
+      myminio:
+        etag: 4cbf9e11412b948876822b0dfcabe45a
+        version_id: b74d4af4-bf0b-4a3b-af71-4aa388686d1b
+  - relpath: detect/exp2/ff82b6d9-20230330-tpf-fribourg-nr-590fr-300380-52760.jpg
+    md5: 2581b1a870c5e5005a4a60063f1c485e
+    size: 220109
+    cloud:
+      myminio:
+        etag: 2581b1a870c5e5005a4a60063f1c485e
+        version_id: 7e6f76a2-0ec7-4cd2-a0e5-1fe724516195
+  - relpath: detect/exp3/00bd63bd-20230330-tpf-volvo-8700-nr102-100278.jpg
+    md5: a2a23e749087fd679db6ff9249cd3422
+    size: 301223
+    cloud:
+      myminio:
+        etag: a2a23e749087fd679db6ff9249cd3422
+        version_id: 1646b81b-6ae8-4aca-8a4e-ca687aa26646
+  - relpath: detect/exp3/00fcf273-20230330-1-5.jpg
+    md5: 3efe1f7db734b08932ccb9eb56fe1b76
+    size: 239441
+    cloud:
+      myminio:
+        etag: 3efe1f7db734b08932ccb9eb56fe1b76
+        version_id: 080889f9-cfde-4daf-80f2-e5df1b0f11cb
+  - relpath: detect/exp3/01ce03cf-20230330-bus-regionaux--regionalbusse.jpg
+    md5: 5eaf126c311486e02e90c04664f86390
+    size: 465301
+    cloud:
+      myminio:
+        etag: 5eaf126c311486e02e90c04664f86390
+        version_id: 695bd424-ccfe-4c49-9c29-eb6105771467
+  - relpath: detect/exp3/0a81b9fe-20230330-tpf.jpg
+    md5: b619d5f8383f392a9741f33e4a3575a0
+    size: 441407
+    cloud:
+      myminio:
+        etag: b619d5f8383f392a9741f33e4a3575a0
+        version_id: c7c610c1-7270-4f61-8ad4-1219c4460ac2
+  - relpath: detect/exp3/0af06166-20230330-7.jpg
+    md5: 71e46c95b7e4b9343210d7b8f0c4c781
+    size: 312142
+    cloud:
+      myminio:
+        etag: 71e46c95b7e4b9343210d7b8f0c4c781
+        version_id: 653b5bf7-1ada-41d8-92dd-7255e71d170d
+  - relpath: detect/exp3/0d4a8452-20230330-tpf-hess-swisstrolleybus-nr525-unter.jpg
+    md5: 3a603f77ef424e52a8fbc066eb8510e2
+    size: 364643
+    cloud:
+      myminio:
+        etag: 3a603f77ef424e52a8fbc066eb8510e2
+        version_id: e00d8680-8ca4-487c-8e7c-907831775427
+  - relpath: detect/exp3/0e59475b-20230330-tpf13x.jpg
+    md5: 1619566c1dbdcbb5fa8b82d353da4344
+    size: 125840
+    cloud:
+      myminio:
+        etag: 1619566c1dbdcbb5fa8b82d353da4344
+        version_id: e5cd6fe2-1eb2-4ef9-9529-51290e5d8841
+  - relpath: detect/exp3/0ed201ad-20230330-CHFR300441.jpg
+    md5: 943c43bc6adb58d7405baaf6ea159951
+    size: 168811
+    cloud:
+      myminio:
+        etag: 943c43bc6adb58d7405baaf6ea159951
+        version_id: 77117828-70dd-4c05-8ad5-20b2daee8472
+  - relpath: detect/exp3/0fe83d2c-20230330-tpf-fribourg-nr-597fr-300399-52646.jpg
+    md5: c41a60fed8c43b0c2919fb8430894e80
+    size: 224278
+    cloud:
+      myminio:
+        etag: c41a60fed8c43b0c2919fb8430894e80
+        version_id: 70bb949b-420d-4f10-b683-29d8a7531f6e
+  - relpath: detect/exp3/1ab07f1b-20230330-tpf-mercedes-citaro-nr383-70723.jpg
+    md5: 74879c19337a734a51f9b00e7240302c
+    size: 381095
+    cloud:
+      myminio:
+        etag: 74879c19337a734a51f9b00e7240302c
+        version_id: 477afe50-2254-4a84-af35-c5afcb71e69a
+  - relpath: detect/exp3/1b8fb4f9-20230330-5-5.jpg
+    md5: 96716da1c9b3daf71c84f3cd4779a265
+    size: 248771
+    cloud:
+      myminio:
+        etag: 96716da1c9b3daf71c84f3cd4779a265
+        version_id: 1d7c29a3-0df1-4d3f-99fd-80d09e3cc7cb
+  - relpath: detect/exp3/1cbafa0b-20230330-auch-mehrere-jahre-nach-fusion-46281.jpg
+    md5: af3c30dce3903c8cef1d8827725b4075
+    size: 212844
+    cloud:
+      myminio:
+        etag: af3c30dce3903c8cef1d8827725b4075
+        version_id: c6a9e2fb-6d19-4bfe-8a5e-2d8ff510b8dc
+  - relpath: detect/exp3/1e841dbe-20230330-14-1.jpg
+    md5: bde936260331f277758be6b176ed7e18
+    size: 284624
+    cloud:
+      myminio:
+        etag: bde936260331f277758be6b176ed7e18
+        version_id: c4b1e281-c16a-447c-9b49-be80dd60d778
+  - relpath: detect/exp3/1f6e415b-20230330-bus_web.jpg
+    md5: be9972057c5bda55b2b3d901a397abb4
+    size: 450095
+    cloud:
+      myminio:
+        etag: be9972057c5bda55b2b3d901a397abb4
+        version_id: db4c32ac-47c4-4c0d-b3aa-b5547ab1a6c5
+  - relpath: detect/exp3/2a04b4ae-20230330-tpf-volvo-hess-trolleybus-nr502-3610.jpg
+    md5: a79050fa5163491a9d19fcf5f02dc7fd
+    size: 250462
+    cloud:
+      myminio:
+        etag: a79050fa5163491a9d19fcf5f02dc7fd
+        version_id: b1349808-6550-4ad3-8b79-f4d8b1aa5665
+  - relpath: detect/exp3/2af13718-20230330-10-2.jpg
+    md5: 608a18d7efcf9643bf29b862567c2d47
+    size: 238794
+    cloud:
+      myminio:
+        etag: 608a18d7efcf9643bf29b862567c2d47
+        version_id: 23be38f1-acba-4305-badb-a4ada7ac37be
+  - relpath: detect/exp3/2bfa639e-20230330-20170506_095522.jpg
+    md5: e1a7d91a194421680bfcfa03c1dd8a5b
+    size: 5054558
+    cloud:
+      myminio:
+        etag: e1a7d91a194421680bfcfa03c1dd8a5b
+        version_id: fb734139-9893-4f6a-a2c0-347a199f0f02
+  - relpath: detect/exp3/2cbc5445-20230330-201040-tpf-fribourg-wieland-646989.jpg
+    md5: c9c0f104b2bc93614dfec00ab8723030
+    size: 257393
+    cloud:
+      myminio:
+        etag: c9c0f104b2bc93614dfec00ab8723030
+        version_id: 1dea35fd-70cf-4baf-b687-38951e965cf5
+  - relpath: detect/exp3/2d444850-20230330-201017_Palezieux_bus_TPF.JPG
+    md5: ec7cb2368e374b347c0d9e68ba4d34be
+    size: 794904
+    cloud:
+      myminio:
+        etag: ec7cb2368e374b347c0d9e68ba4d34be
+        version_id: 7933fedc-9914-40d3-bf09-d9dc848eb580
+  - relpath: detect/exp3/2db00b99-20230330-tpf-fribourg-nr-527-90432.jpg
+    md5: 8a55dc16e6c004f8310a9a9447235463
+    size: 288523
+    cloud:
+      myminio:
+        etag: 8a55dc16e6c004f8310a9a9447235463
+        version_id: bd2f152a-a92f-4fb0-af23-e1e46c60f6ac
+  - relpath: detect/exp3/2dcd8c84-20230330-tpf-mercedes-citaro-nr82-13271.jpg
+    md5: 2c50ece5256710ddbf4a37d97cb7727a
+    size: 143141
+    cloud:
+      myminio:
+        etag: 2c50ece5256710ddbf4a37d97cb7727a
+        version_id: db0de7c9-1cf2-46b3-a6ad-29901b3a890b
+  - relpath: detect/exp3/2deffc29-20230330-tpf-353ode7.jpg
+    md5: 09d3f3ab112e19ebb77206c6393ca395
+    size: 317424
+    cloud:
+      myminio:
+        etag: 09d3f3ab112e19ebb77206c6393ca395
+        version_id: 43547960-75f9-4faa-8f57-29154569a6c7
+  - relpath: detect/exp3/2e2c440d-20230330-4755748_orig.jpg
+    md5: cdbae438add30bdc5d1e0221431f9d20
+    size: 262536
+    cloud:
+      myminio:
+        etag: cdbae438add30bdc5d1e0221431f9d20
+        version_id: 1bac6a0c-8688-47cb-b29c-f270807c9c66
+  - relpath: detect/exp3/2edaadea-20230330-169202_orig.jpg
+    md5: 00290cb34393c600aa5bd3bf86ff539b
+    size: 235918
+    cloud:
+      myminio:
+        etag: 00290cb34393c600aa5bd3bf86ff539b
+        version_id: 5cd3b7c8-abce-446c-ae60-9edc43c1df6c
+  - relpath: detect/exp3/2fa1903e-20230330-tpf-trolleybus-513-unterwegs-154966.jpg
+    md5: bd49aa26b77c62a508ed04ae205afe8a
+    size: 405159
+    cloud:
+      myminio:
+        etag: bd49aa26b77c62a508ed04ae205afe8a
+        version_id: 94165d9a-9574-47cd-809d-7630f8d9b675
+  - relpath: detect/exp3/3bb4a01d-20230330-3-7.jpg
+    md5: 9616946ff9f765cabb19f224fd235605
+    size: 246402
+    cloud:
+      myminio:
+        etag: 9616946ff9f765cabb19f224fd235605
+        version_id: 4b180895-fe65-4dcf-ad51-023440eefd91
+  - relpath: detect/exp3/3c9b43f9-20230330-4.jpg
+    md5: 19837d8857585d21d3c084e61b64e65f
+    size: 255260
+    cloud:
+      myminio:
+        etag: 19837d8857585d21d3c084e61b64e65f
+        version_id: 7111bd39-e700-4de6-83d8-b92ba6341907
+  - relpath: detect/exp3/3cebc3e8-20230330-tpf-fribourg-nr-524-69237.jpg
+    md5: 10c7505cb6a2d775523c8157e8240667
+    size: 278761
+    cloud:
+      myminio:
+        etag: 10c7505cb6a2d775523c8157e8240667
+        version_id: 851bb069-1dc0-49a5-9e88-28aa8de4a6c4
+  - relpath: detect/exp3/3dc7da10-20230330-tpf-mercedes-citaro-nr560-155534.jpg
+    md5: 52bf493bf2c18a23377f1add0adf1e9d
+    size: 383270
+    cloud:
+      myminio:
+        etag: 52bf493bf2c18a23377f1add0adf1e9d
+        version_id: 4ea7e219-9f58-4a81-b30a-b604827826ff
+  - relpath: detect/exp3/3de65fc1-20230330-2013-04-04_Fribourg_0534_1a.jpg
+    md5: 70df3802575d3203ef1df2d129821118
+    size: 117461
+    cloud:
+      myminio:
+        etag: 70df3802575d3203ef1df2d129821118
+        version_id: 04737af0-b35c-488e-a281-a0a6f6814a6d
+  - relpath: detect/exp3/e098223e-20230330-tpf-fribourg-nr-599fr-300420-52640.jpg
+    md5: f610f3253d4360f292d987a9f59a8117
+    size: 231532
+    cloud:
+      myminio:
+        etag: f610f3253d4360f292d987a9f59a8117
+        version_id: ec87ebf3-4158-4ad5-bd4c-05de22d62683
+  - relpath: detect/exp3/e567980f-20230330-4-5.jpg
+    md5: ef116dfecb521a479f0d2137cc33489a
+    size: 241562
+    cloud:
+      myminio:
+        etag: ef116dfecb521a479f0d2137cc33489a
+        version_id: 22a70bda-3986-48fa-a690-351df2f31b41
+  - relpath: detect/exp3/ea854ebe-20230330-6091838160db387e09ee50058fdb9bb9.jpg
+    md5: 1da2fa05b45523ed045e2ef8c9486cd7
+    size: 137822
+    cloud:
+      myminio:
+        etag: 1da2fa05b45523ed045e2ef8c9486cd7
+        version_id: a4d2a551-dc50-403a-a145-1e08c03deaa0
+  - relpath: detect/exp3/eb9ec36f-20230330-tpf-volvo-8700-bus-13274.jpg
+    md5: 017a6feca73805050cfdcaec212b8993
+    size: 132093
+    cloud:
+      myminio:
+        etag: 017a6feca73805050cfdcaec212b8993
+        version_id: db5f161b-86d3-4d49-9c4c-851fc0092ac6
+  - relpath: detect/exp3/ed746c10-20230330-4-8.jpg
+    md5: ef7f133e9b36d38f774252392a70832d
+    size: 270363
+    cloud:
+      myminio:
+        etag: ef7f133e9b36d38f774252392a70832d
+        version_id: 7b1aaed3-f210-4dd4-b374-5c9ed05051ce
+  - relpath: detect/exp3/edaf9ccc-20230330-tpf-nr-527-hess-swisstrolley-164695.jpg
+    md5: 89bdc281b9537092372b0e3fc07fb6c7
+    size: 257202
+    cloud:
+      myminio:
+        etag: 89bdc281b9537092372b0e3fc07fb6c7
+        version_id: 4ee15b35-ed2e-430a-87ab-96157982f39d
+  - relpath: detect/exp3/ede05553-20230330-195613-tpf-fribourg--625316.jpg
+    md5: a9e5aa38573b9ebc063db5830ae59198
+    size: 444114
+    cloud:
+      myminio:
+        etag: a9e5aa38573b9ebc063db5830ae59198
+        version_id: 4d606701-cca6-4672-9e5f-d654ab662348
+  - relpath: detect/exp3/ee7b5bfc-20230330-4-1.jpg
+    md5: b7911c7d67e752020d2ab90ecb13bcc3
+    size: 250701
+    cloud:
+      myminio:
+        etag: b7911c7d67e752020d2ab90ecb13bcc3
+        version_id: a1c733ae-7524-442e-b472-40a034dbd20c
+  - relpath: detect/exp3/ee944371-20230330-tpf-volvo-8700-nr18-70883.jpg
+    md5: 1b2c37f5e940b2febb319805c8e7d17b
+    size: 339731
+    cloud:
+      myminio:
+        etag: 1b2c37f5e940b2febb319805c8e7d17b
+        version_id: e6c1268a-1781-454f-8916-b49781c90618
+  - relpath: detect/exp3/ee95f003-20230330-tpf-fribourg-350fr-300418-man-10954.jpg
+    md5: 8cc85c99d422a15ea03cf9b7932c7d0c
+    size: 137646
+    cloud:
+      myminio:
+        etag: 8cc85c99d422a15ea03cf9b7932c7d0c
+        version_id: e8aa8f97-4d50-49db-a32e-f6f0f0c9771c
+  - relpath: detect/exp3/eeaf1794-20230330-tpf-trolleybus-nr521-fr-137130.jpg
+    md5: 77ead8d998074756c127ca6f8690f547
+    size: 380049
+    cloud:
+      myminio:
+        etag: 77ead8d998074756c127ca6f8690f547
+        version_id: 2fbc7011-22cc-40d9-9f0a-cdbed9e84f92
+  - relpath: detect/exp3/efa245cb-20230330-transport_030420awi_07.jpg
+    md5: 4d6144f026af20e389a64898f1fd7a03
+    size: 162312
+    cloud:
+      myminio:
+        etag: 4d6144f026af20e389a64898f1fd7a03
+        version_id: d4ff4d42-fcc6-42c7-bd7e-cbc1ed6c970a
+  - relpath: detect/exp3/f2031d74-20230330-tpf-fribourg-nr-4-fr-27072.jpg
+    md5: aa3401309c9e09edc45be818914467b6
+    size: 140726
+    cloud:
+      myminio:
+        etag: aa3401309c9e09edc45be818914467b6
+        version_id: c2445cd4-35a0-469b-b321-51076fb745eb
+  - relpath: detect/exp3/f250affd-20230330-tpf-mercedes-citaro-nr1020-188986.jpg
+    md5: 61c237d43ec408e1c0a8e0749fa7fce4
+    size: 416971
+    cloud:
+      myminio:
+        etag: 61c237d43ec408e1c0a8e0749fa7fce4
+        version_id: 9a3e92a7-389a-43dc-b45a-9a2982b16d23
+  - relpath: detect/exp3/f32562bd-20230330-tpf_520.jpg
+    md5: eff7f0390c3e0d258fd1851a95cc7ab6
+    size: 60498
+    cloud:
+      myminio:
+        etag: eff7f0390c3e0d258fd1851a95cc7ab6
+        version_id: 9f1e085e-d2a3-4c4f-8547-a835cf82859c
+  - relpath: detect/exp3/f42989b3-20230330-18.jpg
+    md5: 3c28bc0c7fc774cdcb5a92537210c3e4
+    size: 216065
+    cloud:
+      myminio:
+        etag: 3c28bc0c7fc774cdcb5a92537210c3e4
+        version_id: a9dc5f36-1222-4a73-95d6-af994030aac0
+  - relpath: detect/exp3/f496ad43-20230330-tpf-507a6gx.jpg
+    md5: 800d360ddb4e7c62407d621895f32ae1
+    size: 334797
+    cloud:
+      myminio:
+        etag: 800d360ddb4e7c62407d621895f32ae1
+        version_id: 8e21a1b1-ac32-446e-8f2f-23ffbca17834
+  - relpath: detect/exp3/f499177b-20230330-tpf-mercedes-citaro-nr594-104995.jpg
+    md5: 3ab28bdafff002e839960327584a04ed
+    size: 294852
+    cloud:
+      myminio:
+        etag: 3ab28bdafff002e839960327584a04ed
+        version_id: feae8f03-ab51-475f-b385-f1113ccd5c92
+  - relpath: detect/exp3/f50ecf50-20230330-tpf-volvo-8700-bus-13876.jpg
+    md5: 575d8a95c9cf9ae7c73fd0c61b00e0c8
+    size: 166874
+    cloud:
+      myminio:
+        etag: 575d8a95c9cf9ae7c73fd0c61b00e0c8
+        version_id: c0b448ea-eaed-45e7-a494-04b87c35d6a7
+  - relpath: detect/exp3/f5da857b-20230330-tpf-hess-trolleybus-nr-190635.jpg
+    md5: a492c6c5ad634ea5a3aaccf4e85fb6b8
+    size: 324291
+    cloud:
+      myminio:
+        etag: a492c6c5ad634ea5a3aaccf4e85fb6b8
+        version_id: bf17bcf3-d189-485e-8681-6910f2a91e0e
+  - relpath: detect/exp3/f8543dc9-20230330-0.97118400_1340382719.jpg
+    md5: 74214813a2f2e4354dd786f9caaa41ac
+    size: 112702
+    cloud:
+      myminio:
+        etag: 74214813a2f2e4354dd786f9caaa41ac
+        version_id: 83ec9344-1aea-4bed-be12-c7f0c1f42450
+  - relpath: detect/exp3/f8ea9a14-20230330-tpf-mercedes-citaro-nr84-128751.jpg
+    md5: ff7b08ae1263a82b1ae8ef794a76209f
+    size: 407708
+    cloud:
+      myminio:
+        etag: ff7b08ae1263a82b1ae8ef794a76209f
+        version_id: 18e39247-2502-4089-9c9a-3a59be876af9
+  - relpath: detect/exp3/f99e33c2-20230330-201020-tpf-fribourg-wieland-646969.jpg
+    md5: 1fb1301e956b863557e4c54d63f592cf
+    size: 256692
+    cloud:
+      myminio:
+        etag: 1fb1301e956b863557e4c54d63f592cf
+        version_id: 79d2e239-b0cb-4359-90b4-8ef97f072bc9
+  - relpath: detect/exp3/fa46d230-20230330-2-9.jpg
+    md5: 3d398dfd1c6785b30a2541125fbb7f48
+    size: 242649
+    cloud:
+      myminio:
+        etag: 3d398dfd1c6785b30a2541125fbb7f48
+        version_id: dd79be81-a8ec-49cf-ad51-ee5d5d4b7da0
+  - relpath: detect/exp3/fb3b7f5d-20230330-tpf-mercedes-citaro-nr125-163096.jpg
+    md5: 698346e4e2fae859d2b2159315993b63
+    size: 347149
+    cloud:
+      myminio:
+        etag: 698346e4e2fae859d2b2159315993b63
+        version_id: ea0d4d1a-ae76-4666-a595-6a0251596adb
+  - relpath: detect/exp3/fbb5589d-20230330-2615644.jpg
+    md5: 4f6375dcb62a74d0b9babdf467715627
+    size: 64906
+    cloud:
+      myminio:
+        etag: 4f6375dcb62a74d0b9babdf467715627
+        version_id: 6e7b2757-5dcc-4f4b-85b7-c5efe153a552
+  - relpath: detect/exp3/fe41c0e4-20230330-tpf_513.jpg
+    md5: 872009809b39f0d12de420b252b1bb82
+    size: 63826
+    cloud:
+      myminio:
+        etag: 872009809b39f0d12de420b252b1bb82
+        version_id: 790a6aaa-1f53-437c-93bb-aeca496fbd26
+  - relpath: detect/exp3/ff768bba-20230330-tpf-volvo-8700-nr105-71073.jpg
+    md5: 69b5d37d9a89a2724e4bc1a16a3ceb13
+    size: 272017
+    cloud:
+      myminio:
+        etag: 69b5d37d9a89a2724e4bc1a16a3ceb13
+        version_id: 5148346a-82d4-451e-9d75-8d11d4a3928a
+  - relpath: detect/exp3/ff82b6d9-20230330-tpf-fribourg-nr-590fr-300380-52760.jpg
+    md5: d6716e2966a2675abb3e36a2a8a00a2e
+    size: 219773
+    cloud:
+      myminio:
+        etag: d6716e2966a2675abb3e36a2a8a00a2e
+        version_id: 8fe4552b-0398-4bcd-948a-19120bf771e4
+  - relpath: detect/exp4/00bd63bd-20230330-tpf-volvo-8700-nr102-100278.jpg
+    md5: 48ea567b0be114652cc1f42f3b71a905
+    size: 301189
+    cloud:
+      myminio:
+        etag: 48ea567b0be114652cc1f42f3b71a905
+        version_id: cd29c755-1331-4139-8639-64854c1e7e31
+  - relpath: detect/exp4/00fcf273-20230330-1-5.jpg
+    md5: 1ca067725891b68e11f80a5112498d80
+    size: 239873
+    cloud:
+      myminio:
+        etag: 1ca067725891b68e11f80a5112498d80
+        version_id: a88dc0c9-ee54-40ab-b1aa-374c17c01a6a
+  - relpath: detect/exp4/01ce03cf-20230330-bus-regionaux--regionalbusse.jpg
+    md5: 598a58cb48f8c2a721297cd397344b6a
+    size: 464918
+    cloud:
+      myminio:
+        etag: 598a58cb48f8c2a721297cd397344b6a
+        version_id: 78478e9f-dc03-4874-91b0-0ffc2a564ae1
+  - relpath: detect/exp4/0a81b9fe-20230330-tpf.jpg
+    md5: 5206f144912e1946d27e7ad05f0deee1
+    size: 441331
+    cloud:
+      myminio:
+        etag: 5206f144912e1946d27e7ad05f0deee1
+        version_id: 6b322772-565c-4793-a8f1-cb305ed66bf8
+  - relpath: detect/exp4/0af06166-20230330-7.jpg
+    md5: 6625f4cc4515fe815dded10084ae11af
+    size: 312126
+    cloud:
+      myminio:
+        etag: 6625f4cc4515fe815dded10084ae11af
+        version_id: cd639b49-6e8c-431b-9391-0dbe65d1f5dd
+  - relpath: detect/exp4/0d4a8452-20230330-tpf-hess-swisstrolleybus-nr525-unter.jpg
+    md5: ecb60e89afb85eda121e8844c11bf291
+    size: 364539
+    cloud:
+      myminio:
+        etag: ecb60e89afb85eda121e8844c11bf291
+        version_id: 0a6c8347-a33b-4732-9fb9-8e82928819e1
+  - relpath: detect/exp4/0e59475b-20230330-tpf13x.jpg
+    md5: 311eb46d66945a0ad2b2d9923753fc9a
+    size: 125774
+    cloud:
+      myminio:
+        etag: 311eb46d66945a0ad2b2d9923753fc9a
+        version_id: 5753aecd-f832-49a2-b1bb-a8d79e89b50e
+  - relpath: detect/exp4/0ed201ad-20230330-CHFR300441.jpg
+    md5: ff7b82f9f01c9dde1f3fadde84e99837
+    size: 168877
+    cloud:
+      myminio:
+        etag: ff7b82f9f01c9dde1f3fadde84e99837
+        version_id: d31783a9-42d8-4118-8364-1c099511e36e
+  - relpath: detect/exp4/0fe83d2c-20230330-tpf-fribourg-nr-597fr-300399-52646.jpg
+    md5: e2641808b667c1fc05b638dad28f12ea
+    size: 220220
+    cloud:
+      myminio:
+        etag: e2641808b667c1fc05b638dad28f12ea
+        version_id: b86d5383-c168-4877-ac79-c995eb0a9e83
+  - relpath: detect/exp4/1ab07f1b-20230330-tpf-mercedes-citaro-nr383-70723.jpg
+    md5: b6ecfb397bb3bec1398f9f451480f709
+    size: 380619
+    cloud:
+      myminio:
+        etag: b6ecfb397bb3bec1398f9f451480f709
+        version_id: d6f4c118-0b17-40cf-91da-abb6cd4ad674
+  - relpath: detect/exp4/1b8fb4f9-20230330-5-5.jpg
+    md5: 16fee0ed0482d3f94d71339eef3d5408
+    size: 248904
+    cloud:
+      myminio:
+        etag: 16fee0ed0482d3f94d71339eef3d5408
+        version_id: bc5a8ee5-9071-4baa-88ea-8727f0dbce9b
+  - relpath: detect/exp4/1cbafa0b-20230330-auch-mehrere-jahre-nach-fusion-46281.jpg
+    md5: da9c6c570f423fdc35a8179a3dac8792
+    size: 212714
+    cloud:
+      myminio:
+        etag: da9c6c570f423fdc35a8179a3dac8792
+        version_id: 90f5197a-fa7f-40b1-a028-6505ed952f40
+  - relpath: detect/exp4/1e841dbe-20230330-14-1.jpg
+    md5: 5bbe033ca6f10c4776c53f7de0fde88b
+    size: 284954
+    cloud:
+      myminio:
+        etag: 5bbe033ca6f10c4776c53f7de0fde88b
+        version_id: d5b228fe-eedc-4516-b210-26f61f7b28e9
+  - relpath: detect/exp4/1f6e415b-20230330-bus_web.jpg
+    md5: 741de777b4db44845f85c932000bce4d
+    size: 450640
+    cloud:
+      myminio:
+        etag: 741de777b4db44845f85c932000bce4d
+        version_id: 1679e627-35da-40e4-8812-02f1f00f1a53
+  - relpath: detect/exp4/2a04b4ae-20230330-tpf-volvo-hess-trolleybus-nr502-3610.jpg
+    md5: de2246ad7a9faba15bac912b4cfdf200
+    size: 250654
+    cloud:
+      myminio:
+        etag: de2246ad7a9faba15bac912b4cfdf200
+        version_id: 9c7b9c7d-44d2-46e5-9b9b-eaa1d9eea1b2
+  - relpath: detect/exp4/2af13718-20230330-10-2.jpg
+    md5: 7114413a5ef7084b4cd35dd6105d8feb
+    size: 239040
+    cloud:
+      myminio:
+        etag: 7114413a5ef7084b4cd35dd6105d8feb
+        version_id: cdd7041b-3383-4b36-883a-24605f659411
+  - relpath: detect/exp4/2bfa639e-20230330-20170506_095522.jpg
+    md5: 85f6a7fb3a757fc26cca4c34693f38f2
+    size: 5056042
+    cloud:
+      myminio:
+        etag: 85f6a7fb3a757fc26cca4c34693f38f2
+        version_id: caa9726d-424c-42a4-9831-4ba2fa9dd7a6
+  - relpath: detect/exp4/2cbc5445-20230330-201040-tpf-fribourg-wieland-646989.jpg
+    md5: 9dae8cc69e6fccc39092e8db6a00568e
+    size: 256970
+    cloud:
+      myminio:
+        etag: 9dae8cc69e6fccc39092e8db6a00568e
+        version_id: 48dae10c-9f8c-423e-814b-1c74ed0a45db
+  - relpath: detect/exp4/2d444850-20230330-201017_Palezieux_bus_TPF.JPG
+    md5: 8f0dbe257a461d390868a6c46a7356b8
+    size: 794645
+    cloud:
+      myminio:
+        etag: 8f0dbe257a461d390868a6c46a7356b8
+        version_id: 54b586b5-a5f3-4302-b16b-9afba2d8c567
+  - relpath: detect/exp4/2db00b99-20230330-tpf-fribourg-nr-527-90432.jpg
+    md5: a605719bc071902e1b3b6d8b4b5394c0
+    size: 288512
+    cloud:
+      myminio:
+        etag: a605719bc071902e1b3b6d8b4b5394c0
+        version_id: 914d7c5e-fd56-4614-8a15-c6e81b68adad
+  - relpath: detect/exp4/2dcd8c84-20230330-tpf-mercedes-citaro-nr82-13271.jpg
+    md5: 3afbaf31a0701d71d1b7381eabcb8f8c
+    size: 142944
+    cloud:
+      myminio:
+        etag: 3afbaf31a0701d71d1b7381eabcb8f8c
+        version_id: 32dc681b-f950-417c-a630-d667c0736259
+  - relpath: detect/exp4/2deffc29-20230330-tpf-353ode7.jpg
+    md5: dbf476dab318b5e17c75c10865827f7c
+    size: 317586
+    cloud:
+      myminio:
+        etag: dbf476dab318b5e17c75c10865827f7c
+        version_id: f597fe5b-392e-481b-a837-c4c0585c36d7
+  - relpath: detect/exp4/2e2c440d-20230330-4755748_orig.jpg
+    md5: fab0dccf5d8f7b8330a1ef9d48f4a26d
+    size: 262332
+    cloud:
+      myminio:
+        etag: fab0dccf5d8f7b8330a1ef9d48f4a26d
+        version_id: 7a6287d5-d0c4-4f24-92cf-ea95c5575250
+  - relpath: detect/exp4/2edaadea-20230330-169202_orig.jpg
+    md5: b5eb3275dd7b6ec0c9e42a2fea26fe3f
+    size: 233629
+    cloud:
+      myminio:
+        etag: b5eb3275dd7b6ec0c9e42a2fea26fe3f
+        version_id: 648e28df-a48c-4840-98b9-317390ca9b6c
+  - relpath: detect/exp4/2fa1903e-20230330-tpf-trolleybus-513-unterwegs-154966.jpg
+    md5: 2489982e2b40331ebc6b52196ba0d85d
+    size: 408994
+    cloud:
+      myminio:
+        etag: 2489982e2b40331ebc6b52196ba0d85d
+        version_id: c46ffe4f-1709-4063-823c-9a8ddbad285a
+  - relpath: detect/exp4/3bb4a01d-20230330-3-7.jpg
+    md5: f96a7048a5b74ef949f781c715c9087e
+    size: 246246
+    cloud:
+      myminio:
+        etag: f96a7048a5b74ef949f781c715c9087e
+        version_id: aa088da4-fb09-4504-bd69-4d266c053d43
+  - relpath: detect/exp4/3c9b43f9-20230330-4.jpg
+    md5: 9d819d30fdb9f57abb993221e81df8b6
+    size: 254755
+    cloud:
+      myminio:
+        etag: 9d819d30fdb9f57abb993221e81df8b6
+        version_id: 7b0e0df9-43ee-4ee1-a609-ba5324069a7d
+  - relpath: detect/exp4/3cebc3e8-20230330-tpf-fribourg-nr-524-69237.jpg
+    md5: a412fa041d802a4c25464fb942de1caa
+    size: 279003
+    cloud:
+      myminio:
+        etag: a412fa041d802a4c25464fb942de1caa
+        version_id: f12a13de-eaa5-4e23-9630-01f6f154502e
+  - relpath: detect/exp4/3dc7da10-20230330-tpf-mercedes-citaro-nr560-155534.jpg
+    md5: 120dfdecd313e423e2e779f10705a05b
+    size: 383158
+    cloud:
+      myminio:
+        etag: 120dfdecd313e423e2e779f10705a05b
+        version_id: 1bc59714-7293-4844-97ca-79a165637e93
+  - relpath: detect/exp4/3de65fc1-20230330-2013-04-04_Fribourg_0534_1a.jpg
+    md5: 0e8fe475bdce1c506f0076f708ba4536
+    size: 117558
+    cloud:
+      myminio:
+        etag: 0e8fe475bdce1c506f0076f708ba4536
+        version_id: 6ccc6b55-9ecf-4f2e-8e17-1db1c9c05aff
+  - relpath: detect/exp4/e098223e-20230330-tpf-fribourg-nr-599fr-300420-52640.jpg
+    md5: a4bc1903d1b8704c0ceb44382b90dd72
+    size: 232451
+    cloud:
+      myminio:
+        etag: a4bc1903d1b8704c0ceb44382b90dd72
+        version_id: f92738d6-8e4e-40aa-9f4b-616d04bb33fa
+  - relpath: detect/exp4/e567980f-20230330-4-5.jpg
+    md5: 20ed5c6cea3a73a200da0ff6913b6b52
+    size: 241404
+    cloud:
+      myminio:
+        etag: 20ed5c6cea3a73a200da0ff6913b6b52
+        version_id: a3fd0922-6bd4-4286-99b7-b8b854b8e17e
+  - relpath: detect/exp4/ea854ebe-20230330-6091838160db387e09ee50058fdb9bb9.jpg
+    md5: d1ad0a245c410bc3fd6756a010caadb6
+    size: 137673
+    cloud:
+      myminio:
+        etag: d1ad0a245c410bc3fd6756a010caadb6
+        version_id: 01fcadc6-7179-4b83-907e-fa5d3b4c0747
+  - relpath: detect/exp4/eb9ec36f-20230330-tpf-volvo-8700-bus-13274.jpg
+    md5: 9efe1da9ea213f3d6bfc60e2b2604a55
+    size: 131714
+    cloud:
+      myminio:
+        etag: 9efe1da9ea213f3d6bfc60e2b2604a55
+        version_id: 894d7b46-b0c7-4d42-8059-21b6d561edc6
+  - relpath: detect/exp4/ed746c10-20230330-4-8.jpg
+    md5: 58d3906a6564001bc295c8a16b7d5870
+    size: 270388
+    cloud:
+      myminio:
+        etag: 58d3906a6564001bc295c8a16b7d5870
+        version_id: d10a7c2f-9c06-4168-b943-3f42b423e37b
+  - relpath: detect/exp4/edaf9ccc-20230330-tpf-nr-527-hess-swisstrolley-164695.jpg
+    md5: 7a3d6230c1ec6205e27e3c0b2ba3b7fb
+    size: 257136
+    cloud:
+      myminio:
+        etag: 7a3d6230c1ec6205e27e3c0b2ba3b7fb
+        version_id: 4805981d-c6a4-4376-9c32-1ec6d9874016
+  - relpath: detect/exp4/ede05553-20230330-195613-tpf-fribourg--625316.jpg
+    md5: 86ac9d6487b2e6c382b06e37ae987b55
+    size: 444727
+    cloud:
+      myminio:
+        etag: 86ac9d6487b2e6c382b06e37ae987b55
+        version_id: 40a4a640-060a-489f-be9d-8f62ea6675f0
+  - relpath: detect/exp4/ee7b5bfc-20230330-4-1.jpg
+    md5: ea2189bf43e15086b2774bf3c112ac35
+    size: 251030
+    cloud:
+      myminio:
+        etag: ea2189bf43e15086b2774bf3c112ac35
+        version_id: cb2d79cf-6305-4533-bda1-93a992e465cb
+  - relpath: detect/exp4/ee944371-20230330-tpf-volvo-8700-nr18-70883.jpg
+    md5: 34aab0a8ca2dfc00f0a1766367f8101d
+    size: 338903
+    cloud:
+      myminio:
+        etag: 34aab0a8ca2dfc00f0a1766367f8101d
+        version_id: e8ca3de5-1184-4454-bc0f-6bb29c43d815
+  - relpath: detect/exp4/ee95f003-20230330-tpf-fribourg-350fr-300418-man-10954.jpg
+    md5: abef13fae19b9feee4c028cdf33af824
+    size: 138168
+    cloud:
+      myminio:
+        etag: abef13fae19b9feee4c028cdf33af824
+        version_id: b6dec930-c3f1-4b66-9fc3-f7eaa5725717
+  - relpath: detect/exp4/eeaf1794-20230330-tpf-trolleybus-nr521-fr-137130.jpg
+    md5: a1acc83f5f7fec0d16beba395860f86c
+    size: 379928
+    cloud:
+      myminio:
+        etag: a1acc83f5f7fec0d16beba395860f86c
+        version_id: 08194d7a-a942-4db4-a1b7-c2f9b792f768
+  - relpath: detect/exp4/efa245cb-20230330-transport_030420awi_07.jpg
+    md5: fd153fab90571dd776dbfaca50fc6c29
+    size: 162474
+    cloud:
+      myminio:
+        etag: fd153fab90571dd776dbfaca50fc6c29
+        version_id: 0813ef08-7282-4089-95f8-43dcd7c97bb6
+  - relpath: detect/exp4/f2031d74-20230330-tpf-fribourg-nr-4-fr-27072.jpg
+    md5: 7174529fbbfebc14bcdf5ce070d7c9bf
+    size: 140877
+    cloud:
+      myminio:
+        etag: 7174529fbbfebc14bcdf5ce070d7c9bf
+        version_id: 7f0d2c03-1aae-4a75-b4ca-4c9374db558b
+  - relpath: detect/exp4/f250affd-20230330-tpf-mercedes-citaro-nr1020-188986.jpg
+    md5: 1678849b6e8ff49c4b49463086f63ead
+    size: 416181
+    cloud:
+      myminio:
+        etag: 1678849b6e8ff49c4b49463086f63ead
+        version_id: d3a22c5b-699b-4edd-9362-5e8eb9635252
+  - relpath: detect/exp4/f32562bd-20230330-tpf_520.jpg
+    md5: 7306237974480ac6c6222a435b8e5768
+    size: 60595
+    cloud:
+      myminio:
+        etag: 7306237974480ac6c6222a435b8e5768
+        version_id: a70f495d-2b1c-48c0-a272-4b8e1cab9384
+  - relpath: detect/exp4/f42989b3-20230330-18.jpg
+    md5: 6f4514f5f06f5aaec1d5ad71d26fe7f1
+    size: 216157
+    cloud:
+      myminio:
+        etag: 6f4514f5f06f5aaec1d5ad71d26fe7f1
+        version_id: cad5aa20-eb0b-4e04-878e-f1ead9a33d54
+  - relpath: detect/exp4/f496ad43-20230330-tpf-507a6gx.jpg
+    md5: 0f2d6b47fbb85553c4c48b05bbd6a11a
+    size: 334620
+    cloud:
+      myminio:
+        etag: 0f2d6b47fbb85553c4c48b05bbd6a11a
+        version_id: 1ae9a296-bdc2-4310-a3b3-7b4ff33fb86f
+  - relpath: detect/exp4/f499177b-20230330-tpf-mercedes-citaro-nr594-104995.jpg
+    md5: 76921cb0ad3f81513e45506ab866e065
+    size: 294589
+    cloud:
+      myminio:
+        etag: 76921cb0ad3f81513e45506ab866e065
+        version_id: 176ff62c-81d6-4eb2-a055-c4f524539e9c
+  - relpath: detect/exp4/f50ecf50-20230330-tpf-volvo-8700-bus-13876.jpg
+    md5: 6964b6c788eea6d979e558701d7faaed
+    size: 167002
+    cloud:
+      myminio:
+        etag: 6964b6c788eea6d979e558701d7faaed
+        version_id: edfdf22c-1db2-48ad-9927-58d63649ac28
+  - relpath: detect/exp4/f5da857b-20230330-tpf-hess-trolleybus-nr-190635.jpg
+    md5: 21e4ace7c2fb566940b8bb2b599a968d
+    size: 324479
+    cloud:
+      myminio:
+        etag: 21e4ace7c2fb566940b8bb2b599a968d
+        version_id: 2d0622b1-fc4f-40e8-8997-4cc2a979012d
+  - relpath: detect/exp4/f8543dc9-20230330-0.97118400_1340382719.jpg
+    md5: 9f00ebd06d2ee1066e60c0b5f77d33d7
+    size: 113548
+    cloud:
+      myminio:
+        etag: 9f00ebd06d2ee1066e60c0b5f77d33d7
+        version_id: 8bbcc1e6-610f-4e4f-8ed6-bd15a0e7f9df
+  - relpath: detect/exp4/f8ea9a14-20230330-tpf-mercedes-citaro-nr84-128751.jpg
+    md5: f5af80852cb8d25fd06e49d348815ad4
+    size: 407350
+    cloud:
+      myminio:
+        etag: f5af80852cb8d25fd06e49d348815ad4
+        version_id: d604f385-8ea9-4a52-b5df-727a668f3dc5
+  - relpath: detect/exp4/f99e33c2-20230330-201020-tpf-fribourg-wieland-646969.jpg
+    md5: 19fa959337f3fcf5e8e7f5b89fd23601
+    size: 254032
+    cloud:
+      myminio:
+        etag: 19fa959337f3fcf5e8e7f5b89fd23601
+        version_id: 03514378-f439-44f9-b9ce-b44e11b17702
+  - relpath: detect/exp4/fa46d230-20230330-2-9.jpg
+    md5: bf44021cebb4b08ceabb066d53663499
+    size: 242484
+    cloud:
+      myminio:
+        etag: bf44021cebb4b08ceabb066d53663499
+        version_id: a570eb44-9477-40e6-a0a0-4044dd161ea2
+  - relpath: detect/exp4/fb3b7f5d-20230330-tpf-mercedes-citaro-nr125-163096.jpg
+    md5: 860e39d75688d9a270de64a059603f75
+    size: 346990
+    cloud:
+      myminio:
+        etag: 860e39d75688d9a270de64a059603f75
+        version_id: a04354b6-b076-4c4b-b816-ca04690bcc2c
+  - relpath: detect/exp4/fbb5589d-20230330-2615644.jpg
+    md5: 8c4ef78cc62441d87d03cbce456e8c03
+    size: 64826
+    cloud:
+      myminio:
+        etag: 8c4ef78cc62441d87d03cbce456e8c03
+        version_id: d346bad6-2aa3-4e9b-b540-255bcdf525e8
+  - relpath: detect/exp4/fe41c0e4-20230330-tpf_513.jpg
+    md5: ebc4969c12869ddb8ed6ed4967f81472
+    size: 63880
+    cloud:
+      myminio:
+        etag: ebc4969c12869ddb8ed6ed4967f81472
+        version_id: e9940584-22f5-4938-9016-8a3062c9b479
+  - relpath: detect/exp4/ff768bba-20230330-tpf-volvo-8700-nr105-71073.jpg
+    md5: be9ade60135eb5f2d9ff33cc3f08f2e0
+    size: 272313
+    cloud:
+      myminio:
+        etag: be9ade60135eb5f2d9ff33cc3f08f2e0
+        version_id: 0059e585-c476-4e31-9f07-556e840bb61a
+  - relpath: detect/exp4/ff82b6d9-20230330-tpf-fribourg-nr-590fr-300380-52760.jpg
+    md5: cccd65978253ad84f411db76f4a448fe
+    size: 219678
+    cloud:
+      myminio:
+        etag: cccd65978253ad84f411db76f4a448fe
+        version_id: a7a908b6-9820-41f8-9e77-c28a849bcebd
+  - relpath: detect/exp5/00bd63bd-20230330-tpf-volvo-8700-nr102-100278.jpg
+    md5: 8a05b43262d944b89d683399682ccf92
+    size: 301172
+    cloud:
+      myminio:
+        etag: 8a05b43262d944b89d683399682ccf92
+        version_id: c381e3a1-435b-4222-8420-108203d75c4f
+  - relpath: detect/exp5/00fcf273-20230330-1-5.jpg
+    md5: 3976348914108b698f4cfa51a4ed3b25
+    size: 239243
+    cloud:
+      myminio:
+        etag: 3976348914108b698f4cfa51a4ed3b25
+        version_id: 6a17cf02-1e0c-435c-baf8-a077f0d35cec
+  - relpath: detect/exp5/01ce03cf-20230330-bus-regionaux--regionalbusse.jpg
+    md5: 0b3c5fde5a467a9eab097a7a71fe0505
+    size: 465367
+    cloud:
+      myminio:
+        etag: 0b3c5fde5a467a9eab097a7a71fe0505
+        version_id: 3a9ad027-280c-4562-8f5f-4a7e1047772a
+  - relpath: detect/exp5/0a81b9fe-20230330-tpf.jpg
+    md5: cd481b76e6aed0c22225f15bb8bb9f18
+    size: 441402
+    cloud:
+      myminio:
+        etag: cd481b76e6aed0c22225f15bb8bb9f18
+        version_id: a701fdf8-95dd-4489-811e-1a215206e367
+  - relpath: detect/exp5/0af06166-20230330-7.jpg
+    md5: 621d027686f389e9fe00d01919736ba7
+    size: 312024
+    cloud:
+      myminio:
+        etag: 621d027686f389e9fe00d01919736ba7
+        version_id: d4e675e9-65fa-4af7-9aa2-566e1d6f9370
+  - relpath: detect/exp5/0d4a8452-20230330-tpf-hess-swisstrolleybus-nr525-unter.jpg
+    md5: 7628e1abe0d37b2d565c1614a8480d36
+    size: 364366
+    cloud:
+      myminio:
+        etag: 7628e1abe0d37b2d565c1614a8480d36
+        version_id: 2295997c-749a-416b-88a4-c64613d4bdb7
+  - relpath: detect/exp5/0e59475b-20230330-tpf13x.jpg
+    md5: 1c04941970e8fa4cfd57fa3a8ed53238
+    size: 127064
+    cloud:
+      myminio:
+        etag: 1c04941970e8fa4cfd57fa3a8ed53238
+        version_id: d5575b83-5f00-4827-b183-e05201507482
+  - relpath: detect/exp5/0ed201ad-20230330-CHFR300441.jpg
+    md5: aec2458bbbbcb2944f3d6ef78393d366
+    size: 169258
+    cloud:
+      myminio:
+        etag: aec2458bbbbcb2944f3d6ef78393d366
+        version_id: 128d4de0-230f-4570-8e64-6641edd8af66
+  - relpath: detect/exp5/0fe83d2c-20230330-tpf-fribourg-nr-597fr-300399-52646.jpg
+    md5: 00f26f5b2f80fadbd4b2693e95856020
+    size: 219646
+    cloud:
+      myminio:
+        etag: 00f26f5b2f80fadbd4b2693e95856020
+        version_id: f271e6ee-0d68-4aab-8e07-1c30ae0429a4
+  - relpath: detect/exp5/1ab07f1b-20230330-tpf-mercedes-citaro-nr383-70723.jpg
+    md5: 1478eb83d0119b532441737d826194f5
+    size: 380907
+    cloud:
+      myminio:
+        etag: 1478eb83d0119b532441737d826194f5
+        version_id: 1bfd0a6f-6ee3-4fde-889d-daf48d32c113
+  - relpath: detect/exp5/1b8fb4f9-20230330-5-5.jpg
+    md5: ba4e37831e9e511ee464ee61307de039
+    size: 248878
+    cloud:
+      myminio:
+        etag: ba4e37831e9e511ee464ee61307de039
+        version_id: c1e2c76f-7559-427e-98ac-3861aa0ee667
+  - relpath: detect/exp5/1cbafa0b-20230330-auch-mehrere-jahre-nach-fusion-46281.jpg
+    md5: 3c74ed3e2dc6ab0948a7a841f6913535
+    size: 213046
+    cloud:
+      myminio:
+        etag: 3c74ed3e2dc6ab0948a7a841f6913535
+        version_id: cf6800e1-fd8d-4431-8737-4b48976e987f
+  - relpath: detect/exp5/1e841dbe-20230330-14-1.jpg
+    md5: c1f70f9b61e1ffcc5a124e6150b82da5
+    size: 285021
+    cloud:
+      myminio:
+        etag: c1f70f9b61e1ffcc5a124e6150b82da5
+        version_id: fd40e340-c4f0-44f1-adf4-46aee522d3f7
+  - relpath: detect/exp5/1f6e415b-20230330-bus_web.jpg
+    md5: a27a83d3934c4dca25d7ee85535c92a9
+    size: 449748
+    cloud:
+      myminio:
+        etag: a27a83d3934c4dca25d7ee85535c92a9
+        version_id: 03ec1b8d-d9cd-41d2-bda6-96bd37285f91
+  - relpath: detect/exp5/2a04b4ae-20230330-tpf-volvo-hess-trolleybus-nr502-3610.jpg
+    md5: bba56a8010b096acfde9f5227799e587
+    size: 250138
+    cloud:
+      myminio:
+        etag: bba56a8010b096acfde9f5227799e587
+        version_id: a4f5fb17-129a-49a2-9cfc-4166c6e9cffe
+  - relpath: detect/exp5/2af13718-20230330-10-2.jpg
+    md5: 1d1a85a34cb8ffa56350e1949317c286
+    size: 239513
+    cloud:
+      myminio:
+        etag: 1d1a85a34cb8ffa56350e1949317c286
+        version_id: a3df091c-e25f-4d73-8718-0ca5c136647d
+  - relpath: detect/exp5/2bfa639e-20230330-20170506_095522.jpg
+    md5: d08949d769a5219ead6a0e181a28ea7d
+    size: 5055449
+    cloud:
+      myminio:
+        etag: d08949d769a5219ead6a0e181a28ea7d
+        version_id: 0b2ea438-346f-47e5-91a6-3d388c7abc09
+  - relpath: detect/exp5/2cbc5445-20230330-201040-tpf-fribourg-wieland-646989.jpg
+    md5: d709db8683f6c35b4ab39006932a4023
+    size: 257881
+    cloud:
+      myminio:
+        etag: d709db8683f6c35b4ab39006932a4023
+        version_id: c0617a18-de8b-4289-a797-2570f2f2a795
+  - relpath: detect/exp5/2d444850-20230330-201017_Palezieux_bus_TPF.JPG
+    md5: 663d17fb81791fe541f5aae925c83244
+    size: 795242
+    cloud:
+      myminio:
+        etag: 663d17fb81791fe541f5aae925c83244
+        version_id: 2f8e51d3-2370-486c-bcf8-85fb707d4d97
+  - relpath: detect/exp5/2db00b99-20230330-tpf-fribourg-nr-527-90432.jpg
+    md5: 1a45f6c70fa3a899cdaa9e0e4c976bd4
+    size: 288539
+    cloud:
+      myminio:
+        etag: 1a45f6c70fa3a899cdaa9e0e4c976bd4
+        version_id: 5d81ea62-a95f-4981-ab3a-292cf5eb0b22
+  - relpath: detect/exp5/2dcd8c84-20230330-tpf-mercedes-citaro-nr82-13271.jpg
+    md5: 4ae3ea29355138bbea3385d67b137093
+    size: 143161
+    cloud:
+      myminio:
+        etag: 4ae3ea29355138bbea3385d67b137093
+        version_id: 796461bd-3702-4218-9d15-3d7ed2d70ee3
+  - relpath: detect/exp5/2deffc29-20230330-tpf-353ode7.jpg
+    md5: cea9aac83acc42278e4079dbacfe430f
+    size: 317658
+    cloud:
+      myminio:
+        etag: cea9aac83acc42278e4079dbacfe430f
+        version_id: 4a3f6715-8c13-43c3-9915-bf7fd85b7cbf
+  - relpath: detect/exp5/2e2c440d-20230330-4755748_orig.jpg
+    md5: 47c39d2b3e2dc251b4938a4c46db375c
+    size: 262100
+    cloud:
+      myminio:
+        etag: 47c39d2b3e2dc251b4938a4c46db375c
+        version_id: fee31a7e-ec02-4698-82f4-9ed732b70dd0
+  - relpath: detect/exp5/2edaadea-20230330-169202_orig.jpg
+    md5: a203467a02b11e4faeafca4e07dbb6e8
+    size: 233630
+    cloud:
+      myminio:
+        etag: a203467a02b11e4faeafca4e07dbb6e8
+        version_id: b63297f2-8498-41fd-b1e8-95d7f576607e
+  - relpath: detect/exp5/2fa1903e-20230330-tpf-trolleybus-513-unterwegs-154966.jpg
+    md5: a1f771d0ca5cbc03de9619ed5cf19284
+    size: 405802
+    cloud:
+      myminio:
+        etag: a1f771d0ca5cbc03de9619ed5cf19284
+        version_id: 642de2e3-0009-4b51-8aa9-3a5d88e0eec6
+  - relpath: detect/exp5/3bb4a01d-20230330-3-7.jpg
+    md5: 5ef8cdb4d5b8f49e89240592fe612b72
+    size: 246414
+    cloud:
+      myminio:
+        etag: 5ef8cdb4d5b8f49e89240592fe612b72
+        version_id: 19600e20-1ac3-48ec-9816-8176e021ea63
+  - relpath: detect/exp5/3c9b43f9-20230330-4.jpg
+    md5: 30293e50f891d8d2e7074b4f2921ec91
+    size: 255146
+    cloud:
+      myminio:
+        etag: 30293e50f891d8d2e7074b4f2921ec91
+        version_id: 7c7ed7e8-9efe-43cf-b29a-c63db62ea0fd
+  - relpath: detect/exp5/3cebc3e8-20230330-tpf-fribourg-nr-524-69237.jpg
+    md5: a9d0d7120c2d516e09f4816071a6981b
+    size: 278910
+    cloud:
+      myminio:
+        etag: a9d0d7120c2d516e09f4816071a6981b
+        version_id: 03514030-6dd7-4f75-9633-aff5eb57d704
+  - relpath: detect/exp5/3dc7da10-20230330-tpf-mercedes-citaro-nr560-155534.jpg
+    md5: 47c088538dfbc6ff66e0b7f329944184
+    size: 382881
+    cloud:
+      myminio:
+        etag: 47c088538dfbc6ff66e0b7f329944184
+        version_id: 28ae0eaf-25d8-4b30-a50e-504befb7be3a
+  - relpath: detect/exp5/3de65fc1-20230330-2013-04-04_Fribourg_0534_1a.jpg
+    md5: b5d12e067141dc0277e470dd85b40178
+    size: 117722
+    cloud:
+      myminio:
+        etag: b5d12e067141dc0277e470dd85b40178
+        version_id: 1003227b-53dd-4089-bb24-1fec6446b46d
+  - relpath: detect/exp5/e098223e-20230330-tpf-fribourg-nr-599fr-300420-52640.jpg
+    md5: 168cb4f8454a07d19345342b33a022b6
+    size: 231794
+    cloud:
+      myminio:
+        etag: 168cb4f8454a07d19345342b33a022b6
+        version_id: cd29d937-da71-4bf1-b215-67ad15433cbf
+  - relpath: detect/exp5/e567980f-20230330-4-5.jpg
+    md5: 1266cff2834dcf386541fd36a3186257
+    size: 240951
+    cloud:
+      myminio:
+        etag: 1266cff2834dcf386541fd36a3186257
+        version_id: 6db8269f-c6f6-40db-915d-24a6fe29c0e3
+  - relpath: detect/exp5/ea854ebe-20230330-6091838160db387e09ee50058fdb9bb9.jpg
+    md5: 70fa5611b2dbdad9f9477000a1802e89
+    size: 138039
+    cloud:
+      myminio:
+        etag: 70fa5611b2dbdad9f9477000a1802e89
+        version_id: 6cfb394c-6a1c-46c2-b095-f64c216ce54a
+  - relpath: detect/exp5/eb9ec36f-20230330-tpf-volvo-8700-bus-13274.jpg
+    md5: f965ce1900b56ce45608c5c1a6298a68
+    size: 132378
+    cloud:
+      myminio:
+        etag: f965ce1900b56ce45608c5c1a6298a68
+        version_id: a932577c-4f00-42fc-95cb-091b34b7fe57
+  - relpath: detect/exp5/ed746c10-20230330-4-8.jpg
+    md5: ec38b33129fb8a363e7521c673b512f7
+    size: 270224
+    cloud:
+      myminio:
+        etag: ec38b33129fb8a363e7521c673b512f7
+        version_id: dc2ee2bf-f672-4519-bce4-41ce5ee681b2
+  - relpath: detect/exp5/edaf9ccc-20230330-tpf-nr-527-hess-swisstrolley-164695.jpg
+    md5: ffe63b2afbc1c20aaea43ec004ee2254
+    size: 257358
+    cloud:
+      myminio:
+        etag: ffe63b2afbc1c20aaea43ec004ee2254
+        version_id: 0fbf71ce-2c85-492c-a3bf-345e373b7bf8
+  - relpath: detect/exp5/ede05553-20230330-195613-tpf-fribourg--625316.jpg
+    md5: f9319c54d50ac0d0b599f933f5513abd
+    size: 443963
+    cloud:
+      myminio:
+        etag: f9319c54d50ac0d0b599f933f5513abd
+        version_id: 9f98fa8b-ee44-4688-9ed1-5a76df060e3f
+  - relpath: detect/exp5/ee7b5bfc-20230330-4-1.jpg
+    md5: df2b4e2d9805500630e6bf84e9210e8a
+    size: 250394
+    cloud:
+      myminio:
+        etag: df2b4e2d9805500630e6bf84e9210e8a
+        version_id: acadc432-ae5e-4c82-9ebc-8ef3f3bd69a7
+  - relpath: detect/exp5/ee944371-20230330-tpf-volvo-8700-nr18-70883.jpg
+    md5: 386feec64a024707529a8572b2c8dc8f
+    size: 338446
+    cloud:
+      myminio:
+        etag: 386feec64a024707529a8572b2c8dc8f
+        version_id: f24d779b-7ae0-479c-9942-382a1f80c053
+  - relpath: detect/exp5/ee95f003-20230330-tpf-fribourg-350fr-300418-man-10954.jpg
+    md5: ae2e985ff081d0d4d35db7c3983ddeff
+    size: 137747
+    cloud:
+      myminio:
+        etag: ae2e985ff081d0d4d35db7c3983ddeff
+        version_id: ef36415f-24ae-4cda-9a7b-44b5428cba8b
+  - relpath: detect/exp5/eeaf1794-20230330-tpf-trolleybus-nr521-fr-137130.jpg
+    md5: bb1952dec145bc313503529be02c70f1
+    size: 379791
+    cloud:
+      myminio:
+        etag: bb1952dec145bc313503529be02c70f1
+        version_id: ddfb33b1-b763-47fc-bc4a-8979cffe9569
+  - relpath: detect/exp5/efa245cb-20230330-transport_030420awi_07.jpg
+    md5: a1f7d540c656cc2eda3a29f4b4843687
+    size: 162165
+    cloud:
+      myminio:
+        etag: a1f7d540c656cc2eda3a29f4b4843687
+        version_id: cbe86158-3b82-44b7-ae99-b646a0a18ef3
+  - relpath: detect/exp5/f2031d74-20230330-tpf-fribourg-nr-4-fr-27072.jpg
+    md5: f330e3a0b82645ec84c4eca296868de3
+    size: 140769
+    cloud:
+      myminio:
+        etag: f330e3a0b82645ec84c4eca296868de3
+        version_id: 53bcb8d9-5628-4a69-944c-d73f33ade526
+  - relpath: detect/exp5/f250affd-20230330-tpf-mercedes-citaro-nr1020-188986.jpg
+    md5: 6d8492f249a605aa34409484363cd518
+    size: 416499
+    cloud:
+      myminio:
+        etag: 6d8492f249a605aa34409484363cd518
+        version_id: 5d17e982-cbd3-403c-8c04-765333ba60ce
+  - relpath: detect/exp5/f32562bd-20230330-tpf_520.jpg
+    md5: 98b83770b87c1beca8605a94bb21df03
+    size: 60608
+    cloud:
+      myminio:
+        etag: 98b83770b87c1beca8605a94bb21df03
+        version_id: 9ff15aee-fd87-4476-9121-3d55c01abdb5
+  - relpath: detect/exp5/f42989b3-20230330-18.jpg
+    md5: ff2b93a0b05ddaeaf069e0b2ff8e04b9
+    size: 216415
+    cloud:
+      myminio:
+        etag: ff2b93a0b05ddaeaf069e0b2ff8e04b9
+        version_id: a141eb44-934f-4cf9-b0f6-73703bde2b0b
+  - relpath: detect/exp5/f496ad43-20230330-tpf-507a6gx.jpg
+    md5: dc02cf60c8f6d7752f4b3bd1365ccf1e
+    size: 334837
+    cloud:
+      myminio:
+        etag: dc02cf60c8f6d7752f4b3bd1365ccf1e
+        version_id: 81a0deaf-72d3-4403-bcd0-bb36070db921
+  - relpath: detect/exp5/f499177b-20230330-tpf-mercedes-citaro-nr594-104995.jpg
+    md5: 76ab23b4a5153c96f9ddd311e4404ea9
+    size: 294710
+    cloud:
+      myminio:
+        etag: 76ab23b4a5153c96f9ddd311e4404ea9
+        version_id: 005c2e78-8f19-41d0-9b32-c464190dee86
+  - relpath: detect/exp5/f50ecf50-20230330-tpf-volvo-8700-bus-13876.jpg
+    md5: 457a17fb77403650f07a40101223da4c
+    size: 166895
+    cloud:
+      myminio:
+        etag: 457a17fb77403650f07a40101223da4c
+        version_id: 43eda57e-d370-4bdf-ba79-c58ebbba8e8d
+  - relpath: detect/exp5/f5da857b-20230330-tpf-hess-trolleybus-nr-190635.jpg
+    md5: 7f8a85ac97892f719a0b68d723dea5a9
+    size: 324454
+    cloud:
+      myminio:
+        etag: 7f8a85ac97892f719a0b68d723dea5a9
+        version_id: 6c7d7a89-44a3-43e3-996e-fec012b1d669
+  - relpath: detect/exp5/f8543dc9-20230330-0.97118400_1340382719.jpg
+    md5: 7fccff17a1ab7010d250f702e2a5a280
+    size: 113550
+    cloud:
+      myminio:
+        etag: 7fccff17a1ab7010d250f702e2a5a280
+        version_id: 6353f4d2-9ce0-4c93-ae8d-4dbc43c368ee
+  - relpath: detect/exp5/f8ea9a14-20230330-tpf-mercedes-citaro-nr84-128751.jpg
+    md5: aa3ac7fe91a586209540726ea6c39ce2
+    size: 407095
+    cloud:
+      myminio:
+        etag: aa3ac7fe91a586209540726ea6c39ce2
+        version_id: 285c0720-d549-4640-bdba-2b449f43c36b
+  - relpath: detect/exp5/f99e33c2-20230330-201020-tpf-fribourg-wieland-646969.jpg
+    md5: 32b5935c066e99510366ccb609e89c41
+    size: 253940
+    cloud:
+      myminio:
+        etag: 32b5935c066e99510366ccb609e89c41
+        version_id: c9588ca3-6bbb-4350-951d-9f7a130622da
+  - relpath: detect/exp5/fa46d230-20230330-2-9.jpg
+    md5: 7870317bb1bedd9d2b7d6a4bfd5e944d
+    size: 242711
+    cloud:
+      myminio:
+        etag: 7870317bb1bedd9d2b7d6a4bfd5e944d
+        version_id: 7799bd92-3b16-4231-b21a-9f0fbf811b2b
+  - relpath: detect/exp5/fb3b7f5d-20230330-tpf-mercedes-citaro-nr125-163096.jpg
+    md5: 62ff5aaab2c83d3a35e683d97e73b180
+    size: 347531
+    cloud:
+      myminio:
+        etag: 62ff5aaab2c83d3a35e683d97e73b180
+        version_id: 806f5932-9f75-4391-99cc-3de2623d779b
+  - relpath: detect/exp5/fbb5589d-20230330-2615644.jpg
+    md5: 519be1378f0af35d94328338d4a765f3
+    size: 64849
+    cloud:
+      myminio:
+        etag: 519be1378f0af35d94328338d4a765f3
+        version_id: 8aa6edc3-2e0e-4308-95b8-19c0bbffa967
+  - relpath: detect/exp5/fe41c0e4-20230330-tpf_513.jpg
+    md5: d49f768972fb30d0ce908c3338e8579a
+    size: 64089
+    cloud:
+      myminio:
+        etag: d49f768972fb30d0ce908c3338e8579a
+        version_id: c815519a-e85b-457d-ac28-e10843144d81
+  - relpath: detect/exp5/ff768bba-20230330-tpf-volvo-8700-nr105-71073.jpg
+    md5: 1521ad25bc3107de83148fae486064d3
+    size: 272177
+    cloud:
+      myminio:
+        etag: 1521ad25bc3107de83148fae486064d3
+        version_id: 90393df0-6be6-448e-ba6b-02dc45fc690e
+  - relpath: detect/exp5/ff82b6d9-20230330-tpf-fribourg-nr-590fr-300380-52760.jpg
+    md5: c97317513b735854101f832ce16f2cf9
+    size: 219764
+    cloud:
+      myminio:
+        etag: c97317513b735854101f832ce16f2cf9
+        version_id: 9b4dfa7d-f2a2-4959-b9ae-7d4b547b96ea
+  - relpath: detect/exp6/d035d981-20230530-1-14.jpg
+    md5: b32d40c6771b628ceda9832963035c39
+    size: 239137
+    cloud:
+      myminio:
+        etag: b32d40c6771b628ceda9832963035c39
+        version_id: df02f230-5726-4d9b-bd9b-b17102296739
+  - relpath: detect/exp6/d0502872-20230330-tpf-mercedes-citaro-nr121-163095.jpg
+    md5: b1c9f355ccf964fcd7a4db32f88eb3ca
+    size: 325421
+    cloud:
+      myminio:
+        etag: b1c9f355ccf964fcd7a4db32f88eb3ca
+        version_id: f9d38d12-c938-483e-9ba2-4616a97a2d98
+  - relpath: detect/exp6/d09e552a-20230330-maxresdefault-5.jpg
+    md5: 65381b27ef27c8246aa12edf4e7f70f3
+    size: 365507
+    cloud:
+      myminio:
+        etag: 65381b27ef27c8246aa12edf4e7f70f3
+        version_id: 43a80296-d5c8-4eb8-82ad-4040c25b0de1
+  - relpath: detect/exp6/d110a2e4-20230330-12-2.jpg
+    md5: c830ceba848b0f9cea014e46099ad091
+    size: 251934
+    cloud:
+      myminio:
+        etag: c830ceba848b0f9cea014e46099ad091
+        version_id: 91003555-bf8e-4135-95fb-62e6ce20495b
+  - relpath: detect/exp6/d117ff8f-20230530-hess-trolleybus-36-auf-linie-167762.jpg
+    md5: c011f53301f3fecda8d4612a7d9c742f
+    size: 385568
+    cloud:
+      myminio:
+        etag: c011f53301f3fecda8d4612a7d9c742f
+        version_id: 7420cdd6-0e9e-4ecd-a0ad-fe8870246e75
+  - relpath: detect/exp6/d129c4e6-20230530-1-22.jpg
+    md5: 515facb7fa07f848f3dbb41cbbf11e4b
+    size: 273769
+    cloud:
+      myminio:
+        etag: 515facb7fa07f848f3dbb41cbbf11e4b
+        version_id: afc2021f-f708-44db-91a2-274b36a89f7d
+  - relpath: detect/exp6/d1346760-20230330-1-12.jpg
+    md5: a3e39e3a4a381ad98b1c29204d383c73
+    size: 253673
+    cloud:
+      myminio:
+        etag: a3e39e3a4a381ad98b1c29204d383c73
+        version_id: 1991b1de-3acb-444c-86c7-8e595533264a
+  - relpath: detect/exp6/d202717a-20230530-3-33.jpg
+    md5: 37cae3350e310c4547f99ad6a4ce1744
+    size: 313425
+    cloud:
+      myminio:
+        etag: 37cae3350e310c4547f99ad6a4ce1744
+        version_id: 50608063-437d-4ebf-9f9f-c8b4c5d2c351
+  - relpath: detect/exp6/d23a353c-20230530-4-10.jpg
+    md5: 3da807c4d38b86357e8f00e71bdaabcc
+    size: 297368
+    cloud:
+      myminio:
+        etag: 3da807c4d38b86357e8f00e71bdaabcc
+        version_id: 3e0645d8-3c6e-4f00-b51f-12f5471bed6c
+  - relpath: detect/exp6/d240cc94-20230530-liste-des-lignes-de-bus-de-geneve-wi.jpg
+    md5: 9de353e97025d031ef07705956929b2d
+    size: 289070
+    cloud:
+      myminio:
+        etag: 9de353e97025d031ef07705956929b2d
+        version_id: b169283d-d1b2-4e79-82fc-d1ba384efeb5
+  - relpath: detect/exp6/d250bc49-20230330-freiburger-verkehrs-ag-wagen-976-evo.jpg
+    md5: 60bd93cb16ab329c4b86641bbacb8fdf
+    size: 194488
+    cloud:
+      myminio:
+        etag: 60bd93cb16ab329c4b86641bbacb8fdf
+        version_id: 1237ca28-c2cc-43ca-b5ef-a762beaf0bee
+  - relpath: detect/exp6/d283b33b-20230530-8-5.jpg
+    md5: 1557238807d19ff67441415afc4dd937
+    size: 303841
+    cloud:
+      myminio:
+        etag: 1557238807d19ff67441415afc4dd937
+        version_id: c8337008-57d6-4a3d-b5ae-05a4ce83a5b1
+  - relpath: detect/exp6/d2eda9e1-20230530-2-2.jpg
+    md5: f95bd99e064bd516202f9ed11b5b3505
+    size: 279766
+    cloud:
+      myminio:
+        etag: f95bd99e064bd516202f9ed11b5b3505
+        version_id: 7129b261-d61c-4ca6-9456-6318ca793bd8
+  - relpath: detect/exp6/d3bac0e4-20230530-6-9.jpg
+    md5: 5b0a68988131e69a15416c7f246c266a
+    size: 227244
+    cloud:
+      myminio:
+        etag: 5b0a68988131e69a15416c7f246c266a
+        version_id: d300bfc7-4b3f-4f3e-9f55-0811980fe7cd
+  - relpath: detect/exp6/d40cf99d-20230330-tl-lausanne-nr-610vd-310038-38179.jpg
+    md5: 498a072857e8fd256691ec656b0f7124
+    size: 251229
+    cloud:
+      myminio:
+        etag: 498a072857e8fd256691ec656b0f7124
+        version_id: 056eba3d-d72b-4e67-a9ba-06343eb1bf1a
+  - relpath: detect/exp6/d41548f2-20230530-postautoregie-bern-nr-634-mercedes-1.jpg
+    md5: 88959bbdfbdba271c167e83ff878b6cd
+    size: 219889
+    cloud:
+      myminio:
+        etag: 88959bbdfbdba271c167e83ff878b6cd
+        version_id: 598ca21c-697d-4845-91da-ce9a57f5636e
+  - relpath: detect/exp6/d440e635-20230330-4-6.jpg
+    md5: 843bc624bcc380d192769bd66e8ce65b
+    size: 276847
+    cloud:
+      myminio:
+        etag: 843bc624bcc380d192769bd66e8ce65b
+        version_id: 8a554cdc-fc80-4182-a4b0-ae8c14191f26
+  - relpath: detect/exp6/d49408ac-20230530-12.jpg
+    md5: f218bcdfc8da09e7e2d28e66342b1a26
+    size: 255576
+    cloud:
+      myminio:
+        etag: f218bcdfc8da09e7e2d28e66342b1a26
+        version_id: 9f73a035-0a0a-4f2d-89d4-a3855ac1ab04
+  - relpath: detect/exp6/d4d05afa-20230530-3-23.jpg
+    md5: 0c7b32787535b2816295dc184b3a6019
+    size: 298710
+    cloud:
+      myminio:
+        etag: 0c7b32787535b2816295dc184b3a6019
+        version_id: 14cfaf3e-b926-4b3d-8ca6-33451571516d
+  - relpath: detect/exp6/d4e9f55f-20230530-tl-hess-trolleybus-nr840-170073.jpg
+    md5: 1325757404cfd8deb213abf6a1ca6673
+    size: 511500
+    cloud:
+      myminio:
+        etag: 1325757404cfd8deb213abf6a1ca6673
+        version_id: e56ca5da-bc84-4e3f-9a9b-a56485620349
+  - relpath: detect/exp6/d51d2342-20230530-tl-nr-878-hess-swisstrolley-109042.jpg
+    md5: 80a56e7bd2e0d6d4500ae850a5ec7c89
+    size: 297789
+    cloud:
+      myminio:
+        etag: 80a56e7bd2e0d6d4500ae850a5ec7c89
+        version_id: e69ae4ce-f388-4d0d-8437-da640da46e7c
+  - relpath: detect/exp6/d55505cc-20230330-tpf-hess-trolleybus-nr520-fr-13193.jpg
+    md5: 3bf0dfed4de306cb2c9bc40cce5a7bb9
+    size: 180916
+    cloud:
+      myminio:
+        etag: 3bf0dfed4de306cb2c9bc40cce5a7bb9
+        version_id: 572d0219-84a7-4092-8d45-670f1bc45538
+  - relpath: detect/exp6/d59650cb-20230330-tpf-nr-87-mercedes-citaro-164032.jpg
+    md5: 25fb3388eed6de8d89dd6274c4e489ed
+    size: 300431
+    cloud:
+      myminio:
+        etag: 25fb3388eed6de8d89dd6274c4e489ed
+        version_id: 14e2ef4d-5342-4697-a9cc-8f114a4fad0f
+  - relpath: detect/exp6/d5a97410-20230530-10-4.jpg
+    md5: 7f3b090624d82fd28370f03e9e2dceee
+    size: 301387
+    cloud:
+      myminio:
+        etag: 7f3b090624d82fd28370f03e9e2dceee
+        version_id: 5ba5990e-878f-4778-a86e-6dc6869e3bb6
+  - relpath: detect/exp6/d5db5d2f-20230530-1-33.jpg
+    md5: bbefd207467e3ba9c655dc5f59d1c01a
+    size: 236933
+    cloud:
+      myminio:
+        etag: bbefd207467e3ba9c655dc5f59d1c01a
+        version_id: 8b146808-d29c-4e6a-a3a0-3faf51c810a9
+  - relpath: detect/exp6/d64edf73-20230530-tl-vanhool-bus-nr456-39019.jpg
+    md5: 2f2561fb4fd16fe570bb62a2a83ee72f
+    size: 183986
+    cloud:
+      myminio:
+        etag: 2f2561fb4fd16fe570bb62a2a83ee72f
+        version_id: fc048f5b-1c44-4e4c-a9ff-84c0a598ebdb
+  - relpath: detect/exp6/d67faae5-20230330-eb40_orig.jpg
+    md5: fecd6d2b96a2eb8f489c097309809923
+    size: 346935
+    cloud:
+      myminio:
+        etag: fecd6d2b96a2eb8f489c097309809923
+        version_id: 0d8008a0-9d46-411e-ac3a-7665defa460c
+  - relpath: detect/exp6/d6fd1ca5-20230330-tpf-volvo-8700-bus-13879.jpg
+    md5: d46c841bb37bcededeaf6ee62a1dd52a
+    size: 140430
+    cloud:
+      myminio:
+        etag: d46c841bb37bcededeaf6ee62a1dd52a
+        version_id: faf7579f-c567-477e-8635-14305211f3ba
+  - relpath: detect/exp6/d759a4e5-20230530-2-22.jpg
+    md5: 230e71b8c483ff5aef0067c7ec5a1504
+    size: 230909
+    cloud:
+      myminio:
+        etag: 230e71b8c483ff5aef0067c7ec5a1504
+        version_id: 153f623f-3989-4dd7-b306-8ef614af9844
+  - relpath: detect/exp6/d7a3ab73-20230530-5672435911_fa3a0e32f1_b.jpg
+    md5: f89a3d8e0ced0d8c50d2180d7a6ec38c
+    size: 246440
+    cloud:
+      myminio:
+        etag: f89a3d8e0ced0d8c50d2180d7a6ec38c
+        version_id: 6043a6d2-eb4c-4bb2-a1c0-ad47a07dc5c0
+  - relpath: detect/exp6/d7dc1cb8-20230530-title-1512505067-1.jpg
+    md5: a3ad973216de8474a0fb39602e5ec6f7
+    size: 472779
+    cloud:
+      myminio:
+        etag: a3ad973216de8474a0fb39602e5ec6f7
+        version_id: ba029d19-1aab-43fb-96d5-17c5e71bb530
+  - relpath: detect/exp6/d83043d6-20230330-bus-system-in-barcelona-spain-1024x6.jpg
+    md5: 3556e0953acb6b41f3fec3acfb7f2935
+    size: 297206
+    cloud:
+      myminio:
+        etag: 3556e0953acb6b41f3fec3acfb7f2935
+        version_id: 60da397c-bdf7-4c86-a42e-316670fd7a25
+  - relpath: detect/exp6/d84e3103-20230530-2-5.jpg
+    md5: 19bab580526c9bef65fd3da241eede65
+    size: 296590
+    cloud:
+      myminio:
+        etag: 19bab580526c9bef65fd3da241eede65
+        version_id: 5ed65ff1-a8d1-4d30-8736-35ece6bf1da4
+  - relpath: detect/exp6/d8a3ce1d-20230530-tl-nr-534-solaris-urbino-93446.jpg
+    md5: 2a1b547f05a1ca9e4106eadcd3f044b4
+    size: 277077
+    cloud:
+      myminio:
+        etag: 2a1b547f05a1ca9e4106eadcd3f044b4
+        version_id: e35e0dde-940c-47f0-a3ce-c81913248453
+  - relpath: detect/exp6/d8eaa72b-20230330-tpf-volvo-8700-nr23-45558.jpg
+    md5: c7b83f2bda29df84d4c20b572fcf0960
+    size: 236444
+    cloud:
+      myminio:
+        etag: c7b83f2bda29df84d4c20b572fcf0960
+        version_id: bc982d09-167a-4b41-a2c7-e13448eabb0c
+  - relpath: detect/exp6/d959a0d9-20230530-tpg-mercedes-citaro-nr124-138888.jpg
+    md5: 2e3220510668f83ce6050d305e3d4903
+    size: 566829
+    cloud:
+      myminio:
+        etag: 2e3220510668f83ce6050d305e3d4903
+        version_id: 78b547e3-776d-4c90-b746-9f7d5f368bf0
+  - relpath: detect/exp6/d9943ac9-20230330-tpf-volvo-8700-nr98-155546.jpg
+    md5: 35cdc78a286849d373561e2be9e8f10e
+    size: 418296
+    cloud:
+      myminio:
+        etag: 35cdc78a286849d373561e2be9e8f10e
+        version_id: bd644723-f31e-4759-b9bc-9f8c41e3f520
+  - relpath: detect/exp6/da52e967-20230530-photo3.jpg
+    md5: fe025ad438b96898718eb89e9a58cacd
+    size: 191806
+    cloud:
+      myminio:
+        etag: fe025ad438b96898718eb89e9a58cacd
+        version_id: 1874def1-4b78-4118-af3c-9097e0be313b
+  - relpath: detect/exp6/db2a5b06-20230530-tl-solaris-nr165-vd-49268.jpg
+    md5: fd8b1eddba49043dbb37033696de6b28
+    size: 304420
+    cloud:
+      myminio:
+        etag: fd8b1eddba49043dbb37033696de6b28
+        version_id: 82d03eb8-7d7e-424c-8551-fcc57b0c069a
+  - relpath: detect/exp6/db5cac28-20230530-tpg-trolleybus-nr783-unterwegs-13554.jpg
+    md5: acb03911e3fe475deba8f346f100060e
+    size: 445933
+    cloud:
+      myminio:
+        etag: acb03911e3fe475deba8f346f100060e
+        version_id: 16061855-52a0-4c7b-83f8-65f027cabdc1
+  - relpath: detect/exp6/db5eaa7f-20230330-5.jpg
+    md5: 2af84cdad234f0ed60b7e8d8bc3ed171
+    size: 210206
+    cloud:
+      myminio:
+        etag: 2af84cdad234f0ed60b7e8d8bc3ed171
+        version_id: 7ca881bf-fb0f-4f2d-95e3-44420e0387d7
+  - relpath: detect/exp6/dbd53bad-20230330-tpf-hess-trolleybus-nr518-fr-36426.jpg
+    md5: ae60da1e3daa6f80d42652ac988e6813
+    size: 266363
+    cloud:
+      myminio:
+        etag: ae60da1e3daa6f80d42652ac988e6813
+        version_id: a242a8d6-5e68-4aa6-8ca5-9f8184f801d7
+  - relpath: detect/exp6/dc144688-20230330-tpf-fribourg-nr-551fr-90425.jpg
+    md5: 1c2e3c33e69c9c286a3007f68ea99497
+    size: 287697
+    cloud:
+      myminio:
+        etag: 1c2e3c33e69c9c286a3007f68ea99497
+        version_id: 0a974ac1-d322-4d96-972c-98167a77b494
+  - relpath: detect/exp6/dc2cafb9-20230530-P9140066.jpg
+    md5: 55199f7bed7b77b649fc97ee03d201e6
+    size: 738618
+    cloud:
+      myminio:
+        etag: 55199f7bed7b77b649fc97ee03d201e6
+        version_id: dcd02916-1bbd-4343-b6a0-80a051f8325b
+  - relpath: detect/exp6/dd32b32b-20230530-4-15.jpg
+    md5: 13b21fc1c0ebeb5d31ae03d3d36db3d9
+    size: 269866
+    cloud:
+      myminio:
+        etag: 13b21fc1c0ebeb5d31ae03d3d36db3d9
+        version_id: 5c09d54b-449f-4d5f-8eaa-4c73f6b25c03
+  - relpath: detect/exp6/dd6f85e5-20230530-tl-neoplan-bus-nr606-15440.jpg
+    md5: 6b9cbf1a64799d9859f0559577faf206
+    size: 209778
+    cloud:
+      myminio:
+        etag: 6b9cbf1a64799d9859f0559577faf206
+        version_id: ae7440b0-b6cd-4880-af99-d0315c99da4b
+  - relpath: detect/exp6/dd71b277-20230330-tpf-fribourg-nr-519fr-300434-20885.jpg
+    md5: ea06bb840ea2b0e2ac2f82ead73456ee
+    size: 143806
+    cloud:
+      myminio:
+        etag: ea06bb840ea2b0e2ac2f82ead73456ee
+        version_id: c849f5dd-6a4b-42d3-bfa8-81e1523f1b4c
+  - relpath: detect/exp6/dd83960b-20230530-15-2.jpg
+    md5: b9c3a8213a7f203bf0b8a52496a1ff38
+    size: 346873
+    cloud:
+      myminio:
+        etag: b9c3a8213a7f203bf0b8a52496a1ff38
+        version_id: 3450a798-c2e0-4431-9992-d11168f24a6a
+  - relpath: detect/exp6/ddda2406-20230530-tl-trolleybus-nr879-unterwegs-137590.jpg
+    md5: 49b2faee57c73cba218a3a315123b1ec
+    size: 471387
+    cloud:
+      myminio:
+        etag: 49b2faee57c73cba218a3a315123b1ec
+        version_id: 7de7e25b-eb88-416d-8068-1b53f5e7e97a
+  - relpath: detect/exp6/de02bd3f-20230530-bern-mobil-naw-trolleybus-61193.jpg
+    md5: 4cec7d2ceb1218da266ba1c1a4456bf8
+    size: 287710
+    cloud:
+      myminio:
+        etag: 4cec7d2ceb1218da266ba1c1a4456bf8
+        version_id: 2c7400c0-eb08-46ed-8947-6f69f4c03bd8
+  - relpath: detect/exp6/de1deadb-20230330-4733879_orig.jpg
+    md5: fa1293851cff2f5eb47461d365dbec7c
+    size: 259102
+    cloud:
+      myminio:
+        etag: fa1293851cff2f5eb47461d365dbec7c
+        version_id: 4561bae0-5277-47ea-a37e-fedaac1b0398
+  - relpath: detect/exp6/df2c2d99-20230330-tpf-fototermin-mit-dem-20758.jpg
+    md5: 725aaea0e3ae97ba7ef9cf187aae5969
+    size: 196190
+    cloud:
+      myminio:
+        etag: 725aaea0e3ae97ba7ef9cf187aae5969
+        version_id: a703f527-842b-4060-8b8b-6a09f706829b
+  - relpath: detect/exp6/df4be628-20230330-8-3.jpg
+    md5: 49e0e764e223367cdc4d39a43bd63a2c
+    size: 271498
+    cloud:
+      myminio:
+        etag: 49e0e764e223367cdc4d39a43bd63a2c
+        version_id: 23dc00b1-3acd-4d31-8ebb-8400ead7e3f8
+  - relpath: detect/exp6/df4ce825-20230330-tpf-volvo-8700-bus-13116.jpg
+    md5: dfb34c144ace168b695e1e0cc56a07f7
+    size: 167609
+    cloud:
+      myminio:
+        etag: dfb34c144ace168b695e1e0cc56a07f7
+        version_id: d434c6b6-1261-4be0-8262-a8b086a9abe5
+  - relpath: detect/exp6/e040faba-20230330-3-2.jpg
+    md5: 7982b806c8226e3e2d73b1ba00d3c092
+    size: 195243
+    cloud:
+      myminio:
+        etag: 7982b806c8226e3e2d73b1ba00d3c092
+        version_id: 41f4d81a-1e3f-41c0-b197-5fa8b9b05270
+  - relpath: detect/exp6/e098223e-20230330-tpf-fribourg-nr-599fr-300420-52640.jpg
+    md5: d090409574be2ece23300cbf6f8f7cd1
+    size: 231668
+    cloud:
+      myminio:
+        etag: d090409574be2ece23300cbf6f8f7cd1
+        version_id: d988ead8-470d-438b-8258-fa029ac68893
+  - relpath: detect/exp6/e0b5957d-20230530-postauto-man-bus-be-14291.jpg
+    md5: 939a02e2f2d9fbb67204302e3ad8d9ef
+    size: 134967
+    cloud:
+      myminio:
+        etag: 939a02e2f2d9fbb67204302e3ad8d9ef
+        version_id: e9bee694-5fb3-41f8-b78d-eda074c1da09
+  - relpath: detect/exp6/e0c78cff-20230530-7468347074_51828b6bf7_b.jpg
+    md5: 6b587b856c9b0730136f756d2a2bfdec
+    size: 236859
+    cloud:
+      myminio:
+        etag: 6b587b856c9b0730136f756d2a2bfdec
+        version_id: 46078021-a85a-441c-bcce-78bcb2492b22
+  - relpath: detect/exp6/e154f8c8-20230330-tpf-trolleybus-nr532-unterwegs-13713.jpg
+    md5: 54c022ce1ab2bd8c835807226f3f30fe
+    size: 479653
+    cloud:
+      myminio:
+        etag: 54c022ce1ab2bd8c835807226f3f30fe
+        version_id: 92aa4584-defe-488a-a95a-9553d1ed1d4c
+  - relpath: detect/exp6/e1d0622c-20230530-Geneve2520lightram-min.jpg
+    md5: 8fd4d45e0d3d882855f9994e80adb903
+    size: 1537491
+    cloud:
+      myminio:
+        etag: 8fd4d45e0d3d882855f9994e80adb903
+        version_id: b96b6df7-9ba1-4892-bd42-3d00410e5d3d
+  - relpath: detect/exp6/e1d3d094-20230530-hess-trolleybus-31-faehrt-speicherbe.jpg
+    md5: bcabcf727802f45cc221c429519683ff
+    size: 334158
+    cloud:
+      myminio:
+        etag: bcabcf727802f45cc221c429519683ff
+        version_id: bf1f74f1-260e-4b00-972f-b5550ace465b
+  - relpath: detect/exp6/e1fc86eb-20230530-6-10.jpg
+    md5: 61de1d6316a705fa65a2b184fd00a090
+    size: 265218
+    cloud:
+      myminio:
+        etag: 61de1d6316a705fa65a2b184fd00a090
+        version_id: 725155f4-ef3e-481b-a9a2-977e268f712a
+  - relpath: detect/exp6/e212c5b2-20230530-9-6.jpg
+    md5: c0d08f828634fa1608f6e918ebd07dd4
+    size: 299067
+    cloud:
+      myminio:
+        etag: c0d08f828634fa1608f6e918ebd07dd4
+        version_id: 2cbcf909-2652-459d-b218-2eef22f0b57b
+  - relpath: detect/exp6/e21d221d-20230530-9-8.jpg
+    md5: d44dc8bb0746c6524d68ead807e521aa
+    size: 217130
+    cloud:
+      myminio:
+        etag: d44dc8bb0746c6524d68ead807e521aa
+        version_id: 750d9af5-59ec-48ba-a24c-478ba6312abd
+  - relpath: detect/exp6/e24fa3e6-20230530-3-3.jpg
+    md5: 8aedbe5ba0dea32f4636375298a96724
+    size: 343660
+    cloud:
+      myminio:
+        etag: 8aedbe5ba0dea32f4636375298a96724
+        version_id: 9224c3c9-8d08-413a-9b56-17b223ec419c
+  - relpath: detect/exp6/e25a428a-20230530-3-15.jpg
+    md5: 637159383ff5b86623323bd7060ba1f7
+    size: 252239
+    cloud:
+      myminio:
+        etag: 637159383ff5b86623323bd7060ba1f7
+        version_id: e008fe25-a37b-4b39-a9d8-346ab5ef28fa
+  - relpath: detect/exp6/e2f93774-20230530-5-16.jpg
+    md5: 4c5cb893a133af23e7e1b6ea2d1bbede
+    size: 287146
+    cloud:
+      myminio:
+        etag: 4c5cb893a133af23e7e1b6ea2d1bbede
+        version_id: d7fb4296-6fd7-4eaf-927a-6766bed279ec
+  - relpath: detect/exp6/e30b4612-20230530-1-35.jpg
+    md5: 41d402aa2e9c8d797ad89455ca0abf4e
+    size: 194073
+    cloud:
+      myminio:
+        etag: 41d402aa2e9c8d797ad89455ca0abf4e
+        version_id: 5f8d7a0c-9e4c-47dd-9aa1-9f6249ef6d27
+  - relpath: detect/exp6/e4a51b27-20230330-9003309.jpg
+    md5: d79730dbe8317a8f577f186157028287
+    size: 55561
+    cloud:
+      myminio:
+        etag: d79730dbe8317a8f577f186157028287
+        version_id: c7c3da34-dd5f-4315-838e-b1a25228743e
+  - relpath: detect/exp6/e50011a9-20230330-11.jpg
+    md5: 416ba51175b138f224328a8788ed9228
+    size: 252893
+    cloud:
+      myminio:
+        etag: 416ba51175b138f224328a8788ed9228
+        version_id: e859e0a7-56c0-4fa4-8631-2a8992636cee
+  - relpath: detect/exp6/e50de381-20230330-1.jpg
+    md5: c221ed02a3de9bf39550f3f38d097286
+    size: 334841
+    cloud:
+      myminio:
+        etag: c221ed02a3de9bf39550f3f38d097286
+        version_id: 8234765d-f83f-497b-a12a-725c74315716
+  - relpath: detect/exp6/e567980f-20230330-4-5.jpg
+    md5: a5a5b5f3ae4c9c2f69ce72149c7bfdba
+    size: 241172
+    cloud:
+      myminio:
+        etag: a5a5b5f3ae4c9c2f69ce72149c7bfdba
+        version_id: 2a700a53-f393-4291-be90-bf6cf3c44124
+  - relpath: detect/exp6/e5769b5e-20230330-27803851853_0b34f11b67.jpg
+    md5: d19102f515d5eea5a31144910154a1e0
+    size: 75439
+    cloud:
+      myminio:
+        etag: d19102f515d5eea5a31144910154a1e0
+        version_id: ca9c0d2a-3ac4-4bf5-9be1-411f970e6752
+  - relpath: detect/exp6/e57dd213-20230330-tpf-fribourg-nr-19-fr-30723.jpg
+    md5: 60729e33e7277afe453b2cb4f1c5c378
+    size: 182720
+    cloud:
+      myminio:
+        etag: 60729e33e7277afe453b2cb4f1c5c378
+        version_id: 2d850c8b-8062-4efd-a962-56064cfb79ab
+  - relpath: detect/exp6/e5df0685-20230530-8-2.jpg
+    md5: 414df2a516adececa691848aaf492212
+    size: 285714
+    cloud:
+      myminio:
+        etag: 414df2a516adececa691848aaf492212
+        version_id: e894a6ed-f54d-48c8-ba01-bdc12d5b2d28
+  - relpath: detect/exp6/e62e4009-20230530-tl-solaris-bus-nr533-58010.jpg
+    md5: 494d5870749747e5c42550ec92965beb
+    size: 356373
+    cloud:
+      myminio:
+        etag: 494d5870749747e5c42550ec92965beb
+        version_id: 0eca9019-9920-4ee1-8b1b-6017fb22d79d
+  - relpath: detect/exp6/e6c08644-20230530-6-3.jpg
+    md5: fcef5021ac59ff793027ef5c8e92c53c
+    size: 239479
+    cloud:
+      myminio:
+        etag: fcef5021ac59ff793027ef5c8e92c53c
+        version_id: f4683cf9-3240-42d1-8bf7-6592057a0a69
+  - relpath: detect/exp6/e70e2ef0-20230330-22.jpg
+    md5: efd3d7bc83d2fdfec71336edc7d9c630
+    size: 243626
+    cloud:
+      myminio:
+        etag: efd3d7bc83d2fdfec71336edc7d9c630
+        version_id: a2f548cc-5d4f-4ff6-8c4b-774edc4bc6d1
+  - relpath: detect/exp6/e788d2c9-20230530-132865-gembus-genve--367363.jpg
+    md5: e766708596360b72dd42742139f0818a
+    size: 397247
+    cloud:
+      myminio:
+        etag: e766708596360b72dd42742139f0818a
+        version_id: d9634a1a-362c-47f3-9eeb-f14b4fa7d19e
+  - relpath: detect/exp6/e7924f24-20230330-9-2.jpg
+    md5: 0e78eb81e88b9a52f743a62859d2ad18
+    size: 257761
+    cloud:
+      myminio:
+        etag: 0e78eb81e88b9a52f743a62859d2ad18
+        version_id: 2fd2ec85-4a08-4e72-8048-3b68402064fa
+  - relpath: detect/exp6/e7e920ea-20230530-image-3.jpg
+    md5: 3c9dcf3b00bf1f688964a925c99f099d
+    size: 155901
+    cloud:
+      myminio:
+        etag: 3c9dcf3b00bf1f688964a925c99f099d
+        version_id: ee5d5680-c06b-47e6-ae88-6b0f145b5a76
+  - relpath: detect/exp6/e7eba732-20230530-8-9.jpg
+    md5: 4ce0c18912485e1a155b25154faed059
+    size: 223307
+    cloud:
+      myminio:
+        etag: 4ce0c18912485e1a155b25154faed059
+        version_id: 3cd29aec-cf9e-40a0-860f-9a4ebea1fd2f
+  - relpath: detect/exp6/e84f3b92-20230530-3-18.jpg
+    md5: e864b2232ea4a0344a5ae3c351c8d11b
+    size: 276022
+    cloud:
+      myminio:
+        etag: e864b2232ea4a0344a5ae3c351c8d11b
+        version_id: 807a7ab0-c86b-4306-9d35-827027cdda39
+  - relpath: detect/exp6/e8504c5e-20230330-tpf-volvo-8700-bus-13278.jpg
+    md5: a91fe8ac46239a54283d6e257e1ba726
+    size: 128914
+    cloud:
+      myminio:
+        etag: a91fe8ac46239a54283d6e257e1ba726
+        version_id: bcbd8e4e-fa1c-46d6-8c96-c76fbb32dfaf
+  - relpath: detect/exp6/e8ee9b17-20230530-3-16.jpg
+    md5: 39b1d1e571415d84780a41f930fc6655
+    size: 276822
+    cloud:
+      myminio:
+        etag: 39b1d1e571415d84780a41f930fc6655
+        version_id: 5c113b00-5ed0-40e2-b41b-190a8e12ae78
+  - relpath: detect/exp6/e8fa229e-20230530-tl-lausanne-nr-768-86170.jpg
+    md5: 08e79e25009d53b34b5caaa07b4b8443
+    size: 227308
+    cloud:
+      myminio:
+        etag: 08e79e25009d53b34b5caaa07b4b8443
+        version_id: 71039b93-09f7-41b4-982b-aeba4d17bcac
+  - relpath: detect/exp6/e95e8dd5-20230530-2-8.jpg
+    md5: 27b31a0ac536cd6d6a98f79473103a4d
+    size: 236492
+    cloud:
+      myminio:
+        etag: 27b31a0ac536cd6d6a98f79473103a4d
+        version_id: 53dfc46e-e970-47a5-b1a1-2783923ed37a
+  - relpath: detect/exp6/e97dc276-20230530-170617_bus_TL_Montreux.jpg
+    md5: f3c2c7a0eef39519ea06c045ab939368
+    size: 1232657
+    cloud:
+      myminio:
+        etag: f3c2c7a0eef39519ea06c045ab939368
+        version_id: 6e80073b-7cd9-444c-a9ce-e1789eb2dd28
+  - relpath: detect/exp6/e9b17496-20230530-20140714165745-94b48c49-me.jpg
+    md5: 3071f6ccab556ad012fc6a9d4f8f4003
+    size: 180674
+    cloud:
+      myminio:
+        etag: 3071f6ccab556ad012fc6a9d4f8f4003
+        version_id: 9fe96cd9-d40c-4e2f-b7d4-3d5d0a27d869
+  - relpath: detect/exp6/e9c6de59-20230330-tpf-man-lions-city-13796.jpg
+    md5: b07f2e07cb499ac059b4d787d7368095
+    size: 177514
+    cloud:
+      myminio:
+        etag: b07f2e07cb499ac059b4d787d7368095
+        version_id: 65e7ed75-4846-4d82-8b12-38a280f6ea7c
+  - relpath: detect/exp6/e9f5e44c-20230530-2-19.jpg
+    md5: 5f0cc06ceb253d64a32c597bfbd5192c
+    size: 203234
+    cloud:
+      myminio:
+        etag: 5f0cc06ceb253d64a32c597bfbd5192c
+        version_id: 0064e4ef-35dc-4a09-91f6-12c677d178e4
+  - relpath: detect/exp6/ea854ebe-20230330-6091838160db387e09ee50058fdb9bb9.jpg
+    md5: 676fd49dca3d81a59a9f1c0019f62ee2
+    size: 137590
+    cloud:
+      myminio:
+        etag: 676fd49dca3d81a59a9f1c0019f62ee2
+        version_id: 8cce6549-6d4a-4824-98a7-88bc82be7fdd
+  - relpath: detect/exp6/eaa88cea-20230530-bernmobil-bern-nr-1-88196.jpg
+    md5: 098af87eba3ad938c3e1e63952ef1c86
+    size: 228083
+    cloud:
+      myminio:
+        etag: 098af87eba3ad938c3e1e63952ef1c86
+        version_id: 41b68ed6-c035-4081-bdce-4ca95278fe2b
+  - relpath: detect/exp6/eb777394-20230530-tl-vanhool-nr303-vd-137453.jpg
+    md5: 61a2079b71b8758f0ff2a65268c0cc9d
+    size: 462569
+    cloud:
+      myminio:
+        etag: 61a2079b71b8758f0ff2a65268c0cc9d
+        version_id: cbfb6f5c-efc6-4fa2-8d25-58213c904329
+  - relpath: detect/exp6/eb9ec36f-20230330-tpf-volvo-8700-bus-13274.jpg
+    md5: 250b7a6b797ee60aeb5210d7b667d481
+    size: 131626
+    cloud:
+      myminio:
+        etag: 250b7a6b797ee60aeb5210d7b667d481
+        version_id: 77306ab0-2beb-4743-8979-83237bb924ec
+  - relpath: detect/exp6/ebb481fd-20230530-5.jpg
+    md5: b4e539d223ab5569a551f62c17b74017
+    size: 311533
+    cloud:
+      myminio:
+        etag: b4e539d223ab5569a551f62c17b74017
+        version_id: f646e2f3-f506-4aab-aa8d-c20edc9790ab
+  - relpath: detect/exp6/ec90d2fa-20230530-6-8.jpg
+    md5: e60b56814e5a2bb1749e0a6f5bc19c90
+    size: 334030
+    cloud:
+      myminio:
+        etag: e60b56814e5a2bb1749e0a6f5bc19c90
+        version_id: aee342ab-fd48-4146-93ee-fe30df2c903a
+  - relpath: detect/exp6/ed715b13-20230530-1-1.jpg
+    md5: 88b95277add744dfab9a5245f4639c9d
+    size: 326785
+    cloud:
+      myminio:
+        etag: 88b95277add744dfab9a5245f4639c9d
+        version_id: a6eaebe4-1818-48fd-866a-6617f1bebc10
+  - relpath: detect/exp6/ed746c10-20230330-4-8.jpg
+    md5: a557901704dd8de596ec1e115d62f41c
+    size: 270027
+    cloud:
+      myminio:
+        etag: a557901704dd8de596ec1e115d62f41c
+        version_id: 1358fb0a-570d-44d4-8fc3-21cdda79cc97
+  - relpath: detect/exp6/edaf9ccc-20230330-tpf-nr-527-hess-swisstrolley-164695.jpg
+    md5: 1ee8028d46023b252ed8ddc8ca1c958a
+    size: 256728
+    cloud:
+      myminio:
+        etag: 1ee8028d46023b252ed8ddc8ca1c958a
+        version_id: 72f41999-cd3f-4742-9b3c-2a9cb638be32
+  - relpath: detect/exp6/ede05553-20230330-195613-tpf-fribourg--625316.jpg
+    md5: cc646674f2b284a76b5ced1da1dee678
+    size: 447067
+    cloud:
+      myminio:
+        etag: cc646674f2b284a76b5ced1da1dee678
+        version_id: 0b86974c-d67d-47e0-945e-7f4021fa2d9f
+  - relpath: detect/exp6/ee017b80-20230530-tpg-mercedes-citaro-nr166-135684.jpg
+    md5: fe3c58f31282e66a8db6f071e1b977c6
+    size: 454560
+    cloud:
+      myminio:
+        etag: fe3c58f31282e66a8db6f071e1b977c6
+        version_id: b3ca9515-3559-4733-afe4-2f5e7f0a32c5
+  - relpath: detect/exp6/ee243c53-20230530-5-5.jpg
+    md5: 7a2222608c7f4496ed71c2d0e2bf467a
+    size: 246459
+    cloud:
+      myminio:
+        etag: 7a2222608c7f4496ed71c2d0e2bf467a
+        version_id: af19ef58-460b-4e4a-8e21-431fa4462337
+  - relpath: detect/exp6/ee7b5bfc-20230330-4-1.jpg
+    md5: 0f362cc248e8ddebf834898476e63cf3
+    size: 250700
+    cloud:
+      myminio:
+        etag: 0f362cc248e8ddebf834898476e63cf3
+        version_id: cde24e33-e6a5-4928-9d61-ca6eecedc27e
+  - relpath: detect/exp6/ee7ccc8a-20230530-tpg-vanhool-trolleybus-1615-119913.jpg
+    md5: 0dbf6fc1819fd051d5baff6627653d85
+    size: 352602
+    cloud:
+      myminio:
+        etag: 0dbf6fc1819fd051d5baff6627653d85
+        version_id: 7be66e2b-adc7-4724-81e6-f3e2b8454a6e
+  - relpath: detect/exp6/ee944371-20230330-tpf-volvo-8700-nr18-70883.jpg
+    md5: 317352a09c6afa124b04eb80b4055c80
+    size: 339293
+    cloud:
+      myminio:
+        etag: 317352a09c6afa124b04eb80b4055c80
+        version_id: e06a31fb-ea42-4b7b-8d4b-ac4716a1c75d
+  - relpath: detect/exp6/ee95f003-20230330-tpf-fribourg-350fr-300418-man-10954.jpg
+    md5: ea51623f2bfe0711c24bca75467bf92f
+    size: 137853
+    cloud:
+      myminio:
+        etag: ea51623f2bfe0711c24bca75467bf92f
+        version_id: 006f34d0-27e8-4f43-80ec-19cb0f8adb7a
+  - relpath: detect/exp6/eeaf1794-20230330-tpf-trolleybus-nr521-fr-137130.jpg
+    md5: b02a2ff8f4a77ab33df3a0f91d233343
+    size: 379902
+    cloud:
+      myminio:
+        etag: b02a2ff8f4a77ab33df3a0f91d233343
+        version_id: 0035b34a-ad72-4760-8c75-946f63090f33
+  - relpath: detect/exp6/ef4ac982-20230530-tpg-trolleybus-nr763-unterwegs-13559.jpg
+    md5: 9dc585b1ef9f1817f50b71e3896672e4
+    size: 414961
+    cloud:
+      myminio:
+        etag: 9dc585b1ef9f1817f50b71e3896672e4
+        version_id: b3c89c88-16d2-41d0-ab98-00cb77c5a63e
+  - relpath: detect/exp6/ef5b4155-20230530-4-17.jpg
+    md5: d5fca2d4b637712c48a5a465de8f909c
+    size: 257835
+    cloud:
+      myminio:
+        etag: d5fca2d4b637712c48a5a465de8f909c
+        version_id: 16d94e12-7f68-4f77-974e-badd8045c1e2
+  - relpath: detect/exp6/efa245cb-20230330-transport_030420awi_07.jpg
+    md5: afcb7ddd43d0934994a69d85045d2797
+    size: 162452
+    cloud:
+      myminio:
+        etag: afcb7ddd43d0934994a69d85045d2797
+        version_id: 6d8034c1-8376-400c-9977-7c472ff417e8
+  - relpath: detect/exp6/f027523e-20230530-2-16.jpg
+    md5: 01612bb20be7f61b752acea180fd977e
+    size: 305294
+    cloud:
+      myminio:
+        etag: 01612bb20be7f61b752acea180fd977e
+        version_id: daf267e2-f608-491d-8fc9-3f87fc46cad6
+  - relpath: detect/exp6/f051542c-20230530-40780562113_f7e74f573f_b.jpg
+    md5: 2fae77d52e58778866320b975d612b98
+    size: 388933
+    cloud:
+      myminio:
+        etag: 2fae77d52e58778866320b975d612b98
+        version_id: 27848c66-6d44-4cbb-92e5-b233b0c8c701
+  - relpath: detect/exp6/f092f0de-20230530-tl-lausanne-fbw-trolleybus-85916.jpg
+    md5: 1ad5f58266e498be12557aa304a985f5
+    size: 323335
+    cloud:
+      myminio:
+        etag: 1ad5f58266e498be12557aa304a985f5
+        version_id: 872f5137-b2b3-4cb8-85b8-c612b494fdc6
+  - relpath: detect/exp6/f10e9936-20230530-bernmobil-bern-nr-846be-671846-65724.jpg
+    md5: fcf1d1362621a20abc49ceb44679764c
+    size: 241986
+    cloud:
+      myminio:
+        etag: fcf1d1362621a20abc49ceb44679764c
+        version_id: 5fbd6078-195e-4125-aabd-60fe26ea1da3
+  - relpath: detect/exp6/f1b2f9a6-20230530-tl-trolleybus-nr884-unterwegs-137592.jpg
+    md5: 43385f5e9f7da207e8c9c89ad876ec62
+    size: 453676
+    cloud:
+      myminio:
+        etag: 43385f5e9f7da207e8c9c89ad876ec62
+        version_id: f9217597-f68f-418a-b213-3579a4fd7ff7
+  - relpath: detect/exp6/f2031d74-20230330-tpf-fribourg-nr-4-fr-27072.jpg
+    md5: 94252ec9a71cae201d5c38a5708e46af
+    size: 140871
+    cloud:
+      myminio:
+        etag: 94252ec9a71cae201d5c38a5708e46af
+        version_id: 45abdecd-6542-4288-9219-4ea2e23e3fa6
+  - relpath: detect/exp6/f245d9ca-20230530-6-6.jpg
+    md5: c35676ee7e31234f34598fa2d05a2dba
+    size: 263021
+    cloud:
+      myminio:
+        etag: c35676ee7e31234f34598fa2d05a2dba
+        version_id: f0683141-dbbe-4046-a284-a760b051493d
+  - relpath: detect/exp6/f250affd-20230330-tpf-mercedes-citaro-nr1020-188986.jpg
+    md5: cc8cdf9e858720b6a660e72620228b66
+    size: 416515
+    cloud:
+      myminio:
+        etag: cc8cdf9e858720b6a660e72620228b66
+        version_id: 1d8cc050-cfd9-4513-8fe0-42dd43187420
+  - relpath: detect/exp6/f3150042-20230530-16-1.jpg
+    md5: 5179b500aa86d65ce53c72904f0c32ed
+    size: 207792
+    cloud:
+      myminio:
+        etag: 5179b500aa86d65ce53c72904f0c32ed
+        version_id: 9753f84e-50de-4c08-851b-7515097c3ada
+  - relpath: detect/exp6/f32562bd-20230330-tpf_520.jpg
+    md5: 576725ebedfe1bbd96905b7a5d1d3181
+    size: 60452
+    cloud:
+      myminio:
+        etag: 576725ebedfe1bbd96905b7a5d1d3181
+        version_id: 363c4df7-3b2f-4e9d-be49-09cb60739fe1
+  - relpath: detect/exp6/f331bbc8-20230530-maxresdefault-11.jpg
+    md5: 0b73d11aa9ed8b129ad5f1fcbfe298f6
+    size: 262375
+    cloud:
+      myminio:
+        etag: 0b73d11aa9ed8b129ad5f1fcbfe298f6
+        version_id: 618d594a-92c9-4357-8c74-1e99f32570ee
+  - relpath: detect/exp6/f340a0a2-20230530-17.jpg
+    md5: 5d31d22e06ef1733e6f622cd558d49c3
+    size: 295319
+    cloud:
+      myminio:
+        etag: 5d31d22e06ef1733e6f622cd558d49c3
+        version_id: 2cea6208-5a06-4740-a1c9-8c4b99396101
+  - relpath: detect/exp6/f4248336-20230530-der-tosa-bus-tpg-wird-am-132040.jpg
+    md5: 1a466282c9a2eff64471af74b0e380c4
+    size: 364929
+    cloud:
+      myminio:
+        etag: 1a466282c9a2eff64471af74b0e380c4
+        version_id: a8cccb3f-e9d0-45af-b922-2537a3bb039f
+  - relpath: detect/exp6/f42989b3-20230330-18.jpg
+    md5: b4e473b95d64c50d4c49e9ab60a2184d
+    size: 215752
+    cloud:
+      myminio:
+        etag: b4e473b95d64c50d4c49e9ab60a2184d
+        version_id: 8b23813a-9adb-46f1-bcb3-6b4e5fef07f1
+  - relpath: detect/exp6/f496ad43-20230330-tpf-507a6gx.jpg
+    md5: 7e5da55405f5c0ae26f969cb8fb27420
+    size: 334713
+    cloud:
+      myminio:
+        etag: 7e5da55405f5c0ae26f969cb8fb27420
+        version_id: 44736b6a-e5b8-419d-91ac-c75427a90894
+  - relpath: detect/exp6/f499177b-20230330-tpf-mercedes-citaro-nr594-104995.jpg
+    md5: 81ec86d92a082e519f26eec0bf22bc9a
+    size: 294671
+    cloud:
+      myminio:
+        etag: 81ec86d92a082e519f26eec0bf22bc9a
+        version_id: ccc28b0b-2fc2-4908-a1a5-b19f72afd1d1
+  - relpath: detect/exp6/f4ce6172-20230530-18.jpg
+    md5: 52eee7ed0cdc55330c345a25e40ed432
+    size: 234304
+    cloud:
+      myminio:
+        etag: 52eee7ed0cdc55330c345a25e40ed432
+        version_id: a18cf0ae-fb19-49af-aa97-eb2810b2d64a
+  - relpath: detect/exp6/f50ecf50-20230330-tpf-volvo-8700-bus-13876.jpg
+    md5: b24158d2ce90048a93b9d424c5a48c4b
+    size: 167139
+    cloud:
+      myminio:
+        etag: b24158d2ce90048a93b9d424c5a48c4b
+        version_id: d67d8a4d-bcd4-4eb1-95b1-a8023ae7421a
+  - relpath: detect/exp6/f5da857b-20230330-tpf-hess-trolleybus-nr-190635.jpg
+    md5: 763156c5ba25bc7623b9c1e25cfa4baf
+    size: 324665
+    cloud:
+      myminio:
+        etag: 763156c5ba25bc7623b9c1e25cfa4baf
+        version_id: 805100bc-bbe8-4195-b9cb-8b686f24db20
+  - relpath: detect/exp6/f6393e6b-20230530-4-20.jpg
+    md5: 32928a706d53bb16e9b0b1dce538eaef
+    size: 260185
+    cloud:
+      myminio:
+        etag: 32928a706d53bb16e9b0b1dce538eaef
+        version_id: c131b23a-9df5-4951-a259-63748e3cf19a
+  - relpath: detect/exp6/f7290987-20230530-tl-nr-666-man-a40-162601.jpg
+    md5: 68395b3046f26206004df7dc3e1f6d08
+    size: 341561
+    cloud:
+      myminio:
+        etag: 68395b3046f26206004df7dc3e1f6d08
+        version_id: 3aa8af2f-56e4-4247-b5ca-31ca80db8ee9
+  - relpath: detect/exp6/f7c440cc-20230530-3-30.jpg
+    md5: e4e91facb08e15c10f3e9d42349ca1e7
+    size: 231345
+    cloud:
+      myminio:
+        etag: e4e91facb08e15c10f3e9d42349ca1e7
+        version_id: a7dbb1bf-20f8-4d07-a2f5-2cd13411ea61
+  - relpath: detect/exp6/f8543dc9-20230330-0.97118400_1340382719.jpg
+    md5: 306222d1b5911789d4bca067eba6788f
+    size: 113300
+    cloud:
+      myminio:
+        etag: 306222d1b5911789d4bca067eba6788f
+        version_id: d9d1be84-d907-4987-851a-509662e49172
+  - relpath: detect/exp6/f890d71e-20230530-3-29.jpg
+    md5: b7d3f66f5f1238be4d9a462538d07b01
+    size: 264369
+    cloud:
+      myminio:
+        etag: b7d3f66f5f1238be4d9a462538d07b01
+        version_id: ebf70569-35a5-441f-b554-45aa6880a9e9
+  - relpath: detect/exp6/f8dada68-20230530-bernmobil-am-letzten-montag-des-1444.jpg
+    md5: e4325eef4171d50c1bbbed01cfe4be29
+    size: 397181
+    cloud:
+      myminio:
+        etag: e4325eef4171d50c1bbbed01cfe4be29
+        version_id: 427b37f5-34a2-41b5-8b7b-8e575e1b4d64
+  - relpath: detect/exp6/f8ea9a14-20230330-tpf-mercedes-citaro-nr84-128751.jpg
+    md5: 264e1e89c9e87447b32b7e6accec64b4
+    size: 407029
+    cloud:
+      myminio:
+        etag: 264e1e89c9e87447b32b7e6accec64b4
+        version_id: 5fc536a1-1856-473a-bf48-1d27eb07d830
+  - relpath: detect/exp6/f99e33c2-20230330-201020-tpf-fribourg-wieland-646969.jpg
+    md5: 2fb608f9a84a1a3dea292045962dcfd9
+    size: 257169
+    cloud:
+      myminio:
+        etag: 2fb608f9a84a1a3dea292045962dcfd9
+        version_id: 0fe1a898-f9a7-41f9-8aa0-ba7902426e57
+  - relpath: detect/exp6/fa46d230-20230330-2-9.jpg
+    md5: 8b697a1b87370a9ac633ce376765baca
+    size: 242529
+    cloud:
+      myminio:
+        etag: 8b697a1b87370a9ac633ce376765baca
+        version_id: 179eeb1f-228b-4785-80ee-97b43a8d3716
+  - relpath: detect/exp6/fac5420b-20230530-24197511475_45fc18613c_b.jpg
+    md5: 03f9ccd6b4ca8d8a661b9534a9f2959a
+    size: 333803
+    cloud:
+      myminio:
+        etag: 03f9ccd6b4ca8d8a661b9534a9f2959a
+        version_id: c94ad417-311a-4073-a5a3-06093a6418c6
+  - relpath: detect/exp6/fb3b7f5d-20230330-tpf-mercedes-citaro-nr125-163096.jpg
+    md5: b14369556f19fd9cc004f66a1c3bdc3e
+    size: 347102
+    cloud:
+      myminio:
+        etag: b14369556f19fd9cc004f66a1c3bdc3e
+        version_id: 84357ee5-5075-44c8-897d-add51d1b601c
+  - relpath: detect/exp6/fb7ff941-20230530-61_11_10.jpg
+    md5: 803054b8382ed2f934c03ed9da8841ca
+    size: 159406
+    cloud:
+      myminio:
+        etag: 803054b8382ed2f934c03ed9da8841ca
+        version_id: 2896f1ff-a11b-4459-8072-32dd6efd86c7
+  - relpath: detect/exp6/fbb5589d-20230330-2615644.jpg
+    md5: 15af3e4a878a042045afbff2d5a53e89
+    size: 64137
+    cloud:
+      myminio:
+        etag: 15af3e4a878a042045afbff2d5a53e89
+        version_id: c33023b6-a126-463d-a6a8-2bd914154171
+  - relpath: detect/exp6/fbd6c9bc-20230530-bus-lausanne.jpg
+    md5: 8d5966c59f26f3bc0db74b66e0bb0b62
+    size: 57132
+    cloud:
+      myminio:
+        etag: 8d5966c59f26f3bc0db74b66e0bb0b62
+        version_id: b0eaaa84-4fc3-4568-be9a-a5ddcc09d32d
+  - relpath: detect/exp6/fc00e4f2-20230530-tl-lausanne-hess-trolleybus-124918.jpg
+    md5: bd5b16728feab85c1e2b25f6b7b14c86
+    size: 442368
+    cloud:
+      myminio:
+        etag: bd5b16728feab85c1e2b25f6b7b14c86
+        version_id: 1922372c-17ae-4b78-ae2c-c2fccfb634db
+  - relpath: detect/exp6/fc2ab566-20230530-bernmobil-bern-nr-850be-671850-52208.jpg
+    md5: ad33e136ae9f015cce373dad58fec285
+    size: 251493
+    cloud:
+      myminio:
+        etag: ad33e136ae9f015cce373dad58fec285
+        version_id: 6884e691-3c31-4811-b2ad-a78cf153fa79
+  - relpath: detect/exp6/fc55dffc-20230530-10-5.jpg
+    md5: f56bc4995fdcca997b22668350de11df
+    size: 249420
+    cloud:
+      myminio:
+        etag: f56bc4995fdcca997b22668350de11df
+        version_id: 723682ab-4d87-4784-a581-132c79054faa
+  - relpath: detect/exp6/fd0caa2f-20230530-tpg-trolleybus-nr788-unterwegs-13115.jpg
+    md5: 92e7b37ae6fa8e20f7c17d1757065afa
+    size: 487793
+    cloud:
+      myminio:
+        etag: 92e7b37ae6fa8e20f7c17d1757065afa
+        version_id: c4526132-3b4f-416a-9cb0-a88c03be5b61
+  - relpath: detect/exp6/fd452da2-20230530-maxresdefault-1.jpg
+    md5: 9be7ce48c0484cebd62d905748dd37ec
+    size: 243366
+    cloud:
+      myminio:
+        etag: 9be7ce48c0484cebd62d905748dd37ec
+        version_id: 63c27734-e559-4fd7-8219-c1b0dd56a950
+  - relpath: detect/exp6/fdfab88b-20230530-43629654215_47d5d4ecca_b.jpg
+    md5: 8f7e17d403becb76349df121617392c5
+    size: 296844
+    cloud:
+      myminio:
+        etag: 8f7e17d403becb76349df121617392c5
+        version_id: 42dc6d06-232c-45c9-b61f-2331a204667f
+  - relpath: detect/exp6/fe41c0e4-20230330-tpf_513.jpg
+    md5: 86eef037d798eb0c10bb7397ace056c3
+    size: 63903
+    cloud:
+      myminio:
+        etag: 86eef037d798eb0c10bb7397ace056c3
+        version_id: 9f8bb62f-b1a1-4101-8f28-108dbaf3520f
+  - relpath: detect/exp6/fe5fdbea-20230530-15-1.jpg
+    md5: 1e73f6d6025a1cc5a27f23db567292e2
+    size: 262437
+    cloud:
+      myminio:
+        etag: 1e73f6d6025a1cc5a27f23db567292e2
+        version_id: 5f1b66c5-5f9e-4e6e-9ff6-1992bf9572ba
+  - relpath: detect/exp6/ff0432a6-20230530-3-10.jpg
+    md5: d19b709cb3045a17f1269a898254a687
+    size: 271105
+    cloud:
+      myminio:
+        etag: d19b709cb3045a17f1269a898254a687
+        version_id: a6a4ea8f-c215-4747-bc47-cae87adfb566
+  - relpath: detect/exp6/ff1a5240-20230530-tl-nr-646-man-a40-159397.jpg
+    md5: a162415647069b241b83323577f964f2
+    size: 281059
+    cloud:
+      myminio:
+        etag: a162415647069b241b83323577f964f2
+        version_id: 3b0024c8-c3fb-4b50-a67f-6c310ec7f184
+  - relpath: detect/exp6/ff6921ae-20230530-tl-neoplan-bus-nr618-36015.jpg
+    md5: d535edfd34c9e8a68666f91ba326ebac
+    size: 315809
+    cloud:
+      myminio:
+        etag: d535edfd34c9e8a68666f91ba326ebac
+        version_id: f917282c-5c6b-4e00-9d27-1056b3242110
+  - relpath: detect/exp6/ff768bba-20230330-tpf-volvo-8700-nr105-71073.jpg
+    md5: e96c40b516ce6d58d4efce2b775040bc
+    size: 272396
+    cloud:
+      myminio:
+        etag: e96c40b516ce6d58d4efce2b775040bc
+        version_id: 7204cd05-a55a-422c-8938-d715fd3698dd
+  - relpath: detect/exp6/ff82b6d9-20230330-tpf-fribourg-nr-590fr-300380-52760.jpg
+    md5: 0a85b51c7c2787c551554c9d9d513d57
+    size: 219750
+    cloud:
+      myminio:
+        etag: 0a85b51c7c2787c551554c9d9d513d57
+        version_id: bfee652c-bea9-4c8d-a294-998746437d56
+  - relpath: detect/exp6/ffba4040-20230530-volvo-bus-mit-betriebsnummer-825-701.jpg
+    md5: 34386995e0dd0803e4a6e62013b79bf8
+    size: 263947
+    cloud:
+      myminio:
+        etag: 34386995e0dd0803e4a6e62013b79bf8
+        version_id: 53a7df0c-22ec-4f58-a67d-4104eb03ae5b
+  - relpath: evolve/exp5/evolve.csv
+    md5: 0b25e6795d4fc3a8fd4a443627084f14
+    size: 227556
+    cloud:
+      myminio:
+        etag: 0b25e6795d4fc3a8fd4a443627084f14
+        version_id: ea7f28c8-3f2c-4933-8ebe-773d0a363018
+  - relpath: evolve/exp5/evolve.png
+    md5: b76fe3db997aa606aeeb62c5711e884e
+    size: 1275379
+    cloud:
+      myminio:
+        etag: b76fe3db997aa606aeeb62c5711e884e
+        version_id: 75ca4943-e396-48a6-9953-1671e52dbf09
+  - relpath: evolve/exp5/hyp_evolve.yaml
+    md5: 86f868667bfa7483e5ca157d54357ee2
+    size: 847
+    cloud:
+      myminio:
+        etag: 86f868667bfa7483e5ca157d54357ee2
+        version_id: b5160d16-bc9f-4e59-8537-81d53de0e342
+  - relpath: evolve/exp5/labels.jpg
+    md5: a0a8db0928a3aed3477dd9795ba07d38
+    size: 121930
+    cloud:
+      myminio:
+        etag: a0a8db0928a3aed3477dd9795ba07d38
+        version_id: ef4cd0fd-d74e-4676-a1fc-392867364376
+  - relpath: evolve/exp5/labels_correlogram.jpg
+    md5: f146e188d00b39d4354755a57d1a6ed2
+    size: 202287
+    cloud:
+      myminio:
+        etag: f146e188d00b39d4354755a57d1a6ed2
+        version_id: 97d6d29f-39b9-4428-8d1c-485ac5a92e57
+  - relpath: evolve/exp5/results.csv
+    md5: 8a4498bc8c9fe96761faf41ef771bc67
+    size: 882294
+    cloud:
+      myminio:
+        etag: 8a4498bc8c9fe96761faf41ef771bc67
+        version_id: 1610caef-6112-4162-83ce-71124375c71d
+  - relpath: evolve/exp5/results.png
+    md5: c79649ce6b46562f1b98f13e5c712bbf
+    size: 291923
+    cloud:
+      myminio:
+        etag: c79649ce6b46562f1b98f13e5c712bbf
+        version_id: 43dd39c7-7e09-4369-aab9-0fdeb340005e
+  - relpath: evolve/exp5/train_batch0.jpg
+    md5: 920b6641ff6723ed962785173c88c4ef
+    size: 648310
+    cloud:
+      myminio:
+        etag: 920b6641ff6723ed962785173c88c4ef
+        version_id: e8084779-9ec0-48cd-b0a7-ff1bc856e9d7
+  - relpath: evolve/exp5/train_batch1.jpg
+    md5: a114d9ae4e00e8b108fc2f706c2bfbe7
+    size: 608025
+    cloud:
+      myminio:
+        etag: a114d9ae4e00e8b108fc2f706c2bfbe7
+        version_id: 23a04c02-87d6-4f2c-8199-062fce6a7669
+  - relpath: evolve/exp5/train_batch2.jpg
+    md5: 567b410a14adfb06c42ccb9e3c33ac26
+    size: 636282
+    cloud:
+      myminio:
+        etag: 567b410a14adfb06c42ccb9e3c33ac26
+        version_id: 9c5a5ec9-cf77-4301-9bdc-c70e86951d6e
+  - relpath: evolve/exp6/evolve.csv
+    md5: d31043a50a4b4fe223fd7ad38d13c248
+    size: 227556
+    cloud:
+      myminio:
+        etag: d31043a50a4b4fe223fd7ad38d13c248
+        version_id: a7591486-2519-47f8-a891-9cc1d30cae8d
+  - relpath: evolve/exp6/evolve.png
+    md5: b1a8bc11a1e04dad6807ff0654b35c8b
+    size: 1156635
+    cloud:
+      myminio:
+        etag: b1a8bc11a1e04dad6807ff0654b35c8b
+        version_id: c29b664a-eccd-4f52-870c-35ed00069fc0
+  - relpath: evolve/exp6/hyp_evolve.yaml
+    md5: 1fb7287a9d506728ab4ac801ce7a0399
+    size: 843
+    cloud:
+      myminio:
+        etag: 1fb7287a9d506728ab4ac801ce7a0399
+        version_id: 19789b1a-84d9-40aa-973a-81f80c18d27f
+  - relpath: evolve/exp6/labels.jpg
+    md5: 03566dc0c37d6cfa364d3843087cc93b
+    size: 131718
+    cloud:
+      myminio:
+        etag: 03566dc0c37d6cfa364d3843087cc93b
+        version_id: 7cae7dcf-c307-48dd-911f-c9c46d121663
+  - relpath: evolve/exp6/labels_correlogram.jpg
+    md5: 0da37f77eaf8a45fe5bd20f62f641868
+    size: 199415
+    cloud:
+      myminio:
+        etag: 0da37f77eaf8a45fe5bd20f62f641868
+        version_id: fd069837-918a-48cc-8d40-b6722227d776
+  - relpath: evolve/exp6/results.csv
+    md5: 79f25d7ce5e403b5f5b5aa87f3700b28
+    size: 882294
+    cloud:
+      myminio:
+        etag: 79f25d7ce5e403b5f5b5aa87f3700b28
+        version_id: a2e192dd-3390-4e51-b529-2d5554524863
+  - relpath: evolve/exp6/results.png
+    md5: f10c24e9596ac362b505f10f8841546f
+    size: 279367
+    cloud:
+      myminio:
+        etag: f10c24e9596ac362b505f10f8841546f
+        version_id: b4f83fb1-fc86-448a-8243-806b8238a81b
+  - relpath: evolve/exp6/train_batch0.jpg
+    md5: f197c5b88bdaf7443761f24188ea028e
+    size: 658332
+    cloud:
+      myminio:
+        etag: f197c5b88bdaf7443761f24188ea028e
+        version_id: 8e45b9a8-0bd8-4a8c-a7b9-6b55234a38b1
+  - relpath: evolve/exp6/train_batch1.jpg
+    md5: f8b0042c54892ce5a3fd321dad6e0a44
+    size: 653108
+    cloud:
+      myminio:
+        etag: f8b0042c54892ce5a3fd321dad6e0a44
+        version_id: eada24a1-71da-4450-b76d-8977a7fbd9f8
+  - relpath: evolve/exp6/train_batch2.jpg
+    md5: 105844f8e37fa251d4cc3d6b92e7b53c
+    size: 614546
+    cloud:
+      myminio:
+        etag: 105844f8e37fa251d4cc3d6b92e7b53c
+        version_id: 08e1574a-eba7-4269-8156-e012ba5f05ce
+  - relpath: train/exp/F1_curve.png
+    md5: d96c648c2952a4732623a5c6501a9895
+    size: 99639
+    cloud:
+      myminio:
+        etag: d96c648c2952a4732623a5c6501a9895
+        version_id: 11b7b4de-4058-43c1-a468-d9453b5e2e9d
+  - relpath: train/exp/PR_curve.png
+    md5: d3c6ef18bc680a62af2e422884964707
+    size: 83259
+    cloud:
+      myminio:
+        etag: d3c6ef18bc680a62af2e422884964707
+        version_id: 3c837bab-fd55-4b4b-a71e-4e40baa40955
+  - relpath: train/exp/P_curve.png
+    md5: 9c9d9c0e97acb0d39bec56398e2f08ff
+    size: 88166
+    cloud:
+      myminio:
+        etag: 9c9d9c0e97acb0d39bec56398e2f08ff
+        version_id: c1750348-354c-4b73-b9e4-5514b8c5b48b
+  - relpath: train/exp/R_curve.png
+    md5: 923a1011200c6c04c9920661486f54ce
+    size: 95288
+    cloud:
+      myminio:
+        etag: 923a1011200c6c04c9920661486f54ce
+        version_id: 5c3dcf7c-91fc-4f20-9059-6c0f29499427
+  - relpath: train/exp/confusion_matrix.png
+    md5: db1f2a06cc7d7c9a071b911e7258184a
+    size: 88542
+    cloud:
+      myminio:
+        etag: db1f2a06cc7d7c9a071b911e7258184a
+        version_id: 301ed40b-bc99-419c-9527-20b53511a4a4
+  - relpath: train/exp/events.out.tfevents.1680774448.MB-39.sunrise.box.68826.0
+    md5: 819955e1f0609b9e6b395dcdc03e9739
+    size: 926173
+    cloud:
+      myminio:
+        etag: 819955e1f0609b9e6b395dcdc03e9739
+        version_id: 3630d60b-3811-45e4-93f3-2ce061d125db
+  - relpath: train/exp/hyp.yaml
+    md5: 0b99b67c046abfdcc69005b3d8db9e83
+    size: 373
+    cloud:
+      myminio:
+        etag: 0b99b67c046abfdcc69005b3d8db9e83
+        version_id: 29428cc3-f1c9-4b0a-80d2-e02b3aa6eeab
+  - relpath: train/exp/labels.jpg
+    md5: a0a8db0928a3aed3477dd9795ba07d38
+    size: 121930
+    cloud:
+      myminio:
+        etag: a0a8db0928a3aed3477dd9795ba07d38
+        version_id: 5da480b9-c39a-48a1-ab8f-ff4385ced7a6
+  - relpath: train/exp/labels_correlogram.jpg
+    md5: f146e188d00b39d4354755a57d1a6ed2
+    size: 202287
+    cloud:
+      myminio:
+        etag: f146e188d00b39d4354755a57d1a6ed2
+        version_id: 976b3a1e-f168-4ca1-8903-2ec04353c017
+  - relpath: train/exp/opt.yaml
+    md5: e6d91d8e0cd8fbdc999f4a2766eb30a1
+    size: 1088
+    cloud:
+      myminio:
+        etag: e6d91d8e0cd8fbdc999f4a2766eb30a1
+        version_id: d5c8e3a9-0125-4016-b0d5-8ae68f6d70db
+  - relpath: train/exp/results.csv
+    md5: c1cb5810b0100d173e7ab0e0ef6c7997
+    size: 3234
+    cloud:
+      myminio:
+        etag: c1cb5810b0100d173e7ab0e0ef6c7997
+        version_id: 6895f7bf-48a2-47e0-96b6-1a6f6c38598f
+  - relpath: train/exp/results.png
+    md5: 2cf601f82b0f538f2f817254a8df8f8e
+    size: 245590
+    cloud:
+      myminio:
+        etag: 2cf601f82b0f538f2f817254a8df8f8e
+        version_id: 5ba133ed-0152-411d-b68f-5bb1410c17e6
+  - relpath: train/exp/train_batch0.jpg
+    md5: 931e6cbb831f2e7c601116726760464c
+    size: 644797
+    cloud:
+      myminio:
+        etag: 931e6cbb831f2e7c601116726760464c
+        version_id: 1726425b-3072-434c-a170-0f6f42d86ad6
+  - relpath: train/exp/train_batch1.jpg
+    md5: 69efacd1c48a60e18d2d69fc5ff9e718
+    size: 619077
+    cloud:
+      myminio:
+        etag: 69efacd1c48a60e18d2d69fc5ff9e718
+        version_id: 785f1882-a6c0-464e-8ef6-d1829a0126d7
+  - relpath: train/exp/train_batch2.jpg
+    md5: abb66a41be0d35d34eae24b2e904308e
+    size: 613255
+    cloud:
+      myminio:
+        etag: abb66a41be0d35d34eae24b2e904308e
+        version_id: a58305b9-37d2-4c5f-be56-0b7535e84391
+  - relpath: train/exp/val_batch0_labels.jpg
+    md5: cff7f59a0dc49b03a4933fa4dc630ee8
+    size: 538394
+    cloud:
+      myminio:
+        etag: cff7f59a0dc49b03a4933fa4dc630ee8
+        version_id: 5a5848a2-bb90-4ca2-82fe-6e41466d6e55
+  - relpath: train/exp/val_batch0_pred.jpg
+    md5: 1525e06dc5b1fdd49fc069a40dc27777
+    size: 528722
+    cloud:
+      myminio:
+        etag: 1525e06dc5b1fdd49fc069a40dc27777
+        version_id: 4c3713df-baa9-43fb-868e-7a3444378d90
+  - relpath: train/exp/val_batch1_labels.jpg
+    md5: dfe0aa138433523c18cbe082b229f776
+    size: 555206
+    cloud:
+      myminio:
+        etag: dfe0aa138433523c18cbe082b229f776
+        version_id: f3f61d19-2341-4eea-95e5-bd20b997b986
+  - relpath: train/exp/val_batch1_pred.jpg
+    md5: 860e2f05f1ad0ca2b17d3340b7bac8aa
+    size: 543203
+    cloud:
+      myminio:
+        etag: 860e2f05f1ad0ca2b17d3340b7bac8aa
+        version_id: 3024fad1-990e-4a5a-82ae-b6fd86435125
+  - relpath: train/exp/weights/best.pt
+    md5: 77fbbc07cc325c792924d88c54092885
+    size: 14388349
+    cloud:
+      myminio:
+        etag: 77fbbc07cc325c792924d88c54092885
+        version_id: e25b551a-1b9c-472a-827e-3e56776ed3d1
+  - relpath: train/exp/weights/last.pt
+    md5: 27af4a4b317bbedea5cc4e16feaccb07
+    size: 14388349
+    cloud:
+      myminio:
+        etag: 27af4a4b317bbedea5cc4e16feaccb07
+        version_id: bb658a09-fb03-4d92-b9a8-cdd52d924d1c
+  - relpath: train/exp2/F1_curve.png
+    md5: efc02ea0aea6a8811777669a15177d87
+    size: 107702
+    cloud:
+      myminio:
+        etag: efc02ea0aea6a8811777669a15177d87
+        version_id: cce399af-0ad8-4e87-83c4-e50c40275cd8
+  - relpath: train/exp2/PR_curve.png
+    md5: f8dbde1e65382e5034da01466066b4cd
+    size: 79196
+    cloud:
+      myminio:
+        etag: f8dbde1e65382e5034da01466066b4cd
+        version_id: 967bb2b9-8952-497b-a904-2e1fd6d4958a
+  - relpath: train/exp2/P_curve.png
+    md5: c1fa57aa42715fd7d77c284840eaf1c4
+    size: 97940
+    cloud:
+      myminio:
+        etag: c1fa57aa42715fd7d77c284840eaf1c4
+        version_id: 1fbafe07-d870-4470-838b-1afdfe78b599
+  - relpath: train/exp2/R_curve.png
+    md5: a37d049a306f7e6a6e757986cbd26dd2
+    size: 98937
+    cloud:
+      myminio:
+        etag: a37d049a306f7e6a6e757986cbd26dd2
+        version_id: f13f1720-cfe5-44a7-8325-8f0cb2867233
+  - relpath: train/exp2/confusion_matrix.png
+    md5: 4c4559447e22a7e3168594ec211801d6
+    size: 85173
+    cloud:
+      myminio:
+        etag: 4c4559447e22a7e3168594ec211801d6
+        version_id: bd94d464-c06f-4465-8313-b3f242d3fd67
+  - relpath: train/exp2/events.out.tfevents.1680779855.MB-39.sunrise.box.76767.0
+    md5: 732311206544f037056e02ab498d5a9a
+    size: 950960
+    cloud:
+      myminio:
+        etag: 732311206544f037056e02ab498d5a9a
+        version_id: 6dfdec55-eb19-4ba8-a74f-9322b0a6e473
+  - relpath: train/exp2/hyp.yaml
+    md5: 0b99b67c046abfdcc69005b3d8db9e83
+    size: 373
+    cloud:
+      myminio:
+        etag: 0b99b67c046abfdcc69005b3d8db9e83
+        version_id: 55852406-305e-43e5-810c-26b49aea8bf2
+  - relpath: train/exp2/labels.jpg
+    md5: a0a8db0928a3aed3477dd9795ba07d38
+    size: 121930
+    cloud:
+      myminio:
+        etag: a0a8db0928a3aed3477dd9795ba07d38
+        version_id: 06600095-3e74-44ce-9597-aa3e13627fea
+  - relpath: train/exp2/labels_correlogram.jpg
+    md5: f146e188d00b39d4354755a57d1a6ed2
+    size: 202287
+    cloud:
+      myminio:
+        etag: f146e188d00b39d4354755a57d1a6ed2
+        version_id: 10fbad4b-d044-4247-8448-81236d5ead8b
+  - relpath: train/exp2/opt.yaml
+    md5: 4d5c76158c1b43e2036d6992b190281c
+    size: 1087
+    cloud:
+      myminio:
+        etag: 4d5c76158c1b43e2036d6992b190281c
+        version_id: 6fd882c5-f0df-4444-ba2a-7a6d36e5783b
+  - relpath: train/exp2/results.csv
+    md5: c52b21b1f082e96cae7420b03a69b1eb
+    size: 6174
+    cloud:
+      myminio:
+        etag: c52b21b1f082e96cae7420b03a69b1eb
+        version_id: 8738d6a6-98fe-4166-a2a7-a14519532eaf
+  - relpath: train/exp2/results.png
+    md5: b7a5b9495cfbfa2e6f137c1a41101299
+    size: 250020
+    cloud:
+      myminio:
+        etag: b7a5b9495cfbfa2e6f137c1a41101299
+        version_id: 472e5a8e-ff72-410e-8e0c-76a9c0964ea4
+  - relpath: train/exp2/train_batch0.jpg
+    md5: 931e6cbb831f2e7c601116726760464c
+    size: 644797
+    cloud:
+      myminio:
+        etag: 931e6cbb831f2e7c601116726760464c
+        version_id: 6b684256-249d-438e-af19-2df06641b32a
+  - relpath: train/exp2/train_batch1.jpg
+    md5: 864025ca04555d07519d733651b0dd8c
+    size: 606123
+    cloud:
+      myminio:
+        etag: 864025ca04555d07519d733651b0dd8c
+        version_id: c2842e1e-17bd-463e-ae91-d47f7946f621
+  - relpath: train/exp2/train_batch2.jpg
+    md5: e83017eb758aaecaa56a18fe8118846b
+    size: 633660
+    cloud:
+      myminio:
+        etag: e83017eb758aaecaa56a18fe8118846b
+        version_id: 37c239e6-0f93-46ab-b237-6316d470e3d9
+  - relpath: train/exp2/val_batch0_labels.jpg
+    md5: cff7f59a0dc49b03a4933fa4dc630ee8
+    size: 538394
+    cloud:
+      myminio:
+        etag: cff7f59a0dc49b03a4933fa4dc630ee8
+        version_id: 68c0f1d6-a4ac-4beb-a9ec-16edf3ad6d06
+  - relpath: train/exp2/val_batch0_pred.jpg
+    md5: 1e60e80c45452ea2be4209c8876c3a01
+    size: 546097
+    cloud:
+      myminio:
+        etag: 1e60e80c45452ea2be4209c8876c3a01
+        version_id: d85a7e14-75e7-4f96-af3a-22654b59a276
+  - relpath: train/exp2/weights/best.pt
+    md5: 3b26b7f30bc0e7711688f3accd2164a8
+    size: 14388349
+    cloud:
+      myminio:
+        etag: 3b26b7f30bc0e7711688f3accd2164a8
+        version_id: e2c29b52-8126-4437-bed6-66859b5b3fc0
+  - relpath: train/exp2/weights/last.pt
+    md5: 3c74254914fc2e17632a1485b4fd003b
+    size: 14388349
+    cloud:
+      myminio:
+        etag: 3c74254914fc2e17632a1485b4fd003b
+        version_id: fccae80a-66f2-4b97-931b-8a0b52664d38
+  - relpath: train/exp3/F1_curve.png
+    md5: f0279bb148682ac8730c10cac0aa749e
+    size: 97553
+    cloud:
+      myminio:
+        etag: f0279bb148682ac8730c10cac0aa749e
+        version_id: 0dbe848b-7d0e-4304-92a6-21c47d7917c7
+  - relpath: train/exp3/PR_curve.png
+    md5: 306dd5cfc3d76453a5cd9d502e782105
+    size: 77543
+    cloud:
+      myminio:
+        etag: 306dd5cfc3d76453a5cd9d502e782105
+        version_id: 515e3bdf-e72c-4200-ac9f-87c381c59af1
+  - relpath: train/exp3/P_curve.png
+    md5: 21949535828d334accbf2c9f0d560adc
+    size: 90953
+    cloud:
+      myminio:
+        etag: 21949535828d334accbf2c9f0d560adc
+        version_id: 3b52e2f2-4bd8-4374-9947-ef26f6c72c26
+  - relpath: train/exp3/R_curve.png
+    md5: b0d5af25a7862677b53d97129d9c905e
+    size: 89954
+    cloud:
+      myminio:
+        etag: b0d5af25a7862677b53d97129d9c905e
+        version_id: 9f420463-d0cb-42c1-8f05-7c0a884fe4c5
+  - relpath: train/exp3/confusion_matrix.png
+    md5: 4df092220d2103ceddac8e30c60a0f9d
+    size: 86640
+    cloud:
+      myminio:
+        etag: 4df092220d2103ceddac8e30c60a0f9d
+        version_id: 0e249467-241a-4aa4-ba0c-3f7066306d14
+  - relpath: train/exp3/events.out.tfevents.1681292899.icolab-gpu-5.1796146.0
+    md5: 33f2513883d8e3cf39e7ef1cb1e64784
+    size: 941306
+    cloud:
+      myminio:
+        etag: 33f2513883d8e3cf39e7ef1cb1e64784
+        version_id: 8a3c39b4-ab94-4b26-9be4-aae2e4bae48b
+  - relpath: train/exp3/hyp.yaml
+    md5: f365a5a997d8db9e3f3d0061cce1ff3c
+    size: 373
+    cloud:
+      myminio:
+        etag: f365a5a997d8db9e3f3d0061cce1ff3c
+        version_id: 4cfdc257-8fa9-4a5a-b542-1dd88c223214
+  - relpath: train/exp3/labels.jpg
+    md5: a0a8db0928a3aed3477dd9795ba07d38
+    size: 121930
+    cloud:
+      myminio:
+        etag: a0a8db0928a3aed3477dd9795ba07d38
+        version_id: 0394e2fd-08be-4f2c-8a4c-4f4b9933b316
+  - relpath: train/exp3/labels_correlogram.jpg
+    md5: f146e188d00b39d4354755a57d1a6ed2
+    size: 202287
+    cloud:
+      myminio:
+        etag: f146e188d00b39d4354755a57d1a6ed2
+        version_id: 03a9bf8c-43a6-4b7c-af91-9788f9c1c5b5
+  - relpath: train/exp3/opt.yaml
+    md5: 185028b83e5a25161424e4cb996515e1
+    size: 1084
+    cloud:
+      myminio:
+        etag: 185028b83e5a25161424e4cb996515e1
+        version_id: 7b96a790-21f9-478b-8711-16b7cc0db389
+  - relpath: train/exp3/results.csv
+    md5: c2435c708475eb651ee98da574965cc8
+    size: 29694
+    cloud:
+      myminio:
+        etag: c2435c708475eb651ee98da574965cc8
+        version_id: 58456786-1e42-4a41-8786-97644f7e7c42
+  - relpath: train/exp3/results.png
+    md5: 2dd1ad943096074de47d8b2b2b4f4434
+    size: 209732
+    cloud:
+      myminio:
+        etag: 2dd1ad943096074de47d8b2b2b4f4434
+        version_id: 4db8361d-8a04-459e-96e2-8392fab480ad
+  - relpath: train/exp3/train_batch0.jpg
+    md5: 271cf292597ccadd0402633d875ecad6
+    size: 645029
+    cloud:
+      myminio:
+        etag: 271cf292597ccadd0402633d875ecad6
+        version_id: 7de51c58-8fc3-4108-9996-797651180e3c
+  - relpath: train/exp3/train_batch1.jpg
+    md5: 6248743b133a4bdddefa5765f1285047
+    size: 610093
+    cloud:
+      myminio:
+        etag: 6248743b133a4bdddefa5765f1285047
+        version_id: 9e9f8f46-3a55-4b9a-9579-326de46502c4
+  - relpath: train/exp3/train_batch2.jpg
+    md5: d5113beca7ef86ed30af0659a5a6433e
+    size: 622581
+    cloud:
+      myminio:
+        etag: d5113beca7ef86ed30af0659a5a6433e
+        version_id: fec8ee56-8abe-45c5-bc37-4e90a039fb7b
+  - relpath: train/exp3/val_batch0_labels.jpg
+    md5: dbea28b92d5ba385ad2e913051290cc6
+    size: 539192
+    cloud:
+      myminio:
+        etag: dbea28b92d5ba385ad2e913051290cc6
+        version_id: 33de06cd-581e-4f90-9cf9-5f67f69d6f28
+  - relpath: train/exp3/val_batch0_pred.jpg
+    md5: 8826307b191b3e401462728433dc82fd
+    size: 545340
+    cloud:
+      myminio:
+        etag: 8826307b191b3e401462728433dc82fd
+        version_id: aebe5de1-0261-402b-ac94-9171cf3f1a1b
+  - relpath: train/exp3/weights/best.pt
+    md5: 47a978b88f47059ef2e3ddff0cd631cf
+    size: 14388413
+    cloud:
+      myminio:
+        etag: 47a978b88f47059ef2e3ddff0cd631cf
+        version_id: 78775493-c317-414a-84eb-6b90f6fc2adb
+  - relpath: train/exp3/weights/last.pt
+    md5: 082c0431a479f8f3bc4108e063f81eb7
+    size: 14388413
+    cloud:
+      myminio:
+        etag: 082c0431a479f8f3bc4108e063f81eb7
+        version_id: e8237be8-7f9e-41cc-912d-e6dce5a8ad1f
+  - relpath: train/exp4/F1_curve.png
+    md5: 08b1fc852e0a7196a9e88ef77cec83e7
+    size: 92521
+    cloud:
+      myminio:
+        etag: 08b1fc852e0a7196a9e88ef77cec83e7
+        version_id: 664fe9b5-8cae-4517-9a73-a817dd9d511f
+  - relpath: train/exp4/PR_curve.png
+    md5: 0bc7e07a919105eefceea1b679cd6344
+    size: 78480
+    cloud:
+      myminio:
+        etag: 0bc7e07a919105eefceea1b679cd6344
+        version_id: d5657de3-b553-48b4-9935-077b0707c44e
+  - relpath: train/exp4/P_curve.png
+    md5: 8ca69bfdc8eeb348cb567008c45b183f
+    size: 89293
+    cloud:
+      myminio:
+        etag: 8ca69bfdc8eeb348cb567008c45b183f
+        version_id: e685fad4-7647-48af-a1b9-11548106addf
+  - relpath: train/exp4/R_curve.png
+    md5: c5cce920cad34e61a8ca4111b38627db
+    size: 89231
+    cloud:
+      myminio:
+        etag: c5cce920cad34e61a8ca4111b38627db
+        version_id: 1f45fe47-1681-447d-af24-d4832ef671e7
+  - relpath: train/exp4/confusion_matrix.png
+    md5: e9504fa063ae3fd268d99d81d77e3ff6
+    size: 86287
+    cloud:
+      myminio:
+        etag: e9504fa063ae3fd268d99d81d77e3ff6
+        version_id: 5843e808-47b4-41ae-9e1f-ca84e7b41eb8
+  - relpath: train/exp4/events.out.tfevents.1681295412.icolab-gpu-5.1798212.0
+    md5: 12fd6941f00cdb153697ead01480c3a1
+    size: 1060304
+    cloud:
+      myminio:
+        etag: 12fd6941f00cdb153697ead01480c3a1
+        version_id: 363bb900-9105-4cf9-8ff6-a00f6f86be92
+  - relpath: train/exp4/hyp.yaml
+    md5: f365a5a997d8db9e3f3d0061cce1ff3c
+    size: 373
+    cloud:
+      myminio:
+        etag: f365a5a997d8db9e3f3d0061cce1ff3c
+        version_id: fc3e3d1a-d701-438c-b52d-1cc4d480b7e8
+  - relpath: train/exp4/labels.jpg
+    md5: a0a8db0928a3aed3477dd9795ba07d38
+    size: 121930
+    cloud:
+      myminio:
+        etag: a0a8db0928a3aed3477dd9795ba07d38
+        version_id: 85c1f9d7-05d1-44f1-86ca-d91ecac86321
+  - relpath: train/exp4/labels_correlogram.jpg
+    md5: f146e188d00b39d4354755a57d1a6ed2
+    size: 202287
+    cloud:
+      myminio:
+        etag: f146e188d00b39d4354755a57d1a6ed2
+        version_id: dd6fafc3-fd4d-4dd3-a668-d26e0f3c1a9c
+  - relpath: train/exp4/opt.yaml
+    md5: 606b7ab12a91b16873c900861d054d6a
+    size: 1085
+    cloud:
+      myminio:
+        etag: 606b7ab12a91b16873c900861d054d6a
+        version_id: 3d3b63ed-0eb7-4c1b-93de-590300f18bd6
+  - relpath: train/exp4/results.csv
+    md5: d572fe969e4cf908cb831f3b52bb3107
+    size: 88494
+    cloud:
+      myminio:
+        etag: d572fe969e4cf908cb831f3b52bb3107
+        version_id: 45e29268-4252-4ce2-8ece-adf7a63b83e6
+  - relpath: train/exp4/results.png
+    md5: bc8f8a85e33352003849416524ca841c
+    size: 201255
+    cloud:
+      myminio:
+        etag: bc8f8a85e33352003849416524ca841c
+        version_id: e082b4ba-1c50-4ed2-8dcd-1ca28e7ca6b1
+  - relpath: train/exp4/train_batch0.jpg
+    md5: 271cf292597ccadd0402633d875ecad6
+    size: 645029
+    cloud:
+      myminio:
+        etag: 271cf292597ccadd0402633d875ecad6
+        version_id: b03d8875-46eb-4e05-88d5-de14ebf3220c
+  - relpath: train/exp4/train_batch1.jpg
+    md5: 6248743b133a4bdddefa5765f1285047
+    size: 610093
+    cloud:
+      myminio:
+        etag: 6248743b133a4bdddefa5765f1285047
+        version_id: e5226987-edab-43e3-8016-f8a01c9e0188
+  - relpath: train/exp4/train_batch2.jpg
+    md5: d5113beca7ef86ed30af0659a5a6433e
+    size: 622581
+    cloud:
+      myminio:
+        etag: d5113beca7ef86ed30af0659a5a6433e
+        version_id: 3b2eaa04-631d-4a70-8fc3-0be11a8fe6c9
+  - relpath: train/exp4/val_batch0_labels.jpg
+    md5: dbea28b92d5ba385ad2e913051290cc6
+    size: 539192
+    cloud:
+      myminio:
+        etag: dbea28b92d5ba385ad2e913051290cc6
+        version_id: 75a235f4-17af-4765-b004-c6586c8cd632
+  - relpath: train/exp4/val_batch0_pred.jpg
+    md5: dff822495d11c479c1a2421cdf1530b6
+    size: 544762
+    cloud:
+      myminio:
+        etag: dff822495d11c479c1a2421cdf1530b6
+        version_id: 47185265-bcf8-4e87-8026-1bc9431266c3
+  - relpath: train/exp4/weights/best.pt
+    md5: 61a344536dcf847443b9127dd6823f35
+    size: 14388413
+    cloud:
+      myminio:
+        etag: 61a344536dcf847443b9127dd6823f35
+        version_id: 97e54b9d-d7d9-4068-9d5a-44d91e63a9be
+  - relpath: train/exp4/weights/last.pt
+    md5: 69ce9cfaa3864ced1dfef8f6e6173502
+    size: 14388413
+    cloud:
+      myminio:
+        etag: 69ce9cfaa3864ced1dfef8f6e6173502
+        version_id: 477924e5-43cc-4ab6-a978-19d2c68bdc48
+  - relpath: train/exp5/F1_curve.png
+    md5: 08da880c98d1b6e1d18042e4ef58a1d1
+    size: 91341
+    cloud:
+      myminio:
+        etag: 08da880c98d1b6e1d18042e4ef58a1d1
+        version_id: fe110442-124c-4af3-9d8f-8476997a950f
+  - relpath: train/exp5/PR_curve.png
+    md5: 8bb347db33b87685ff6cd093fb13d0c9
+    size: 77001
+    cloud:
+      myminio:
+        etag: 8bb347db33b87685ff6cd093fb13d0c9
+        version_id: b23b0d9d-be78-4791-8047-d6873126935c
+  - relpath: train/exp5/P_curve.png
+    md5: 6720c21ebec9459a6396ddbaa9ae925d
+    size: 81951
+    cloud:
+      myminio:
+        etag: 6720c21ebec9459a6396ddbaa9ae925d
+        version_id: ba05668c-a6af-47ec-b474-a15be163e073
+  - relpath: train/exp5/R_curve.png
+    md5: 628cab11244efe26fe25831fe7a33c10
+    size: 90331
+    cloud:
+      myminio:
+        etag: 628cab11244efe26fe25831fe7a33c10
+        version_id: 0e9576dd-e680-4adc-983f-2a084f2ec87e
+  - relpath: train/exp5/confusion_matrix.png
+    md5: 4df092220d2103ceddac8e30c60a0f9d
+    size: 86640
+    cloud:
+      myminio:
+        etag: 4df092220d2103ceddac8e30c60a0f9d
+        version_id: 7565f6cd-19de-4180-ac5b-b1b0e351cb9b
+  - relpath: train/exp5/events.out.tfevents.1681309473.icolab-gpu-5.1867972.0
+    md5: 4e911583f5eb9ea0b30ac5c36e72711b
+    size: 1006519
+    cloud:
+      myminio:
+        etag: 4e911583f5eb9ea0b30ac5c36e72711b
+        version_id: 44735e2a-67f0-4c6b-88f1-553cddff1094
+  - relpath: train/exp5/hyp.yaml
+    md5: 14318623aa5fc4aeea98cad95c9d1a98
+    size: 448
+    cloud:
+      myminio:
+        etag: 14318623aa5fc4aeea98cad95c9d1a98
+        version_id: 503eaa40-0a55-452b-bc36-60728a1b0a54
+  - relpath: train/exp5/labels.jpg
+    md5: a0a8db0928a3aed3477dd9795ba07d38
+    size: 121930
+    cloud:
+      myminio:
+        etag: a0a8db0928a3aed3477dd9795ba07d38
+        version_id: cdc99e0a-2955-49d6-8233-2bdbeecc21bf
+  - relpath: train/exp5/labels_correlogram.jpg
+    md5: f146e188d00b39d4354755a57d1a6ed2
+    size: 202287
+    cloud:
+      myminio:
+        etag: f146e188d00b39d4354755a57d1a6ed2
+        version_id: fc233cbd-5c6b-4cda-99e9-729669783412
+  - relpath: train/exp5/opt.yaml
+    md5: 1b1a871b346086ddb4c08057dbdb168a
+    size: 1162
+    cloud:
+      myminio:
+        etag: 1b1a871b346086ddb4c08057dbdb168a
+        version_id: 58ce36de-4298-48f0-8269-da1de25f864f
+  - relpath: train/exp5/results.csv
+    md5: 4b7a494e9ee9454ae735c3a31785303c
+    size: 69972
+    cloud:
+      myminio:
+        etag: 4b7a494e9ee9454ae735c3a31785303c
+        version_id: 0d550e99-45df-4e57-9ace-31d896516391
+  - relpath: train/exp5/results.png
+    md5: 7bba57e273a34653ffb1aab10fc6401e
+    size: 197496
+    cloud:
+      myminio:
+        etag: 7bba57e273a34653ffb1aab10fc6401e
+        version_id: 69239181-05bb-4dad-b861-34806aba702b
+  - relpath: train/exp5/train_batch0.jpg
+    md5: 997aa946bd60e585ca8b8303531bb355
+    size: 645094
+    cloud:
+      myminio:
+        etag: 997aa946bd60e585ca8b8303531bb355
+        version_id: dd953940-32af-49e5-94cc-e03a05e3fefc
+  - relpath: train/exp5/train_batch1.jpg
+    md5: 689bde9003b11303a5850fd9b4cfdb29
+    size: 612582
+    cloud:
+      myminio:
+        etag: 689bde9003b11303a5850fd9b4cfdb29
+        version_id: bf8e961f-6c08-433c-8381-0e8841c8819a
+  - relpath: train/exp5/train_batch2.jpg
+    md5: 893750367d170c7650a367550e02ac4a
+    size: 643209
+    cloud:
+      myminio:
+        etag: 893750367d170c7650a367550e02ac4a
+        version_id: c5818f8f-df5e-489c-b671-33499d179309
+  - relpath: train/exp5/val_batch0_labels.jpg
+    md5: dbea28b92d5ba385ad2e913051290cc6
+    size: 539192
+    cloud:
+      myminio:
+        etag: dbea28b92d5ba385ad2e913051290cc6
+        version_id: 9fc0f0a6-1fe4-4c7b-83b9-3f29e461b928
+  - relpath: train/exp5/val_batch0_pred.jpg
+    md5: 9e542afb6f0b060406012d93172ebbde
+    size: 545737
+    cloud:
+      myminio:
+        etag: 9e542afb6f0b060406012d93172ebbde
+        version_id: 90c7f43d-cd46-44ee-b9af-43b4e4d587cc
+  - relpath: train/exp5/weights/best.pt
+    md5: a9bbd6b20dfee4a0848b5e28966debe4
+    size: 14321149
+    cloud:
+      myminio:
+        etag: a9bbd6b20dfee4a0848b5e28966debe4
+        version_id: 7522322d-1bd1-4b56-8dad-d2ea9743908d
+  - relpath: train/exp5/weights/best.torchscript
+    md5: 48223b62b76bc58fc08d107bcdf81490
+    size: 28440733
+    cloud:
+      myminio:
+        etag: 48223b62b76bc58fc08d107bcdf81490
+        version_id: 93f97293-3392-4f87-9b85-e180acf51a44
+  - relpath: train/exp5/weights/last.pt
+    md5: 959b2cd8fa9cc15a2808d7d719ab78c2
+    size: 14321149
+    cloud:
+      myminio:
+        etag: 959b2cd8fa9cc15a2808d7d719ab78c2
+        version_id: 0a330835-f1e5-4aa5-af69-c4353325a10c
+  - relpath: train/exp6/F1_curve.png
+    md5: 9fbe768704f6bb5fc1d00b1294a5ae81
+    size: 86872
+    cloud:
+      myminio:
+        etag: 9fbe768704f6bb5fc1d00b1294a5ae81
+        version_id: 3f1ff109-d00e-454e-aae8-2cd813b194aa
+  - relpath: train/exp6/PR_curve.png
+    md5: c001b345066388c2f57f5b0347238153
+    size: 82216
+    cloud:
+      myminio:
+        etag: c001b345066388c2f57f5b0347238153
+        version_id: 81a68422-0905-486c-bb2e-27a6e86acf94
+  - relpath: train/exp6/P_curve.png
+    md5: e8254cc4858f6434f8e79816151a96f8
+    size: 77854
+    cloud:
+      myminio:
+        etag: e8254cc4858f6434f8e79816151a96f8
+        version_id: 252940dc-0407-4701-81f3-9bc8bcd76553
+  - relpath: train/exp6/R_curve.png
+    md5: 7537b42875f6148b936cf6fc47ae04b1
+    size: 91034
+    cloud:
+      myminio:
+        etag: 7537b42875f6148b936cf6fc47ae04b1
+        version_id: b3206e20-0922-4e65-a647-d4ee71dcf351
+  - relpath: train/exp6/confusion_matrix.png
+    md5: 49aa9ff3d42b11ba15feaf83893eb1be
+    size: 86373
+    cloud:
+      myminio:
+        etag: 49aa9ff3d42b11ba15feaf83893eb1be
+        version_id: 520600df-6c27-42aa-93d5-a2fd7ad20524
+  - relpath: train/exp6/events.out.tfevents.1685545630.icolab-gpu-5.198388.0
+    md5: c550a96cb56096ac91f2b65fe6e14a66
+    size: 1035300
+    cloud:
+      myminio:
+        etag: c550a96cb56096ac91f2b65fe6e14a66
+        version_id: 7d191dd7-2026-4631-a883-266fc89060c2
+  - relpath: train/exp6/hyp.yaml
+    md5: ce7dcb63128f1e5271188db0296cc1f6
+    size: 444
+    cloud:
+      myminio:
+        etag: ce7dcb63128f1e5271188db0296cc1f6
+        version_id: 6d004074-1b25-4f3e-af44-b98c494eab41
+  - relpath: train/exp6/labels.jpg
+    md5: 03566dc0c37d6cfa364d3843087cc93b
+    size: 131718
+    cloud:
+      myminio:
+        etag: 03566dc0c37d6cfa364d3843087cc93b
+        version_id: 5d5aaefc-bc53-4c78-b1b0-988e4cbb548d
+  - relpath: train/exp6/labels_correlogram.jpg
+    md5: 0da37f77eaf8a45fe5bd20f62f641868
+    size: 199415
+    cloud:
+      myminio:
+        etag: 0da37f77eaf8a45fe5bd20f62f641868
+        version_id: 70e67389-02a5-49fd-954e-7c5c8c218162
+  - relpath: train/exp6/opt.yaml
+    md5: 724037d079e553a52bfc2ab76c90b848
+    size: 1158
+    cloud:
+      myminio:
+        etag: 724037d079e553a52bfc2ab76c90b848
+        version_id: 8a40ef0f-2e87-47c1-be2e-6c55d75b9df7
+  - relpath: train/exp6/results.csv
+    md5: e5b432fc2c1a99ff3c31163faab2e9df
+    size: 84672
+    cloud:
+      myminio:
+        etag: e5b432fc2c1a99ff3c31163faab2e9df
+        version_id: 489da3dd-b649-4c3d-acbe-1e8300c7b31c
+  - relpath: train/exp6/results.png
+    md5: f28a52bf43aab41252eade074d99cb22
+    size: 196434
+    cloud:
+      myminio:
+        etag: f28a52bf43aab41252eade074d99cb22
+        version_id: d26d73d6-d66d-4cf0-97b3-ac70086686fb
+  - relpath: train/exp6/train_batch0.jpg
+    md5: 0488b017940da08dad582d6aa08e009c
+    size: 641212
+    cloud:
+      myminio:
+        etag: 0488b017940da08dad582d6aa08e009c
+        version_id: 8f3cd057-01c2-4edb-8aac-345c830b576c
+  - relpath: train/exp6/train_batch1.jpg
+    md5: b5aa0b6056611e829823185b15fdb1dc
+    size: 651465
+    cloud:
+      myminio:
+        etag: b5aa0b6056611e829823185b15fdb1dc
+        version_id: 583bac88-be4f-44dc-b589-0139fa239bb4
+  - relpath: train/exp6/train_batch2.jpg
+    md5: e63f1c0a8d1a0fb6a80bb1036e65b093
+    size: 606169
+    cloud:
+      myminio:
+        etag: e63f1c0a8d1a0fb6a80bb1036e65b093
+        version_id: 8c6d024c-1a87-4d01-bb45-58c9f80a72c2
+  - relpath: train/exp6/val_batch0_labels.jpg
+    md5: a932dad38553264fecf879d367023523
+    size: 585246
+    cloud:
+      myminio:
+        etag: a932dad38553264fecf879d367023523
+        version_id: 0c5b8c91-a942-4dce-ae92-f07a284cf13e
+  - relpath: train/exp6/val_batch0_pred.jpg
+    md5: 8a4a5a7490a5b0e50a05e328dbc917e5
+    size: 590432
+    cloud:
+      myminio:
+        etag: 8a4a5a7490a5b0e50a05e328dbc917e5
+        version_id: bc5caf50-6bfd-4035-a67b-f8949ac3a032
+  - relpath: train/exp6/val_batch1_labels.jpg
+    md5: 9237adfc0e7c10894f70dece163654da
+    size: 522750
+    cloud:
+      myminio:
+        etag: 9237adfc0e7c10894f70dece163654da
+        version_id: f3bd788c-b873-4f7f-96bb-cb6dfb367827
+  - relpath: train/exp6/val_batch1_pred.jpg
+    md5: 89fc00d708bb191ebac4259850b43e5d
+    size: 527743
+    cloud:
+      myminio:
+        etag: 89fc00d708bb191ebac4259850b43e5d
+        version_id: 98425a5b-e07f-43bc-8961-bf56836bd17a
+  - relpath: train/exp6/weights/best.pt
+    md5: 0f162a7e4cf9c8afaed8ff928f6aa692
+    size: 14321149
+    cloud:
+      myminio:
+        etag: 0f162a7e4cf9c8afaed8ff928f6aa692
+        version_id: 87d32628-071c-4214-97b2-488aa4b6960f
+  - relpath: train/exp6/weights/last.pt
+    md5: d94a2f2c04bbc39bba8f9dd680a6ce91
+    size: 14321149
+    cloud:
+      myminio:
+        etag: d94a2f2c04bbc39bba8f9dd680a6ce91
+        version_id: 1858fb70-ca34-46d4-9484-db1284a023dc
+  - relpath: val/exp/F1_curve.png
+    md5: e6ece62deaed04ed64e635bdd22e4e48
+    size: 99315
+    cloud:
+      myminio:
+        etag: e6ece62deaed04ed64e635bdd22e4e48
+        version_id: 950fff97-1141-40ee-9204-74df9df7a063
+  - relpath: val/exp/PR_curve.png
+    md5: db221dcf880a3b35ec80d50d393a741a
+    size: 88458
+    cloud:
+      myminio:
+        etag: db221dcf880a3b35ec80d50d393a741a
+        version_id: 8acf4e8c-30c3-4dbc-ad94-c6a4d3e95766
+  - relpath: val/exp/P_curve.png
+    md5: e853bcd0d238ff58ea5bf18628556967
+    size: 91027
+    cloud:
+      myminio:
+        etag: e853bcd0d238ff58ea5bf18628556967
+        version_id: ea12f598-8de1-414d-9e63-9dfe4ced789d
+  - relpath: val/exp/R_curve.png
+    md5: 66846c254246e23c9fedf0a1caf2ecd9
+    size: 99489
+    cloud:
+      myminio:
+        etag: 66846c254246e23c9fedf0a1caf2ecd9
+        version_id: d2188523-5c60-4f1e-a70f-a57514e338f3
+  - relpath: val/exp/confusion_matrix.png
+    md5: db1f2a06cc7d7c9a071b911e7258184a
+    size: 88542
+    cloud:
+      myminio:
+        etag: db1f2a06cc7d7c9a071b911e7258184a
+        version_id: 1d8f1fee-fd68-4901-ab3a-1f72f31b9e52
+  - relpath: val/exp/val_batch0_labels.jpg
+    md5: cff7f59a0dc49b03a4933fa4dc630ee8
+    size: 538394
+    cloud:
+      myminio:
+        etag: cff7f59a0dc49b03a4933fa4dc630ee8
+        version_id: 1ceff0e8-3d66-4122-91a8-5b65b83a17fd
+  - relpath: val/exp/val_batch0_pred.jpg
+    md5: 1525e06dc5b1fdd49fc069a40dc27777
+    size: 528722
+    cloud:
+      myminio:
+        etag: 1525e06dc5b1fdd49fc069a40dc27777
+        version_id: f4cd52c0-420b-410f-905d-cdd83c604300
+  - relpath: val/exp/val_batch1_labels.jpg
+    md5: dfe0aa138433523c18cbe082b229f776
+    size: 555206
+    cloud:
+      myminio:
+        etag: dfe0aa138433523c18cbe082b229f776
+        version_id: 0c09af58-2d06-431d-9d17-760614fa8138
+  - relpath: val/exp/val_batch1_pred.jpg
+    md5: 860e2f05f1ad0ca2b17d3340b7bac8aa
+    size: 543203
+    cloud:
+      myminio:
+        etag: 860e2f05f1ad0ca2b17d3340b7bac8aa
+        version_id: 29b594df-e35d-4875-9335-e04ef6b2b3fd
+  - relpath: val/exp2/F1_curve.png
+    md5: 2af369963b7097b34d290d5e2c90d33b
+    size: 107755
+    cloud:
+      myminio:
+        etag: 2af369963b7097b34d290d5e2c90d33b
+        version_id: 4bf34940-7242-4b12-8e64-d7ff98efc3ba
+  - relpath: val/exp2/PR_curve.png
+    md5: 2daae3a7c5e2240da7523e19233435ca
+    size: 80389
+    cloud:
+      myminio:
+        etag: 2daae3a7c5e2240da7523e19233435ca
+        version_id: 0d59e842-c370-4133-b794-12439b0700ff
+  - relpath: val/exp2/P_curve.png
+    md5: 02ba3efba1b6120306e7bf9201a304e8
+    size: 94191
+    cloud:
+      myminio:
+        etag: 02ba3efba1b6120306e7bf9201a304e8
+        version_id: 479d2e32-7ac0-4893-9e0d-32663dece538
+  - relpath: val/exp2/R_curve.png
+    md5: c29b8b6a9dc4ef011850a67a9f2950a7
+    size: 103101
+    cloud:
+      myminio:
+        etag: c29b8b6a9dc4ef011850a67a9f2950a7
+        version_id: 00237906-a9a2-460a-b7bb-de0a4e88ef65
+  - relpath: val/exp2/confusion_matrix.png
+    md5: 4c4559447e22a7e3168594ec211801d6
+    size: 85173
+    cloud:
+      myminio:
+        etag: 4c4559447e22a7e3168594ec211801d6
+        version_id: 89b8a2d7-56b2-423e-a254-c862117ef4bd
+  - relpath: val/exp2/val_batch0_labels.jpg
+    md5: cff7f59a0dc49b03a4933fa4dc630ee8
+    size: 538394
+    cloud:
+      myminio:
+        etag: cff7f59a0dc49b03a4933fa4dc630ee8
+        version_id: 739f051d-b2e2-4db4-8c87-14768d934e0b
+  - relpath: val/exp2/val_batch0_pred.jpg
+    md5: 1e60e80c45452ea2be4209c8876c3a01
+    size: 546097
+    cloud:
+      myminio:
+        etag: 1e60e80c45452ea2be4209c8876c3a01
+        version_id: 8dee0880-461b-4ac1-a555-25e8d2a9f0a1
+  - relpath: val/exp2/val_batch1_labels.jpg
+    md5: dfe0aa138433523c18cbe082b229f776
+    size: 555206
+    cloud:
+      myminio:
+        etag: dfe0aa138433523c18cbe082b229f776
+        version_id: af835db7-de28-4f45-aaee-d2ec10000ad3
+  - relpath: val/exp2/val_batch1_pred.jpg
+    md5: 0055e84af2f2e65bbbf277c1b17ed74f
+    size: 558418
+    cloud:
+      myminio:
+        etag: 0055e84af2f2e65bbbf277c1b17ed74f
+        version_id: 4a737bec-f5f1-4db4-85fe-63f827bbce6b
+  - relpath: val/exp3/F1_curve.png
+    md5: 8ada70d235811fd1aacd7e69d4e767dd
+    size: 96738
+    cloud:
+      myminio:
+        etag: 8ada70d235811fd1aacd7e69d4e767dd
+        version_id: b1d8fb35-c6ae-457a-bb1c-7d3304fd3f4b
+  - relpath: val/exp3/PR_curve.png
+    md5: 6f50953977c0abffe9c164d5f2a0bd62
+    size: 77894
+    cloud:
+      myminio:
+        etag: 6f50953977c0abffe9c164d5f2a0bd62
+        version_id: f9eded4a-0716-4db3-ab3e-101336a7d102
+  - relpath: val/exp3/P_curve.png
+    md5: ea35acbe4f35493153835c3750282793
+    size: 94714
+    cloud:
+      myminio:
+        etag: ea35acbe4f35493153835c3750282793
+        version_id: 0d203437-8fbd-42d0-a727-6bb985e77209
+  - relpath: val/exp3/R_curve.png
+    md5: deb500bd6eaa512977a75983c61aa227
+    size: 90105
+    cloud:
+      myminio:
+        etag: deb500bd6eaa512977a75983c61aa227
+        version_id: 79707de3-8b59-4099-88f7-dffd0f4eac63
+  - relpath: val/exp3/confusion_matrix.png
+    md5: 4df092220d2103ceddac8e30c60a0f9d
+    size: 86640
+    cloud:
+      myminio:
+        etag: 4df092220d2103ceddac8e30c60a0f9d
+        version_id: 7bb42009-0440-4b88-99e2-a5ae60efe458
+  - relpath: val/exp3/val_batch0_labels.jpg
+    md5: 7047c01cb6c2c216a735037fbe65fc3a
+    size: 538555
+    cloud:
+      myminio:
+        etag: 7047c01cb6c2c216a735037fbe65fc3a
+        version_id: a644160e-e575-45ce-9115-063c27d3b86b
+  - relpath: val/exp3/val_batch0_pred.jpg
+    md5: c260c5a3ce543e12c04d09dc9ad58596
+    size: 544769
+    cloud:
+      myminio:
+        etag: c260c5a3ce543e12c04d09dc9ad58596
+        version_id: d11cf6f2-5176-48b5-8923-70e9aa71a270
+  - relpath: val/exp4/F1_curve.png
+    md5: 0e41608ba3d9893bb1f5b8c8ff3edc92
+    size: 92863
+    cloud:
+      myminio:
+        etag: 0e41608ba3d9893bb1f5b8c8ff3edc92
+        version_id: 2c93ce97-f3ec-4d5d-b9a3-0ff3de3d432d
+  - relpath: val/exp4/PR_curve.png
+    md5: 8af58c51bbc9ed6eeb865b952353a522
+    size: 78997
+    cloud:
+      myminio:
+        etag: 8af58c51bbc9ed6eeb865b952353a522
+        version_id: 3e1c3b4d-f299-4f5e-962f-2871e2b11f5a
+  - relpath: val/exp4/P_curve.png
+    md5: db9f6b4b180aa88c963fc60da450a961
+    size: 91975
+    cloud:
+      myminio:
+        etag: db9f6b4b180aa88c963fc60da450a961
+        version_id: bed25f0c-f490-4721-9997-c13b83d9f10e
+  - relpath: val/exp4/R_curve.png
+    md5: d41d8cd98f00b204e9800998ecf8427e
+    size: 0
+    cloud:
+      myminio:
+        etag: d41d8cd98f00b204e9800998ecf8427e
+        version_id: fcb1754e-ad78-41e5-945c-4be870f1a9d3
+  - relpath: val/exp4/confusion_matrix.png
+    md5: e9504fa063ae3fd268d99d81d77e3ff6
+    size: 86287
+    cloud:
+      myminio:
+        etag: e9504fa063ae3fd268d99d81d77e3ff6
+        version_id: bbe9a4eb-78ea-45f6-bcfb-7cc16f7e35db
+  - relpath: val/exp4/val_batch0_labels.jpg
+    md5: 7047c01cb6c2c216a735037fbe65fc3a
+    size: 538555
+    cloud:
+      myminio:
+        etag: 7047c01cb6c2c216a735037fbe65fc3a
+        version_id: 86b283aa-d747-4de1-8c84-44632225847a
+  - relpath: val/exp4/val_batch0_pred.jpg
+    md5: ee4915b64262902d294c8bc1d56bf260
+    size: 544198
+    cloud:
+      myminio:
+        etag: ee4915b64262902d294c8bc1d56bf260
+        version_id: 7b0e867b-b2ae-466e-ac6f-7a7103285ec3
+  - relpath: val/exp5/F1_curve.png
+    md5: c7f6ab835df20865ba3240a73ff6a49c
+    size: 95083
+    cloud:
+      myminio:
+        etag: c7f6ab835df20865ba3240a73ff6a49c
+        version_id: 76eb79d1-8e1f-4f3f-9eab-af213484e292
+  - relpath: val/exp5/PR_curve.png
+    md5: e19c9dc7fc8ca7515e4635fd41994578
+    size: 78201
+    cloud:
+      myminio:
+        etag: e19c9dc7fc8ca7515e4635fd41994578
+        version_id: d4a197a5-a8c8-4a7e-8ca2-2d95b02853ed
+  - relpath: val/exp5/P_curve.png
+    md5: e33e7f3525043f0d0d7c142785ccee1d
+    size: 85389
+    cloud:
+      myminio:
+        etag: e33e7f3525043f0d0d7c142785ccee1d
+        version_id: e7bfae5f-df7a-46bc-9c7b-77d28dd7fb6a
+  - relpath: val/exp5/R_curve.png
+    md5: f9343e0e954e809e86e6fa09f03bee2f
+    size: 93702
+    cloud:
+      myminio:
+        etag: f9343e0e954e809e86e6fa09f03bee2f
+        version_id: cd791111-9e0c-4a3a-9711-7c092ddfaae5
+  - relpath: val/exp5/confusion_matrix.png
+    md5: 4df092220d2103ceddac8e30c60a0f9d
+    size: 86640
+    cloud:
+      myminio:
+        etag: 4df092220d2103ceddac8e30c60a0f9d
+        version_id: fafb3d09-5319-45b7-9bf6-aef782112802
+  - relpath: val/exp5/val_batch0_labels.jpg
+    md5: 7047c01cb6c2c216a735037fbe65fc3a
+    size: 538555
+    cloud:
+      myminio:
+        etag: 7047c01cb6c2c216a735037fbe65fc3a
+        version_id: 939b6fe1-95bc-4304-a831-29bd739437c7
+  - relpath: val/exp5/val_batch0_pred.jpg
+    md5: ce6590a9542be5ea6ea438d9c92503f2
+    size: 544815
+    cloud:
+      myminio:
+        etag: ce6590a9542be5ea6ea438d9c92503f2
+        version_id: 405001a6-3617-4f3f-8421-c73147d4e0c1
+  - relpath: val/exp6/F1_curve.png
+    md5: ae4dc66656fdf07570cebd4cd14ccdd7
+    size: 91277
+    cloud:
+      myminio:
+        etag: ae4dc66656fdf07570cebd4cd14ccdd7
+        version_id: 0d055a44-21e0-4e8c-bc7a-d039fc79ab0b
+  - relpath: val/exp6/PR_curve.png
+    md5: d41d8cd98f00b204e9800998ecf8427e
+    size: 0
+    cloud:
+      myminio:
+        etag: d41d8cd98f00b204e9800998ecf8427e
+        version_id: 78220f60-a707-4d74-9715-d3a3ba7f776a
+  - relpath: val/exp6/P_curve.png
+    md5: 6495739f1da5e6d49946948cf7b0928e
+    size: 80929
+    cloud:
+      myminio:
+        etag: 6495739f1da5e6d49946948cf7b0928e
+        version_id: a9553e9f-7fd0-4f3b-8b46-25b873488aa5
+  - relpath: val/exp6/R_curve.png
+    md5: de2612fb9f6e6cb0a1a176f64eaf88d5
+    size: 95321
+    cloud:
+      myminio:
+        etag: de2612fb9f6e6cb0a1a176f64eaf88d5
+        version_id: c7555cee-a85c-4ad0-b4ea-1663688e2d5e
+  - relpath: val/exp6/confusion_matrix.png
+    md5: 49aa9ff3d42b11ba15feaf83893eb1be
+    size: 86373
+    cloud:
+      myminio:
+        etag: 49aa9ff3d42b11ba15feaf83893eb1be
+        version_id: 0b857f95-29ff-46d4-b114-e6413fb94828
+  - relpath: val/exp6/val_batch0_labels.jpg
+    md5: 584880cf5cf345630904b48d7698c445
+    size: 555310
+    cloud:
+      myminio:
+        etag: 584880cf5cf345630904b48d7698c445
+        version_id: 9c0bf038-91db-497b-9443-78e5fe77b8f6
+  - relpath: val/exp6/val_batch0_pred.jpg
+    md5: 1b767d5d20a1c1fbcf87f96d9359c9f8
+    size: 560293
+    cloud:
+      myminio:
+        etag: 1b767d5d20a1c1fbcf87f96d9359c9f8
+        version_id: e1dd9d2c-4239-4311-a2b8-230f0e679c8a
+  - relpath: val/exp6/val_batch1_labels.jpg
+    md5: d9f85e1b471441afae953d760f509ea8
+    size: 566287
+    cloud:
+      myminio:
+        etag: d9f85e1b471441afae953d760f509ea8
+        version_id: d5d6fe7a-10ba-4bdd-a375-6b4979d09e9a
+  - relpath: val/exp6/val_batch1_pred.jpg
+    md5: 39bd73f61a3167b6a9bd33aedfbafa67
+    size: 569911
+    cloud:
+      myminio:
+        etag: 39bd73f61a3167b6a9bd33aedfbafa67
+        version_id: 98998ed4-3430-4daf-b0a7-e03bf03d5f4c
+  - relpath: val/exp6/val_batch2_labels.jpg
+    md5: 5dc4dfa4d86d460e719bc9723dc8464c
+    size: 522106
+    cloud:
+      myminio:
+        etag: 5dc4dfa4d86d460e719bc9723dc8464c
+        version_id: a4b30e62-0aac-4058-9481-66d293eb0f80
+  - relpath: val/exp6/val_batch2_pred.jpg
+    md5: 4a23e91c4b49706cc0206cc50c40faa8
+    size: 527006
+    cloud:
+      myminio:
+        etag: 4a23e91c4b49706cc0206cc50c40faa8
+        version_id: ce477e82-1ce9-4d34-9eaa-d0197438c1fc

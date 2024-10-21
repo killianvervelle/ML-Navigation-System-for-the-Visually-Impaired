@@ -1,0 +1,9 @@
+# Example usage: python train.py --data data.yaml
+
+path: ../data/3_labellized  # dataset root dir
+train: train/images  # train images
+val: val/images  # val images
+
+# Classes
+names:
+  0: screen

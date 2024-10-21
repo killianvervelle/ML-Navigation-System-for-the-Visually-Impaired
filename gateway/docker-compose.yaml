@@ -1,0 +1,11 @@
+services:
+  gateway:
+    build: .
+    ports:
+      - 8000:8000
+    environment:
+      - HOST_MONGODB=mongodb://mongo:27017/public
+  mongo:
+    image: mongo:latest
+    ports: 
+      - 27017:27017

@@ -1,0 +1,4924 @@
+outs:
+- path: data
+  files:
+  - relpath: .DS_Store
+    md5: 85b3818dc46eee62c38efef37da41286
+    size: 10244
+    cloud:
+      myminio:
+        etag: 85b3818dc46eee62c38efef37da41286
+        version_id: 45d1f746-c443-417d-856d-1de8a4398ed9
+  - relpath: false/.DS_Store
+    md5: 194577a7e20bdcc7afbb718f502c134c
+    size: 6148
+    cloud:
+      myminio:
+        etag: 194577a7e20bdcc7afbb718f502c134c
+        version_id: 4073909c-a695-428b-82ce-f840b79ddc13
+  - relpath: false/0_IPHONE-SE_F.JPG
+    md5: 16c466d0dc6e812bba7474884407568f
+    size: 558529
+    cloud:
+      myminio:
+        etag: 16c466d0dc6e812bba7474884407568f
+        version_id: 92ef7447-f292-4b76-813b-8c389185485f
+  - relpath: false/100_NIKON-D3400-35MM_F.JPG
+    md5: 16144902c2e14dda1e98203958b1ccb7
+    size: 649590
+    cloud:
+      myminio:
+        etag: 16144902c2e14dda1e98203958b1ccb7
+        version_id: 3de7a8fa-d6e1-4d0f-a86c-ff7f0d6c91f5
+  - relpath: false/101_NIKON-D3400-35MM_F.JPG
+    md5: 807b38800ec11adc196588384f2f3ecf
+    size: 628939
+    cloud:
+      myminio:
+        etag: 807b38800ec11adc196588384f2f3ecf
+        version_id: 94889b26-652d-46a8-aa24-e9faa71777d9
+  - relpath: false/102_NIKON-D3400-35MM_F.JPG
+    md5: beda337df7ff8ac9cf46fda2725d7cbd
+    size: 495476
+    cloud:
+      myminio:
+        etag: beda337df7ff8ac9cf46fda2725d7cbd
+        version_id: 516b486d-ebe3-49f3-ae0f-3cb0744d13ee
+  - relpath: false/103_HUAWEI-P20_F.jpg
+    md5: c18804bd7836779e47e2de6445c30eee
+    size: 468534
+    cloud:
+      myminio:
+        etag: c18804bd7836779e47e2de6445c30eee
+        version_id: dd24bea4-174c-40eb-8e85-6a5a209bfc63
+  - relpath: false/104_IPHONE-SE_F.jpg
+    md5: 766f291cebbe7a1a86a04354df416065
+    size: 742372
+    cloud:
+      myminio:
+        etag: 766f291cebbe7a1a86a04354df416065
+        version_id: e81a1c8e-c605-47e7-8968-12bff090a6bb
+  - relpath: false/105_IPHONE-SE_F.jpg
+    md5: bbf707ce5ae3613a76b14060fa452c68
+    size: 601098
+    cloud:
+      myminio:
+        etag: bbf707ce5ae3613a76b14060fa452c68
+        version_id: c8afd907-67bf-472e-a206-0246972de04c
+  - relpath: false/106_NIKON-D3400-35MM_F.JPG
+    md5: 584c19af5bf5551578cfb131c9e9e43b
+    size: 735823
+    cloud:
+      myminio:
+        etag: 584c19af5bf5551578cfb131c9e9e43b
+        version_id: e5d73115-6665-4b32-ac0f-10a9e51f8ad7
+  - relpath: false/107_XIAOMI-MI8-SE_F.jpg
+    md5: a0073bf78619189f7de3eff57807931d
+    size: 419299
+    cloud:
+      myminio:
+        etag: a0073bf78619189f7de3eff57807931d
+        version_id: 112fe427-a844-4c3d-bca6-c46226a94a6c
+  - relpath: false/108_XIAOMI-MI8-SE_F.jpg
+    md5: 814b84e5962b9f82e5f1d453be519028
+    size: 486480
+    cloud:
+      myminio:
+        etag: 814b84e5962b9f82e5f1d453be519028
+        version_id: 3dc027e2-8dcb-4862-9f69-02811f71fa8c
+  - relpath: false/109_HONOR-7X_F.jpg
+    md5: ad0c36a929718a788ae6c621eb1ea438
+    size: 619265
+    cloud:
+      myminio:
+        etag: ad0c36a929718a788ae6c621eb1ea438
+        version_id: c92c8d32-6c53-4273-af09-b55dd69dee01
+  - relpath: false/10_ASUS-ZENFONE-LIVE-ZB501KL_F.jpg
+    md5: 56c418cecafe1ad98770d301565aa8a1
+    size: 437635
+    cloud:
+      myminio:
+        etag: 56c418cecafe1ad98770d301565aa8a1
+        version_id: 694b170a-4925-4348-9505-563b817c487b
+  - relpath: false/110_IPHONE-7_F.jpeg
+    md5: 804152acd130cee73d195857e6b9ab31
+    size: 647337
+    cloud:
+      myminio:
+        etag: 804152acd130cee73d195857e6b9ab31
+        version_id: b8d53400-5116-4b2e-a9eb-e9a900fe4eca
+  - relpath: false/111_IPHONE-7_F.jpeg
+    md5: 962768b97dcfdfe8d4bceb5a83c8e074
+    size: 610927
+    cloud:
+      myminio:
+        etag: 962768b97dcfdfe8d4bceb5a83c8e074
+        version_id: 36301cf9-2fe7-4d99-9603-98751f017f34
+  - relpath: false/112_NIKON-D3400-35MM_F.JPG
+    md5: 3ce4d1e4d52491ec4cac1ee2b21e8ed6
+    size: 502600
+    cloud:
+      myminio:
+        etag: 3ce4d1e4d52491ec4cac1ee2b21e8ed6
+        version_id: 40847849-bc7e-4380-95bc-ba4c72d84a95
+  - relpath: false/113_SAMSUNG-GALAXY-A5_F.jpg
+    md5: 3521a58a470ffa42d8e8d165d8e4e850
+    size: 445389
+    cloud:
+      myminio:
+        etag: 3521a58a470ffa42d8e8d165d8e4e850
+        version_id: 9b5f639a-7d1e-46d7-b2fe-549e65adeb27
+  - relpath: false/114_ASUS-ZE500KL_F.jpg
+    md5: b5215c22aa9745ba97a309098a5f82fd
+    size: 392524
+    cloud:
+      myminio:
+        etag: b5215c22aa9745ba97a309098a5f82fd
+        version_id: 05aa5924-a726-4fc6-b652-10f0a3517a5a
+  - relpath: false/115_NIKON-D3400-35MM_F.JPG
+    md5: 8af2254f1049f9de0fc267a68befa364
+    size: 528596
+    cloud:
+      myminio:
+        etag: 8af2254f1049f9de0fc267a68befa364
+        version_id: f183b5fd-9def-489a-aa10-d0f1862ce7ee
+  - relpath: false/116_BQ-5512L_F.jpg
+    md5: 4ca040b395777ea47583a34b525003a6
+    size: 523913
+    cloud:
+      myminio:
+        etag: 4ca040b395777ea47583a34b525003a6
+        version_id: 0d0d8f9e-ea15-4ed2-9447-e51355708851
+  - relpath: false/117_HONOR-7X_F.jpg
+    md5: 73415f6906f22ee2573f0e30a659415b
+    size: 522151
+    cloud:
+      myminio:
+        etag: 73415f6906f22ee2573f0e30a659415b
+        version_id: 0b48ec83-56dd-425e-91c6-1704f1451feb
+  - relpath: false/118_HONOR-7X_F.jpg
+    md5: ddbfb4b99736b56f4e617b8a4b654124
+    size: 549605
+    cloud:
+      myminio:
+        etag: ddbfb4b99736b56f4e617b8a4b654124
+        version_id: a25d621b-19aa-4d62-98c9-f69a8aa72840
+  - relpath: false/119_HONOR-7X_F.jpg
+    md5: c7a947f795fe1d39e62e0fcafd203ec4
+    size: 567037
+    cloud:
+      myminio:
+        etag: c7a947f795fe1d39e62e0fcafd203ec4
+        version_id: 9907680e-6069-48d9-b5c9-9e5cee75b4f2
+  - relpath: false/11_XIAOMI-MI8-SE_F.jpg
+    md5: 1a7ec0bacc7d52c233ef98c19534a7bb
+    size: 804038
+    cloud:
+      myminio:
+        etag: 1a7ec0bacc7d52c233ef98c19534a7bb
+        version_id: ba1bebab-9f2d-4337-a38e-f8afba50f77b
+  - relpath: false/120_HONOR-7X_F.jpg
+    md5: 56a3f56e9d0fd7cdbd55e162e5cf4797
+    size: 482380
+    cloud:
+      myminio:
+        etag: 56a3f56e9d0fd7cdbd55e162e5cf4797
+        version_id: c3b60452-e6da-472d-af61-8b900e5e1621
+  - relpath: false/121_HONOR-7X_F.jpg
+    md5: f58778ed84ffe19998ec71ee3a7a74dd
+    size: 762985
+    cloud:
+      myminio:
+        etag: f58778ed84ffe19998ec71ee3a7a74dd
+        version_id: e0ff8141-e2cd-4769-bc58-bd866c4fee29
+  - relpath: false/122_HONOR-7X_F.jpg
+    md5: e9dd3db66cca36512cff894eab90c415
+    size: 534342
+    cloud:
+      myminio:
+        etag: e9dd3db66cca36512cff894eab90c415
+        version_id: 1e1fba8d-098b-4ae4-81bd-c84d36bf7d4c
+  - relpath: false/123_NIKON-D3400-35MM_F.JPG
+    md5: d07df1be0ee6c00e11442b136f27c836
+    size: 418191
+    cloud:
+      myminio:
+        etag: d07df1be0ee6c00e11442b136f27c836
+        version_id: 024f49d5-f728-4893-9bc6-1199783d155e
+  - relpath: false/124_HONOR-7X_F.jpg
+    md5: f00d7066c57923fd7072bd72342aad3d
+    size: 690094
+    cloud:
+      myminio:
+        etag: f00d7066c57923fd7072bd72342aad3d
+        version_id: 2ea5d2a3-35c4-4315-835b-9bc6e6867ede
+  - relpath: false/125_NIKON-D3400-35MM_F.JPG
+    md5: 6ebc68d1d86f4ae7574040b90cc6fd64
+    size: 414436
+    cloud:
+      myminio:
+        etag: 6ebc68d1d86f4ae7574040b90cc6fd64
+        version_id: 3c90eabc-c4f0-4013-96bd-c63ad9a969f8
+  - relpath: false/126_NIKON-D3400-18-55MM_F.JPG
+    md5: 60b021f68c91af615a241ba8396cd699
+    size: 798824
+    cloud:
+      myminio:
+        etag: 60b021f68c91af615a241ba8396cd699
+        version_id: ab32c2fc-5350-438a-8dd7-f79bdc542aa7
+  - relpath: false/127_IPHONE-8_F.jpeg
+    md5: 16ac6d8dfc14068bb0d58139fb800a3f
+    size: 1020491
+    cloud:
+      myminio:
+        etag: 16ac6d8dfc14068bb0d58139fb800a3f
+        version_id: e8ba2c42-896a-4ebd-906b-1b7e1e758ce7
+  - relpath: false/128_XIAOMI-MI8-SE_F.jpg
+    md5: 3a78cf9d25018a2f369a29be62195515
+    size: 993829
+    cloud:
+      myminio:
+        etag: 3a78cf9d25018a2f369a29be62195515
+        version_id: d09427d6-e1b6-4512-a990-5b97738a0b7b
+  - relpath: false/129_NIKON-D3400-18-55MM_F.JPG
+    md5: 23fb67863ff6f17e3743eae137644d8f
+    size: 845900
+    cloud:
+      myminio:
+        etag: 23fb67863ff6f17e3743eae137644d8f
+        version_id: 255bbd75-1ecb-4c26-89e9-32a83e70091e
+  - relpath: false/12_SAMSUNG-GALAXY-J5_F.jpg
+    md5: a98678184819e09ee41d12092efc87a5
+    size: 865836
+    cloud:
+      myminio:
+        etag: a98678184819e09ee41d12092efc87a5
+        version_id: af63c9cd-332b-44b2-a253-890d815a51a0
+  - relpath: false/130_NIKON-D3400-18-55MM_F.JPG
+    md5: 942c419fbd88157839c79a33e6029676
+    size: 764537
+    cloud:
+      myminio:
+        etag: 942c419fbd88157839c79a33e6029676
+        version_id: acea68ed-c062-401e-9e04-befd4327d357
+  - relpath: false/131_NIKON-D3400-18-55MM_F.JPG
+    md5: 07a66a69a930e5cfafcdee8462ab7032
+    size: 775627
+    cloud:
+      myminio:
+        etag: 07a66a69a930e5cfafcdee8462ab7032
+        version_id: 7c51842c-96cb-4070-83b9-bfb3043a090c
+  - relpath: false/132_NIKON-D3400-18-55MM_F.JPG
+    md5: a1607dd2958d5408a4cbbbf532e96b5f
+    size: 646904
+    cloud:
+      myminio:
+        etag: a1607dd2958d5408a4cbbbf532e96b5f
+        version_id: e3d50f62-21b9-442b-a7e0-896cbace449c
+  - relpath: false/133_NIKON-D3400-18-55MM_F.JPG
+    md5: 9f607c37cd7f67fbafb3141919ccd92d
+    size: 669186
+    cloud:
+      myminio:
+        etag: 9f607c37cd7f67fbafb3141919ccd92d
+        version_id: 331b0df5-d4aa-4892-bfa7-146bd6c3fc6f
+  - relpath: false/134_NIKON-D3400-18-55MM_F.JPG
+    md5: 0451803ffffc41f80b8cb351b4691fc0
+    size: 639042
+    cloud:
+      myminio:
+        etag: 0451803ffffc41f80b8cb351b4691fc0
+        version_id: 28a0f1ee-be39-4b04-aca5-8af03a2f2ba1
+  - relpath: false/135_NIKON-D3400-18-55MM_F.JPG
+    md5: 818ca5f752855018ed11a5615bb9397f
+    size: 451589
+    cloud:
+      myminio:
+        etag: 818ca5f752855018ed11a5615bb9397f
+        version_id: 75262018-ad3e-4d9f-b94c-30c3b001e3fb
+  - relpath: false/136_XIAOMI-REDMI-3S_F.jpg
+    md5: 9ad2cc5c79b1abb03a539f328f80b81f
+    size: 322659
+    cloud:
+      myminio:
+        etag: 9ad2cc5c79b1abb03a539f328f80b81f
+        version_id: 2f5c7b78-4099-4c6b-88d1-fc0fa682b8f1
+  - relpath: false/137_NIKON-D3400-18-55MM_F.JPG
+    md5: d09b7dd4d4d073de1214c6860823490c
+    size: 412835
+    cloud:
+      myminio:
+        etag: d09b7dd4d4d073de1214c6860823490c
+        version_id: a135a545-d710-4f30-a723-e8259ce302e9
+  - relpath: false/138_NIKON-D3400-35MM_F.JPG
+    md5: 44ddb8dcbaeb4d3c268227ea67308e66
+    size: 552878
+    cloud:
+      myminio:
+        etag: 44ddb8dcbaeb4d3c268227ea67308e66
+        version_id: 72ce9550-7630-4f21-b7f3-3c053a20cd9d
+  - relpath: false/139_NIKON-D3400-18-55MM_F.JPG
+    md5: 9befdc3e9bb5b885d8817f9ac3b62071
+    size: 409212
+    cloud:
+      myminio:
+        etag: 9befdc3e9bb5b885d8817f9ac3b62071
+        version_id: 35b840c3-8bda-46de-8d48-c30a5b414bee
+  - relpath: false/13_IPHONE-8-PLUS_F.jpg
+    md5: 36d6f6b6ac056c1fa51eb15fff262f17
+    size: 761607
+    cloud:
+      myminio:
+        etag: 36d6f6b6ac056c1fa51eb15fff262f17
+        version_id: 6460a15c-3357-4229-80a6-5a49ceaef0b9
+  - relpath: false/140_SAMSUNG-GALAXY-J5_F.jpg
+    md5: 5e904a6a2c5c590241b9b4ea070447f9
+    size: 693546
+    cloud:
+      myminio:
+        etag: 5e904a6a2c5c590241b9b4ea070447f9
+        version_id: 0f1033e7-889f-4f19-9250-33b4c78d02ea
+  - relpath: false/141_NIKON-D3400-18-55MM_F.JPG
+    md5: 53031009b71e88fd4801d16892cc0148
+    size: 471112
+    cloud:
+      myminio:
+        etag: 53031009b71e88fd4801d16892cc0148
+        version_id: 298e84c8-8a8d-4ba5-9942-a7be9b13a528
+  - relpath: false/142_NIKON-D3400-18-55MM_F.JPG
+    md5: 7b7827e84e2098e0777cdc0c581daece
+    size: 480609
+    cloud:
+      myminio:
+        etag: 7b7827e84e2098e0777cdc0c581daece
+        version_id: c4e7787c-7561-4739-a6f5-e850a1082184
+  - relpath: false/143_NIKON-D3400-18-55MM_F.JPG
+    md5: f0ca737370413bdde359a2799c8f73a6
+    size: 596659
+    cloud:
+      myminio:
+        etag: f0ca737370413bdde359a2799c8f73a6
+        version_id: 77b79681-bb90-4ac5-99e5-806b3ac8af99
+  - relpath: false/144_NIKON-D3400-18-55MM_F.JPG
+    md5: b6cf4c5f1f7ae88912bc4cd80586219c
+    size: 584639
+    cloud:
+      myminio:
+        etag: b6cf4c5f1f7ae88912bc4cd80586219c
+        version_id: 84d1b835-1e8a-4446-8186-16101aaab2df
+  - relpath: false/145_NIKON-D3400-18-55MM_F.JPG
+    md5: d9e6f0907d99872b9187876a7bc99f36
+    size: 538799
+    cloud:
+      myminio:
+        etag: d9e6f0907d99872b9187876a7bc99f36
+        version_id: 82f31f5d-782e-4ec5-b7fb-51707ccf506e
+  - relpath: false/146_NIKON-D3400-18-55MM_F.JPG
+    md5: e1639cb2f235091d9a6101ebc85f8d16
+    size: 558861
+    cloud:
+      myminio:
+        etag: e1639cb2f235091d9a6101ebc85f8d16
+        version_id: 217123fe-bf94-4629-8fb6-c11b42219311
+  - relpath: false/147_NIKON-D3400-35MM_F.JPG
+    md5: 0c206f2f1a1c8457de21796a30c1a2e7
+    size: 628587
+    cloud:
+      myminio:
+        etag: 0c206f2f1a1c8457de21796a30c1a2e7
+        version_id: 4108071a-5bd4-4a4a-ab00-532cd9cce50c
+  - relpath: false/148_NIKON-D3400-18-55MM_F.JPG
+    md5: 20a8bf38405687a3b19f582a085e2348
+    size: 780973
+    cloud:
+      myminio:
+        etag: 20a8bf38405687a3b19f582a085e2348
+        version_id: b709c1f6-469f-4e8a-8bc5-ecf2f70cdcf9
+  - relpath: false/149_NIKON-D3400-18-55MM_F.JPG
+    md5: 70427778656b7fa2e1ce78483af2da6f
+    size: 559059
+    cloud:
+      myminio:
+        etag: 70427778656b7fa2e1ce78483af2da6f
+        version_id: e353ec4e-b7d6-4d13-8ac1-40d365af342c
+  - relpath: false/14_IPHONE-7_F.jpeg
+    md5: 2e4b470cc0ba7451080b14e94ec94730
+    size: 652449
+    cloud:
+      myminio:
+        etag: 2e4b470cc0ba7451080b14e94ec94730
+        version_id: 4b48d34c-45cc-421e-8f13-0be3350f460f
+  - relpath: false/150_NIKON-D3400-18-55MM_F.JPG
+    md5: 9a7de6a164ac0d2e9a038b5642b2316d
+    size: 688234
+    cloud:
+      myminio:
+        etag: 9a7de6a164ac0d2e9a038b5642b2316d
+        version_id: c15d2377-96c0-4c18-92e3-2059fd12f59a
+  - relpath: false/151_NIKON-D3400-35MM_F.JPG
+    md5: c9f5c933294426fe10ac6718cd610c9c
+    size: 544387
+    cloud:
+      myminio:
+        etag: c9f5c933294426fe10ac6718cd610c9c
+        version_id: c2760abb-0424-4854-94c2-be44abbe303a
+  - relpath: false/152_NIKON-D3400-18-55MM_F.JPG
+    md5: b4ef4d5cdbc02a52ded7fa4f70c30c99
+    size: 925176
+    cloud:
+      myminio:
+        etag: b4ef4d5cdbc02a52ded7fa4f70c30c99
+        version_id: b59f0329-3ce1-4c38-ab0d-38b6f230a10e
+  - relpath: false/153_NIKON-D3400-18-55MM_F.JPG
+    md5: b7fcf691a3657806fd5e6a08e8781490
+    size: 656319
+    cloud:
+      myminio:
+        etag: b7fcf691a3657806fd5e6a08e8781490
+        version_id: 7c1e1db3-df26-440f-8fd5-ca80e84077d3
+  - relpath: false/154_IPHONE-7_F.jpeg
+    md5: d18e26a2096c97c3f3d397700f7fde48
+    size: 535598
+    cloud:
+      myminio:
+        etag: d18e26a2096c97c3f3d397700f7fde48
+        version_id: f7e154d4-7131-4146-9208-754f0bf00a41
+  - relpath: false/155_HONOR-10_F.jpg
+    md5: af7145f635beb3bf076ade6af8931690
+    size: 526383
+    cloud:
+      myminio:
+        etag: af7145f635beb3bf076ade6af8931690
+        version_id: d99f81e2-daab-4d0c-87dd-95f00bfabd48
+  - relpath: false/156_HUAWEI-P30-LITE_F.jpg
+    md5: 5c5149a73371cfafeeae81cdcae1fd11
+    size: 884404
+    cloud:
+      myminio:
+        etag: 5c5149a73371cfafeeae81cdcae1fd11
+        version_id: 86802a2c-f9b0-4048-baab-a8e0a90445ab
+  - relpath: false/157_NIKON-D3400-35MM_F.JPG
+    md5: 259677f5c44fdc2f06a70d8699010587
+    size: 573718
+    cloud:
+      myminio:
+        etag: 259677f5c44fdc2f06a70d8699010587
+        version_id: bde895f4-5c8d-40ce-84ad-0f9ddf3b23a6
+  - relpath: false/158_IPHONE-7_F.jpeg
+    md5: efa9a978872332f7b4b9ee515e8fd65d
+    size: 548196
+    cloud:
+      myminio:
+        etag: efa9a978872332f7b4b9ee515e8fd65d
+        version_id: ea8a60fa-607d-493e-b287-601def5ac79b
+  - relpath: false/159_NIKON-D3400-35MM_F.JPG
+    md5: f8f816cdc100d0887ec710158ecd9f0c
+    size: 517355
+    cloud:
+      myminio:
+        etag: f8f816cdc100d0887ec710158ecd9f0c
+        version_id: 332e9e54-4868-4aca-9731-f83e97369dc2
+  - relpath: false/15_HONOR-7C_F.jpg
+    md5: 53eec70bc55534da6c5a9f1c523d5556
+    size: 556936
+    cloud:
+      myminio:
+        etag: 53eec70bc55534da6c5a9f1c523d5556
+        version_id: bf296ce7-f989-40e7-8995-88831762f3c1
+  - relpath: false/160_HUAWEI-P20-LITE_F.jpg
+    md5: 521f28861c41b871129ee308be1861db
+    size: 864865
+    cloud:
+      myminio:
+        etag: 521f28861c41b871129ee308be1861db
+        version_id: 3c662019-2d65-42aa-b542-e79feecf2b5a
+  - relpath: false/161_XIAOMI-MI8-SE_F.jpg
+    md5: fe93d0a53b119bcda5366e8ad90e8ebb
+    size: 452394
+    cloud:
+      myminio:
+        etag: fe93d0a53b119bcda5366e8ad90e8ebb
+        version_id: d3c63487-b8cf-4b7f-a771-3c394f8a79ba
+  - relpath: false/162_IPHONE-6S_F.jpg
+    md5: 2c29e81736240b18a7dad52b8ddcbe18
+    size: 1086467
+    cloud:
+      myminio:
+        etag: 2c29e81736240b18a7dad52b8ddcbe18
+        version_id: 206c5497-a63d-489c-9aa1-41e3f83a6dec
+  - relpath: false/163_SAMSUNG-GALAXY-GRAND-PRIME-PLUS_F.jpg
+    md5: 3a490574a782b79084d786801f90a2c7
+    size: 650021
+    cloud:
+      myminio:
+        etag: 3a490574a782b79084d786801f90a2c7
+        version_id: 996dce75-a125-451b-9c41-e4f3a84ef6a0
+  - relpath: false/164_XIAOMI-MI8-SE_F.jpg
+    md5: 11872ccc8702fde494a628421a58701f
+    size: 988594
+    cloud:
+      myminio:
+        etag: 11872ccc8702fde494a628421a58701f
+        version_id: 79adbb51-cdf8-4249-b2d1-fb79e13cb7e7
+  - relpath: false/165_SAMSUNG-GALAXY-J3_F.jpg
+    md5: 5808ac6fdb6138b66db49becc0839835
+    size: 863092
+    cloud:
+      myminio:
+        etag: 5808ac6fdb6138b66db49becc0839835
+        version_id: a29ec6dd-6c9d-4440-8932-9d11cb56f4b7
+  - relpath: false/166_XIAOMI-MI8-SE_F.jpg
+    md5: fc682087c984bb8309c6c606a19f75b3
+    size: 931919
+    cloud:
+      myminio:
+        etag: fc682087c984bb8309c6c606a19f75b3
+        version_id: 48bde23c-2a33-40b0-bef6-cc1006e8b056
+  - relpath: false/167_HONOR-7X_F.jpg
+    md5: 018710a1b97404577f8a07ebd321fa8d
+    size: 754292
+    cloud:
+      myminio:
+        etag: 018710a1b97404577f8a07ebd321fa8d
+        version_id: d9187541-132c-416a-a4e7-bcd4b434b5f4
+  - relpath: false/168_CANON-6D-100MM_F.JPG
+    md5: 99c56fc16e3db208ce8c1bab798ad303
+    size: 469529
+    cloud:
+      myminio:
+        etag: 99c56fc16e3db208ce8c1bab798ad303
+        version_id: 5f11e969-1fe2-4b0f-a52d-85ce2e52fbac
+  - relpath: false/169_HONOR-7X_F.jpg
+    md5: 78d7a49d3c03a663fcc8b6e305880a79
+    size: 871137
+    cloud:
+      myminio:
+        etag: 78d7a49d3c03a663fcc8b6e305880a79
+        version_id: f0640b10-a4c5-4129-af4a-bc591076f821
+  - relpath: false/16_IPHONE-7_F.jpeg
+    md5: e3f8fde584daad2c2a1e010643833e23
+    size: 505426
+    cloud:
+      myminio:
+        etag: e3f8fde584daad2c2a1e010643833e23
+        version_id: ffdfb798-519f-4109-9de8-e655cd2a7f66
+  - relpath: false/170_IPHONE-8_F.JPG
+    md5: 8b79d4fc40dad155c4ac6454bdb19778
+    size: 539837
+    cloud:
+      myminio:
+        etag: 8b79d4fc40dad155c4ac6454bdb19778
+        version_id: e3fee3a2-0a98-45a8-a433-51b4e0c99307
+  - relpath: false/171_HUAWEI-P20-LITE_M.jpg
+    md5: ef82efded28b5c3a5b187bb71f9c2542
+    size: 716458
+    cloud:
+      myminio:
+        etag: ef82efded28b5c3a5b187bb71f9c2542
+        version_id: b97fb2b6-df87-4210-8ff5-0a9e32445394
+  - relpath: false/172_IPHONE-SE_M.jpg
+    md5: 9c43edcf4077a9ba4e0a88c260fe9ede
+    size: 560368
+    cloud:
+      myminio:
+        etag: 9c43edcf4077a9ba4e0a88c260fe9ede
+        version_id: 35eca8a2-94d7-4cbd-af31-f232c8bffbd5
+  - relpath: false/173_IPHONE-SE_M.jpg
+    md5: 72d9d6b06b851c63220d8d3d9bfbaa74
+    size: 520152
+    cloud:
+      myminio:
+        etag: 72d9d6b06b851c63220d8d3d9bfbaa74
+        version_id: 1d6bde47-f946-4d00-824a-b6c27108ba89
+  - relpath: false/174_HUAWEI-P20_M.jpg
+    md5: 02337b18cd9ad664fd9950d95d31d224
+    size: 578157
+    cloud:
+      myminio:
+        etag: 02337b18cd9ad664fd9950d95d31d224
+        version_id: 2a4968c8-f9a6-4f07-b112-b83902ecb3a3
+  - relpath: false/175_IPHONE-SE_M.jpg
+    md5: eefe0d4acfcc8081a357654ba869374c
+    size: 690237
+    cloud:
+      myminio:
+        etag: eefe0d4acfcc8081a357654ba869374c
+        version_id: f5b45f22-9c67-4fc7-9772-d9d220c51c7d
+  - relpath: false/176_HONOR-7X_M.jpg
+    md5: cf38920335ac153a302718c31c4549ba
+    size: 553732
+    cloud:
+      myminio:
+        etag: cf38920335ac153a302718c31c4549ba
+        version_id: 4278a64e-b990-485c-ad76-8c033a0afbf8
+  - relpath: false/177_HONOR-7X_M.jpg
+    md5: 6e3ce61403f167ffb12d02c98dbf960a
+    size: 665502
+    cloud:
+      myminio:
+        etag: 6e3ce61403f167ffb12d02c98dbf960a
+        version_id: c681a232-eeef-4336-a9c0-25d36d7226e6
+  - relpath: false/178_HONOR-7X_M.jpg
+    md5: 724b52729e26ae8fafdbf0cff9894156
+    size: 628653
+    cloud:
+      myminio:
+        etag: 724b52729e26ae8fafdbf0cff9894156
+        version_id: 0f086a72-d06b-4abf-9c4d-3fc12a2eeb38
+  - relpath: false/179_CANON-6D-100MM_M.JPG
+    md5: c77dac899ce3422b8720a8ab1601950e
+    size: 540058
+    cloud:
+      myminio:
+        etag: c77dac899ce3422b8720a8ab1601950e
+        version_id: a60d2129-be95-486a-b6c7-7f90b48168fa
+  - relpath: false/17_HUAWEI-MATE20_F.jpg
+    md5: eff83950cd2af0bcf87838fca0577789
+    size: 567097
+    cloud:
+      myminio:
+        etag: eff83950cd2af0bcf87838fca0577789
+        version_id: 75d4ff11-137d-482c-99bb-1e1b149ec7dd
+  - relpath: false/180_HONOR-10_M.jpg
+    md5: 8a66d5a49f473424bb2fba9538bcf964
+    size: 653364
+    cloud:
+      myminio:
+        etag: 8a66d5a49f473424bb2fba9538bcf964
+        version_id: ceaf9f6c-d5ef-4384-8d19-ba1060a1eee6
+  - relpath: false/181_HONOR-10_M.jpg
+    md5: e4919a1cedcb06a7fb65e6f7e70891f6
+    size: 423372
+    cloud:
+      myminio:
+        etag: e4919a1cedcb06a7fb65e6f7e70891f6
+        version_id: d043d656-45d5-4fcc-a5f8-0234fc6580f6
+  - relpath: false/182_HONOR-10_M.jpg
+    md5: b6c2a50c498191e4fc5738af602fac1d
+    size: 596521
+    cloud:
+      myminio:
+        etag: b6c2a50c498191e4fc5738af602fac1d
+        version_id: 36072780-8df9-4542-a65a-f6f8dfe654b3
+  - relpath: false/183_XIAOMI-REDMI-7_M.jpg
+    md5: e5a668d79e50e53258fab9324fcd79be
+    size: 1655935
+    cloud:
+      myminio:
+        etag: e5a668d79e50e53258fab9324fcd79be
+        version_id: de668e55-23ed-45e9-bc1e-0a98ee9c148f
+  - relpath: false/184_HONOR-10_M.jpg
+    md5: 6a5c3062bb43fb434a32e51e4e282e95
+    size: 532679
+    cloud:
+      myminio:
+        etag: 6a5c3062bb43fb434a32e51e4e282e95
+        version_id: fee1ee22-eca4-4857-b9d3-2767541b3b5a
+  - relpath: false/185_HONOR-6X_M.jpg
+    md5: 43413809a90d27f8b3b348732023c81a
+    size: 718129
+    cloud:
+      myminio:
+        etag: 43413809a90d27f8b3b348732023c81a
+        version_id: 7be2e600-2193-4f08-9095-9fa24fbc64e2
+  - relpath: false/186_HONOR-8_M.jpg
+    md5: 76a23f499dde0648bdcfc23a65ec67e4
+    size: 589966
+    cloud:
+      myminio:
+        etag: 76a23f499dde0648bdcfc23a65ec67e4
+        version_id: 74744053-9509-4c51-91f6-088d0fb4c24e
+  - relpath: false/187_XIAOMI-REDMI-4A_M.jpg
+    md5: a4943534d45e97d2b06fa71195a6d935
+    size: 496881
+    cloud:
+      myminio:
+        etag: a4943534d45e97d2b06fa71195a6d935
+        version_id: 2eb8b4e4-12a5-4c13-9c1c-b7bbc27a1782
+  - relpath: false/188_NIKON-D3400-18-55MM_M.JPG
+    md5: 61e8d9ad12673e4e25edb3c0cf355824
+    size: 746761
+    cloud:
+      myminio:
+        etag: 61e8d9ad12673e4e25edb3c0cf355824
+        version_id: eb6f22db-9ac6-44e8-8b14-e312bb755e7b
+  - relpath: false/189_HONOR-7X_M.jpg
+    md5: aded6c165d3df9f899512658f59605cc
+    size: 721135
+    cloud:
+      myminio:
+        etag: aded6c165d3df9f899512658f59605cc
+        version_id: fb923a86-78ca-4d23-b742-71465a794080
+  - relpath: false/18_XIAOMI-REDMI-5-PLUS_F.jpg
+    md5: a08a657ab3ae40e6fe93e932495369a2
+    size: 460065
+    cloud:
+      myminio:
+        etag: a08a657ab3ae40e6fe93e932495369a2
+        version_id: a4df16fb-d676-454c-91e4-ca8ca08835ec
+  - relpath: false/190_NIKON-D3400-18-55MM_M.JPG
+    md5: e3ae04be9a5ebb6c830e6ceafbf1cd97
+    size: 647086
+    cloud:
+      myminio:
+        etag: e3ae04be9a5ebb6c830e6ceafbf1cd97
+        version_id: a961cc0d-f344-454a-a280-75023af14b32
+  - relpath: false/191_NIKON-D3400-18-55MM_M.JPG
+    md5: 0ef3d5ed033203dd0bd3eb9243eb6591
+    size: 674270
+    cloud:
+      myminio:
+        etag: 0ef3d5ed033203dd0bd3eb9243eb6591
+        version_id: 60681099-28ba-47c3-840f-43f667b2bf1f
+  - relpath: false/192_XIAOMI-MI8-SE_M.jpg
+    md5: 9b54909674416e5f186bd37816fe698f
+    size: 653003
+    cloud:
+      myminio:
+        etag: 9b54909674416e5f186bd37816fe698f
+        version_id: 6f7a5484-94e2-4a49-8306-4cf3430713ad
+  - relpath: false/193_IPHONE-7_M.jpeg
+    md5: 32a35125b36b54d9545e88f8c5984af5
+    size: 465435
+    cloud:
+      myminio:
+        etag: 32a35125b36b54d9545e88f8c5984af5
+        version_id: f7d912b5-93b4-45c1-8400-7bf46edd263f
+  - relpath: false/194_IPHONE-SE_M.jpg
+    md5: 8cc715ebf29e59a6b3216c183787728d
+    size: 541606
+    cloud:
+      myminio:
+        etag: 8cc715ebf29e59a6b3216c183787728d
+        version_id: c790255b-443c-4dba-bca3-1ef22a2743f2
+  - relpath: false/195_IPHONE-7_M.jpeg
+    md5: c8317fc3c40404b8c28930fd18fcf673
+    size: 469919
+    cloud:
+      myminio:
+        etag: c8317fc3c40404b8c28930fd18fcf673
+        version_id: 9be3f9cd-b43e-4e66-bf2c-e0805effdf4d
+  - relpath: false/196_IPHONE-SE_M.jpg
+    md5: ff847784b167fb03bb2135484bda8dc6
+    size: 722687
+    cloud:
+      myminio:
+        etag: ff847784b167fb03bb2135484bda8dc6
+        version_id: f7b2403e-19af-4755-9387-8eb4b69bf7cd
+  - relpath: false/197_HUAWEI-P20-LITE_M.jpg
+    md5: ef2793736f69192f814a2bb3005ed940
+    size: 843128
+    cloud:
+      myminio:
+        etag: ef2793736f69192f814a2bb3005ed940
+        version_id: 71849d9d-756e-4944-b143-92721891acb7
+  - relpath: false/198_HUAWEI-P20-LITE_M.jpg
+    md5: abe409304780b4afc472a3af9d50f210
+    size: 638620
+    cloud:
+      myminio:
+        etag: abe409304780b4afc472a3af9d50f210
+        version_id: 7dc38d72-8293-4419-a907-4173b229b796
+  - relpath: false/199_CANON-6D-100MM_M.JPG
+    md5: 166e62e60ed3812b6edff811af8b3d93
+    size: 562924
+    cloud:
+      myminio:
+        etag: 166e62e60ed3812b6edff811af8b3d93
+        version_id: 3d5251fb-4efa-4c49-87fc-a7686de4bffd
+  - relpath: false/19_IPHONE-7-PLUS_F.jpeg
+    md5: 8061b46c5c683f5956bc73c284ea2266
+    size: 622217
+    cloud:
+      myminio:
+        etag: 8061b46c5c683f5956bc73c284ea2266
+        version_id: ea6937b7-895d-4625-a8a8-adc38d12b8e3
+  - relpath: false/1_XIAOMI-PROCOFONE-F1_F.jpg
+    md5: 6d8a89e82488e842bc9fc58f6dd26deb
+    size: 512786
+    cloud:
+      myminio:
+        etag: 6d8a89e82488e842bc9fc58f6dd26deb
+        version_id: 474e9620-0c92-4ba8-9845-a0bc6abdc6be
+  - relpath: false/200_HUAWEI-MATE20_M.jpg
+    md5: c2fe4c48e48267de965fd454e6bc9ffe
+    size: 576893
+    cloud:
+      myminio:
+        etag: c2fe4c48e48267de965fd454e6bc9ffe
+        version_id: d8b7cbc1-4133-4e29-9237-0236be0832fc
+  - relpath: false/201_IPHONE-SE_M.jpg
+    md5: aab52499c410fd2b63cbd81ccf5295eb
+    size: 435735
+    cloud:
+      myminio:
+        etag: aab52499c410fd2b63cbd81ccf5295eb
+        version_id: 90fda2e6-05e7-4bdc-9d26-047abb52343a
+  - relpath: false/202_HUAWEI-P20-LITE_M.jpg
+    md5: b50b5c33fab7c91e114623aaaca06c01
+    size: 819547
+    cloud:
+      myminio:
+        etag: b50b5c33fab7c91e114623aaaca06c01
+        version_id: da06eaec-1c06-4e21-a01d-e213b297e928
+  - relpath: false/203_IPHONE-SE_M.jpg
+    md5: e8470e3a7d6f21c9f4f5800c1c628af9
+    size: 845965
+    cloud:
+      myminio:
+        etag: e8470e3a7d6f21c9f4f5800c1c628af9
+        version_id: 50c35e79-8b7b-4697-8a15-9dcc3abd6f26
+  - relpath: false/204_XIAOMI-MI8-SE_M.jpg
+    md5: d321c113e8962154b95741898e2ce3d5
+    size: 923740
+    cloud:
+      myminio:
+        etag: d321c113e8962154b95741898e2ce3d5
+        version_id: 3f61e163-fa62-4e78-a7ed-1e166e8d31b8
+  - relpath: false/205_HUAWEI-P20-LITE_M.jpg
+    md5: 97f789836b0f2d826706cfd17ec9593b
+    size: 1209176
+    cloud:
+      myminio:
+        etag: 97f789836b0f2d826706cfd17ec9593b
+        version_id: ed035d85-dc36-460d-a19a-cad87ab9f2c5
+  - relpath: false/206_IPHONE-7_M.jpg
+    md5: 72c9127605d7e210c4c27de3228d4a1b
+    size: 803448
+    cloud:
+      myminio:
+        etag: 72c9127605d7e210c4c27de3228d4a1b
+        version_id: b35ca3cd-647f-47a5-bfa9-75b37eb78c1a
+  - relpath: false/207_SAMSUNG-GALAXY-J7_M.jpg
+    md5: b43bf8aa3cf23c433a7820bbed7d3513
+    size: 625306
+    cloud:
+      myminio:
+        etag: b43bf8aa3cf23c433a7820bbed7d3513
+        version_id: 030a4321-1528-48d6-8310-7af56fafe087
+  - relpath: false/208_SAMSUNG-GALAXY-A5_M.jpg
+    md5: 60a7e894922c706f1e1aa11e64785d48
+    size: 553691
+    cloud:
+      myminio:
+        etag: 60a7e894922c706f1e1aa11e64785d48
+        version_id: 5696098e-4f46-4865-865a-a972f226463c
+  - relpath: false/209_SAMSUNG-GALAXY-A8_M.jpg
+    md5: e9bc53aaa93b610b1a4d2d9a41cb8dbf
+    size: 497903
+    cloud:
+      myminio:
+        etag: e9bc53aaa93b610b1a4d2d9a41cb8dbf
+        version_id: 07378656-4b19-4b14-bc55-ffc96f978186
+  - relpath: false/20_XIAOMI-REDMI-3S_F.jpg
+    md5: eed7212d015fe57d61778861340f6d14
+    size: 336727
+    cloud:
+      myminio:
+        etag: eed7212d015fe57d61778861340f6d14
+        version_id: 251e7f72-fb2f-4d38-a618-a8acf27a422f
+  - relpath: false/210_CANON-6D-70-200MM_M.JPG
+    md5: 2f39e572d61663b91b96e529600442b6
+    size: 376540
+    cloud:
+      myminio:
+        etag: 2f39e572d61663b91b96e529600442b6
+        version_id: a73ef962-4e78-4949-8552-dfcd2d7dcc48
+  - relpath: false/211_SAMSUNG-GALAXY-7-NEO_M.jpg
+    md5: f6d90a7222abe82dfb4ac09c0d48c874
+    size: 641716
+    cloud:
+      myminio:
+        etag: f6d90a7222abe82dfb4ac09c0d48c874
+        version_id: 02d98335-e211-4a0f-902a-9dacd5d82a15
+  - relpath: false/212_IPHONE-SE_M.jpg
+    md5: c621628edb2502b8da9e7636ed53f3f7
+    size: 637959
+    cloud:
+      myminio:
+        etag: c621628edb2502b8da9e7636ed53f3f7
+        version_id: 88bc3f22-9b75-41c2-bde8-5d37d82ed736
+  - relpath: false/213_ONEPLUS-3T_M.jpg
+    md5: da90c588cec84ec147abb6cf309fd228
+    size: 803046
+    cloud:
+      myminio:
+        etag: da90c588cec84ec147abb6cf309fd228
+        version_id: 5bec8582-5e7e-412e-8a62-d2f8d2062517
+  - relpath: false/214_IPHONE-SE_M.jpg
+    md5: cfe9d35d3a92d57747db566bc21e7690
+    size: 608195
+    cloud:
+      myminio:
+        etag: cfe9d35d3a92d57747db566bc21e7690
+        version_id: a26fe055-ecb9-4d4c-806b-c9f70e1c8588
+  - relpath: false/215_LG-Q6_M.jpg
+    md5: 6581b917b0448026b55f651cb88d7a97
+    size: 688987
+    cloud:
+      myminio:
+        etag: 6581b917b0448026b55f651cb88d7a97
+        version_id: b3b3605e-7fc8-4aa2-a141-8c5fd1fc2022
+  - relpath: false/216_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg
+    md5: 15c3e191d984c91e32a83a5afb47def2
+    size: 520045
+    cloud:
+      myminio:
+        etag: 15c3e191d984c91e32a83a5afb47def2
+        version_id: 2ee415de-1342-4686-861e-df68a631229d
+  - relpath: false/217_IPHONE-SE_M.jpg
+    md5: 322aad98176feb933c35b8479adb3d77
+    size: 677810
+    cloud:
+      myminio:
+        etag: 322aad98176feb933c35b8479adb3d77
+        version_id: 2b4a973c-77fe-4a74-aeed-ab6d15a5420a
+  - relpath: false/218_IPHONE-SE_M.jpg
+    md5: 765fe3f83d3af683ecfe22de157d7fda
+    size: 741897
+    cloud:
+      myminio:
+        etag: 765fe3f83d3af683ecfe22de157d7fda
+        version_id: 9c01ac8d-0d09-43c1-8c49-db060e8e4a63
+  - relpath: false/219_IPHONE-6S_M.jpg
+    md5: 312d01f3298e7bad6382a8c587eb0457
+    size: 880301
+    cloud:
+      myminio:
+        etag: 312d01f3298e7bad6382a8c587eb0457
+        version_id: fc7e73ba-5abb-48cf-bdad-817fd8ec9f72
+  - relpath: false/21_HUAWEI-Y9_F.jpg
+    md5: 891139d45c3d423b2f6c887460431317
+    size: 506797
+    cloud:
+      myminio:
+        etag: 891139d45c3d423b2f6c887460431317
+        version_id: 68fb9bce-6188-46c5-927f-d37739dd45c5
+  - relpath: false/220_IPHONE-6_M.jpg
+    md5: 107efbcba7f1655582bebb3f38c41b1b
+    size: 743012
+    cloud:
+      myminio:
+        etag: 107efbcba7f1655582bebb3f38c41b1b
+        version_id: 491f4dfa-abac-4d6e-bfb0-0e253a5a23a2
+  - relpath: false/221_IPHONE-SE_M.jpg
+    md5: 315cb1539b48063c93b5107b9d52f463
+    size: 607047
+    cloud:
+      myminio:
+        etag: 315cb1539b48063c93b5107b9d52f463
+        version_id: 7440e544-089e-4622-9477-0bc8ee8051f2
+  - relpath: false/222_IPHONE-SE_M.jpg
+    md5: e07e01985c61f3b43d6a97312edf998b
+    size: 637919
+    cloud:
+      myminio:
+        etag: e07e01985c61f3b43d6a97312edf998b
+        version_id: f8a4692c-3ba0-4484-9b58-27694e489e78
+  - relpath: false/223_HONOR-4C_M.jpg
+    md5: da0497cccc6ebabf76b20ec55fd19438
+    size: 875692
+    cloud:
+      myminio:
+        etag: da0497cccc6ebabf76b20ec55fd19438
+        version_id: f0d89bbd-9a4c-463e-bb40-f695dbd94bf8
+  - relpath: false/224_ONEPLUS-3T_M.jpg
+    md5: 6be53613f381233ab8e9df7350417c41
+    size: 1018846
+    cloud:
+      myminio:
+        etag: 6be53613f381233ab8e9df7350417c41
+        version_id: d8b98605-1982-4028-891f-04301978f959
+  - relpath: false/225_HONOR-7C_M.jpg
+    md5: 05106d9ee64d58aafadbe471b39aa967
+    size: 726381
+    cloud:
+      myminio:
+        etag: 05106d9ee64d58aafadbe471b39aa967
+        version_id: 2237c1b0-c8db-441a-9c5f-7db982f23da8
+  - relpath: false/226_IPHONE-7-PLUS_M.jpeg
+    md5: 6c9ef3cf8562294a827b54c1bc575d3a
+    size: 622887
+    cloud:
+      myminio:
+        etag: 6c9ef3cf8562294a827b54c1bc575d3a
+        version_id: c6aa6299-693c-4eec-a819-018875066f9c
+  - relpath: false/227_SAMSUNG-GALAXY-A3_M.jpg
+    md5: efad986ddc9de81cb653de65401161f2
+    size: 855147
+    cloud:
+      myminio:
+        etag: efad986ddc9de81cb653de65401161f2
+        version_id: 283cd55b-dba1-49e8-adb1-8290103a2329
+  - relpath: false/228_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg
+    md5: a40ffb609ab41c42d80c9cafe440a413
+    size: 646432
+    cloud:
+      myminio:
+        etag: a40ffb609ab41c42d80c9cafe440a413
+        version_id: 315a5a54-46fe-4f43-a232-f3e06d0fddd0
+  - relpath: false/229_WILEYFOX-SWIFT-2-PLUS_M.jpg
+    md5: fab24e21b7e218fb6fa9713417468c3d
+    size: 851252
+    cloud:
+      myminio:
+        etag: fab24e21b7e218fb6fa9713417468c3d
+        version_id: b52b5369-cbe2-48ed-9db0-b978e678c104
+  - relpath: false/22_HUAWEI-Y9_F.jpg
+    md5: ad365f0379d716b99182ab906cfdb34d
+    size: 460036
+    cloud:
+      myminio:
+        etag: ad365f0379d716b99182ab906cfdb34d
+        version_id: 872ec9b5-81c4-49bf-a60b-25017ae075e7
+  - relpath: false/230_NOKIA-21_M.jpg
+    md5: 0c5db69a5a17a52432e3d4c474bac9ac
+    size: 476212
+    cloud:
+      myminio:
+        etag: 0c5db69a5a17a52432e3d4c474bac9ac
+        version_id: b1c6bdab-dcba-45b0-9c1a-4cc4421a770b
+  - relpath: false/231_IPHONE-7-PLUS_M.jpg
+    md5: 67167e880adb08aa76e9795cd34050da
+    size: 873817
+    cloud:
+      myminio:
+        etag: 67167e880adb08aa76e9795cd34050da
+        version_id: 80a1facc-dc7e-4e9d-91b3-29be9701c872
+  - relpath: false/232_SAMSUNG-EDGE-7C_M.jpg
+    md5: fa71ae267d261efb0e8f571459565397
+    size: 603674
+    cloud:
+      myminio:
+        etag: fa71ae267d261efb0e8f571459565397
+        version_id: 2b003a3e-d83a-4f73-ba25-ca1ba54d2245
+  - relpath: false/233_XIAOMI-REDMI-4_M.jpg
+    md5: 8daf78e60672285f1cb0eb672e558c79
+    size: 1236283
+    cloud:
+      myminio:
+        etag: 8daf78e60672285f1cb0eb672e558c79
+        version_id: 015a0912-b6a8-4780-a9f1-74a2a87ea7a8
+  - relpath: false/234_XIAOMI-REDMI-NOTE-5A-PRIME_M.jpg
+    md5: 62d1a413f0ea334ad168dc496c738fae
+    size: 675146
+    cloud:
+      myminio:
+        etag: 62d1a413f0ea334ad168dc496c738fae
+        version_id: 491063af-4b9c-4e4e-9851-0f1fb45fe8da
+  - relpath: false/235_IPHONE-SE_M.jpg
+    md5: 16127a97be435bdc010571a5d1fd2550
+    size: 738775
+    cloud:
+      myminio:
+        etag: 16127a97be435bdc010571a5d1fd2550
+        version_id: d2e93870-a983-472c-8a4a-2e3f6e8a059c
+  - relpath: false/236_IPHONE-SE_M.jpg
+    md5: 6df8dfd8607716dd24e2a7abecc06a9a
+    size: 765776
+    cloud:
+      myminio:
+        etag: 6df8dfd8607716dd24e2a7abecc06a9a
+        version_id: 2974b4ed-3348-4799-84f3-cae546c70e0d
+  - relpath: false/237_SAMSUNG-GALAXY-J5_M.jpg
+    md5: 98c3c6ae5abc461dc31d593f7914f9c4
+    size: 670324
+    cloud:
+      myminio:
+        etag: 98c3c6ae5abc461dc31d593f7914f9c4
+        version_id: 6af9d69d-1a8b-4cb8-93b3-028a2077d166
+  - relpath: false/238_HONOR-7X_M.jpg
+    md5: 4e8a9c2f80417b29bab7ab33e1f4f6be
+    size: 669775
+    cloud:
+      myminio:
+        etag: 4e8a9c2f80417b29bab7ab33e1f4f6be
+        version_id: c6b5d114-fa0d-424e-a09a-7db93a01023f
+  - relpath: false/239_IPHONE-6S_M.jpeg
+    md5: 1cebed9fbd08cc3549a34371a97e07ba
+    size: 821627
+    cloud:
+      myminio:
+        etag: 1cebed9fbd08cc3549a34371a97e07ba
+        version_id: ac4b6407-b4a2-4877-b2ad-fd7c69565fc4
+  - relpath: false/23_HUAWEI-P20_F.jpg
+    md5: 73c4f02ad3f7fb06772a1abcc63f4112
+    size: 509288
+    cloud:
+      myminio:
+        etag: 73c4f02ad3f7fb06772a1abcc63f4112
+        version_id: 43a34e12-4d5d-4a8d-8635-22a6858f2bfe
+  - relpath: false/240_HONOR-7X_M.jpg
+    md5: 8ec4aeabe37c6f913ecf44173e09400f
+    size: 927949
+    cloud:
+      myminio:
+        etag: 8ec4aeabe37c6f913ecf44173e09400f
+        version_id: 90f514fb-6596-4d95-a039-3d19cb6c893c
+  - relpath: false/241_HONOR-7X_M.jpg
+    md5: b748adeed2fc79d9cd11b4b9b0d585ba
+    size: 738595
+    cloud:
+      myminio:
+        etag: b748adeed2fc79d9cd11b4b9b0d585ba
+        version_id: b50dc2f3-75e4-4e63-9cd5-25e32aaebce3
+  - relpath: false/242_IPHONE-6S_M.jpeg
+    md5: 5e0581d447b829342b5a63fa5cce6485
+    size: 820420
+    cloud:
+      myminio:
+        etag: 5e0581d447b829342b5a63fa5cce6485
+        version_id: 1abf5d39-898d-4328-a699-97393f0f8a40
+  - relpath: false/243_HONOR-7X_M.jpg
+    md5: 7b482c7a09605e1ea8bc55b6b484606e
+    size: 788606
+    cloud:
+      myminio:
+        etag: 7b482c7a09605e1ea8bc55b6b484606e
+        version_id: 8fa950af-363a-43ad-a593-1251c50a0dfa
+  - relpath: false/244_HONOR-7X_M.jpg
+    md5: 2d71e6bddffdabb62dbdf8628338689e
+    size: 598857
+    cloud:
+      myminio:
+        etag: 2d71e6bddffdabb62dbdf8628338689e
+        version_id: f7f5948b-511b-4be5-8bb4-48263ccc6a0b
+  - relpath: false/245_HONOR-7X_M.jpg
+    md5: 4485cabbb652c8b9e3caa82bc0c119a0
+    size: 594088
+    cloud:
+      myminio:
+        etag: 4485cabbb652c8b9e3caa82bc0c119a0
+        version_id: eaebd85a-a82b-412d-8bfa-7e7678ddf2ac
+  - relpath: false/246_HONOR-9_M.jpg
+    md5: abec8105a49db4f439e85e86e126a4b3
+    size: 773191
+    cloud:
+      myminio:
+        etag: abec8105a49db4f439e85e86e126a4b3
+        version_id: 5d207b08-f7a2-46c8-a615-23a61f4d44af
+  - relpath: false/247_HONOR-7X_M.jpg
+    md5: 7cea5dd7587d81e1e5b4caf4df5abd93
+    size: 894913
+    cloud:
+      myminio:
+        etag: 7cea5dd7587d81e1e5b4caf4df5abd93
+        version_id: 8262b758-316a-4020-99c5-ff78e5ee0732
+  - relpath: false/248_IPHONE-7_M.jpeg
+    md5: 629c7909b2290ba227637cd0c1f90a3e
+    size: 600356
+    cloud:
+      myminio:
+        etag: 629c7909b2290ba227637cd0c1f90a3e
+        version_id: 5e49ffbd-8160-45ec-a18a-894993a880d0
+  - relpath: false/249_IPHONE-SE_M.jpeg
+    md5: 3d9490eccf555e73599e499a1d6d6226
+    size: 541366
+    cloud:
+      myminio:
+        etag: 3d9490eccf555e73599e499a1d6d6226
+        version_id: 36ade8d9-5fd7-4cd1-99e4-0a5b8cb54c41
+  - relpath: false/24_HUAWEI-Y9_F.jpg
+    md5: 7998f7cc15e50529d04853870889e303
+    size: 530237
+    cloud:
+      myminio:
+        etag: 7998f7cc15e50529d04853870889e303
+        version_id: 68f3acbe-2c73-44d9-bac7-3a2db0ba7bfa
+  - relpath: false/250_IPHONE-SE_M.jpeg
+    md5: b300193e884d8aaa906a15729c793f8c
+    size: 556249
+    cloud:
+      myminio:
+        etag: b300193e884d8aaa906a15729c793f8c
+        version_id: 0722f431-479e-4bd2-872d-9ac77c578acc
+  - relpath: false/251_IPHONE-6S_M.jpeg
+    md5: 02cd3f7c78b2d3257d91553ff0689378
+    size: 835851
+    cloud:
+      myminio:
+        etag: 02cd3f7c78b2d3257d91553ff0689378
+        version_id: 1d8b1d66-7ec8-4c6f-96ab-4b01ddad1e2d
+  - relpath: false/252_HUAWEI-P30_M.jpg
+    md5: 362a5e2a556aa69e405f6f8df07b59b5
+    size: 689138
+    cloud:
+      myminio:
+        etag: 362a5e2a556aa69e405f6f8df07b59b5
+        version_id: 27ad7d19-a0b6-48cb-a765-0104368b3cd1
+  - relpath: false/253_XIAOMI-REDMI-NOTE-7_M.jpg
+    md5: 9d447f44b2826048a43e3b14e6a3a16e
+    size: 652628
+    cloud:
+      myminio:
+        etag: 9d447f44b2826048a43e3b14e6a3a16e
+        version_id: 5a6a5b06-02ec-4590-9539-f8f50480237f
+  - relpath: false/254_XIAOMI-REDMI-7_M.jpg
+    md5: e501a9b0f555a4c82415d22ad5f3d920
+    size: 392346
+    cloud:
+      myminio:
+        etag: e501a9b0f555a4c82415d22ad5f3d920
+        version_id: e1ab5c92-cb7a-4b98-9008-4c9d362d544f
+  - relpath: false/255_XIAOMI-REDMI-7_M.jpg
+    md5: d608f459ec7dcf5163afb9486ba64015
+    size: 628894
+    cloud:
+      myminio:
+        etag: d608f459ec7dcf5163afb9486ba64015
+        version_id: 07edf2d8-5d49-44d5-a6f5-6d62af32cc80
+  - relpath: false/256_SAMSUNG-GALAXY-GRAND-PRIME_M.jpg
+    md5: 958ac5082e9490ca813232d6a856d40b
+    size: 645882
+    cloud:
+      myminio:
+        etag: 958ac5082e9490ca813232d6a856d40b
+        version_id: 4ae149e9-d7c0-45e4-9558-0f8267612a6b
+  - relpath: false/257_HONOR-9_M.jpg
+    md5: d1a96f9ed4f4b4f7825db135254b613b
+    size: 706941
+    cloud:
+      myminio:
+        etag: d1a96f9ed4f4b4f7825db135254b613b
+        version_id: abd3ebef-0b1e-415c-9952-e932beef0297
+  - relpath: false/258_HONOR-10_M.jpg
+    md5: 019d9a8b890df32382982968c5952dd8
+    size: 908737
+    cloud:
+      myminio:
+        etag: 019d9a8b890df32382982968c5952dd8
+        version_id: f6050446-283e-4093-b0de-3fd42e77cfca
+  - relpath: false/259_XIAOMI-REDMI-7_M.jpg
+    md5: 258415ef65b2fd2d4642b7bef00a5ee9
+    size: 1350184
+    cloud:
+      myminio:
+        etag: 258415ef65b2fd2d4642b7bef00a5ee9
+        version_id: 98156053-0bc7-4f91-85ab-125e36b7f79a
+  - relpath: false/25_HUAWEI-Y9_F.jpg
+    md5: 0fe8134cef04361e1e00d20b50751a39
+    size: 445579
+    cloud:
+      myminio:
+        etag: 0fe8134cef04361e1e00d20b50751a39
+        version_id: 2243b300-3dfd-4a3d-bd13-17accf576ef7
+  - relpath: false/260_HUAWEI-NOVA-LITE_M.jpg
+    md5: 4472cb6c9b03a0a45633a4827011f335
+    size: 591206
+    cloud:
+      myminio:
+        etag: 4472cb6c9b03a0a45633a4827011f335
+        version_id: baab6f17-73b1-46ad-8988-c214f39e293b
+  - relpath: false/261_HONOR-10_M.jpg
+    md5: da523f1ffabeaf8fff421335187037ce
+    size: 414097
+    cloud:
+      myminio:
+        etag: da523f1ffabeaf8fff421335187037ce
+        version_id: ac8446b4-a092-48f1-b33c-6a5611a74ae3
+  - relpath: false/262_IPHONE-SE_M.jpg
+    md5: eef7cd202cd58c750f068e0994cdf788
+    size: 883729
+    cloud:
+      myminio:
+        etag: eef7cd202cd58c750f068e0994cdf788
+        version_id: 44994e9b-65a8-424f-a101-96ddd46180cd
+  - relpath: false/263_XIAOMI-REDMI-3S_M.jpg
+    md5: 4bee7fdc62ece925072bebe43c05753e
+    size: 589734
+    cloud:
+      myminio:
+        etag: 4bee7fdc62ece925072bebe43c05753e
+        version_id: 75ec7373-399d-4818-ac69-6a2ae6649d93
+  - relpath: false/264_IPHONE-7_M.jpeg
+    md5: 5579116378d52dcd982926b5bc969ccc
+    size: 718417
+    cloud:
+      myminio:
+        etag: 5579116378d52dcd982926b5bc969ccc
+        version_id: bf46ab54-1f6f-4be5-b570-522f0356b682
+  - relpath: false/265_HONOR-9-LITE_M.jpg
+    md5: 0f55d8b2cd08b9cd80069306ce70e02f
+    size: 607448
+    cloud:
+      myminio:
+        etag: 0f55d8b2cd08b9cd80069306ce70e02f
+        version_id: 47b9e1c4-1783-40c7-bea8-037846e96f11
+  - relpath: false/266_SONY-NEX-5T_M.JPG
+    md5: 50ec022c68af11906148d3d9f806815e
+    size: 292045
+    cloud:
+      myminio:
+        etag: 50ec022c68af11906148d3d9f806815e
+        version_id: 5e012d4c-331f-40bf-83e1-70fadada9aa9
+  - relpath: false/267_SONY-NEX-5T_M.JPG
+    md5: 08b4382a762db5230a6eb66d97b9c7d2
+    size: 277874
+    cloud:
+      myminio:
+        etag: 08b4382a762db5230a6eb66d97b9c7d2
+        version_id: fb775a02-77dd-4571-b8ed-82a3570bd1fb
+  - relpath: false/268_NIKON-D3400-18-55MM_M.JPG
+    md5: 3dee1358f96274057ec3e66a5db8acb2
+    size: 708613
+    cloud:
+      myminio:
+        etag: 3dee1358f96274057ec3e66a5db8acb2
+        version_id: bcd36a33-5fdb-47db-a143-3d172919dc50
+  - relpath: false/269_NIKON-D3400-18-55MM_M.JPG
+    md5: 096ee52f65ecef55e8441559d61290de
+    size: 724246
+    cloud:
+      myminio:
+        etag: 096ee52f65ecef55e8441559d61290de
+        version_id: 8c41c04f-fbd8-4c34-9e1d-fa526de33c1e
+  - relpath: false/26_HONOR-8X_F.jpg
+    md5: e62ac0e7cf681eab2ef67358d66e0ecc
+    size: 592427
+    cloud:
+      myminio:
+        etag: e62ac0e7cf681eab2ef67358d66e0ecc
+        version_id: ff671624-2caa-448b-b652-83933a08964c
+  - relpath: false/270_NIKON-D3400-18-55MM_M.JPG
+    md5: 19030fa4574bcf0d120602675e969844
+    size: 779979
+    cloud:
+      myminio:
+        etag: 19030fa4574bcf0d120602675e969844
+        version_id: fd28ad43-9580-4251-9019-636b723adf5e
+  - relpath: false/271_NIKON-D3400-18-55MM_M.JPG
+    md5: a3e3a9ee5463a42af0d8963414dd705b
+    size: 844540
+    cloud:
+      myminio:
+        etag: a3e3a9ee5463a42af0d8963414dd705b
+        version_id: f626bcd7-706b-457c-b93d-aceb00844fae
+  - relpath: false/272_NIKON-D3400-18-55MM_M.JPG
+    md5: 2184f7227ca58535a73182114144149b
+    size: 799612
+    cloud:
+      myminio:
+        etag: 2184f7227ca58535a73182114144149b
+        version_id: 0cac9dfd-47fa-45cd-a066-2e95e8d5c4ca
+  - relpath: false/273_NIKON-D3400-18-55MM_M.JPG
+    md5: 38ad65971d055949fcbbed6d514ce318
+    size: 799227
+    cloud:
+      myminio:
+        etag: 38ad65971d055949fcbbed6d514ce318
+        version_id: 41b5e498-3c0f-4e45-8a6e-3dd5de0733ae
+  - relpath: false/274_NIKON-D3400-18-55MM_M.JPG
+    md5: a33b5fa62fb633e5fde64ee15e23c3bd
+    size: 813312
+    cloud:
+      myminio:
+        etag: a33b5fa62fb633e5fde64ee15e23c3bd
+        version_id: 736c7d74-9d98-491c-ba85-bbcaeb7d4c45
+  - relpath: false/275_NIKON-D3400-18-55MM_M.JPG
+    md5: f4ac8a9fd4435a00a478cd9a45a33a91
+    size: 785660
+    cloud:
+      myminio:
+        etag: f4ac8a9fd4435a00a478cd9a45a33a91
+        version_id: 0f8d4e89-1064-446d-afd3-b0d596d3c610
+  - relpath: false/276_NIKON-D3400-18-55MM_M.JPG
+    md5: 1f3c5c1b0c87ed2dd89da887e15f7ac9
+    size: 794611
+    cloud:
+      myminio:
+        etag: 1f3c5c1b0c87ed2dd89da887e15f7ac9
+        version_id: 80263a40-4053-4cef-8750-8cf326cd5008
+  - relpath: false/277_NIKON-D3400-18-55MM_M.JPG
+    md5: 347222163f7f4fa6adde952062c289e1
+    size: 712460
+    cloud:
+      myminio:
+        etag: 347222163f7f4fa6adde952062c289e1
+        version_id: a0401d3f-ec2b-466e-908b-80ba4eaba47d
+  - relpath: false/278_HONOR-7X_M.jpg
+    md5: d8db9e546f1ba91d2b06d568db9427c5
+    size: 741952
+    cloud:
+      myminio:
+        etag: d8db9e546f1ba91d2b06d568db9427c5
+        version_id: 141d5984-75ad-41dc-9d90-179b172c098e
+  - relpath: false/279_NIKON-D3400-18-55MM_M.JPG
+    md5: 5ef83738a4ecc00daccfed1d998cd2e0
+    size: 815130
+    cloud:
+      myminio:
+        etag: 5ef83738a4ecc00daccfed1d998cd2e0
+        version_id: 553a4e4f-021a-476f-8bf0-8825f7b14178
+  - relpath: false/27_HONOR-8X_F.jpg
+    md5: 772a2abcb21e214123306b9fd64c8ab5
+    size: 492159
+    cloud:
+      myminio:
+        etag: 772a2abcb21e214123306b9fd64c8ab5
+        version_id: 795ae5e8-fae6-44b2-b47b-18cd95dbc24b
+  - relpath: false/280_NIKON-D3400-18-55MM_M.JPG
+    md5: 154d4f77967ff7e5b1244bb9f678e3dd
+    size: 809969
+    cloud:
+      myminio:
+        etag: 154d4f77967ff7e5b1244bb9f678e3dd
+        version_id: c33ee310-4479-4b5e-9623-ec69eb344c46
+  - relpath: false/281_NIKON-D3400-18-55MM_M.JPG
+    md5: 07f6941df55900dc58dd0c0f0fe8c713
+    size: 711743
+    cloud:
+      myminio:
+        etag: 07f6941df55900dc58dd0c0f0fe8c713
+        version_id: 05084a53-22d6-4949-b656-7e830a03e654
+  - relpath: false/282_SONY-NEX-5T_M.JPG
+    md5: 3d07b9607ed5f24cc766b568b8a3eaa2
+    size: 236599
+    cloud:
+      myminio:
+        etag: 3d07b9607ed5f24cc766b568b8a3eaa2
+        version_id: 910076d3-1942-4dcc-808b-698c77670ed4
+  - relpath: false/283_HONOR-10_M.jpg
+    md5: 4ac4ec38c8ef3cfac8acd1da13f135e3
+    size: 712752
+    cloud:
+      myminio:
+        etag: 4ac4ec38c8ef3cfac8acd1da13f135e3
+        version_id: 3c8efaf4-b419-475a-a1b4-186d5bd8a61f
+  - relpath: false/284_SONY-NEX-5T_M.JPG
+    md5: 04e9ce48d91ebf27a4e27e0cb9b674d1
+    size: 254318
+    cloud:
+      myminio:
+        etag: 04e9ce48d91ebf27a4e27e0cb9b674d1
+        version_id: 8af15f3c-a2af-4aa7-9b5a-85119a6b90d6
+  - relpath: false/285_SONY-NEX-5T_M.JPG
+    md5: f3ac33b6277fe842e689d0ddf2de7ecc
+    size: 352190
+    cloud:
+      myminio:
+        etag: f3ac33b6277fe842e689d0ddf2de7ecc
+        version_id: 3359b5fe-c652-4f14-9933-09931fd16ec3
+  - relpath: false/286_SONY-NEX-5T_M.JPG
+    md5: a0565f887e8b001329bcb41ac8097062
+    size: 452106
+    cloud:
+      myminio:
+        etag: a0565f887e8b001329bcb41ac8097062
+        version_id: 884daeca-a069-42c4-ba30-7431375e1c74
+  - relpath: false/287_WILEYFOX-SWIFT-2-PLUS_M.jpg
+    md5: 5420c477ad6db7021b548c45cc5d6ebc
+    size: 810506
+    cloud:
+      myminio:
+        etag: 5420c477ad6db7021b548c45cc5d6ebc
+        version_id: 918d9243-7889-4c2c-afbb-c9d1387c13b4
+  - relpath: false/288_XIAOMI-REDMI-NOTE-7_M.jpg
+    md5: 1223d786b2b66320f04db7ff6ed55a1e
+    size: 949138
+    cloud:
+      myminio:
+        etag: 1223d786b2b66320f04db7ff6ed55a1e
+        version_id: 6e09cf9b-199a-4dc3-8dd8-8ddf63752b62
+  - relpath: false/289_WILEYFOX-SWIFT-2-PLUS_M.jpg
+    md5: 35144d5322fe8017644adc0a55898a55
+    size: 763651
+    cloud:
+      myminio:
+        etag: 35144d5322fe8017644adc0a55898a55
+        version_id: b95533df-8364-4a1e-a432-b0dcdb1b9ee7
+  - relpath: false/28_HONOR-8X_F.jpg
+    md5: bdf6f6623692e2a354dac9e12962d48a
+    size: 546915
+    cloud:
+      myminio:
+        etag: bdf6f6623692e2a354dac9e12962d48a
+        version_id: 62e852bb-f828-4e81-80db-8382691924fe
+  - relpath: false/290_IPHONE-SE_M.jpg
+    md5: 43504ebccc0a10eb308eff109991ec58
+    size: 790894
+    cloud:
+      myminio:
+        etag: 43504ebccc0a10eb308eff109991ec58
+        version_id: e2f2f706-d120-4c00-a5e9-93d900a944c9
+  - relpath: false/291_IPHONE-SE_M.jpg
+    md5: 0824464f0c74805bad095502f00dbb0a
+    size: 748573
+    cloud:
+      myminio:
+        etag: 0824464f0c74805bad095502f00dbb0a
+        version_id: c4627447-d460-461b-9695-f0bfcd8a8dcd
+  - relpath: false/292_NIKON-D3400-35MM_M.JPG
+    md5: fec95ca6a151b222d79bd870060441f5
+    size: 562363
+    cloud:
+      myminio:
+        etag: fec95ca6a151b222d79bd870060441f5
+        version_id: e89860b8-b2a3-4f4b-a02d-a24c858d22d1
+  - relpath: false/293_NIKON-D3400-35MM_M.JPG
+    md5: 4a9dd94194a9e68b7af30cbd733ad1ba
+    size: 650844
+    cloud:
+      myminio:
+        etag: 4a9dd94194a9e68b7af30cbd733ad1ba
+        version_id: 57de762e-efaf-4a33-b857-531e667acdbe
+  - relpath: false/294_PRESTIGIO-MULTI-PHONE_M.jpg
+    md5: 299f092481ee31ab3fbf6e9010e3e072
+    size: 872339
+    cloud:
+      myminio:
+        etag: 299f092481ee31ab3fbf6e9010e3e072
+        version_id: 638a381b-f3b1-46cc-9c94-c235d2a781f5
+  - relpath: false/295_HONOR-7X_M.jpg
+    md5: 3ae35c344937adb5d2745f2f2b7a92d7
+    size: 1178922
+    cloud:
+      myminio:
+        etag: 3ae35c344937adb5d2745f2f2b7a92d7
+        version_id: c021eac3-1af1-44eb-a476-67c8e7f99a7d
+  - relpath: false/296_NIKON-D3400-35MM_M.JPG
+    md5: a460bcd5621f0c46ced8d14c35253013
+    size: 504895
+    cloud:
+      myminio:
+        etag: a460bcd5621f0c46ced8d14c35253013
+        version_id: b1ec983c-a3c1-4689-bc27-40a89c56bf8f
+  - relpath: false/297_NIKON-D3400-35MM_M.JPG
+    md5: dd770b1fd159e57c43ce95369773ab14
+    size: 1024950
+    cloud:
+      myminio:
+        etag: dd770b1fd159e57c43ce95369773ab14
+        version_id: 67a4277b-8e1c-4828-8ea7-078ab0ae182a
+  - relpath: false/298_NIKON-D3400-35MM_M.JPG
+    md5: b664969fea90400b0f82389415e88d73
+    size: 806281
+    cloud:
+      myminio:
+        etag: b664969fea90400b0f82389415e88d73
+        version_id: f947cb92-d041-4612-ae2d-17f1042cf769
+  - relpath: false/299_NIKON-D3400-35MM_M.JPG
+    md5: f1634e40beae0fa072175f520a7eed75
+    size: 552884
+    cloud:
+      myminio:
+        etag: f1634e40beae0fa072175f520a7eed75
+        version_id: dfa04b1e-ea38-45c2-82d3-f09c95ba4fd1
+  - relpath: false/29_HONOR-7X_F.jpg
+    md5: 3e4fbde474aea8954a6a58e8cddb06da
+    size: 765855
+    cloud:
+      myminio:
+        etag: 3e4fbde474aea8954a6a58e8cddb06da
+        version_id: 06b0fd33-f4fd-4be4-a64f-67b0d0b0f9c0
+  - relpath: false/2_XIAOMI-PROCOFONE-F1_F.jpg
+    md5: 79e13f1daf878747aa651a02c4dc0394
+    size: 666749
+    cloud:
+      myminio:
+        etag: 79e13f1daf878747aa651a02c4dc0394
+        version_id: 2068679b-d43e-4473-ab51-8412a3a89ee7
+  - relpath: false/300_XIAOMI-REDMI-NOTE-7_M.jpg
+    md5: a42caaf9096e0ed136437b34a1f5dffe
+    size: 847636
+    cloud:
+      myminio:
+        etag: a42caaf9096e0ed136437b34a1f5dffe
+        version_id: 0a9ddebb-11db-465a-8055-fbdfeba6276f
+  - relpath: false/301_NIKON-D3400-35MM_M.JPG
+    md5: 3267bc2237749b418602bb1a48b5d2ee
+    size: 922471
+    cloud:
+      myminio:
+        etag: 3267bc2237749b418602bb1a48b5d2ee
+        version_id: d29cf75b-fca8-46ca-be85-1304a62d8b69
+  - relpath: false/302_IPHONE-SE_M.jpeg
+    md5: a7356157e4a2385238f037cbc1d131c4
+    size: 863616
+    cloud:
+      myminio:
+        etag: a7356157e4a2385238f037cbc1d131c4
+        version_id: 6c5cda6e-c2e9-473d-9b2f-eb2b72a1dbf0
+  - relpath: false/303_SAMSUNG-GALAXY-A8_M.jpg
+    md5: 9e58a742212d61df0b6795a3c17686ab
+    size: 492120
+    cloud:
+      myminio:
+        etag: 9e58a742212d61df0b6795a3c17686ab
+        version_id: e32d3e7d-86e2-47d4-bb6d-7a668946fb06
+  - relpath: false/304_SAMSUNG-GALAXY-J7_M.jpg
+    md5: 0b53f14f486c68169358262b0052a23d
+    size: 798361
+    cloud:
+      myminio:
+        etag: 0b53f14f486c68169358262b0052a23d
+        version_id: aefaaa06-c025-4dc6-bb86-78be84e955bc
+  - relpath: false/305_HONOR-9_M.jpg
+    md5: b641af97b0a3782d9decfd9b00465c25
+    size: 659036
+    cloud:
+      myminio:
+        etag: b641af97b0a3782d9decfd9b00465c25
+        version_id: 6933d730-cc00-47a3-8957-ca7acc795c9c
+  - relpath: false/306_XIAOMI-REDMI-5-PLUS_M.jpg
+    md5: bcbd9484c385322138c183ab3b801cfb
+    size: 885863
+    cloud:
+      myminio:
+        etag: bcbd9484c385322138c183ab3b801cfb
+        version_id: 7f1b7dc0-2283-4bbb-8ea5-3f69b268d865
+  - relpath: false/307_HONOR-7X_M.jpg
+    md5: 2d605bbff505b42522f505ae10a2f68d
+    size: 1050094
+    cloud:
+      myminio:
+        etag: 2d605bbff505b42522f505ae10a2f68d
+        version_id: d02bb666-1f8a-4795-84fb-f16643e5f951
+  - relpath: false/308_IPHONE-6S_M.jpeg
+    md5: df75c6f6e1e21479469dcf6c03131b4c
+    size: 858444
+    cloud:
+      myminio:
+        etag: df75c6f6e1e21479469dcf6c03131b4c
+        version_id: 326db0a3-0073-4abe-95af-291ab7aeb821
+  - relpath: false/309_SAMSUNG-GALAXY-A8_M.jpg
+    md5: b0f8bff4848ae8e45263d09d50ab361d
+    size: 446135
+    cloud:
+      myminio:
+        etag: b0f8bff4848ae8e45263d09d50ab361d
+        version_id: 4db26bab-2e62-49c1-ab3b-920d9fff6058
+  - relpath: false/30_HONOR-8X_F.jpg
+    md5: 5a6166f91007cbb80a567162e6ddd5b6
+    size: 446982
+    cloud:
+      myminio:
+        etag: 5a6166f91007cbb80a567162e6ddd5b6
+        version_id: 0bb17e9b-0b20-48cd-91a8-de3881fa66b0
+  - relpath: false/310_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 8916ee0439572fb2929feae5354e260a
+    size: 534254
+    cloud:
+      myminio:
+        etag: 8916ee0439572fb2929feae5354e260a
+        version_id: 16339d77-13a5-4fa2-a099-3d8599f56c74
+  - relpath: false/311_HONOR-6X_M.jpg
+    md5: c2104827107c1a990707e1b9166c6841
+    size: 362668
+    cloud:
+      myminio:
+        etag: c2104827107c1a990707e1b9166c6841
+        version_id: 6aa2ac1d-2b93-41d8-a1bc-f7ce1aa6c2e7
+  - relpath: false/312_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg
+    md5: 1635567b5989f615c5cc52a4b95d3714
+    size: 562845
+    cloud:
+      myminio:
+        etag: 1635567b5989f615c5cc52a4b95d3714
+        version_id: 8a161e58-47ef-4768-8cec-5fca008ba379
+  - relpath: false/313_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 124055da5f0321291a80dbf2f3ca8f08
+    size: 571373
+    cloud:
+      myminio:
+        etag: 124055da5f0321291a80dbf2f3ca8f08
+        version_id: eef7ffc0-e002-40f6-a7c3-ef1a548c20fa
+  - relpath: false/314_IPHONE-5S_M.jpeg
+    md5: d35227ba137efc978b3df37f1f23adb2
+    size: 551824
+    cloud:
+      myminio:
+        etag: d35227ba137efc978b3df37f1f23adb2
+        version_id: 6025fe25-b410-423e-9342-5ad30b1ab222
+  - relpath: false/315_HUAWEI-NOVA-LITE_M.jpg
+    md5: 8d2baa45bf067b7238de2c40371ef0fc
+    size: 787899
+    cloud:
+      myminio:
+        etag: 8d2baa45bf067b7238de2c40371ef0fc
+        version_id: 4883566f-c318-4292-a083-c6099b844f42
+  - relpath: false/316_IPHONE-7_M.jpeg
+    md5: fcfbcc4c2471f9350ff79adb4925fb54
+    size: 624863
+    cloud:
+      myminio:
+        etag: fcfbcc4c2471f9350ff79adb4925fb54
+        version_id: f0ba3e10-ce50-478e-a685-8c612427e8ed
+  - relpath: false/317_IPHONE-8-PLUS_M.jpg
+    md5: 0a38c45178232c8e9429dcd0f0925463
+    size: 574585
+    cloud:
+      myminio:
+        etag: 0a38c45178232c8e9429dcd0f0925463
+        version_id: d0f040c9-821b-4ede-b64f-cf61ed792c60
+  - relpath: false/318_HONOR-7C_M.jpg
+    md5: 1446c3ba471866da61c7c1bdbb3a5c83
+    size: 695890
+    cloud:
+      myminio:
+        etag: 1446c3ba471866da61c7c1bdbb3a5c83
+        version_id: 141deb78-56ac-47c3-89e7-a6738054d211
+  - relpath: false/319_XIAOMI-REDMI-NOTE-4X_M.jpg
+    md5: d5e1cbe6837c59aeec50330435a00638
+    size: 1238804
+    cloud:
+      myminio:
+        etag: d5e1cbe6837c59aeec50330435a00638
+        version_id: 3d8119b6-4964-4969-8229-b6ab38b5b0ff
+  - relpath: false/31_IPHONE-SE_F.jpg
+    md5: 8cd4b002a06edbf4d82c02c13ec90ebf
+    size: 557381
+    cloud:
+      myminio:
+        etag: 8cd4b002a06edbf4d82c02c13ec90ebf
+        version_id: 1b0f3527-5569-4aa6-b79c-f94ad8fe5426
+  - relpath: false/320_HONOR-7X_M.jpg
+    md5: e20ff5dd1dfb6b58934e32a750854557
+    size: 589136
+    cloud:
+      myminio:
+        etag: e20ff5dd1dfb6b58934e32a750854557
+        version_id: 98b11082-f518-4a4f-888f-9e7aab7758c2
+  - relpath: false/321_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 7fa6c60c3ac5cca6bd42b3b91650ef59
+    size: 540701
+    cloud:
+      myminio:
+        etag: 7fa6c60c3ac5cca6bd42b3b91650ef59
+        version_id: 3b692212-5502-4494-a200-a2edb572dc6e
+  - relpath: false/322_HONOR-7C_M.jpg
+    md5: 37a16269b388450bde793d1b229556ad
+    size: 514571
+    cloud:
+      myminio:
+        etag: 37a16269b388450bde793d1b229556ad
+        version_id: 3a317d1d-6987-43e0-babb-90802c19b459
+  - relpath: false/323_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: f88b7d9a694aeaca7280bf147e2e63d1
+    size: 793091
+    cloud:
+      myminio:
+        etag: f88b7d9a694aeaca7280bf147e2e63d1
+        version_id: ecf8a407-58a6-4a16-aef1-3c61e7ed6605
+  - relpath: false/324_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg
+    md5: fff6a488a6ca149e7dbb93fd55579315
+    size: 492118
+    cloud:
+      myminio:
+        etag: fff6a488a6ca149e7dbb93fd55579315
+        version_id: 637cb6b2-f9c5-40d6-ac6c-188082f0b650
+  - relpath: false/325_SAMSUNG-GALAXY-J3_M.jpg
+    md5: 17dcc3e5b8c068a1277306ea67b58013
+    size: 692460
+    cloud:
+      myminio:
+        etag: 17dcc3e5b8c068a1277306ea67b58013
+        version_id: 9ee5f649-c703-4efd-ba97-0e851952d072
+  - relpath: false/326_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 77d2ca2f1201d6738d9f9ae9cfd58c53
+    size: 933423
+    cloud:
+      myminio:
+        etag: 77d2ca2f1201d6738d9f9ae9cfd58c53
+        version_id: 59796594-4d86-40f1-b30d-a9def855329c
+  - relpath: false/327_IPHONE-SE_M.jpg
+    md5: afe44c7dad0fa248146ae648fbf5abe6
+    size: 913526
+    cloud:
+      myminio:
+        etag: afe44c7dad0fa248146ae648fbf5abe6
+        version_id: d80add3e-ee20-47b4-b0fe-d24080dd45d3
+  - relpath: false/328_SAMSUNG-GALAXY-J3_M.jpg
+    md5: 07c23a7d9f0c2f90ef652460708d7d62
+    size: 894160
+    cloud:
+      myminio:
+        etag: 07c23a7d9f0c2f90ef652460708d7d62
+        version_id: 832f518e-3ebd-4468-ad4b-5a06cce934a3
+  - relpath: false/329_HONOR-7C_M.jpg
+    md5: a8d6c5163937de58728acc314e3cf8d6
+    size: 631886
+    cloud:
+      myminio:
+        etag: a8d6c5163937de58728acc314e3cf8d6
+        version_id: 89ab0251-10e5-45bc-a617-509d9ace9ff0
+  - relpath: false/32_HUAWEI-P-SMART_F.jpg
+    md5: ed2f481419bfd9c0014f3aece7fa83dd
+    size: 617730
+    cloud:
+      myminio:
+        etag: ed2f481419bfd9c0014f3aece7fa83dd
+        version_id: 9d69b6fb-4bab-46bd-b22b-e3317da51fa5
+  - relpath: false/330_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: f7c390b5040414ed20b7b6914951fbe8
+    size: 611615
+    cloud:
+      myminio:
+        etag: f7c390b5040414ed20b7b6914951fbe8
+        version_id: 6406095e-876c-42e9-a5af-4992c2547276
+  - relpath: false/331_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: b759c2de17ed0ca196a19dee2f927fa3
+    size: 699713
+    cloud:
+      myminio:
+        etag: b759c2de17ed0ca196a19dee2f927fa3
+        version_id: bd39b843-bc20-4ebb-a7f2-9e23bc4cae32
+  - relpath: false/332_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: ffcc666b3926250dc4c423300d60196d
+    size: 451720
+    cloud:
+      myminio:
+        etag: ffcc666b3926250dc4c423300d60196d
+        version_id: f323a817-c571-4a6f-80b6-60523a8a43bc
+  - relpath: false/333_HONOR-7X_M.jpg
+    md5: fc53809389c961fdb3790f1d74a26d39
+    size: 529221
+    cloud:
+      myminio:
+        etag: fc53809389c961fdb3790f1d74a26d39
+        version_id: 8fb1de3b-87dc-4b89-b91b-cb9f9825266a
+  - relpath: false/334_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 21ded39bd58902fb89cd60d47fb765b0
+    size: 739657
+    cloud:
+      myminio:
+        etag: 21ded39bd58902fb89cd60d47fb765b0
+        version_id: 37afd4d4-51c1-4b74-ac71-76180378c834
+  - relpath: false/335_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: d0fc8c380c29b01fb24c126f1c6b6e47
+    size: 944508
+    cloud:
+      myminio:
+        etag: d0fc8c380c29b01fb24c126f1c6b6e47
+        version_id: cf5733a4-4493-4193-ad3d-d35c263f4527
+  - relpath: false/336_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg
+    md5: b93ddfc1ec4342f870d9f2be0e304920
+    size: 651318
+    cloud:
+      myminio:
+        etag: b93ddfc1ec4342f870d9f2be0e304920
+        version_id: a39ac53e-f50b-4d3b-b159-0812dbc10878
+  - relpath: false/337_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: f67041c8df7973dc7fdda9f453c99686
+    size: 862551
+    cloud:
+      myminio:
+        etag: f67041c8df7973dc7fdda9f453c99686
+        version_id: 6052fd9c-5333-457e-bafc-2a65bcc19929
+  - relpath: false/338_IPHONE-SE_M.jpg
+    md5: 50a1884fe2e886434b7a167c62ff4f7f
+    size: 819971
+    cloud:
+      myminio:
+        etag: 50a1884fe2e886434b7a167c62ff4f7f
+        version_id: b8c6272d-55e9-402e-b324-7d1d18702f06
+  - relpath: false/339_XIAOMI-REDMI-4X_M.jpg
+    md5: 39bedb9b506478d66d898177239b07f3
+    size: 618306
+    cloud:
+      myminio:
+        etag: 39bedb9b506478d66d898177239b07f3
+        version_id: e8e13ca3-3454-4f15-ac8e-929063499805
+  - relpath: false/33_HONOR-8X_F.jpg
+    md5: 4349b18b619c5231c6f81cf694673a53
+    size: 691633
+    cloud:
+      myminio:
+        etag: 4349b18b619c5231c6f81cf694673a53
+        version_id: 7c4765c6-89b7-4bf4-b180-6caf2a62b88e
+  - relpath: false/340_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 2273f6d363b600ace48b04a9665efeb3
+    size: 879714
+    cloud:
+      myminio:
+        etag: 2273f6d363b600ace48b04a9665efeb3
+        version_id: 534f2aea-b1c7-40ad-867a-1e4fab919897
+  - relpath: false/341_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 8cad96532a966527d27e8344bb87a1ed
+    size: 784152
+    cloud:
+      myminio:
+        etag: 8cad96532a966527d27e8344bb87a1ed
+        version_id: 8774e41d-3885-44af-8610-b0ae209b8649
+  - relpath: false/342_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 01828b928265d0e0bbd551a58e5586f0
+    size: 978781
+    cloud:
+      myminio:
+        etag: 01828b928265d0e0bbd551a58e5586f0
+        version_id: b39d2635-f04e-4a83-92ca-387de3d3b963
+  - relpath: false/343_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 088fb05772e55e97830d594403b4ebfb
+    size: 640816
+    cloud:
+      myminio:
+        etag: 088fb05772e55e97830d594403b4ebfb
+        version_id: 7a9061ef-dd37-45e8-b22a-44d6a2262461
+  - relpath: false/344_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: e4425122aef86fa10b76eda9875172b9
+    size: 880653
+    cloud:
+      myminio:
+        etag: e4425122aef86fa10b76eda9875172b9
+        version_id: 84510368-c651-40e2-be0b-9ffa71d2390e
+  - relpath: false/345_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 72b0efdd6b6b2919d3ceb0cc87f98f9c
+    size: 751929
+    cloud:
+      myminio:
+        etag: 72b0efdd6b6b2919d3ceb0cc87f98f9c
+        version_id: 535bc098-5ee3-48a2-a4ac-c2ef9cb66c16
+  - relpath: false/346_HUAWEI-MATE20_M.jpg
+    md5: cbe660489dc26e5c58ada3fe40e1ecd1
+    size: 674170
+    cloud:
+      myminio:
+        etag: cbe660489dc26e5c58ada3fe40e1ecd1
+        version_id: f37dffa2-7501-4026-b503-ba89e3c52f1b
+  - relpath: false/347_XIAOMI-PROCOFONE-F1_M.jpg
+    md5: 04284bd135c191eb6ae71b2a437b6c22
+    size: 682366
+    cloud:
+      myminio:
+        etag: 04284bd135c191eb6ae71b2a437b6c22
+        version_id: 49c17a72-455e-4e83-846d-14e37cf8bb09
+  - relpath: false/348_IPHONE-8_M.JPG
+    md5: 082cafbcaaeac80afe90d15aab8eab08
+    size: 718697
+    cloud:
+      myminio:
+        etag: 082cafbcaaeac80afe90d15aab8eab08
+        version_id: 82799c31-c947-4968-82d5-c5c2f62b4e82
+  - relpath: false/349_IPHONE-SE_M.jpg
+    md5: 9d3320209009bc2c545357613bfc10de
+    size: 743180
+    cloud:
+      myminio:
+        etag: 9d3320209009bc2c545357613bfc10de
+        version_id: 210d1aab-c299-4c2a-abda-c49ff988f3f4
+  - relpath: false/34_HONOR-8X_F.jpg
+    md5: 2a843a8a780db9cd39e3017aebe77f3e
+    size: 786759
+    cloud:
+      myminio:
+        etag: 2a843a8a780db9cd39e3017aebe77f3e
+        version_id: 54549783-19d7-43a7-9668-e13d6d00d480
+  - relpath: false/35_IPHONE-6S_F.jpeg
+    md5: e1a93a3572f45214f5822c47cd2ef389
+    size: 872293
+    cloud:
+      myminio:
+        etag: e1a93a3572f45214f5822c47cd2ef389
+        version_id: 5c936db3-66b6-49f3-917d-636e24ffa2c7
+  - relpath: false/36_HONOR-8X_F.jpg
+    md5: b2d40ed37b2166aecc1a46916671e36a
+    size: 678259
+    cloud:
+      myminio:
+        etag: b2d40ed37b2166aecc1a46916671e36a
+        version_id: 51217866-3b9a-4895-ab0f-dfb18c6d9e9d
+  - relpath: false/37_HONOR-8X_F.jpg
+    md5: acc9eabddfc0f6718389b517a4d77bb3
+    size: 691294
+    cloud:
+      myminio:
+        etag: acc9eabddfc0f6718389b517a4d77bb3
+        version_id: ec4c7f2b-29d9-4cdd-808c-bfd3d9e75e75
+  - relpath: false/38_HONOR-8X_F.jpg
+    md5: 04588760e02be4ddd7d0174f830792e2
+    size: 615148
+    cloud:
+      myminio:
+        etag: 04588760e02be4ddd7d0174f830792e2
+        version_id: 3b7f1f08-6582-4058-9e32-1801a747f1fa
+  - relpath: false/39_XIAOMI-MI8-LITE_F.jpg
+    md5: 5a86d7627e74620d2db0f717836458e0
+    size: 727471
+    cloud:
+      myminio:
+        etag: 5a86d7627e74620d2db0f717836458e0
+        version_id: 3beb5ac6-cd3b-46bb-bc7e-ff7ae9a7b915
+  - relpath: false/3_HUAWEI-NOVA-LITE_F.jpg
+    md5: 2262578dabf4ac0032349ad50a166a81
+    size: 439804
+    cloud:
+      myminio:
+        etag: 2262578dabf4ac0032349ad50a166a81
+        version_id: 0f5922cb-0974-4c9e-9e62-59cac9d85cab
+  - relpath: false/40_IPHONE-6S_F.jpeg
+    md5: 52f9fda3f8963650d5172015bfd8bc10
+    size: 560747
+    cloud:
+      myminio:
+        etag: 52f9fda3f8963650d5172015bfd8bc10
+        version_id: bbfe01b5-79b5-41a2-b430-49840b10bc49
+  - relpath: false/41_XIAOMI-PROCOFONE-F1_F.jpg
+    md5: 75a224798f687b60391cb9a50e39eab9
+    size: 818265
+    cloud:
+      myminio:
+        etag: 75a224798f687b60391cb9a50e39eab9
+        version_id: 2aa83bdb-981d-429a-af93-53e0fd1c8bf4
+  - relpath: false/42_NIKON-D3400-35MM_F.JPG
+    md5: 598d6fee22a758a95a8cf9a98930055a
+    size: 561628
+    cloud:
+      myminio:
+        etag: 598d6fee22a758a95a8cf9a98930055a
+        version_id: 785dcef3-fa16-439e-b2a6-1e511e8e933a
+  - relpath: false/43_HONOR-8X_F.jpg
+    md5: d1e71f3adf89cf0b9bf624b0c9c4f628
+    size: 592289
+    cloud:
+      myminio:
+        etag: d1e71f3adf89cf0b9bf624b0c9c4f628
+        version_id: 8a214146-57ba-41a9-bd63-291c0063b068
+  - relpath: false/44_SONY-XPERIA-E5_F.jpg
+    md5: ca2bcc89ed35b13e54c7d6cba2b02790
+    size: 396343
+    cloud:
+      myminio:
+        etag: ca2bcc89ed35b13e54c7d6cba2b02790
+        version_id: 242ad9cd-5f33-41dc-8bd5-236b0198d411
+  - relpath: false/45_HONOR-7X_F.jpg
+    md5: 73998aba494a0136d9b9d03475b67fee
+    size: 717824
+    cloud:
+      myminio:
+        etag: 73998aba494a0136d9b9d03475b67fee
+        version_id: 4e4f99f9-a5ca-4950-9441-745474a5a697
+  - relpath: false/46_IPHONE-8-PLUS_F.jpg
+    md5: 69e04f28ab15073b2a72176254a86ce9
+    size: 586273
+    cloud:
+      myminio:
+        etag: 69e04f28ab15073b2a72176254a86ce9
+        version_id: ef504103-3d25-4d9f-8e34-887464483a23
+  - relpath: false/47_XIAOMI-REDMI-7_F.jpg
+    md5: 839225faa272bd0e3fcf1f3ae9be593b
+    size: 359937
+    cloud:
+      myminio:
+        etag: 839225faa272bd0e3fcf1f3ae9be593b
+        version_id: 74265a78-bdc3-42e8-87a3-9a98bc500197
+  - relpath: false/48_HONOR-8X_F.jpg
+    md5: 0100a912c621de16e6522b95b5e50c4b
+    size: 563776
+    cloud:
+      myminio:
+        etag: 0100a912c621de16e6522b95b5e50c4b
+        version_id: 2d4e045c-6a15-4835-95fd-49c724d3c2ee
+  - relpath: false/49_HONOR-8X_F.jpg
+    md5: 05cecce6528f92988743771d95463f1b
+    size: 770039
+    cloud:
+      myminio:
+        etag: 05cecce6528f92988743771d95463f1b
+        version_id: 2d5b5c1b-dbe8-46b0-9e67-db4ea2581aca
+  - relpath: false/4_XIAOMI-PROCOFONE-F1_F.jpg
+    md5: 35c8e897b05d769a348cbd71411cff78
+    size: 869582
+    cloud:
+      myminio:
+        etag: 35c8e897b05d769a348cbd71411cff78
+        version_id: 58cdbdbe-46b4-4305-9117-753af6dfdf11
+  - relpath: false/50_HONOR-8X_F.jpg
+    md5: 8aed3b545fb7408401115f0efb73578b
+    size: 650887
+    cloud:
+      myminio:
+        etag: 8aed3b545fb7408401115f0efb73578b
+        version_id: c9df9e14-9a53-4cda-b6f8-2746dfb5b949
+  - relpath: false/51_IPHONE-SE_F.jpg
+    md5: fad9b30fe40fff44399a9996e9556e81
+    size: 782848
+    cloud:
+      myminio:
+        etag: fad9b30fe40fff44399a9996e9556e81
+        version_id: 022a7f3f-c6bb-4f32-aecf-6aca3c5399fc
+  - relpath: false/52_HONOR-8X_F.jpg
+    md5: 7f493b0a1d9bb64f55de25e0c6300b15
+    size: 498651
+    cloud:
+      myminio:
+        etag: 7f493b0a1d9bb64f55de25e0c6300b15
+        version_id: 45e6ba21-36e0-4ee9-ba65-811e186d2359
+  - relpath: false/53_NIKON-D3400-35MM_F.JPG
+    md5: f2f49310a6ded1f6a4ee7575f28dd901
+    size: 603437
+    cloud:
+      myminio:
+        etag: f2f49310a6ded1f6a4ee7575f28dd901
+        version_id: f61e09ec-621c-4759-867d-ee275f37ef37
+  - relpath: false/54_HONOR-8X_F.jpg
+    md5: 54feca0372f1d7e67975f5bdd8112630
+    size: 374003
+    cloud:
+      myminio:
+        etag: 54feca0372f1d7e67975f5bdd8112630
+        version_id: a49937b3-a6d7-4f41-9138-4e50d6a01d60
+  - relpath: false/55_HONOR-8X_F.jpg
+    md5: 8d64407cac5123cac9218380b7d09738
+    size: 514403
+    cloud:
+      myminio:
+        etag: 8d64407cac5123cac9218380b7d09738
+        version_id: 49dd14e1-9fbf-4f47-818d-d387abf0de11
+  - relpath: false/56_HONOR-8X_F.jpg
+    md5: a14387e1b2507aff5322ef21f519596e
+    size: 628530
+    cloud:
+      myminio:
+        etag: a14387e1b2507aff5322ef21f519596e
+        version_id: a1bd765e-a745-4e36-98f5-a17b6be173f0
+  - relpath: false/57_IPHONE-SE_F.jpg
+    md5: 4390867d62c83feaf45676ef27184634
+    size: 836983
+    cloud:
+      myminio:
+        etag: 4390867d62c83feaf45676ef27184634
+        version_id: b03a8259-3238-4405-8c93-2a191060e41e
+  - relpath: false/58_IPHONE-6S_F.jpeg
+    md5: e6376b0fb9f53b6f11d7421abeceb7d7
+    size: 653886
+    cloud:
+      myminio:
+        etag: e6376b0fb9f53b6f11d7421abeceb7d7
+        version_id: 4774faab-34fe-49df-a492-7fd8b9436336
+  - relpath: false/59_IPHONE-6S_F.jpg
+    md5: 3ddc1051c6c651fa79b5e29fc4c49a47
+    size: 777958
+    cloud:
+      myminio:
+        etag: 3ddc1051c6c651fa79b5e29fc4c49a47
+        version_id: b2d1aa33-6d15-41c9-95f0-09ddd1e6b41f
+  - relpath: false/5_XIAOMI-PROCOFONE-F1_F.jpg
+    md5: 3ac6381aa8d5237d87312888bc1a3f8b
+    size: 946577
+    cloud:
+      myminio:
+        etag: 3ac6381aa8d5237d87312888bc1a3f8b
+        version_id: b6ba600c-ef17-4634-9f08-aba9e8daceaa
+  - relpath: false/60_IPHONE-8-PLUS_F.jpg
+    md5: f2335a41bd136791d21c2e32ef4870db
+    size: 744005
+    cloud:
+      myminio:
+        etag: f2335a41bd136791d21c2e32ef4870db
+        version_id: 9e7464b4-e9c2-4244-a43e-4614728302e9
+  - relpath: false/61_XIAOMI-REDMI-7_F.jpg
+    md5: 4d9a4cda992a50403235e7ffaec4d440
+    size: 358383
+    cloud:
+      myminio:
+        etag: 4d9a4cda992a50403235e7ffaec4d440
+        version_id: acda89e5-c251-4c90-9999-7b212476728f
+  - relpath: false/62_HONOR-8X_F.jpg
+    md5: d6ad2c9c18b119a8705187549eed9175
+    size: 652207
+    cloud:
+      myminio:
+        etag: d6ad2c9c18b119a8705187549eed9175
+        version_id: 4d5ee4a7-abed-44f2-b909-6ab5480e4a40
+  - relpath: false/63_HUAWEI-P20_F.jpg
+    md5: 8107ce95e32930fb3123bebe23ce4c48
+    size: 644024
+    cloud:
+      myminio:
+        etag: 8107ce95e32930fb3123bebe23ce4c48
+        version_id: 421d9af4-4156-4103-b071-5b1b21597d48
+  - relpath: false/64_SAMSUNG-GALAXY-S5_F.jpg
+    md5: 12fafb02837ffc3f3f125336cdb71de1
+    size: 389222
+    cloud:
+      myminio:
+        etag: 12fafb02837ffc3f3f125336cdb71de1
+        version_id: d0eedf97-1a33-43bd-b01b-7c27d84c8ad8
+  - relpath: false/65_NIKON-D3400-35MM_F.JPG
+    md5: faa348a2f1175fc2d0942aa26463b535
+    size: 888240
+    cloud:
+      myminio:
+        etag: faa348a2f1175fc2d0942aa26463b535
+        version_id: bd2b07d1-58ab-4b42-a650-dc3fcf3e7554
+  - relpath: false/66_HONOR-8X_F.jpg
+    md5: 414c0bd3fa39675a05e7c4106a00af72
+    size: 742416
+    cloud:
+      myminio:
+        etag: 414c0bd3fa39675a05e7c4106a00af72
+        version_id: 89c0172c-5429-447f-89f7-46d912d8447c
+  - relpath: false/67_HONOR-8X_F.jpg
+    md5: 3590dab4a744cbde6ff0fb9b0a1a7521
+    size: 662449
+    cloud:
+      myminio:
+        etag: 3590dab4a744cbde6ff0fb9b0a1a7521
+        version_id: 876909d0-91df-4b6e-837e-1ce023b85ff9
+  - relpath: false/68_HONOR-8X_F.jpg
+    md5: bfac49bf7fbe4b677076cb41f9f43839
+    size: 706600
+    cloud:
+      myminio:
+        etag: bfac49bf7fbe4b677076cb41f9f43839
+        version_id: eda31267-a3d6-49a8-a028-d85edc53fc8e
+  - relpath: false/69_SAMSUNG-GALAXY-J3_F.jpg
+    md5: 8cb320916043a8a59f0c1c3fcbdcb27e
+    size: 676124
+    cloud:
+      myminio:
+        etag: 8cb320916043a8a59f0c1c3fcbdcb27e
+        version_id: d936a614-b42f-4ee3-8beb-04c0cd6228b5
+  - relpath: false/6_HUAWEI-MATE20_F.jpg
+    md5: 4072d98cf7ba035837b45b842fa2cf6f
+    size: 545218
+    cloud:
+      myminio:
+        etag: 4072d98cf7ba035837b45b842fa2cf6f
+        version_id: 23c8ed29-ef68-4fcc-a6df-530b50e51c35
+  - relpath: false/70_HONOR-8X_F.jpg
+    md5: cc4c77c247e45e73c9e7f2e0bd48273d
+    size: 625277
+    cloud:
+      myminio:
+        etag: cc4c77c247e45e73c9e7f2e0bd48273d
+        version_id: fb17e1e5-68b5-4fd4-b12d-370bf64c5189
+  - relpath: false/71_SAMSUNG-GALAXY-A6_F.jpg
+    md5: 24e8aced53d78a15e4d2a11f0c1d80f2
+    size: 368504
+    cloud:
+      myminio:
+        etag: 24e8aced53d78a15e4d2a11f0c1d80f2
+        version_id: b221a8a9-f3ae-403a-a37b-3063efeb2886
+  - relpath: false/72_IPHONE-8_F.jpg
+    md5: ac6b3c485fca17a9f39f89ed6e1b0f2c
+    size: 772039
+    cloud:
+      myminio:
+        etag: ac6b3c485fca17a9f39f89ed6e1b0f2c
+        version_id: 1bcad759-849d-43c1-a670-9a052d19a079
+  - relpath: false/73_PANASONIC-DMC-TZ35_F.JPG
+    md5: a61b0d1937948e771981184dca403760
+    size: 419691
+    cloud:
+      myminio:
+        etag: a61b0d1937948e771981184dca403760
+        version_id: a07bb6b8-69d4-4be1-8a6a-7e08b8daee8b
+  - relpath: false/74_HONOR-8X_F.jpg
+    md5: 5ae112124606ee22c64bda3d62be8396
+    size: 711837
+    cloud:
+      myminio:
+        etag: 5ae112124606ee22c64bda3d62be8396
+        version_id: 98485910-5be8-4a72-aaf7-50a2977b3fe5
+  - relpath: false/75_HONOR-8X_F.jpg
+    md5: 80dfca4523a872d9f875142b5bfd9732
+    size: 652509
+    cloud:
+      myminio:
+        etag: 80dfca4523a872d9f875142b5bfd9732
+        version_id: 0f9742d9-99fa-4949-8328-eeb8cf6f6b4b
+  - relpath: false/76_HONOR-8X_F.jpg
+    md5: 0a9d3168973c02f1c78702dfb82fb720
+    size: 455439
+    cloud:
+      myminio:
+        etag: 0a9d3168973c02f1c78702dfb82fb720
+        version_id: f7488030-aad9-48e8-aefe-0ff8db611764
+  - relpath: false/77_HONOR-7C_F.jpg
+    md5: 70ba40fad22463f15a54b5b96459b1b2
+    size: 847570
+    cloud:
+      myminio:
+        etag: 70ba40fad22463f15a54b5b96459b1b2
+        version_id: fb482eed-9cfc-487b-b281-faaa351ebf43
+  - relpath: false/78_NIKON-D3400-35MM_F.JPG
+    md5: 2940ecb789a9411c57742f37c8c0e30d
+    size: 698520
+    cloud:
+      myminio:
+        etag: 2940ecb789a9411c57742f37c8c0e30d
+        version_id: cae0a411-6496-45ce-a86d-1b244a03cee8
+  - relpath: false/79_HUAWEI-P30-PRO_F.jpg
+    md5: 44aef80bf04e2e919208250d8b126254
+    size: 533610
+    cloud:
+      myminio:
+        etag: 44aef80bf04e2e919208250d8b126254
+        version_id: dafbd505-9a5e-4694-8f72-d4782a48eb08
+  - relpath: false/7_NIKON-D3400-35MM_F.JPG
+    md5: b143484eed25efdae7fb62f65c9a7ab8
+    size: 699289
+    cloud:
+      myminio:
+        etag: b143484eed25efdae7fb62f65c9a7ab8
+        version_id: 58e29a21-487f-4b81-87a4-119ba8790cc6
+  - relpath: false/80_HUAWEI-P30-PRO_F.jpg
+    md5: 489595feed63611323ed571511743c17
+    size: 581982
+    cloud:
+      myminio:
+        etag: 489595feed63611323ed571511743c17
+        version_id: 3df1b5a9-a2bb-47bb-8b36-289480a01cce
+  - relpath: false/81_SAMSUNG-GALAXY-J3_F.jpg
+    md5: 614b3585196e370f164fe12f692f1a95
+    size: 825323
+    cloud:
+      myminio:
+        etag: 614b3585196e370f164fe12f692f1a95
+        version_id: 4d9c717b-f72d-4eeb-91ef-961a5841f38c
+  - relpath: false/82_HONOR-8X_F.jpg
+    md5: 04d44f342d62d251128faf8370f19458
+    size: 662250
+    cloud:
+      myminio:
+        etag: 04d44f342d62d251128faf8370f19458
+        version_id: 5b14d829-d9a2-441f-b242-e4e95721a38a
+  - relpath: false/83_HONOR-8X_F.jpg
+    md5: ecd82f37dc76f369475704fa21d45c2f
+    size: 667726
+    cloud:
+      myminio:
+        etag: ecd82f37dc76f369475704fa21d45c2f
+        version_id: bcf54bfe-9638-446f-b5e5-e07bea81f9ae
+  - relpath: false/84_IPHONE-XR_F.jpeg
+    md5: 5dac5c9d82d8c6e8dc6cd58aba44dd4a
+    size: 994815
+    cloud:
+      myminio:
+        etag: 5dac5c9d82d8c6e8dc6cd58aba44dd4a
+        version_id: a22117bb-18fa-497d-8b29-54087f037b60
+  - relpath: false/85_HONOR-8X_F.jpg
+    md5: 0895d08f5cac8c66828ec6b28b2a7742
+    size: 529957
+    cloud:
+      myminio:
+        etag: 0895d08f5cac8c66828ec6b28b2a7742
+        version_id: b44ade54-c117-4dcb-be4a-57e123cec153
+  - relpath: false/86_HONOR-8X_F.jpg
+    md5: 9b87823a033b6c6f157aa5c700a63795
+    size: 729117
+    cloud:
+      myminio:
+        etag: 9b87823a033b6c6f157aa5c700a63795
+        version_id: 9725923a-6499-462b-ae17-3522dab7eec1
+  - relpath: false/87_IPHONE-8-PLUS_F.jpg
+    md5: abd87195778c42a604a78ee8b8d64672
+    size: 667205
+    cloud:
+      myminio:
+        etag: abd87195778c42a604a78ee8b8d64672
+        version_id: 9101bc6f-ab0a-4461-8340-8672282feaaf
+  - relpath: false/88_HONOR-8X_F.jpg
+    md5: d7dee9f89191c9a0bc5bc5618c6b1851
+    size: 698029
+    cloud:
+      myminio:
+        etag: d7dee9f89191c9a0bc5bc5618c6b1851
+        version_id: 9eb65a3d-96c9-4f6c-90e7-b9425b72fb91
+  - relpath: false/89_IPHONE-6S_F.jpeg
+    md5: 5ddf49ef189e1fb3d2d2aca24ae0c84c
+    size: 476993
+    cloud:
+      myminio:
+        etag: 5ddf49ef189e1fb3d2d2aca24ae0c84c
+        version_id: 4078164a-8645-4008-a1c4-2eb46919adb8
+  - relpath: false/8_SAMSUNG-GALAXY-A6_F.jpg
+    md5: d69a902ec89f94a7f61b387693b78b63
+    size: 518911
+    cloud:
+      myminio:
+        etag: d69a902ec89f94a7f61b387693b78b63
+        version_id: 4943032f-043d-4652-ba2a-bc8bab437639
+  - relpath: false/90_HONOR-7X_F.jpg
+    md5: ff151b5978d9547e0f8ea8554ebf329d
+    size: 634574
+    cloud:
+      myminio:
+        etag: ff151b5978d9547e0f8ea8554ebf329d
+        version_id: 0d09fa05-5a31-4479-b194-0a62564410c5
+  - relpath: false/91_HONOR-7X_F.jpg
+    md5: 507c9babc009aedda2f5967d52f36d38
+    size: 579946
+    cloud:
+      myminio:
+        etag: 507c9babc009aedda2f5967d52f36d38
+        version_id: b775d430-4726-4651-8214-7cbdfedd86bc
+  - relpath: false/92_IPHONE-7_F.jpeg
+    md5: 337e6533bf8ba2a4e24818da6e1e9fa9
+    size: 581043
+    cloud:
+      myminio:
+        etag: 337e6533bf8ba2a4e24818da6e1e9fa9
+        version_id: c964d453-8ca8-4672-9b0f-c471ee62efe6
+  - relpath: false/93_HONOR-7X_F.jpg
+    md5: 32b42cb02ab246c4e144cb24007445d6
+    size: 555848
+    cloud:
+      myminio:
+        etag: 32b42cb02ab246c4e144cb24007445d6
+        version_id: 5f7e0aed-9b84-49f2-b197-3d78f8f76347
+  - relpath: false/94_HONOR-7X_F.jpg
+    md5: c0d0aab3a93460079ffd724658e138a4
+    size: 501364
+    cloud:
+      myminio:
+        etag: c0d0aab3a93460079ffd724658e138a4
+        version_id: e813cd56-8799-4fec-adf0-4eb4d425107d
+  - relpath: false/95_HONOR-7X_F.jpg
+    md5: 0d33e33a971d4b493259d6362e0667ac
+    size: 665179
+    cloud:
+      myminio:
+        etag: 0d33e33a971d4b493259d6362e0667ac
+        version_id: 4d827676-bbc6-4813-958c-f544e5c7274b
+  - relpath: false/96_HONOR-7X_F.jpg
+    md5: 7a8258321580ade10e8c6a24c61dc595
+    size: 710710
+    cloud:
+      myminio:
+        etag: 7a8258321580ade10e8c6a24c61dc595
+        version_id: 8b0e9e4b-2638-41b3-9140-a27f6ad1fdf8
+  - relpath: false/97_HONOR-7X_F.jpg
+    md5: 9f8b0e6298d04bc869ed23c2ba5a83c3
+    size: 780889
+    cloud:
+      myminio:
+        etag: 9f8b0e6298d04bc869ed23c2ba5a83c3
+        version_id: 4cdb56da-ad51-4959-8dff-7605c130f1dd
+  - relpath: false/98_HONOR-7X_F.jpg
+    md5: 51bf555d8b957507a48c40442465ce8d
+    size: 785263
+    cloud:
+      myminio:
+        etag: 51bf555d8b957507a48c40442465ce8d
+        version_id: d51da09a-e633-4621-bfa3-e6f9b20e9524
+  - relpath: false/99_HONOR-7X_F.jpg
+    md5: fc5bfaf212cabe1b6d1414c8c2a5aafd
+    size: 704037
+    cloud:
+      myminio:
+        etag: fc5bfaf212cabe1b6d1414c8c2a5aafd
+        version_id: 93549f8e-87fe-4fe1-b187-e62e4b64fe7c
+  - relpath: false/9_HUAWEI-P20_F.jpg
+    md5: 8ca364865ee80b96a3b41c25fb7fe9f9
+    size: 550872
+    cloud:
+      myminio:
+        etag: 8ca364865ee80b96a3b41c25fb7fe9f9
+        version_id: e788a938-3817-4ad0-a616-dae59a44ae84
+  - relpath: true/.DS_Store
+    md5: 8b94f2f61aec6771541853a5ed470d6c
+    size: 6148
+    cloud:
+      myminio:
+        etag: 8b94f2f61aec6771541853a5ed470d6c
+        version_id: 573480d6-53ca-4a7a-b9e2-04f35bc43847
+  - relpath: true/0_IPHONE-SE_S.JPG
+    md5: 1205083a01d58dbaa48a13a00443490d
+    size: 708408
+    cloud:
+      myminio:
+        etag: 1205083a01d58dbaa48a13a00443490d
+        version_id: 407213f6-b0d1-4b3a-a5c7-1bba49cec640
+  - relpath: true/100_NIKON-D3400-35MM_S.JPG
+    md5: 0941f18a5b806474d56d5798f6b6e38b
+    size: 573656
+    cloud:
+      myminio:
+        etag: 0941f18a5b806474d56d5798f6b6e38b
+        version_id: bd9e0d4c-bc9b-4c95-8943-7f53f55f4a6d
+  - relpath: true/101_NIKON-D3400-35MM_S.JPG
+    md5: ab5126c987fc2360bb59255ad3c4bfe5
+    size: 678394
+    cloud:
+      myminio:
+        etag: ab5126c987fc2360bb59255ad3c4bfe5
+        version_id: 57ec5ab8-0afd-4796-b6b8-95908d046e78
+  - relpath: true/102_NIKON-D3400-35MM_S.JPG
+    md5: ab06fb42c4b89aab511632c07cf8ccc3
+    size: 557363
+    cloud:
+      myminio:
+        etag: ab06fb42c4b89aab511632c07cf8ccc3
+        version_id: 25c63c2e-6a10-455a-90c5-bb7e3b2d3d53
+  - relpath: true/103_HUAWEI-P20_S.jpg
+    md5: cc1a48a48051765f3577956f30d8f8a9
+    size: 1032747
+    cloud:
+      myminio:
+        etag: cc1a48a48051765f3577956f30d8f8a9
+        version_id: 95c280e5-3c66-4c4d-8ac6-891820b2f5e1
+  - relpath: true/104_IPHONE-SE_S.jpg
+    md5: 733fc75c183d2b4f21a553bcb8ddb676
+    size: 877396
+    cloud:
+      myminio:
+        etag: 733fc75c183d2b4f21a553bcb8ddb676
+        version_id: 278f8fa7-9c61-4e62-a5c9-aaf1359aad78
+  - relpath: true/105_IPHONE-SE_S.jpg
+    md5: ddf71c8bb162ee865ba7af9d92b7aee2
+    size: 671593
+    cloud:
+      myminio:
+        etag: ddf71c8bb162ee865ba7af9d92b7aee2
+        version_id: e5a14b77-dca6-454b-8e58-62ce2292a57a
+  - relpath: true/106_NIKON-D3400-35MM_S.JPG
+    md5: 08e0397f6679848875807acdb42642e9
+    size: 1420341
+    cloud:
+      myminio:
+        etag: 08e0397f6679848875807acdb42642e9
+        version_id: 1d402611-3aaa-4f6d-b400-64daac7fb7b9
+  - relpath: true/107_XIAOMI-MI8-SE_S.jpg
+    md5: 044158a03ae9d25871feec66c0b99a99
+    size: 993866
+    cloud:
+      myminio:
+        etag: 044158a03ae9d25871feec66c0b99a99
+        version_id: d1f0186e-c2e7-4de9-99fc-357e87a57f78
+  - relpath: true/108_XIAOMI-MI8-SE_S.jpg
+    md5: dc3988fc478b7d2d3c38afe27d5e9b32
+    size: 610909
+    cloud:
+      myminio:
+        etag: dc3988fc478b7d2d3c38afe27d5e9b32
+        version_id: d1d91798-2a9f-425b-959f-247eab2d1b88
+  - relpath: true/109_HONOR-7X_S.jpg
+    md5: fa4b4118b5fca7902e32bf0b38674e86
+    size: 810581
+    cloud:
+      myminio:
+        etag: fa4b4118b5fca7902e32bf0b38674e86
+        version_id: 0bd363fa-8371-4a55-b9a6-a3e2b684ecb5
+  - relpath: true/10_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg
+    md5: 37fa6ace34c328c4f001e53df3855b32
+    size: 623601
+    cloud:
+      myminio:
+        etag: 37fa6ace34c328c4f001e53df3855b32
+        version_id: c40e4ca3-4e31-46e9-b983-aed4889ee1a4
+  - relpath: true/110_IPHONE-7_S.jpeg
+    md5: 0bb9b2089e2cb4fb4a1327b39565d2d4
+    size: 899423
+    cloud:
+      myminio:
+        etag: 0bb9b2089e2cb4fb4a1327b39565d2d4
+        version_id: 9947e290-a38d-455d-a455-4b61494cfabf
+  - relpath: true/111_IPHONE-7_S.jpeg
+    md5: 7e73409470b9995689590f8295545169
+    size: 1062743
+    cloud:
+      myminio:
+        etag: 7e73409470b9995689590f8295545169
+        version_id: 8c83d216-cfb8-4d90-af40-9820b4293650
+  - relpath: true/112_NIKON-D3400-35MM_S.JPG
+    md5: cad6bf9d5541ba34dd245a81d01ed62b
+    size: 824880
+    cloud:
+      myminio:
+        etag: cad6bf9d5541ba34dd245a81d01ed62b
+        version_id: 8bcba462-1a52-470f-9e8d-80c07b410fee
+  - relpath: true/113_SAMSUNG-GALAXY-A5_S.jpg
+    md5: 526bfcf1c0eeb275406b1d00d8a9711e
+    size: 712900
+    cloud:
+      myminio:
+        etag: 526bfcf1c0eeb275406b1d00d8a9711e
+        version_id: 8a6537fb-b75c-486d-a14e-0a11696605dc
+  - relpath: true/114_ASUS-ZE500KL_S.jpg
+    md5: 43c183f6926a9b6da69bbd8e7150c4e5
+    size: 609510
+    cloud:
+      myminio:
+        etag: 43c183f6926a9b6da69bbd8e7150c4e5
+        version_id: cf2d3340-26d0-4dc9-85d8-3422792a301e
+  - relpath: true/115_NIKON-D3400-35MM_S.JPG
+    md5: b9943efd1e881805bdf508a83d41580a
+    size: 2011883
+    cloud:
+      myminio:
+        etag: b9943efd1e881805bdf508a83d41580a
+        version_id: 2fda258c-aef0-4904-8dd6-a69645c22be9
+  - relpath: true/116_BQ-5512L_S.jpg
+    md5: 3b14c0aafba2361aba51869ce5868c81
+    size: 782656
+    cloud:
+      myminio:
+        etag: 3b14c0aafba2361aba51869ce5868c81
+        version_id: e8775cb3-8228-43cc-927e-791f35d323f1
+  - relpath: true/117_HONOR-7X_S.jpg
+    md5: b734da668f3a217e332890d700b1fda6
+    size: 1004765
+    cloud:
+      myminio:
+        etag: b734da668f3a217e332890d700b1fda6
+        version_id: a6809da1-e285-4508-86a8-d3400ae04357
+  - relpath: true/118_HONOR-7X_S.jpg
+    md5: bdc2347d931df9cd2ad75a8f0cd2b0a7
+    size: 1182415
+    cloud:
+      myminio:
+        etag: bdc2347d931df9cd2ad75a8f0cd2b0a7
+        version_id: f9a0f782-6a4d-4979-ab5d-cfca7a386309
+  - relpath: true/119_HONOR-7X_S.jpg
+    md5: b0c4bb12e13b0089b1361a8b0fe22102
+    size: 979831
+    cloud:
+      myminio:
+        etag: b0c4bb12e13b0089b1361a8b0fe22102
+        version_id: a485d5b6-f493-446a-b5c3-3c163fea9ef7
+  - relpath: true/11_XIAOMI-MI8-SE_S.jpg
+    md5: afa38ffb9f9689cd7b22873cdb63f605
+    size: 940437
+    cloud:
+      myminio:
+        etag: afa38ffb9f9689cd7b22873cdb63f605
+        version_id: 42a062ac-6763-40be-88e3-56e81f4aaafd
+  - relpath: true/120_HONOR-7X_S.jpg
+    md5: 2345924453c3455f26ce1285c89dc3d8
+    size: 746403
+    cloud:
+      myminio:
+        etag: 2345924453c3455f26ce1285c89dc3d8
+        version_id: a80b00f3-8bf0-4a1d-b98d-d6cd8c6c012a
+  - relpath: true/121_HONOR-7X_S.jpg
+    md5: c563727ba1657b2e45cafdc920caa8e4
+    size: 1045760
+    cloud:
+      myminio:
+        etag: c563727ba1657b2e45cafdc920caa8e4
+        version_id: c09c275d-3fcd-4142-bffa-53273999828a
+  - relpath: true/122_HONOR-7X_S.jpg
+    md5: 98f4878bd2095935b44e781a9a383aea
+    size: 1251689
+    cloud:
+      myminio:
+        etag: 98f4878bd2095935b44e781a9a383aea
+        version_id: ff02f882-6472-40c5-bf72-c5ae3afee390
+  - relpath: true/123_NIKON-D3400-35MM_S.JPG
+    md5: 8afa48f6830ab358633096af45ebadcf
+    size: 572326
+    cloud:
+      myminio:
+        etag: 8afa48f6830ab358633096af45ebadcf
+        version_id: 733a6973-1cac-44a8-9162-af88892b4d5a
+  - relpath: true/124_HONOR-7X_S.jpg
+    md5: ea4292c18ae9428f2cdc026f070dd3d2
+    size: 1521900
+    cloud:
+      myminio:
+        etag: ea4292c18ae9428f2cdc026f070dd3d2
+        version_id: 1710cfc8-010a-4b23-82bb-283b586629e7
+  - relpath: true/125_NIKON-D3400-35MM_S.JPG
+    md5: 8d7ce3abb4529116ce7d758c602ed5bb
+    size: 1027800
+    cloud:
+      myminio:
+        etag: 8d7ce3abb4529116ce7d758c602ed5bb
+        version_id: 0447076c-5876-4df2-889e-3a4a3bead490
+  - relpath: true/126_NIKON-D3400-18-55MM_S.JPG
+    md5: 07031ca61e17e3e6a24bc6b6e271f639
+    size: 849052
+    cloud:
+      myminio:
+        etag: 07031ca61e17e3e6a24bc6b6e271f639
+        version_id: c10d996c-7eca-4d6f-95f0-4fdc04c18c41
+  - relpath: true/127_IPHONE-8_S.jpeg
+    md5: 745cae31adf054df0598494985f213a1
+    size: 893601
+    cloud:
+      myminio:
+        etag: 745cae31adf054df0598494985f213a1
+        version_id: 992aa3f2-8329-45c8-919e-5d0df7179f18
+  - relpath: true/128_XIAOMI-MI8-SE_S.jpg
+    md5: 02999208243ab59fd86a055601c4d40c
+    size: 1303914
+    cloud:
+      myminio:
+        etag: 02999208243ab59fd86a055601c4d40c
+        version_id: f62089c5-ddbf-4395-a508-8ea7b5d1fef4
+  - relpath: true/129_NIKON-D3400-18-55MM_S.JPG
+    md5: 19ac3863a26cc05635cc0ef0dbd14100
+    size: 1277682
+    cloud:
+      myminio:
+        etag: 19ac3863a26cc05635cc0ef0dbd14100
+        version_id: 6a37e171-d6cf-4aa5-bf0f-2341c7e05139
+  - relpath: true/12_SAMSUNG-GALAXY-J5_S.jpg
+    md5: 729593dc4afcd4f9957c7675494060ce
+    size: 913082
+    cloud:
+      myminio:
+        etag: 729593dc4afcd4f9957c7675494060ce
+        version_id: 5c1f7abb-ed23-4bb1-936f-5a8f98c4000b
+  - relpath: true/130_NIKON-D3400-18-55MM_S.JPG
+    md5: 71deb00fc8cd626f5f857b7016de65c4
+    size: 1503707
+    cloud:
+      myminio:
+        etag: 71deb00fc8cd626f5f857b7016de65c4
+        version_id: 2285ddb9-0309-4f49-86b8-16e8490e9ea4
+  - relpath: true/131_NIKON-D3400-18-55MM_S.JPG
+    md5: c2f6e2944525253cfe1485afa04ae596
+    size: 1360189
+    cloud:
+      myminio:
+        etag: c2f6e2944525253cfe1485afa04ae596
+        version_id: 3f29f9ab-370a-40fb-98d8-1bdbcb99f14e
+  - relpath: true/132_NIKON-D3400-18-55MM_S.JPG
+    md5: f13c82ee5f170f09b1fd74bee93a2803
+    size: 1023163
+    cloud:
+      myminio:
+        etag: f13c82ee5f170f09b1fd74bee93a2803
+        version_id: 2c78a5e4-3885-4515-8251-b41ad1aa393f
+  - relpath: true/133_NIKON-D3400-18-55MM_S.JPG
+    md5: 7908c39c5a9abc15bab8506bd5b224ff
+    size: 1572167
+    cloud:
+      myminio:
+        etag: 7908c39c5a9abc15bab8506bd5b224ff
+        version_id: 45533aa1-c999-4860-b0aa-7fc29dba5dff
+  - relpath: true/134_NIKON-D3400-18-55MM_S.JPG
+    md5: cd5853c266e921ca9606e9e071e19f5e
+    size: 830985
+    cloud:
+      myminio:
+        etag: cd5853c266e921ca9606e9e071e19f5e
+        version_id: 74ab0de0-f882-4705-81c4-4c430e461c77
+  - relpath: true/135_NIKON-D3400-18-55MM_S.JPG
+    md5: 58e5a93a04b26202c2f2b1d3edeea3cc
+    size: 777951
+    cloud:
+      myminio:
+        etag: 58e5a93a04b26202c2f2b1d3edeea3cc
+        version_id: f601c190-767c-40b6-8630-90c584a6d5f9
+  - relpath: true/136_XIAOMI-REDMI-3S_S.jpg
+    md5: 10351e656ce590530573cb32b6ff4bf5
+    size: 644391
+    cloud:
+      myminio:
+        etag: 10351e656ce590530573cb32b6ff4bf5
+        version_id: 063b55f3-f846-4786-8b04-707f219e0d90
+  - relpath: true/137_NIKON-D3400-18-55MM_S.JPG
+    md5: daaa53dc60ae1e971e9d7dfc26f2829e
+    size: 1423993
+    cloud:
+      myminio:
+        etag: daaa53dc60ae1e971e9d7dfc26f2829e
+        version_id: 60d0f790-d514-4621-85d6-9718db9c2903
+  - relpath: true/138_NIKON-D3400-35MM_S.JPG
+    md5: f6168acc7651a5c994ac2391aa22e9cb
+    size: 764245
+    cloud:
+      myminio:
+        etag: f6168acc7651a5c994ac2391aa22e9cb
+        version_id: 3dacf7cb-0ff0-4db0-9105-be10ea360fe1
+  - relpath: true/139_NIKON-D3400-18-55MM_S.JPG
+    md5: 5c21521f2bf5c97e071a5ba582e91672
+    size: 572443
+    cloud:
+      myminio:
+        etag: 5c21521f2bf5c97e071a5ba582e91672
+        version_id: 9f5db0f9-b9c1-4667-aa26-877fb53553ff
+  - relpath: true/13_IPHONE-8-PLUS_S.jpg
+    md5: bc67e09b01540f07fc0f26e401f96316
+    size: 1468605
+    cloud:
+      myminio:
+        etag: bc67e09b01540f07fc0f26e401f96316
+        version_id: ff281574-b88f-4812-b987-451c2a785fb7
+  - relpath: true/140_SAMSUNG-GALAXY-J5_S.jpg
+    md5: 3f5ab9f296ec86df22446d2a21cfa41b
+    size: 903724
+    cloud:
+      myminio:
+        etag: 3f5ab9f296ec86df22446d2a21cfa41b
+        version_id: 67913575-bf34-4fbc-8bd2-007e07e729ce
+  - relpath: true/141_NIKON-D3400-18-55MM_S.JPG
+    md5: 8a95e59f5ac1b3b50d6a867b11de896d
+    size: 812280
+    cloud:
+      myminio:
+        etag: 8a95e59f5ac1b3b50d6a867b11de896d
+        version_id: cee9c046-5a01-4dc4-b97c-350d94faf3f4
+  - relpath: true/142_NIKON-D3400-18-55MM_S.JPG
+    md5: 4e2d4c1f25204290e18e1687ff00a37b
+    size: 1520050
+    cloud:
+      myminio:
+        etag: 4e2d4c1f25204290e18e1687ff00a37b
+        version_id: 8935eb2d-c645-41eb-96f0-76d3cc3fd080
+  - relpath: true/143_NIKON-D3400-18-55MM_S.JPG
+    md5: a3776033787a05793664b6e4a88ab79d
+    size: 1212539
+    cloud:
+      myminio:
+        etag: a3776033787a05793664b6e4a88ab79d
+        version_id: d79bb570-c8c7-4d81-be52-ee7ed239b36a
+  - relpath: true/144_NIKON-D3400-18-55MM_S.JPG
+    md5: bb22dd4b97b844ecb90f6bb78fe4925e
+    size: 1210866
+    cloud:
+      myminio:
+        etag: bb22dd4b97b844ecb90f6bb78fe4925e
+        version_id: 870b5897-abc9-4025-b739-84aa2589c21c
+  - relpath: true/145_NIKON-D3400-18-55MM_S.JPG
+    md5: 249ed04ece434f265868341913da5195
+    size: 1329839
+    cloud:
+      myminio:
+        etag: 249ed04ece434f265868341913da5195
+        version_id: e6de5579-4b9e-46b0-bb71-0a2f7d46e578
+  - relpath: true/146_NIKON-D3400-18-55MM_S.JPG
+    md5: 15f2dec524ea0586c9df85810c0adae3
+    size: 1136301
+    cloud:
+      myminio:
+        etag: 15f2dec524ea0586c9df85810c0adae3
+        version_id: f4671a88-73a4-40e5-83b7-b5fcce0a87e4
+  - relpath: true/147_NIKON-D3400-35MM_S.JPG
+    md5: 7ec4c83658d87012b513f6b6a55ee369
+    size: 1621604
+    cloud:
+      myminio:
+        etag: 7ec4c83658d87012b513f6b6a55ee369
+        version_id: c7e2efca-7850-42ee-8496-66830567a86e
+  - relpath: true/148_NIKON-D3400-18-55MM_S.JPG
+    md5: c1ed6fae16bee3dd1930e49a70a02328
+    size: 1747104
+    cloud:
+      myminio:
+        etag: c1ed6fae16bee3dd1930e49a70a02328
+        version_id: 6cef535a-6cab-476b-8b44-cf0a583d7166
+  - relpath: true/149_NIKON-D3400-18-55MM_S.JPG
+    md5: 8b0b567d1fa4210efdfc519b773c2725
+    size: 1075035
+    cloud:
+      myminio:
+        etag: 8b0b567d1fa4210efdfc519b773c2725
+        version_id: 9430da2e-7493-4746-bbe3-1778a4fb7a11
+  - relpath: true/14_IPHONE-7_S.jpeg
+    md5: 18e13d07fab893e0c595959b5feb431c
+    size: 842256
+    cloud:
+      myminio:
+        etag: 18e13d07fab893e0c595959b5feb431c
+        version_id: 44099640-ace4-4905-8784-c8975e3cf9e3
+  - relpath: true/150_NIKON-D3400-18-55MM_S.JPG
+    md5: b7a44b608f4dc6ecd02efa372332ab15
+    size: 1385320
+    cloud:
+      myminio:
+        etag: b7a44b608f4dc6ecd02efa372332ab15
+        version_id: fe2be910-5ae5-43ec-a6df-ed1bf53287bb
+  - relpath: true/151_NIKON-D3400-35MM_S.JPG
+    md5: 8ed052e7e87ff4849591295c36fa45a6
+    size: 1632898
+    cloud:
+      myminio:
+        etag: 8ed052e7e87ff4849591295c36fa45a6
+        version_id: 3b52e520-9804-4793-bb29-24e0d2ebf320
+  - relpath: true/152_NIKON-D3400-18-55MM_S.JPG
+    md5: a2a73fac74884cdd91db4a8ba4315cd7
+    size: 2004360
+    cloud:
+      myminio:
+        etag: a2a73fac74884cdd91db4a8ba4315cd7
+        version_id: ef989e77-79d4-45de-87dc-316f438d3e65
+  - relpath: true/153_NIKON-D3400-18-55MM_S.JPG
+    md5: d8e21371c0b4e46c2d2a59cdc2518cf7
+    size: 1298321
+    cloud:
+      myminio:
+        etag: d8e21371c0b4e46c2d2a59cdc2518cf7
+        version_id: 28d96daf-0227-42dc-a7b2-49e768c8454a
+  - relpath: true/154_IPHONE-7_S.jpeg
+    md5: 82c1c98e457a9e1e6e9d7e5bd8ef00e9
+    size: 1532008
+    cloud:
+      myminio:
+        etag: 82c1c98e457a9e1e6e9d7e5bd8ef00e9
+        version_id: d487c72f-4ae4-4475-b241-46bece71b760
+  - relpath: true/155_HONOR-10_S.jpg
+    md5: 7950118e89c7556da04013d4243bc919
+    size: 950662
+    cloud:
+      myminio:
+        etag: 7950118e89c7556da04013d4243bc919
+        version_id: 1ad34364-92c2-4356-a6d0-c12c9f0c8152
+  - relpath: true/156_HUAWEI-P30-LITE_S.jpg
+    md5: 8118f7bc7d5b6f4708cb39d8926fedc0
+    size: 1491225
+    cloud:
+      myminio:
+        etag: 8118f7bc7d5b6f4708cb39d8926fedc0
+        version_id: df4c00c9-ea74-441a-8250-72635abc7860
+  - relpath: true/157_NIKON-D3400-35MM_S.JPG
+    md5: 6acaf26d3bf7856611b7eb55ce0a914a
+    size: 1453834
+    cloud:
+      myminio:
+        etag: 6acaf26d3bf7856611b7eb55ce0a914a
+        version_id: 8f53ce6c-e87f-419d-8ac4-f3bf222f0a0d
+  - relpath: true/158_IPHONE-7_S.jpeg
+    md5: 639a2ec756cc5216312f60260b294145
+    size: 803307
+    cloud:
+      myminio:
+        etag: 639a2ec756cc5216312f60260b294145
+        version_id: 5fe3abb9-03ec-4dce-ab7b-4a20a6488c35
+  - relpath: true/159_NIKON-D3400-35MM_S.JPG
+    md5: 6bbca7df006e3f9a28669a07ae2db120
+    size: 838994
+    cloud:
+      myminio:
+        etag: 6bbca7df006e3f9a28669a07ae2db120
+        version_id: 3560ed45-3d1a-4aae-bce6-35073e9d0104
+  - relpath: true/15_HONOR-7C_S.jpg
+    md5: 8b06c14db25c9e4ae5b97dc1382117c2
+    size: 750267
+    cloud:
+      myminio:
+        etag: 8b06c14db25c9e4ae5b97dc1382117c2
+        version_id: 4c0128f6-6807-4640-b99a-6dd8416bf038
+  - relpath: true/160_HUAWEI-P20-LITE_S.jpg
+    md5: 3f6a5470b0a320f2973d1ecd0659c2c3
+    size: 1035409
+    cloud:
+      myminio:
+        etag: 3f6a5470b0a320f2973d1ecd0659c2c3
+        version_id: 71156a01-c2fc-4486-bc65-08d8c4a0e520
+  - relpath: true/161_XIAOMI-MI8-SE_S.jpg
+    md5: 7d685a84453f3f343f7e91685645e0c7
+    size: 1146050
+    cloud:
+      myminio:
+        etag: 7d685a84453f3f343f7e91685645e0c7
+        version_id: 890dd1d7-9e2e-4ef5-8752-c6859940a2e8
+  - relpath: true/162_IPHONE-6S_S.jpg
+    md5: 50bec0ac03a800590e6913f79321f49a
+    size: 1073181
+    cloud:
+      myminio:
+        etag: 50bec0ac03a800590e6913f79321f49a
+        version_id: 9a1d54df-a3c0-4b8b-b270-459f7589a550
+  - relpath: true/163_SAMSUNG-GALAXY-GRAND-PRIME-PLUS_S.jpg
+    md5: c3ed6c621a192ba266f95fa6c3b821fa
+    size: 1041495
+    cloud:
+      myminio:
+        etag: c3ed6c621a192ba266f95fa6c3b821fa
+        version_id: 0d623a2a-ca9c-4ac3-80c5-211aae39e2ed
+  - relpath: true/164_XIAOMI-MI8-SE_S.jpg
+    md5: 14801bb990453404e8bb99ecb45a03a8
+    size: 1298532
+    cloud:
+      myminio:
+        etag: 14801bb990453404e8bb99ecb45a03a8
+        version_id: 4a01bd71-509b-454f-a895-f8e3ecb14d08
+  - relpath: true/165_SAMSUNG-GALAXY-J3_S.jpg
+    md5: f29ad536cabcf8a9d143d5f1df949476
+    size: 975979
+    cloud:
+      myminio:
+        etag: f29ad536cabcf8a9d143d5f1df949476
+        version_id: a9856125-61d7-4146-b3d1-c90e23e4beae
+  - relpath: true/166_XIAOMI-MI8-SE_S.jpg
+    md5: 77b952faa3b9476e6fadf79042ac1f05
+    size: 1166976
+    cloud:
+      myminio:
+        etag: 77b952faa3b9476e6fadf79042ac1f05
+        version_id: 86e9b8c9-1ef4-4bc2-8d29-65b7707a4f20
+  - relpath: true/167_HONOR-7X_S.jpg
+    md5: 1089c234ad8797edb3f5a92b65412d6c
+    size: 851057
+    cloud:
+      myminio:
+        etag: 1089c234ad8797edb3f5a92b65412d6c
+        version_id: a14812e0-da5b-410d-8a92-91456efd93eb
+  - relpath: true/168_CANON-6D-100MM_S.JPG
+    md5: f8caf8a4e64c46eac56a59b5dd506e62
+    size: 445668
+    cloud:
+      myminio:
+        etag: f8caf8a4e64c46eac56a59b5dd506e62
+        version_id: 618d686a-7c4f-4ef5-b338-f253c8fc04c2
+  - relpath: true/169_HONOR-7X_S.jpg
+    md5: acf9fd59c2795ffbbdc529c79bf24be6
+    size: 1119037
+    cloud:
+      myminio:
+        etag: acf9fd59c2795ffbbdc529c79bf24be6
+        version_id: bcf31317-dd84-4647-a29b-8e9f0fabff55
+  - relpath: true/16_IPHONE-7_S.jpeg
+    md5: 22819a8da800b37c0ccc9bee9271959d
+    size: 667757
+    cloud:
+      myminio:
+        etag: 22819a8da800b37c0ccc9bee9271959d
+        version_id: 03a1ffe5-02ff-466b-85be-2b04c2ca5eb3
+  - relpath: true/170_IPHONE-8_S.JPG
+    md5: 61a811e8e93241a2c4cbfc4fa6a4e0d3
+    size: 730563
+    cloud:
+      myminio:
+        etag: 61a811e8e93241a2c4cbfc4fa6a4e0d3
+        version_id: 85f5878d-8330-42e1-8e25-d14f90c72761
+  - relpath: true/171_HUAWEI-P20-LITE_S.jpg
+    md5: 102a9412802d27cb2dd0f219695862d6
+    size: 696931
+    cloud:
+      myminio:
+        etag: 102a9412802d27cb2dd0f219695862d6
+        version_id: 66dd5be0-d3b1-4116-81e1-c93d76080561
+  - relpath: true/172_IPHONE-SE_S.jpg
+    md5: cde1632a2ec1331bc9f93db4b8ddf1a6
+    size: 650371
+    cloud:
+      myminio:
+        etag: cde1632a2ec1331bc9f93db4b8ddf1a6
+        version_id: 50436460-9b43-4fa5-b0cf-11334327ffca
+  - relpath: true/173_IPHONE-SE_S.jpg
+    md5: 777d03e07bea4fbbbc025cbca3dab60d
+    size: 587217
+    cloud:
+      myminio:
+        etag: 777d03e07bea4fbbbc025cbca3dab60d
+        version_id: 05e9ed9f-3746-4f55-8ff3-1831b1c64bda
+  - relpath: true/174_HUAWEI-P20_S.jpg
+    md5: 729f465b0053828f09a3b1fc4937cda4
+    size: 743434
+    cloud:
+      myminio:
+        etag: 729f465b0053828f09a3b1fc4937cda4
+        version_id: c8a97c50-b59a-449d-a8d0-baeed82ed523
+  - relpath: true/175_IPHONE-SE_S.jpg
+    md5: 176fccb375f42a08afca1fc263ba0fec
+    size: 908753
+    cloud:
+      myminio:
+        etag: 176fccb375f42a08afca1fc263ba0fec
+        version_id: 43328ce9-0bac-413e-813b-7aa08c74fa89
+  - relpath: true/176_HONOR-7X_S.jpg
+    md5: 0991430018d613a684f29669d059c2e5
+    size: 843691
+    cloud:
+      myminio:
+        etag: 0991430018d613a684f29669d059c2e5
+        version_id: db0ddceb-90e2-48f2-af45-e18496315c6c
+  - relpath: true/177_HONOR-7X_S.jpg
+    md5: 7470b88b7e66507f11d13a8c08f82189
+    size: 845216
+    cloud:
+      myminio:
+        etag: 7470b88b7e66507f11d13a8c08f82189
+        version_id: 3f70c4fe-0adc-451a-8ede-270163afa8c8
+  - relpath: true/178_HONOR-7X_S.jpg
+    md5: e33bdde2d2d8ab1297005d117b55a3c5
+    size: 864660
+    cloud:
+      myminio:
+        etag: e33bdde2d2d8ab1297005d117b55a3c5
+        version_id: ab6903a9-d927-4e7e-9aaa-7f0bf250f700
+  - relpath: true/179_CANON-6D-100MM_S.JPG
+    md5: d03f19f154a08bd591ed61918a8f3838
+    size: 692268
+    cloud:
+      myminio:
+        etag: d03f19f154a08bd591ed61918a8f3838
+        version_id: 0ccf7866-380b-4a98-a9e0-3b0a76f5d1eb
+  - relpath: true/17_HUAWEI-MATE20_S.jpg
+    md5: 9311eb0bd87202c0217764b55b1ae35b
+    size: 1091946
+    cloud:
+      myminio:
+        etag: 9311eb0bd87202c0217764b55b1ae35b
+        version_id: 5f642563-bc46-449a-91a4-ec84fa0b172e
+  - relpath: true/180_HONOR-10_S.jpg
+    md5: 28d305d6efd5a079b9f9a3f534930771
+    size: 1100926
+    cloud:
+      myminio:
+        etag: 28d305d6efd5a079b9f9a3f534930771
+        version_id: 2efa09d6-7893-4eee-ac39-69c50e51356d
+  - relpath: true/181_HONOR-10_S.jpg
+    md5: 44ba58bcd39c491653587ab54f950a46
+    size: 650050
+    cloud:
+      myminio:
+        etag: 44ba58bcd39c491653587ab54f950a46
+        version_id: ddbb8edc-9ebb-48ea-b46f-5cc916eb99fa
+  - relpath: true/182_HONOR-10_S.jpg
+    md5: 68dedc6ee4a6b9471b6c59413e122734
+    size: 933210
+    cloud:
+      myminio:
+        etag: 68dedc6ee4a6b9471b6c59413e122734
+        version_id: 4a1ae7b5-0ce4-4953-bac1-62aa8f4ef622
+  - relpath: true/183_XIAOMI-REDMI-7_S.jpg
+    md5: e53bfa8fbfcfb81065c19705b1281a08
+    size: 521087
+    cloud:
+      myminio:
+        etag: e53bfa8fbfcfb81065c19705b1281a08
+        version_id: 0cfff042-3461-4667-8882-142e501d3971
+  - relpath: true/184_HONOR-10_S.jpg
+    md5: d4f6e3993d36f76f6f57a8b7a09a10ab
+    size: 753597
+    cloud:
+      myminio:
+        etag: d4f6e3993d36f76f6f57a8b7a09a10ab
+        version_id: 95978c1e-fbd9-464a-be88-15cd0c1a8523
+  - relpath: true/185_HONOR-6X_S.jpg
+    md5: 320a825278f54c5d2601dfbf9d28c795
+    size: 1256034
+    cloud:
+      myminio:
+        etag: 320a825278f54c5d2601dfbf9d28c795
+        version_id: 51eea9ca-3d30-469a-aec8-749729a27dad
+  - relpath: true/186_HONOR-8_S.jpg
+    md5: 9645c2060c361bffb345a5e9408fab11
+    size: 1044748
+    cloud:
+      myminio:
+        etag: 9645c2060c361bffb345a5e9408fab11
+        version_id: bb29ea88-752e-4605-9f15-fc304c5bf77f
+  - relpath: true/187_XIAOMI-REDMI-4A_S.jpg
+    md5: d319a66c3766322cc7e50ce3d54c0e5b
+    size: 927576
+    cloud:
+      myminio:
+        etag: d319a66c3766322cc7e50ce3d54c0e5b
+        version_id: 8dae1592-3ce3-4b4a-8805-55244177fc8e
+  - relpath: true/188_NIKON-D3400-18-55MM_S.JPG
+    md5: 0ecec39613ba31468be62242af3a2145
+    size: 1126889
+    cloud:
+      myminio:
+        etag: 0ecec39613ba31468be62242af3a2145
+        version_id: 807c06c0-ffc5-4974-b380-73c293a9dcd3
+  - relpath: true/189_HONOR-7X_S.jpg
+    md5: f2676ca310be94959402179517cca5ee
+    size: 1050525
+    cloud:
+      myminio:
+        etag: f2676ca310be94959402179517cca5ee
+        version_id: d76f5286-cfea-4432-8f7c-adb096c4071b
+  - relpath: true/18_XIAOMI-REDMI-5-PLUS_S.jpg
+    md5: 5f9b48a4ae5f511bcd2236c7968f6c7f
+    size: 1041962
+    cloud:
+      myminio:
+        etag: 5f9b48a4ae5f511bcd2236c7968f6c7f
+        version_id: 104d1008-a1c4-4b4f-8e7f-dbe46d8d8c10
+  - relpath: true/190_NIKON-D3400-18-55MM_S.JPG
+    md5: fc4f738e053f03d634b474b936af7aeb
+    size: 847102
+    cloud:
+      myminio:
+        etag: fc4f738e053f03d634b474b936af7aeb
+        version_id: 0dccb28f-7ae3-4b07-ad76-2561df6f6406
+  - relpath: true/191_NIKON-D3400-18-55MM_S.JPG
+    md5: cfc62823acd75a41a2fdb58c7264a03f
+    size: 761352
+    cloud:
+      myminio:
+        etag: cfc62823acd75a41a2fdb58c7264a03f
+        version_id: 836f0061-506d-4ad3-8e11-a977d1407008
+  - relpath: true/192_XIAOMI-MI8-SE_S.jpg
+    md5: 1ae98eead67a30eaae11c2270cbe1eaf
+    size: 736369
+    cloud:
+      myminio:
+        etag: 1ae98eead67a30eaae11c2270cbe1eaf
+        version_id: 2540ed62-29c8-4246-9162-e12555f93d80
+  - relpath: true/193_IPHONE-7_S.jpeg
+    md5: 996e2c35e9647fb0404467e57efa3f02
+    size: 1704619
+    cloud:
+      myminio:
+        etag: 996e2c35e9647fb0404467e57efa3f02
+        version_id: 60610ae2-9425-4fde-b418-06d01ff9e80f
+  - relpath: true/194_IPHONE-SE_S.jpg
+    md5: a4ce24b3a4cfa197cb01aa7046680840
+    size: 696283
+    cloud:
+      myminio:
+        etag: a4ce24b3a4cfa197cb01aa7046680840
+        version_id: 12372461-5840-4c5d-a8ac-cd97031dced6
+  - relpath: true/195_IPHONE-7_S.jpeg
+    md5: 53469fec050f0e21cc6c359f51bba2ea
+    size: 959559
+    cloud:
+      myminio:
+        etag: 53469fec050f0e21cc6c359f51bba2ea
+        version_id: 8a140b80-63af-41d1-92fc-7087a7c8f839
+  - relpath: true/196_IPHONE-SE_S.jpg
+    md5: 06fe1b2698cf1608f8c6d4c585eb5a69
+    size: 790713
+    cloud:
+      myminio:
+        etag: 06fe1b2698cf1608f8c6d4c585eb5a69
+        version_id: 7995db62-5b49-4445-9458-2b5d718a1e7e
+  - relpath: true/197_HUAWEI-P20-LITE_S.jpg
+    md5: b0dd30b747fa9db109d007c3e9d24a75
+    size: 870222
+    cloud:
+      myminio:
+        etag: b0dd30b747fa9db109d007c3e9d24a75
+        version_id: f130aa3d-daac-4aa1-b150-7da8b484d111
+  - relpath: true/198_HUAWEI-P20-LITE_S.jpg
+    md5: 379aa3bb25025116788ec3719ca52617
+    size: 662389
+    cloud:
+      myminio:
+        etag: 379aa3bb25025116788ec3719ca52617
+        version_id: 5f0d3187-efdf-4e68-b9c2-8d5652f66933
+  - relpath: true/199_CANON-6D-100MM_S.JPG
+    md5: 56af7e747a9a1a5560e6614417686753
+    size: 647384
+    cloud:
+      myminio:
+        etag: 56af7e747a9a1a5560e6614417686753
+        version_id: 9b231c76-6858-422a-9f4b-4b01e2cb149c
+  - relpath: true/19_IPHONE-7-PLUS_S.jpeg
+    md5: 62cee7b802cb02b7eccd0ceb1445d3b5
+    size: 907032
+    cloud:
+      myminio:
+        etag: 62cee7b802cb02b7eccd0ceb1445d3b5
+        version_id: 2eb16540-ee9d-4c75-96a8-24fb824ffe18
+  - relpath: true/1_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: fc36e8efdd96d8b698caadbea56c0b45
+    size: 1094923
+    cloud:
+      myminio:
+        etag: fc36e8efdd96d8b698caadbea56c0b45
+        version_id: e2fd89c1-97be-409a-b0a6-1080886da36e
+  - relpath: true/200_HUAWEI-MATE20_S.jpg
+    md5: c5a10f3b85ed030a920515c58cbc71c9
+    size: 684471
+    cloud:
+      myminio:
+        etag: c5a10f3b85ed030a920515c58cbc71c9
+        version_id: 31af42b6-9e2d-4ef5-99ae-496ae28ce2af
+  - relpath: true/201_IPHONE-SE_S.jpg
+    md5: 02fe2c67c42b34b331e1e6bf1bed3ca6
+    size: 759359
+    cloud:
+      myminio:
+        etag: 02fe2c67c42b34b331e1e6bf1bed3ca6
+        version_id: bed88fcc-a558-4735-848e-7f5d7a1d076a
+  - relpath: true/202_HUAWEI-P20-LITE_S.jpg
+    md5: de54be693f4747648ad606966d752651
+    size: 1018422
+    cloud:
+      myminio:
+        etag: de54be693f4747648ad606966d752651
+        version_id: f165c926-b3b9-41d9-9c38-20c9c23612eb
+  - relpath: true/203_IPHONE-SE_S.jpg
+    md5: 565a0305fe1990adab9d95e78bb9f31e
+    size: 768773
+    cloud:
+      myminio:
+        etag: 565a0305fe1990adab9d95e78bb9f31e
+        version_id: 63449bf8-13e7-41b3-becc-9b929a4f6c30
+  - relpath: true/204_XIAOMI-MI8-SE_S.jpg
+    md5: e4e6753c08804a1d9833ef06e1046ae0
+    size: 1052261
+    cloud:
+      myminio:
+        etag: e4e6753c08804a1d9833ef06e1046ae0
+        version_id: 8c061c42-e8ef-4e77-a5b1-ef1b404255a9
+  - relpath: true/205_HUAWEI-P20-LITE_S.jpg
+    md5: ec94f467d8159c42435e6196bfa2ed39
+    size: 1046267
+    cloud:
+      myminio:
+        etag: ec94f467d8159c42435e6196bfa2ed39
+        version_id: 5a5b8f1f-715a-4843-983c-1c5bf3f67aa2
+  - relpath: true/206_IPHONE-7_S.jpg
+    md5: f28f8e89c36d6115339b68d1f85965fd
+    size: 1050396
+    cloud:
+      myminio:
+        etag: f28f8e89c36d6115339b68d1f85965fd
+        version_id: 30845f0d-cc26-4169-98f5-3b89387e4dd3
+  - relpath: true/207_SAMSUNG-GALAXY-J7_S.jpg
+    md5: f05478c50e4ae706fc86ab6b89b3719c
+    size: 867316
+    cloud:
+      myminio:
+        etag: f05478c50e4ae706fc86ab6b89b3719c
+        version_id: f0d311cb-cd82-4f78-b6cc-d749a2504d84
+  - relpath: true/208_SAMSUNG-GALAXY-A5_S.jpg
+    md5: 4eeb5e3133d733f6c683bf325ad2a644
+    size: 1129199
+    cloud:
+      myminio:
+        etag: 4eeb5e3133d733f6c683bf325ad2a644
+        version_id: 9ea260d8-d63d-4e9e-8729-51b695cbb878
+  - relpath: true/209_SAMSUNG-GALAXY-A8_S.jpg
+    md5: ab8ba6e1ac48b1b982cc7c3be897224b
+    size: 696058
+    cloud:
+      myminio:
+        etag: ab8ba6e1ac48b1b982cc7c3be897224b
+        version_id: 6958940a-9055-434b-be86-a87a77e77674
+  - relpath: true/20_XIAOMI-REDMI-3S_S.jpg
+    md5: 67ffc91b5e0140367e80dc5d7c059dfb
+    size: 474723
+    cloud:
+      myminio:
+        etag: 67ffc91b5e0140367e80dc5d7c059dfb
+        version_id: fe45a85d-e242-4fb6-b559-a7e9f97eae97
+  - relpath: true/210_CANON-6D-70-200MM_S.JPG
+    md5: 037a4a29c599019c4216f31a3156dd92
+    size: 1259486
+    cloud:
+      myminio:
+        etag: 037a4a29c599019c4216f31a3156dd92
+        version_id: 08fced0c-1ddb-4cf0-a190-c36534fc3d00
+  - relpath: true/211_SAMSUNG-GALAXY-7-NEO_S.jpg
+    md5: 557fd78cea684ef0e3cac4782fe208e6
+    size: 731608
+    cloud:
+      myminio:
+        etag: 557fd78cea684ef0e3cac4782fe208e6
+        version_id: e79cd1f4-3208-49d6-8c3f-8962d4861521
+  - relpath: true/212_IPHONE-SE_S.jpg
+    md5: c731e5e0136b6275fdc3479b5c817050
+    size: 757501
+    cloud:
+      myminio:
+        etag: c731e5e0136b6275fdc3479b5c817050
+        version_id: 61489fb2-a7a4-4e5f-a8b3-dd7bac46d563
+  - relpath: true/213_ONEPLUS-3T_S.jpg
+    md5: 9afd19907e2b8656dcd54b4eede1f4ae
+    size: 1205006
+    cloud:
+      myminio:
+        etag: 9afd19907e2b8656dcd54b4eede1f4ae
+        version_id: 69a04593-e9f2-4f1f-8c8a-0ab8c786f4d5
+  - relpath: true/214_IPHONE-SE_S.jpg
+    md5: 8ba44100123f228f0d27a3a42055aee6
+    size: 727674
+    cloud:
+      myminio:
+        etag: 8ba44100123f228f0d27a3a42055aee6
+        version_id: ecb9592b-2701-41b9-9d63-db639d388085
+  - relpath: true/215_LG-Q6_S.jpg
+    md5: 3de2bb0e5fe030bb28e77550a060cc65
+    size: 712876
+    cloud:
+      myminio:
+        etag: 3de2bb0e5fe030bb28e77550a060cc65
+        version_id: 034c31f0-fea6-47e1-afc7-f054e667075e
+  - relpath: true/216_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg
+    md5: 8de22b5e129e9843fea529dd6ae78f95
+    size: 779781
+    cloud:
+      myminio:
+        etag: 8de22b5e129e9843fea529dd6ae78f95
+        version_id: 3c3340a5-22a9-4e4d-a875-c2e0efa7cf4e
+  - relpath: true/217_IPHONE-SE_S.jpg
+    md5: eb1186621088aacf7c7a26e5a2d0aa3e
+    size: 1151584
+    cloud:
+      myminio:
+        etag: eb1186621088aacf7c7a26e5a2d0aa3e
+        version_id: fe70ad0d-67f2-469d-bcff-da441c42cbd0
+  - relpath: true/218_IPHONE-SE_S.jpg
+    md5: 649c39c842e1a2fee211c05bd4c305df
+    size: 1426784
+    cloud:
+      myminio:
+        etag: 649c39c842e1a2fee211c05bd4c305df
+        version_id: a89d73ee-f3b5-4053-ae18-ae0d79976433
+  - relpath: true/219_IPHONE-6S_S.jpg
+    md5: 6e85f81eae0af5f0b9af34dde814dc18
+    size: 886874
+    cloud:
+      myminio:
+        etag: 6e85f81eae0af5f0b9af34dde814dc18
+        version_id: a17f11e4-d19a-4b52-8f53-5bfe883143f0
+  - relpath: true/21_HUAWEI-Y9_S.jpg
+    md5: a5357ac66a821a4a159bae57a6791256
+    size: 651353
+    cloud:
+      myminio:
+        etag: a5357ac66a821a4a159bae57a6791256
+        version_id: 9b82f6a7-968b-4768-abff-fb3dc3a41242
+  - relpath: true/220_IPHONE-6_S.jpg
+    md5: ec959a3bebfc37bf557dbe11c6c9c2c2
+    size: 1074353
+    cloud:
+      myminio:
+        etag: ec959a3bebfc37bf557dbe11c6c9c2c2
+        version_id: fa3b1b07-9757-440d-8711-b4c4b3df4695
+  - relpath: true/221_IPHONE-SE_S.jpg
+    md5: 9a144d53e0904975f5f2b557882fbb6e
+    size: 678422
+    cloud:
+      myminio:
+        etag: 9a144d53e0904975f5f2b557882fbb6e
+        version_id: e8075a57-aafb-4e5d-aba8-8dca7e69c267
+  - relpath: true/222_IPHONE-SE_S.jpg
+    md5: 6e7b725e585bbed5f40e90ddcf0a539f
+    size: 917402
+    cloud:
+      myminio:
+        etag: 6e7b725e585bbed5f40e90ddcf0a539f
+        version_id: 6f8bf94f-1849-42fa-8f7e-36c6c35dc7fd
+  - relpath: true/223_HONOR-4C_S.jpg
+    md5: 49db9de356d808ec10e2253bd35a6f78
+    size: 1133768
+    cloud:
+      myminio:
+        etag: 49db9de356d808ec10e2253bd35a6f78
+        version_id: 6991148c-b9db-489c-bace-35ecb386027e
+  - relpath: true/224_ONEPLUS-3T_S.jpg
+    md5: cac25f258036d251b33d5141e879939e
+    size: 1061516
+    cloud:
+      myminio:
+        etag: cac25f258036d251b33d5141e879939e
+        version_id: 6374b025-347d-4b7b-a27a-7dc0dae4f789
+  - relpath: true/225_HONOR-7C_S.jpg
+    md5: 74682c9d51eb1052e9f552f1b91bdfd3
+    size: 891232
+    cloud:
+      myminio:
+        etag: 74682c9d51eb1052e9f552f1b91bdfd3
+        version_id: ca0e153d-14b1-46d3-9d6f-31b544620e58
+  - relpath: true/226_IPHONE-7-PLUS_S.jpeg
+    md5: 1af4035c641b4a11d8763a846e5bd723
+    size: 829995
+    cloud:
+      myminio:
+        etag: 1af4035c641b4a11d8763a846e5bd723
+        version_id: c55178f1-dd5a-423e-9ca4-f13866b3bae7
+  - relpath: true/227_SAMSUNG-GALAXY-A3_S.jpg
+    md5: efb047cb0a83012f1670748154d4472e
+    size: 674848
+    cloud:
+      myminio:
+        etag: efb047cb0a83012f1670748154d4472e
+        version_id: 126dab26-be3d-4bb5-ac26-f61cb57d295f
+  - relpath: true/228_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg
+    md5: 90632e7959fa8f6ff82667141c8aa297
+    size: 791112
+    cloud:
+      myminio:
+        etag: 90632e7959fa8f6ff82667141c8aa297
+        version_id: 6fe14945-d1d1-4182-a004-db7d0a8df14c
+  - relpath: true/229_WILEYFOX-SWIFT-2-PLUS_S.jpg
+    md5: ee487759f7d7fe8e01aa88530c674176
+    size: 898520
+    cloud:
+      myminio:
+        etag: ee487759f7d7fe8e01aa88530c674176
+        version_id: 1349e3dc-c94c-436d-91aa-3825fc7d3d97
+  - relpath: true/22_HUAWEI-Y9_S.jpg
+    md5: d32194fceab34073d0a0ef3da1b06b7d
+    size: 598025
+    cloud:
+      myminio:
+        etag: d32194fceab34073d0a0ef3da1b06b7d
+        version_id: 67477362-59c1-4a0a-b720-0f977ef50aaa
+  - relpath: true/230_NOKIA-21_S.jpg
+    md5: 7baa382d4e379ce7e1e782da613dc762
+    size: 527806
+    cloud:
+      myminio:
+        etag: 7baa382d4e379ce7e1e782da613dc762
+        version_id: 50b619a9-2ecd-44c4-b725-a48ea96f4c69
+  - relpath: true/231_IPHONE-7-PLUS_S.jpg
+    md5: dbd2cf48c78f03b8c95a32b892b59e81
+    size: 1483694
+    cloud:
+      myminio:
+        etag: dbd2cf48c78f03b8c95a32b892b59e81
+        version_id: a2d1c5e1-a20d-4a57-8119-eadcb19e1d15
+  - relpath: true/232_SAMSUNG-EDGE-7C_S.jpg
+    md5: 9cd9c2c56dd5615e6b827b3f4c945cb8
+    size: 803648
+    cloud:
+      myminio:
+        etag: 9cd9c2c56dd5615e6b827b3f4c945cb8
+        version_id: 0b59ad93-8fc0-448e-80e3-81adfaaab40c
+  - relpath: true/233_XIAOMI-REDMI-4_S.jpg
+    md5: ffab6d0918dd23c79fb1316a8fe7c9c7
+    size: 1301370
+    cloud:
+      myminio:
+        etag: ffab6d0918dd23c79fb1316a8fe7c9c7
+        version_id: b48b4794-5156-4580-a550-210e861b7976
+  - relpath: true/234_XIAOMI-REDMI-NOTE-5A-PRIME_S.jpg
+    md5: 884d23ca02824ca7ef2a59e92f227113
+    size: 863458
+    cloud:
+      myminio:
+        etag: 884d23ca02824ca7ef2a59e92f227113
+        version_id: 9d22e62b-aba4-441f-914c-c90b13f8535e
+  - relpath: true/235_IPHONE-SE_S.jpg
+    md5: 1c69c1797d4b3994cfcea7e47a6ff156
+    size: 825228
+    cloud:
+      myminio:
+        etag: 1c69c1797d4b3994cfcea7e47a6ff156
+        version_id: 7f4f6a5d-8be2-4da4-96c9-d3d15eb7cb61
+  - relpath: true/236_IPHONE-SE_S.jpg
+    md5: fc6c698c50ac1ab76fd154556747e007
+    size: 1126008
+    cloud:
+      myminio:
+        etag: fc6c698c50ac1ab76fd154556747e007
+        version_id: bbf15c0e-3992-4dfb-bd9b-e8fbc3bcfca5
+  - relpath: true/237_SAMSUNG-GALAXY-J5_S.jpg
+    md5: 27d5ec1ae2efe6e01d2fd8a0e0812773
+    size: 977844
+    cloud:
+      myminio:
+        etag: 27d5ec1ae2efe6e01d2fd8a0e0812773
+        version_id: 47cb8692-80da-4a3d-99b5-c3268cb866d7
+  - relpath: true/238_HONOR-7X_S.jpg
+    md5: 70793a4bf78221e6b52dcf68a49ce359
+    size: 819121
+    cloud:
+      myminio:
+        etag: 70793a4bf78221e6b52dcf68a49ce359
+        version_id: 8588ea8a-b5a1-4bb0-9710-e0c832c2cc3b
+  - relpath: true/239_IPHONE-6S_S.jpeg
+    md5: 20df2a078c828d8604448d1b4697a8ae
+    size: 989925
+    cloud:
+      myminio:
+        etag: 20df2a078c828d8604448d1b4697a8ae
+        version_id: 53b73869-fe5f-4fb0-8345-8c180d5dd0fe
+  - relpath: true/23_HUAWEI-P20_S.jpg
+    md5: 2fd55948bea494d70217d71bd6c6b3a0
+    size: 1612895
+    cloud:
+      myminio:
+        etag: 2fd55948bea494d70217d71bd6c6b3a0
+        version_id: 0e9bf64f-1e5d-4145-a14b-77b40e9529b7
+  - relpath: true/240_HONOR-7X_S.jpg
+    md5: b8990f14c41be5c92acd06da855be016
+    size: 1094989
+    cloud:
+      myminio:
+        etag: b8990f14c41be5c92acd06da855be016
+        version_id: 0d1782d9-70b1-47dd-ba0d-d207d7b96ea2
+  - relpath: true/241_HONOR-7X_S.jpg
+    md5: d980c0d04fcf204f0120f6a61c75787d
+    size: 989493
+    cloud:
+      myminio:
+        etag: d980c0d04fcf204f0120f6a61c75787d
+        version_id: c903129e-1ac6-43de-8e77-8197077bf0b8
+  - relpath: true/242_IPHONE-6S_S.jpeg
+    md5: 78b3f99dcb3b6833564ea4c032ad24db
+    size: 952202
+    cloud:
+      myminio:
+        etag: 78b3f99dcb3b6833564ea4c032ad24db
+        version_id: f1172b83-8263-4056-be95-5e4e13cf3f73
+  - relpath: true/243_HONOR-7X_S.jpg
+    md5: 3e7761079efd851866e120743adbba2f
+    size: 1113572
+    cloud:
+      myminio:
+        etag: 3e7761079efd851866e120743adbba2f
+        version_id: 2c66ea81-fe5d-47de-a345-48374d145d01
+  - relpath: true/244_HONOR-7X_S.jpg
+    md5: 695ef51af9802c0418ce2be76d8de123
+    size: 979248
+    cloud:
+      myminio:
+        etag: 695ef51af9802c0418ce2be76d8de123
+        version_id: 6a9bc77c-ad3a-4708-9bad-361359e44c4d
+  - relpath: true/245_HONOR-7X_S.jpg
+    md5: e49609fe7257dda6ad5f96bec7743046
+    size: 766634
+    cloud:
+      myminio:
+        etag: e49609fe7257dda6ad5f96bec7743046
+        version_id: 9909425c-9cea-4fba-93f4-8c0c129f6670
+  - relpath: true/246_HONOR-9_S.jpg
+    md5: 88249f4ef4bb298967bc09e8d8ef034a
+    size: 1018982
+    cloud:
+      myminio:
+        etag: 88249f4ef4bb298967bc09e8d8ef034a
+        version_id: 2865df90-1799-4c43-8a41-8fc883b28b5e
+  - relpath: true/247_HONOR-7X_S.jpg
+    md5: 965c89c7058d7cf1e99109c255f23ac6
+    size: 1026191
+    cloud:
+      myminio:
+        etag: 965c89c7058d7cf1e99109c255f23ac6
+        version_id: ef91c3ce-3792-4bac-a97b-ba67211d74d8
+  - relpath: true/248_IPHONE-7_S.jpeg
+    md5: 3e5409e637490b5f0b413b496e094b34
+    size: 925462
+    cloud:
+      myminio:
+        etag: 3e5409e637490b5f0b413b496e094b34
+        version_id: dab64b0b-ab83-458c-9b0e-b595c837d598
+  - relpath: true/249_IPHONE-SE_S.jpeg
+    md5: f7d71d00a0906c93f33334381b8568c5
+    size: 755125
+    cloud:
+      myminio:
+        etag: f7d71d00a0906c93f33334381b8568c5
+        version_id: 85066548-5fb1-4a7a-af72-1fceefabf023
+  - relpath: true/24_HUAWEI-Y9_S.jpg
+    md5: b455a462e83a116fd50d0f7c561d4684
+    size: 790783
+    cloud:
+      myminio:
+        etag: b455a462e83a116fd50d0f7c561d4684
+        version_id: d9a796d6-8147-4552-89de-89c945c331bd
+  - relpath: true/250_IPHONE-SE_S.jpeg
+    md5: 7fc3d8f9cf20106712b8a3e0fadb29e2
+    size: 790778
+    cloud:
+      myminio:
+        etag: 7fc3d8f9cf20106712b8a3e0fadb29e2
+        version_id: b446a5bd-9894-436e-876e-7883c2983e4e
+  - relpath: true/251_IPHONE-6S_S.jpeg
+    md5: 3243ce4f3951c80098066ddf59069ed3
+    size: 827659
+    cloud:
+      myminio:
+        etag: 3243ce4f3951c80098066ddf59069ed3
+        version_id: 2bb606eb-529d-4673-a04e-f12b9aeca1fc
+  - relpath: true/252_HUAWEI-P30_S.jpg
+    md5: f78cb1ba98c21bd2f8d846d144b2700a
+    size: 831675
+    cloud:
+      myminio:
+        etag: f78cb1ba98c21bd2f8d846d144b2700a
+        version_id: 6df1dbfc-b356-4ecf-8707-aa5cf921b072
+  - relpath: true/253_XIAOMI-REDMI-NOTE-7_S.jpg
+    md5: a3704fa565526cfa050f0f0189cf9a2b
+    size: 925997
+    cloud:
+      myminio:
+        etag: a3704fa565526cfa050f0f0189cf9a2b
+        version_id: 6e9a4023-595f-4288-9cb5-cb6e75b85130
+  - relpath: true/254_XIAOMI-REDMI-7_S.jpg
+    md5: a78a6768719de00a630646afca4a9460
+    size: 576571
+    cloud:
+      myminio:
+        etag: a78a6768719de00a630646afca4a9460
+        version_id: 15fa4859-a788-490b-a09c-514c72348652
+  - relpath: true/255_XIAOMI-REDMI-7_S.jpg
+    md5: d646c315a3db3080bb180ade61246cc3
+    size: 1169502
+    cloud:
+      myminio:
+        etag: d646c315a3db3080bb180ade61246cc3
+        version_id: 373d7a43-02c9-4eef-882d-5f8440fbe402
+  - relpath: true/256_SAMSUNG-GALAXY-GRAND-PRIME_S.jpg
+    md5: d2b6fa10d83c78d32da73c1e326fd0dc
+    size: 650634
+    cloud:
+      myminio:
+        etag: d2b6fa10d83c78d32da73c1e326fd0dc
+        version_id: ac242c01-b613-41b0-afae-e73eb324f56e
+  - relpath: true/257_HONOR-9_S.jpg
+    md5: fe66c35cb5230442ec768c953860089c
+    size: 779539
+    cloud:
+      myminio:
+        etag: fe66c35cb5230442ec768c953860089c
+        version_id: 34d9fb32-fd60-4239-b9c6-68c0804123e8
+  - relpath: true/258_HONOR-10_S.jpg
+    md5: 880b17e509b55204ccf01550d1a719b9
+    size: 1017099
+    cloud:
+      myminio:
+        etag: 880b17e509b55204ccf01550d1a719b9
+        version_id: 6d1ab4c0-6dd0-45db-a07d-13a0c2173213
+  - relpath: true/259_XIAOMI-REDMI-7_S.jpg
+    md5: cbd76fc88330cad336908b85107b4670
+    size: 934982
+    cloud:
+      myminio:
+        etag: cbd76fc88330cad336908b85107b4670
+        version_id: 14998f22-28b3-4aef-ab37-009aeaff2f7e
+  - relpath: true/25_HUAWEI-Y9_S.jpg
+    md5: 52da7dfa1943b318d366de5d0adc8e90
+    size: 1022892
+    cloud:
+      myminio:
+        etag: 52da7dfa1943b318d366de5d0adc8e90
+        version_id: 67e491bd-f197-4cb1-91cc-48ec9df74c89
+  - relpath: true/260_HUAWEI-NOVA-LITE_S.jpg
+    md5: f22a64e056d22a7c2137e0bb9dc24f59
+    size: 644836
+    cloud:
+      myminio:
+        etag: f22a64e056d22a7c2137e0bb9dc24f59
+        version_id: cbcfbb54-cdcc-4013-970f-a2dc149ed063
+  - relpath: true/261_HONOR-10_S.jpg
+    md5: 009e3a8f6c6b76ac5c24942b17fb5d03
+    size: 1246671
+    cloud:
+      myminio:
+        etag: 009e3a8f6c6b76ac5c24942b17fb5d03
+        version_id: c95730a2-28cd-467d-9509-82eb0cc09d21
+  - relpath: true/262_IPHONE-SE_S.jpg
+    md5: 515007cb6b75b5705b26fdf19c826c2a
+    size: 1011794
+    cloud:
+      myminio:
+        etag: 515007cb6b75b5705b26fdf19c826c2a
+        version_id: 33400f1e-5ee9-4245-8676-64ee0733115b
+  - relpath: true/263_XIAOMI-REDMI-3S_S.jpg
+    md5: 249ddee7033fc90bfd903bacfcd1d1ed
+    size: 872413
+    cloud:
+      myminio:
+        etag: 249ddee7033fc90bfd903bacfcd1d1ed
+        version_id: 036b56d4-8b99-4006-a453-801d3c0ef644
+  - relpath: true/264_IPHONE-7_S.jpeg
+    md5: bc1c44a75c6d3c8283dffb42ca80d796
+    size: 1159077
+    cloud:
+      myminio:
+        etag: bc1c44a75c6d3c8283dffb42ca80d796
+        version_id: f3fb2455-d5f9-48c1-83cf-b88382e3d26f
+  - relpath: true/265_HONOR-9-LITE_S.jpg
+    md5: 3369d2819b20cde97d6429ddd5f09871
+    size: 855606
+    cloud:
+      myminio:
+        etag: 3369d2819b20cde97d6429ddd5f09871
+        version_id: af3e98da-9708-4fca-8cc4-12cf106bdf96
+  - relpath: true/266_SONY-NEX-5T_S.JPG
+    md5: 2b8553cd6e94f196899b9417fb695ba6
+    size: 519534
+    cloud:
+      myminio:
+        etag: 2b8553cd6e94f196899b9417fb695ba6
+        version_id: 74d9ee26-8e23-4dbc-8121-80452608bc9a
+  - relpath: true/267_SONY-NEX-5T_S.JPG
+    md5: ac0332246eb2c9ee75a7c5da3638cfca
+    size: 534661
+    cloud:
+      myminio:
+        etag: ac0332246eb2c9ee75a7c5da3638cfca
+        version_id: e6e39a19-db14-44f5-a5f5-81b5f315d6d6
+  - relpath: true/268_NIKON-D3400-18-55MM_S.JPG
+    md5: a2f229131d3a3eacd40078b30134448c
+    size: 785588
+    cloud:
+      myminio:
+        etag: a2f229131d3a3eacd40078b30134448c
+        version_id: dc59cf2f-1de0-48f5-82b8-f74fa0763770
+  - relpath: true/269_NIKON-D3400-18-55MM_S.JPG
+    md5: f20b44bb2506bab1077dd0c6640aa2dd
+    size: 958162
+    cloud:
+      myminio:
+        etag: f20b44bb2506bab1077dd0c6640aa2dd
+        version_id: 53cc28e0-80ec-4af2-afc6-bafff6a7bb22
+  - relpath: true/26_HONOR-8X_S.jpg
+    md5: 3c590f6ca73ba84af3e293e126f9d27c
+    size: 821239
+    cloud:
+      myminio:
+        etag: 3c590f6ca73ba84af3e293e126f9d27c
+        version_id: a6fe5cbf-e4ee-48ff-bf27-2e1bd1054755
+  - relpath: true/270_NIKON-D3400-18-55MM_S.JPG
+    md5: 36e4cd9a5ff8c50ab38a4181151c69a5
+    size: 1043688
+    cloud:
+      myminio:
+        etag: 36e4cd9a5ff8c50ab38a4181151c69a5
+        version_id: 2bf36559-0ebe-437f-bf5c-531839c054cd
+  - relpath: true/271_NIKON-D3400-18-55MM_S.JPG
+    md5: ae8d9c0471605f4188230efdb92fb519
+    size: 953446
+    cloud:
+      myminio:
+        etag: ae8d9c0471605f4188230efdb92fb519
+        version_id: b0b9fa63-3cb8-489d-a8a0-2c87e3485b22
+  - relpath: true/272_NIKON-D3400-18-55MM_S.JPG
+    md5: d7d5aa4b6a48cedabd486798e9ca6e98
+    size: 832094
+    cloud:
+      myminio:
+        etag: d7d5aa4b6a48cedabd486798e9ca6e98
+        version_id: 08ba1ac6-a97c-42cb-912b-4f8856af6182
+  - relpath: true/273_NIKON-D3400-18-55MM_S.JPG
+    md5: 2c5deef2b0cd7e8eaf4a9059a22faa5f
+    size: 949850
+    cloud:
+      myminio:
+        etag: 2c5deef2b0cd7e8eaf4a9059a22faa5f
+        version_id: 0503b363-6479-430f-a176-ab0539895c87
+  - relpath: true/274_NIKON-D3400-18-55MM_S.JPG
+    md5: bc3964e66fe41ddf4086452ec519d375
+    size: 848917
+    cloud:
+      myminio:
+        etag: bc3964e66fe41ddf4086452ec519d375
+        version_id: bfb3a4ce-08d1-4a35-9744-fcb42b3ead53
+  - relpath: true/275_NIKON-D3400-18-55MM_S.JPG
+    md5: 99e54fd040d598e1e874066132aac87d
+    size: 778912
+    cloud:
+      myminio:
+        etag: 99e54fd040d598e1e874066132aac87d
+        version_id: 5fee58e3-a332-4014-ae3b-ea9dd0953c1f
+  - relpath: true/276_NIKON-D3400-18-55MM_S.JPG
+    md5: 2bb72568169637087bad207110e5a6d1
+    size: 1049841
+    cloud:
+      myminio:
+        etag: 2bb72568169637087bad207110e5a6d1
+        version_id: 12455412-b04b-48d1-b848-4ec1731ba835
+  - relpath: true/277_NIKON-D3400-18-55MM_S.JPG
+    md5: f8aa200d983f04f8c320a3be875c9e10
+    size: 751815
+    cloud:
+      myminio:
+        etag: f8aa200d983f04f8c320a3be875c9e10
+        version_id: 6522197e-6aa8-4af5-9cbd-d9c8ae205ae7
+  - relpath: true/278_HONOR-7X_S.jpg
+    md5: 2d16475a2e568c5303ef3626e7b639b5
+    size: 832167
+    cloud:
+      myminio:
+        etag: 2d16475a2e568c5303ef3626e7b639b5
+        version_id: 7cbf62d2-685e-4b82-8614-8e1268b86d94
+  - relpath: true/279_NIKON-D3400-18-55MM_S.JPG
+    md5: 16fd1401e777f8d48368fdae625e55a7
+    size: 904626
+    cloud:
+      myminio:
+        etag: 16fd1401e777f8d48368fdae625e55a7
+        version_id: b67c252d-5854-49c6-9726-c3963f976f82
+  - relpath: true/27_HONOR-8X_S.jpg
+    md5: ce3b3ccca5b4d9171809889a03dd1162
+    size: 710201
+    cloud:
+      myminio:
+        etag: ce3b3ccca5b4d9171809889a03dd1162
+        version_id: 19a09839-325c-4cfb-9595-e0baf6755016
+  - relpath: true/280_NIKON-D3400-18-55MM_S.JPG
+    md5: 73b433d47e3cf69548197d0d19289313
+    size: 894455
+    cloud:
+      myminio:
+        etag: 73b433d47e3cf69548197d0d19289313
+        version_id: cf207cfa-0a92-4e17-959f-6bc3d5f16730
+  - relpath: true/281_NIKON-D3400-18-55MM_S.JPG
+    md5: 98f19c93994426f7825007647e39912b
+    size: 815348
+    cloud:
+      myminio:
+        etag: 98f19c93994426f7825007647e39912b
+        version_id: 344ed8f7-ea16-4372-9197-d05f96a93927
+  - relpath: true/282_SONY-NEX-5T_S.JPG
+    md5: aa76eb21592aa0e14aa6caeba4d751de
+    size: 588819
+    cloud:
+      myminio:
+        etag: aa76eb21592aa0e14aa6caeba4d751de
+        version_id: c0d32dd3-d4e5-44c8-a941-2892f218d67f
+  - relpath: true/283_HONOR-10_S.jpg
+    md5: 8758037fb4f2b20dc2a0bba0137a077c
+    size: 822318
+    cloud:
+      myminio:
+        etag: 8758037fb4f2b20dc2a0bba0137a077c
+        version_id: 0ea5c226-bf57-443b-9703-32262e89fc49
+  - relpath: true/284_SONY-NEX-5T_S.JPG
+    md5: 9697411128b410708e4408a4da02f93f
+    size: 740061
+    cloud:
+      myminio:
+        etag: 9697411128b410708e4408a4da02f93f
+        version_id: bde48d82-ead1-49c0-88f8-434e885bb1c2
+  - relpath: true/285_SONY-NEX-5T_S.JPG
+    md5: d7f8764f77df4e7ba93d0d7c40ed1427
+    size: 957053
+    cloud:
+      myminio:
+        etag: d7f8764f77df4e7ba93d0d7c40ed1427
+        version_id: d10f3af7-5b6e-480f-ac60-3b1a92ed5183
+  - relpath: true/286_SONY-NEX-5T_S.JPG
+    md5: da8649f3bf2911058d294d98b555a9f0
+    size: 736375
+    cloud:
+      myminio:
+        etag: da8649f3bf2911058d294d98b555a9f0
+        version_id: f3235d5c-d252-4fa6-a7e9-f63e23569d16
+  - relpath: true/287_WILEYFOX-SWIFT-2-PLUS_S.jpg
+    md5: 4486f50f30903ec44dac76a382c981ce
+    size: 1009475
+    cloud:
+      myminio:
+        etag: 4486f50f30903ec44dac76a382c981ce
+        version_id: 4b66035b-7a71-4d08-bc40-4c1f6ffa9127
+  - relpath: true/288_XIAOMI-REDMI-NOTE-7_S.jpg
+    md5: 8d0d46fcdd00ad95ffb5dbe72e171cf7
+    size: 1474675
+    cloud:
+      myminio:
+        etag: 8d0d46fcdd00ad95ffb5dbe72e171cf7
+        version_id: 7914029a-1d02-4517-9475-4b063fa3e858
+  - relpath: true/289_WILEYFOX-SWIFT-2-PLUS_S.jpg
+    md5: c7000096d68a154fe7f3bd01ae671c71
+    size: 906444
+    cloud:
+      myminio:
+        etag: c7000096d68a154fe7f3bd01ae671c71
+        version_id: 9df60bd6-37a1-4320-8e03-0436f63cd2fb
+  - relpath: true/28_HONOR-8X_S.jpg
+    md5: f235c38beb88c258fffccc125494e894
+    size: 862782
+    cloud:
+      myminio:
+        etag: f235c38beb88c258fffccc125494e894
+        version_id: 8d9305da-9b92-46d5-abe7-c6b37bd56537
+  - relpath: true/290_IPHONE-SE_S.jpg
+    md5: d8d5851b9dacedd98016377918ca4814
+    size: 1069591
+    cloud:
+      myminio:
+        etag: d8d5851b9dacedd98016377918ca4814
+        version_id: 1ea04cad-a1e0-47b2-a453-8cb352eb7d34
+  - relpath: true/291_IPHONE-SE_S.jpg
+    md5: 2188e3a21ac590cd419ccf4d17ff1c90
+    size: 779538
+    cloud:
+      myminio:
+        etag: 2188e3a21ac590cd419ccf4d17ff1c90
+        version_id: ca23ce4a-3c4c-4ff5-a003-bc2275f32465
+  - relpath: true/292_NIKON-D3400-35MM_S.JPG
+    md5: 59156e49393257644b6507461e00d435
+    size: 692636
+    cloud:
+      myminio:
+        etag: 59156e49393257644b6507461e00d435
+        version_id: 413dfa5e-3789-461c-b7c5-4316719474f9
+  - relpath: true/293_NIKON-D3400-35MM_S.JPG
+    md5: b281be8dfbe3c26a2ee49f1d220d22a5
+    size: 1088309
+    cloud:
+      myminio:
+        etag: b281be8dfbe3c26a2ee49f1d220d22a5
+        version_id: 8333ca45-b392-4f4e-aacf-de62dd14fc1d
+  - relpath: true/294_PRESTIGIO-MULTI-PHONE_S.jpg
+    md5: 5c1c2d1f8e399b313d777c3ce35ea9e4
+    size: 1641536
+    cloud:
+      myminio:
+        etag: 5c1c2d1f8e399b313d777c3ce35ea9e4
+        version_id: 6d518838-ea9c-412d-b331-136ff94c2759
+  - relpath: true/295_HONOR-7X_S.jpg
+    md5: 5d7c5b487f818520454dbaa976a64b65
+    size: 1920345
+    cloud:
+      myminio:
+        etag: 5d7c5b487f818520454dbaa976a64b65
+        version_id: c4d901b5-bc4c-40d3-8b35-b8089888d9b5
+  - relpath: true/296_NIKON-D3400-35MM_S.JPG
+    md5: 702f26d23f8ea3fde78882ecd3e19df7
+    size: 724627
+    cloud:
+      myminio:
+        etag: 702f26d23f8ea3fde78882ecd3e19df7
+        version_id: e8d522f2-937f-42ca-935b-3ff5391d6375
+  - relpath: true/297_NIKON-D3400-35MM_S.JPG
+    md5: a2914aa9a413e53ce82408105409318c
+    size: 1451629
+    cloud:
+      myminio:
+        etag: a2914aa9a413e53ce82408105409318c
+        version_id: cbe11bd2-c564-426f-b68b-69dd0d9ac1a7
+  - relpath: true/298_NIKON-D3400-35MM_S.JPG
+    md5: a1dc8e0358296fa7562d958689f7d986
+    size: 863172
+    cloud:
+      myminio:
+        etag: a1dc8e0358296fa7562d958689f7d986
+        version_id: 09d899c0-d3ce-4e4f-b38e-702e0c4c9517
+  - relpath: true/299_NIKON-D3400-35MM_S.JPG
+    md5: ff144a500c212a57a94b0774e6bb09ab
+    size: 825811
+    cloud:
+      myminio:
+        etag: ff144a500c212a57a94b0774e6bb09ab
+        version_id: c3b6eec6-479d-494e-a00a-17da50d68d6d
+  - relpath: true/29_HONOR-7X_S.jpg
+    md5: 6cabec27f804ee30df8ec07d1379dbeb
+    size: 806160
+    cloud:
+      myminio:
+        etag: 6cabec27f804ee30df8ec07d1379dbeb
+        version_id: 5d348861-2a76-4c86-9b9c-5c1fb000bfa2
+  - relpath: true/2_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: f40324a15dd9b4e65239757ba3b9f60e
+    size: 1106349
+    cloud:
+      myminio:
+        etag: f40324a15dd9b4e65239757ba3b9f60e
+        version_id: 9de5ea4a-d63f-4cd4-b565-77ab50a83032
+  - relpath: true/300_XIAOMI-REDMI-NOTE-7_S.jpg
+    md5: 0f79c74c6fd5bda373974a7bd5b548bb
+    size: 2171772
+    cloud:
+      myminio:
+        etag: 0f79c74c6fd5bda373974a7bd5b548bb
+        version_id: 5886a017-3e5e-475d-8b4f-a61cdd4bba43
+  - relpath: true/301_NIKON-D3400-35MM_S.JPG
+    md5: 01ad1f61f72dd17944e7ae51f40d27c8
+    size: 1252218
+    cloud:
+      myminio:
+        etag: 01ad1f61f72dd17944e7ae51f40d27c8
+        version_id: d51b80b4-de2c-4479-b0f6-1a148dfbfb29
+  - relpath: true/302_IPHONE-SE_S.jpeg
+    md5: a20f6ca56fe6523db3b972f9e3da4a90
+    size: 794871
+    cloud:
+      myminio:
+        etag: a20f6ca56fe6523db3b972f9e3da4a90
+        version_id: c2b5a2a9-79f4-4f9d-9182-c7ec95460cc2
+  - relpath: true/303_SAMSUNG-GALAXY-A8_S.jpg
+    md5: 5609bc27d7779dcf69bfc768d447187e
+    size: 617290
+    cloud:
+      myminio:
+        etag: 5609bc27d7779dcf69bfc768d447187e
+        version_id: 8ae4a1bb-4e9a-4156-a377-db8800287c09
+  - relpath: true/304_SAMSUNG-GALAXY-J7_S.jpg
+    md5: 074980bf7df5aae3b66c3aeceb024430
+    size: 670233
+    cloud:
+      myminio:
+        etag: 074980bf7df5aae3b66c3aeceb024430
+        version_id: 82c58219-50bf-430a-b114-136b96c5ea3f
+  - relpath: true/305_HONOR-9_S.jpg
+    md5: 732d9ee372581a4622cd5da7398e75d7
+    size: 846359
+    cloud:
+      myminio:
+        etag: 732d9ee372581a4622cd5da7398e75d7
+        version_id: af0c054e-6c2f-44bb-a424-a2c9ae41f543
+  - relpath: true/306_XIAOMI-REDMI-5-PLUS_S.jpg
+    md5: f462a590e9241e0e86a1884c165a5f9f
+    size: 1109363
+    cloud:
+      myminio:
+        etag: f462a590e9241e0e86a1884c165a5f9f
+        version_id: 6f5ca25e-7ded-41aa-9f7f-af9dfbf0dd8e
+  - relpath: true/307_HONOR-7X_S.jpg
+    md5: 78c6e4233e11fcd829affba63bdd64fa
+    size: 1130632
+    cloud:
+      myminio:
+        etag: 78c6e4233e11fcd829affba63bdd64fa
+        version_id: bc857921-2274-47f2-badf-c85a1069f8fe
+  - relpath: true/308_IPHONE-6S_S.jpeg
+    md5: ff3e28e1aee73d2b87a8828d10693891
+    size: 864179
+    cloud:
+      myminio:
+        etag: ff3e28e1aee73d2b87a8828d10693891
+        version_id: c68d806a-4abd-4f02-a995-14928cfdd74e
+  - relpath: true/309_SAMSUNG-GALAXY-A8_S.jpg
+    md5: bfdf7802e0a42a846a0ba512ea0baca2
+    size: 720913
+    cloud:
+      myminio:
+        etag: bfdf7802e0a42a846a0ba512ea0baca2
+        version_id: 5a1dee37-f4f7-463b-ab70-3782a14dcc85
+  - relpath: true/30_HONOR-8X_S.jpg
+    md5: 89ea340982b993305295d8c5f79df921
+    size: 1001666
+    cloud:
+      myminio:
+        etag: 89ea340982b993305295d8c5f79df921
+        version_id: 4445c0e1-d57b-44d1-aac9-14ec283cea6b
+  - relpath: true/310_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 167d98630bd0742dea8fbbd92ff5c369
+    size: 920293
+    cloud:
+      myminio:
+        etag: 167d98630bd0742dea8fbbd92ff5c369
+        version_id: 74455e32-838a-40b9-a910-77ae53a9a59e
+  - relpath: true/311_HONOR-6X_S.jpg
+    md5: 7d976c59e49b380f87732e5272f22c7f
+    size: 610084
+    cloud:
+      myminio:
+        etag: 7d976c59e49b380f87732e5272f22c7f
+        version_id: c15e36be-9d55-40a2-be4f-a6a35bb081a1
+  - relpath: true/312_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg
+    md5: e0529eca4b9eecc0b09cdd09d0f2dff0
+    size: 883638
+    cloud:
+      myminio:
+        etag: e0529eca4b9eecc0b09cdd09d0f2dff0
+        version_id: 9ccab624-1e60-406a-9b30-2e9512b0ba27
+  - relpath: true/313_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 2397b57be108b39dc2b923c7d29a1d3b
+    size: 966351
+    cloud:
+      myminio:
+        etag: 2397b57be108b39dc2b923c7d29a1d3b
+        version_id: c74b75f8-f116-4b06-841f-5256ab21da13
+  - relpath: true/314_IPHONE-5S_S.jpeg
+    md5: c233be8f6859dba57212f3aaa1b86582
+    size: 733988
+    cloud:
+      myminio:
+        etag: c233be8f6859dba57212f3aaa1b86582
+        version_id: d5944193-531b-4858-86ba-4795386f2268
+  - relpath: true/315_HUAWEI-NOVA-LITE_S.jpg
+    md5: 69f0830de048f07f2c70feb0b7c77d27
+    size: 797730
+    cloud:
+      myminio:
+        etag: 69f0830de048f07f2c70feb0b7c77d27
+        version_id: 88d6ee70-1f5e-4fc7-904d-2d3c065044f6
+  - relpath: true/316_IPHONE-7_S.jpeg
+    md5: a97b6c541c9533916fe78745642a9853
+    size: 1290514
+    cloud:
+      myminio:
+        etag: a97b6c541c9533916fe78745642a9853
+        version_id: 39565adc-c6a6-4aec-8363-7c1b86c3d260
+  - relpath: true/317_IPHONE-8-PLUS_S.jpg
+    md5: aa74bcfc8c0b310b712d987153150156
+    size: 743139
+    cloud:
+      myminio:
+        etag: aa74bcfc8c0b310b712d987153150156
+        version_id: 4c43c480-03f8-4170-b3af-efb483ded546
+  - relpath: true/318_HONOR-7C_S.jpg
+    md5: c003b1dd2b2914b014d7a05b6977faa5
+    size: 1271490
+    cloud:
+      myminio:
+        etag: c003b1dd2b2914b014d7a05b6977faa5
+        version_id: 512707c5-d96a-42e4-9710-8bf687527dc4
+  - relpath: true/319_XIAOMI-REDMI-NOTE-4X_S.jpg
+    md5: 2cc44c4a1917a8a7cfb5bd5d07df037a
+    size: 1370066
+    cloud:
+      myminio:
+        etag: 2cc44c4a1917a8a7cfb5bd5d07df037a
+        version_id: 684437f9-23be-4c67-8501-1ea68e7e818e
+  - relpath: true/31_IPHONE-SE_S.jpg
+    md5: 54e1a11ae1e264ce55a583394e4a898d
+    size: 714015
+    cloud:
+      myminio:
+        etag: 54e1a11ae1e264ce55a583394e4a898d
+        version_id: cf31606a-129e-4daf-af47-d7ddd8d4e68f
+  - relpath: true/320_HONOR-7X_S.jpg
+    md5: 06c021ee47a78b974a6af997df18a498
+    size: 695564
+    cloud:
+      myminio:
+        etag: 06c021ee47a78b974a6af997df18a498
+        version_id: 344b4bcb-83b6-4321-bcab-343cfdcd1352
+  - relpath: true/321_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 7797830a53acd34f910df852db99167a
+    size: 702324
+    cloud:
+      myminio:
+        etag: 7797830a53acd34f910df852db99167a
+        version_id: 3a10ca3a-0606-4d33-a818-05f07c9a8733
+  - relpath: true/322_HONOR-7C_S.jpg
+    md5: 499a84f0975b7cbdfc845405e08924e7
+    size: 813698
+    cloud:
+      myminio:
+        etag: 499a84f0975b7cbdfc845405e08924e7
+        version_id: f519bb11-7b18-4658-b76e-e487142fedf4
+  - relpath: true/323_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 47f407a456518ac81ff8b3bd0fc057bf
+    size: 810524
+    cloud:
+      myminio:
+        etag: 47f407a456518ac81ff8b3bd0fc057bf
+        version_id: 532e9718-8df5-4d64-a1ce-724623b339b0
+  - relpath: true/324_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg
+    md5: 0d584d21e282d0652478f6031d89484f
+    size: 872286
+    cloud:
+      myminio:
+        etag: 0d584d21e282d0652478f6031d89484f
+        version_id: d31980d8-be28-441e-93dc-f8c7f0ffb976
+  - relpath: true/325_SAMSUNG-GALAXY-J3_S.jpg
+    md5: d910d0e87ee6b6f1873ee3e5a2010988
+    size: 766610
+    cloud:
+      myminio:
+        etag: d910d0e87ee6b6f1873ee3e5a2010988
+        version_id: cf76214e-7b16-41a9-9b3b-f2156a908bba
+  - relpath: true/326_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: b201234a46290d4f571b4b1310fa873a
+    size: 1183001
+    cloud:
+      myminio:
+        etag: b201234a46290d4f571b4b1310fa873a
+        version_id: 4aadfb63-88fa-4bc9-b36f-3a56b4e624dd
+  - relpath: true/327_IPHONE-SE_S.jpg
+    md5: 9748f2cf2200eec8ec313be43ea9639f
+    size: 1799427
+    cloud:
+      myminio:
+        etag: 9748f2cf2200eec8ec313be43ea9639f
+        version_id: 8905d5ed-d367-4a8c-b24c-07580ce4d83d
+  - relpath: true/328_SAMSUNG-GALAXY-J3_S.jpg
+    md5: 798217f5218235a444a6fcc2d30046ab
+    size: 983101
+    cloud:
+      myminio:
+        etag: 798217f5218235a444a6fcc2d30046ab
+        version_id: 9356fca6-5db3-45fe-95ae-7e784ae8b758
+  - relpath: true/329_HONOR-7C_S.jpg
+    md5: eedea8420284561e5830d62b37b5b591
+    size: 936523
+    cloud:
+      myminio:
+        etag: eedea8420284561e5830d62b37b5b591
+        version_id: e62cdf4f-2897-40ca-a9fc-0c873a593787
+  - relpath: true/32_HUAWEI-P-SMART_S.jpg
+    md5: 42cf5cd8c9e2c732b8938c9c318c520d
+    size: 788138
+    cloud:
+      myminio:
+        etag: 42cf5cd8c9e2c732b8938c9c318c520d
+        version_id: 5d35b7f4-423e-40f4-8c52-a3079d08c254
+  - relpath: true/330_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 76334530f87505518dee343e1ea66b12
+    size: 1028766
+    cloud:
+      myminio:
+        etag: 76334530f87505518dee343e1ea66b12
+        version_id: 1b80ddee-7464-448c-931d-7a161cdafe44
+  - relpath: true/331_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 0dbd505453b86a2350252548b1484b38
+    size: 946038
+    cloud:
+      myminio:
+        etag: 0dbd505453b86a2350252548b1484b38
+        version_id: a15bc521-3d9b-4a91-be0a-36de66d6d27b
+  - relpath: true/332_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 6dde8211f14966ae9c9c322e22e393c1
+    size: 679021
+    cloud:
+      myminio:
+        etag: 6dde8211f14966ae9c9c322e22e393c1
+        version_id: f76ca491-d263-4110-963c-ead69317d4c9
+  - relpath: true/333_HONOR-7X_S.jpg
+    md5: d436818980ed217a8b7de266cf2548ee
+    size: 541494
+    cloud:
+      myminio:
+        etag: d436818980ed217a8b7de266cf2548ee
+        version_id: 569a8c11-355f-41ce-b81e-72a6b5e746a8
+  - relpath: true/334_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 050b6194e8f3fc5b1f270ed62459224e
+    size: 1057208
+    cloud:
+      myminio:
+        etag: 050b6194e8f3fc5b1f270ed62459224e
+        version_id: 3cc5adab-0d49-4694-a9df-fa7e5064492f
+  - relpath: true/335_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 590e4f3f682e264a6de635ab7bbea175
+    size: 1211699
+    cloud:
+      myminio:
+        etag: 590e4f3f682e264a6de635ab7bbea175
+        version_id: 72f78aec-8cfa-4cbe-b64f-9fa39aa85907
+  - relpath: true/336_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg
+    md5: 29fb3f8b7c8ec154067f92ff6f3fd7aa
+    size: 995612
+    cloud:
+      myminio:
+        etag: 29fb3f8b7c8ec154067f92ff6f3fd7aa
+        version_id: a5461120-c768-4f56-9a3f-6b064d974319
+  - relpath: true/337_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: bf15050320919a965094f6a973f71217
+    size: 993130
+    cloud:
+      myminio:
+        etag: bf15050320919a965094f6a973f71217
+        version_id: 9a1f297a-bbc9-492a-b462-d1aa2fb6a9ff
+  - relpath: true/338_IPHONE-SE_S.jpg
+    md5: 8d78c7dd55d9591e5fc7b0448d8e5651
+    size: 783045
+    cloud:
+      myminio:
+        etag: 8d78c7dd55d9591e5fc7b0448d8e5651
+        version_id: d454e515-e0c1-42c2-b197-e17b58a800da
+  - relpath: true/339_XIAOMI-REDMI-4X_S.jpg
+    md5: cbe45d09de1bfc89fa6c0ac96c116a79
+    size: 873897
+    cloud:
+      myminio:
+        etag: cbe45d09de1bfc89fa6c0ac96c116a79
+        version_id: 86d34506-f0f2-41ba-8d55-abf34c6f54a3
+  - relpath: true/33_HONOR-8X_S.jpg
+    md5: f222b434461b62b8708389e9789a9f55
+    size: 767846
+    cloud:
+      myminio:
+        etag: f222b434461b62b8708389e9789a9f55
+        version_id: 2ac90a56-cff2-4a51-8ee6-cc47515b41f8
+  - relpath: true/340_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: b8491b93c748cbac0de742a05533402b
+    size: 1042446
+    cloud:
+      myminio:
+        etag: b8491b93c748cbac0de742a05533402b
+        version_id: ef74f75e-805b-419c-9621-82caf0d08b92
+  - relpath: true/341_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 08c18bd31a0cefcb271c53794cb1803d
+    size: 972303
+    cloud:
+      myminio:
+        etag: 08c18bd31a0cefcb271c53794cb1803d
+        version_id: 250530b5-7c80-4e86-98bf-b852e4938c35
+  - relpath: true/342_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: efd078d3a191533b07d9a31b06afc8a3
+    size: 1051741
+    cloud:
+      myminio:
+        etag: efd078d3a191533b07d9a31b06afc8a3
+        version_id: e3078dae-a165-4cde-ab9f-a41f2c3dafbb
+  - relpath: true/343_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 20f827a31f4e44f499ec91b45e5f27c1
+    size: 888063
+    cloud:
+      myminio:
+        etag: 20f827a31f4e44f499ec91b45e5f27c1
+        version_id: b524fd6c-72e8-4cdf-b815-bda6b16b11f0
+  - relpath: true/344_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 0bc7858c1e1a887f669348fbeb301644
+    size: 1120818
+    cloud:
+      myminio:
+        etag: 0bc7858c1e1a887f669348fbeb301644
+        version_id: 963f4bb4-d2cd-4af8-8adc-908ac16db5f6
+  - relpath: true/345_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: e873666a65b3e04f862b0317a9be15c6
+    size: 1002980
+    cloud:
+      myminio:
+        etag: e873666a65b3e04f862b0317a9be15c6
+        version_id: d0a8ef16-11f4-4e37-8cc2-44baf705fdbc
+  - relpath: true/346_HUAWEI-MATE20_S.jpg
+    md5: 1e5f041510cde8445c55147b29b5dd2e
+    size: 1336664
+    cloud:
+      myminio:
+        etag: 1e5f041510cde8445c55147b29b5dd2e
+        version_id: b2d573e2-b3a2-471a-9670-77a7c955c8b5
+  - relpath: true/347_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 0d4fdf7eee664540241be7642a1755e7
+    size: 1095971
+    cloud:
+      myminio:
+        etag: 0d4fdf7eee664540241be7642a1755e7
+        version_id: 0f145c4c-dadb-41b8-a890-4daf64b94842
+  - relpath: true/348_IPHONE-8_S.JPG
+    md5: 6758392742990cac6287b55e925d07f9
+    size: 1231478
+    cloud:
+      myminio:
+        etag: 6758392742990cac6287b55e925d07f9
+        version_id: e210ecaf-1d4f-4c15-a417-cd464a55932a
+  - relpath: true/349_IPHONE-SE_S.jpg
+    md5: 882400d42462a65850d9e0e8bc6361b7
+    size: 835166
+    cloud:
+      myminio:
+        etag: 882400d42462a65850d9e0e8bc6361b7
+        version_id: 802d5a4b-13e3-47ab-9a14-edb5c095a07d
+  - relpath: true/34_HONOR-8X_S.jpg
+    md5: 8113fb9307b6ac3f9ac2db606b4f7077
+    size: 1177542
+    cloud:
+      myminio:
+        etag: 8113fb9307b6ac3f9ac2db606b4f7077
+        version_id: 6b6167d1-bc1b-4d0d-a7ee-35e725754088
+  - relpath: true/35_IPHONE-6S_S.jpeg
+    md5: f392ae92c25cee9e38f4062548f731bb
+    size: 1124452
+    cloud:
+      myminio:
+        etag: f392ae92c25cee9e38f4062548f731bb
+        version_id: 08f7360b-c99c-4599-8be9-115231a2b104
+  - relpath: true/36_HONOR-8X_S.jpg
+    md5: 347b0b65d669479d004e33ecad856319
+    size: 767233
+    cloud:
+      myminio:
+        etag: 347b0b65d669479d004e33ecad856319
+        version_id: ddf31122-af80-4752-ba55-33df0aaf85e7
+  - relpath: true/37_HONOR-8X_S.jpg
+    md5: 6ee322fabc62a449ba3cf6601fd53001
+    size: 956069
+    cloud:
+      myminio:
+        etag: 6ee322fabc62a449ba3cf6601fd53001
+        version_id: e3403915-3131-49a5-9d02-54ab4e6670d4
+  - relpath: true/38_HONOR-8X_S.jpg
+    md5: f41f24208f5a379e7a8e6e4df7295d36
+    size: 797732
+    cloud:
+      myminio:
+        etag: f41f24208f5a379e7a8e6e4df7295d36
+        version_id: bf38a85d-01f5-4e37-b8bf-d5f8fea36256
+  - relpath: true/39_XIAOMI-MI8-LITE_S.jpg
+    md5: 7b31e4f7ea34ce75445a9b15df551a8b
+    size: 1000345
+    cloud:
+      myminio:
+        etag: 7b31e4f7ea34ce75445a9b15df551a8b
+        version_id: af63d591-e8f1-44bd-9151-6ce8682152b4
+  - relpath: true/3_HUAWEI-NOVA-LITE_S.jpg
+    md5: 434d6d6bcb8aecad95a4e7e160c1de42
+    size: 815139
+    cloud:
+      myminio:
+        etag: 434d6d6bcb8aecad95a4e7e160c1de42
+        version_id: e05e0e73-9cd8-4e5d-9ada-6cf38f1390a7
+  - relpath: true/40_IPHONE-6S_S.jpeg
+    md5: bec66d02261e0bdd5a4724d9bece45cc
+    size: 590574
+    cloud:
+      myminio:
+        etag: bec66d02261e0bdd5a4724d9bece45cc
+        version_id: 74476f65-40b2-4a34-8aa7-556a414198da
+  - relpath: true/41_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 966320344ba7e5b0100ef04e19bb36ee
+    size: 939018
+    cloud:
+      myminio:
+        etag: 966320344ba7e5b0100ef04e19bb36ee
+        version_id: 4a4eb33f-8943-4cc1-9648-9d471f0575d1
+  - relpath: true/42_NIKON-D3400-35MM_S.JPG
+    md5: 81433a95287bcc182aa145580e61736f
+    size: 592009
+    cloud:
+      myminio:
+        etag: 81433a95287bcc182aa145580e61736f
+        version_id: 752dea14-9dd5-4a60-bbc5-73d14fc35150
+  - relpath: true/43_HONOR-8X_S.jpg
+    md5: 507bcc4c946e2d40a00915d08d852236
+    size: 670639
+    cloud:
+      myminio:
+        etag: 507bcc4c946e2d40a00915d08d852236
+        version_id: d8e76b0d-8e1e-4b42-83d4-57ab799e7ffb
+  - relpath: true/44_SONY-XPERIA-E5_S.jpg
+    md5: a130957f4e789f9e66d7c93d98be9662
+    size: 1283023
+    cloud:
+      myminio:
+        etag: a130957f4e789f9e66d7c93d98be9662
+        version_id: 0e10ffb9-9b94-44cb-be39-fd9e20415c0c
+  - relpath: true/45_HONOR-7X_S.jpg
+    md5: 50582bc88cc08b4d3f06a43832b25b11
+    size: 968714
+    cloud:
+      myminio:
+        etag: 50582bc88cc08b4d3f06a43832b25b11
+        version_id: 0d0972ee-3865-4898-b6b1-3d0efd99eb2c
+  - relpath: true/46_IPHONE-8-PLUS_S.jpg
+    md5: 26a78d37ea968dec97e36a762bec489a
+    size: 1065354
+    cloud:
+      myminio:
+        etag: 26a78d37ea968dec97e36a762bec489a
+        version_id: e5c1b8b9-53bb-4fc4-8806-031d4edacf85
+  - relpath: true/47_XIAOMI-REDMI-7_S.jpg
+    md5: 0aa4563024ee003125d487a3bd6a7607
+    size: 540341
+    cloud:
+      myminio:
+        etag: 0aa4563024ee003125d487a3bd6a7607
+        version_id: af04b98e-34cb-442e-adb7-75587960add0
+  - relpath: true/48_HONOR-8X_S.jpg
+    md5: 6c36b7b0eb4105cab3466d221ab5c38f
+    size: 819035
+    cloud:
+      myminio:
+        etag: 6c36b7b0eb4105cab3466d221ab5c38f
+        version_id: ad45764c-edb1-4a15-bf58-2f72ef634b9a
+  - relpath: true/49_HONOR-8X_S.jpg
+    md5: e59fc193b79a5feb88b2a08246a69fed
+    size: 1154364
+    cloud:
+      myminio:
+        etag: e59fc193b79a5feb88b2a08246a69fed
+        version_id: e61ab8f9-97e4-413a-a69e-22d974b4ceef
+  - relpath: true/4_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 51a3696a966974b8687195bdbfa2331a
+    size: 944682
+    cloud:
+      myminio:
+        etag: 51a3696a966974b8687195bdbfa2331a
+        version_id: 828aed9d-713f-452c-b1c1-ef278f70a38d
+  - relpath: true/50_HONOR-8X_S.jpg
+    md5: 7b1c81dcb8c6dc441bb17c486bce0c56
+    size: 727872
+    cloud:
+      myminio:
+        etag: 7b1c81dcb8c6dc441bb17c486bce0c56
+        version_id: f1294220-e7d0-44a4-8800-b0376f0afe80
+  - relpath: true/51_IPHONE-SE_S.jpg
+    md5: 03c9e7e08edb1c7a66455d2aed029726
+    size: 737240
+    cloud:
+      myminio:
+        etag: 03c9e7e08edb1c7a66455d2aed029726
+        version_id: fc9dd9f4-d604-4b21-b832-71750f161431
+  - relpath: true/52_HONOR-8X_S.jpg
+    md5: a932984416f234deba783ee8e374e652
+    size: 608819
+    cloud:
+      myminio:
+        etag: a932984416f234deba783ee8e374e652
+        version_id: 5de8720b-e9b5-46f0-935a-e5710b15097c
+  - relpath: true/53_NIKON-D3400-35MM_S.JPG
+    md5: 3c764a2b27ccfe205902c5a584d19d2c
+    size: 670999
+    cloud:
+      myminio:
+        etag: 3c764a2b27ccfe205902c5a584d19d2c
+        version_id: c1f42d67-9c1e-4d7e-a7ba-21b03bfb181e
+  - relpath: true/54_HONOR-8X_S.jpg
+    md5: 7d5308c102931980519252be673f4a36
+    size: 1102686
+    cloud:
+      myminio:
+        etag: 7d5308c102931980519252be673f4a36
+        version_id: 860718a4-d7bb-4673-a0ce-b06e90334789
+  - relpath: true/55_HONOR-8X_S.jpg
+    md5: 885065475816adc3a2b95c4ca04cb9d4
+    size: 1207980
+    cloud:
+      myminio:
+        etag: 885065475816adc3a2b95c4ca04cb9d4
+        version_id: 165b4a9d-7615-48a0-a615-4be778c6e291
+  - relpath: true/56_HONOR-8X_S.jpg
+    md5: 9163ce8b01a62e6a4c64003b0c313dba
+    size: 780517
+    cloud:
+      myminio:
+        etag: 9163ce8b01a62e6a4c64003b0c313dba
+        version_id: 7ff0ad38-af54-4091-ad79-cef8b342410d
+  - relpath: true/57_IPHONE-SE_S.jpg
+    md5: ea8dd521b6034deb1f3945183d17317c
+    size: 951795
+    cloud:
+      myminio:
+        etag: ea8dd521b6034deb1f3945183d17317c
+        version_id: 54e0c4cd-3825-401c-8e49-ed2366bd1fb5
+  - relpath: true/58_IPHONE-6S_S.jpeg
+    md5: f8e9c3fdbeeabc0f041a94db14e377ec
+    size: 789623
+    cloud:
+      myminio:
+        etag: f8e9c3fdbeeabc0f041a94db14e377ec
+        version_id: 523edbbd-b145-492d-8ce9-5d4638e93a05
+  - relpath: true/59_IPHONE-6S_S.jpg
+    md5: 2f39132eb7e19cb8b046808d220c526c
+    size: 1361130
+    cloud:
+      myminio:
+        etag: 2f39132eb7e19cb8b046808d220c526c
+        version_id: b9c52490-04e0-4b01-ad44-50a40b105fd4
+  - relpath: true/5_XIAOMI-PROCOFONE-F1_S.jpg
+    md5: 91ef3950179ae031c1c1ecea9d7f48b9
+    size: 1025000
+    cloud:
+      myminio:
+        etag: 91ef3950179ae031c1c1ecea9d7f48b9
+        version_id: 711ab65c-c656-4483-b040-053e6a759865
+  - relpath: true/60_IPHONE-8-PLUS_S.jpg
+    md5: a9027d451061cd59e202e39d15f9b1ec
+    size: 1111835
+    cloud:
+      myminio:
+        etag: a9027d451061cd59e202e39d15f9b1ec
+        version_id: c63650f4-eb28-4775-885f-992e718ecde3
+  - relpath: true/61_XIAOMI-REDMI-7_S.jpg
+    md5: 921dd0256b48231a477f3486ffc78697
+    size: 388286
+    cloud:
+      myminio:
+        etag: 921dd0256b48231a477f3486ffc78697
+        version_id: 0ae03ed6-3824-45a5-917a-f56d60a584a0
+  - relpath: true/62_HONOR-8X_S.jpg
+    md5: b60500069b6b842faee60165541ac8ae
+    size: 968488
+    cloud:
+      myminio:
+        etag: b60500069b6b842faee60165541ac8ae
+        version_id: fe1b823b-cb51-4759-8475-db7275cb3388
+  - relpath: true/63_HUAWEI-P20_S.jpg
+    md5: 061899c4fa560259e07443e5173764c2
+    size: 886861
+    cloud:
+      myminio:
+        etag: 061899c4fa560259e07443e5173764c2
+        version_id: 683ab16f-1625-4b0e-9882-f923c9fe24f3
+  - relpath: true/64_SAMSUNG-GALAXY-S5_S.jpg
+    md5: 6bdfb432fe0be8c7e5764ef8fb72d9bc
+    size: 436127
+    cloud:
+      myminio:
+        etag: 6bdfb432fe0be8c7e5764ef8fb72d9bc
+        version_id: b7528c06-56c7-48d4-b1e1-cbd6546a5c68
+  - relpath: true/65_NIKON-D3400-35MM_S.JPG
+    md5: 152aba2962a29b540ab6e8cc2e828d4c
+    size: 955905
+    cloud:
+      myminio:
+        etag: 152aba2962a29b540ab6e8cc2e828d4c
+        version_id: 26df1932-9161-439f-a40b-493ccfc7b0ed
+  - relpath: true/66_HONOR-8X_S.jpg
+    md5: 1036470251c6212fbe93b74c46f19010
+    size: 1098583
+    cloud:
+      myminio:
+        etag: 1036470251c6212fbe93b74c46f19010
+        version_id: 81e2edac-affd-4a31-ad2b-075f3711193d
+  - relpath: true/67_HONOR-8X_S.jpg
+    md5: 389666c663e8f38d43cd983a8b1cf98b
+    size: 607911
+    cloud:
+      myminio:
+        etag: 389666c663e8f38d43cd983a8b1cf98b
+        version_id: 97b945e6-daa8-4860-af72-bbe2a35e1f25
+  - relpath: true/68_HONOR-8X_S.jpg
+    md5: b95835750b27cab33b92b23e2f67645f
+    size: 948210
+    cloud:
+      myminio:
+        etag: b95835750b27cab33b92b23e2f67645f
+        version_id: dfde0127-2cb1-45e9-8129-1aa6f4740fb2
+  - relpath: true/69_SAMSUNG-GALAXY-J3_S.jpg
+    md5: 07b13c687f5691ebb4011d5f2ddac2b0
+    size: 833192
+    cloud:
+      myminio:
+        etag: 07b13c687f5691ebb4011d5f2ddac2b0
+        version_id: c72f6775-e3cd-4288-b8c8-9d9812e83e2b
+  - relpath: true/6_HUAWEI-MATE20_S.jpg
+    md5: a61b89c135ca599d991428095419174e
+    size: 1501702
+    cloud:
+      myminio:
+        etag: a61b89c135ca599d991428095419174e
+        version_id: b9ab2351-b736-4c31-b619-4c8b00a01562
+  - relpath: true/70_HONOR-8X_S.jpg
+    md5: fff1423b514296e7aee6c85869f60f27
+    size: 728037
+    cloud:
+      myminio:
+        etag: fff1423b514296e7aee6c85869f60f27
+        version_id: 795fe293-beec-4af8-a73b-0479e4e64476
+  - relpath: true/71_SAMSUNG-GALAXY-A6_S.jpg
+    md5: 2da836cf16b7afca98daca95f2d2bfb4
+    size: 480025
+    cloud:
+      myminio:
+        etag: 2da836cf16b7afca98daca95f2d2bfb4
+        version_id: 6c570d65-73a4-4bc4-a468-3822da7175c7
+  - relpath: true/72_IPHONE-8_S.jpg
+    md5: 881f31a365b6e1bace4db42b81af079d
+    size: 1177363
+    cloud:
+      myminio:
+        etag: 881f31a365b6e1bace4db42b81af079d
+        version_id: 7461e4ab-c49c-46d5-9670-0c7ae3bf33e2
+  - relpath: true/73_PANASONIC-DMC-TZ35_S.JPG
+    md5: 4355cbdd31dfef847e0617f69869ac01
+    size: 695203
+    cloud:
+      myminio:
+        etag: 4355cbdd31dfef847e0617f69869ac01
+        version_id: e1a9923e-c79c-44e5-ba97-cf5a67087d35
+  - relpath: true/74_HONOR-8X_S.jpg
+    md5: 94d4488e3bcf751e79027c5a578bf518
+    size: 923546
+    cloud:
+      myminio:
+        etag: 94d4488e3bcf751e79027c5a578bf518
+        version_id: 933c934e-9a0c-44fc-8130-e225f4785b41
+  - relpath: true/75_HONOR-8X_S.jpg
+    md5: af692a28dc1984ca5b2ba83ec6ab1915
+    size: 1064075
+    cloud:
+      myminio:
+        etag: af692a28dc1984ca5b2ba83ec6ab1915
+        version_id: 9f0b0537-1abe-4b63-8489-5499bc3ad1ef
+  - relpath: true/76_HONOR-8X_S.jpg
+    md5: 12a64994ffeb0f44aad3239e0ee5a0ae
+    size: 1275766
+    cloud:
+      myminio:
+        etag: 12a64994ffeb0f44aad3239e0ee5a0ae
+        version_id: 75ec7817-463e-43eb-abd2-dd705488d167
+  - relpath: true/77_HONOR-7C_S.jpg
+    md5: 82619460971a6bb81e51ed39121fbe76
+    size: 1156773
+    cloud:
+      myminio:
+        etag: 82619460971a6bb81e51ed39121fbe76
+        version_id: bc9f5ec7-bd61-4a55-a9ea-08bae98ac046
+  - relpath: true/78_NIKON-D3400-35MM_S.JPG
+    md5: cffaca1a328079b8a9acc8234d7e1a27
+    size: 956667
+    cloud:
+      myminio:
+        etag: cffaca1a328079b8a9acc8234d7e1a27
+        version_id: ff5ad171-d708-4880-b79a-7e8bf4a832e3
+  - relpath: true/79_HUAWEI-P30-PRO_S.jpg
+    md5: a376170b008ccf9e9ab682edb7bb9afb
+    size: 953435
+    cloud:
+      myminio:
+        etag: a376170b008ccf9e9ab682edb7bb9afb
+        version_id: 36acde22-8e1b-43b2-8e88-e24434d3943e
+  - relpath: true/7_NIKON-D3400-35MM_S.JPG
+    md5: 4d1cb272ca14aa84fd7b146c7b9d2af3
+    size: 1003229
+    cloud:
+      myminio:
+        etag: 4d1cb272ca14aa84fd7b146c7b9d2af3
+        version_id: 38976796-482a-421e-b25c-317f6ded6c02
+  - relpath: true/80_HUAWEI-P30-PRO_S.jpg
+    md5: 8de7a1bebdcafde2cb769d919e3a45ea
+    size: 934658
+    cloud:
+      myminio:
+        etag: 8de7a1bebdcafde2cb769d919e3a45ea
+        version_id: 7651a90a-5a3c-4530-91e8-afbe6b4fb021
+  - relpath: true/81_SAMSUNG-GALAXY-J3_S.jpg
+    md5: f1ea7ed197621ccb63a0cb0560a4bb9c
+    size: 851516
+    cloud:
+      myminio:
+        etag: f1ea7ed197621ccb63a0cb0560a4bb9c
+        version_id: 2060f360-fddc-4f6b-bc5d-c1258715c734
+  - relpath: true/82_HONOR-8X_S.jpg
+    md5: 1ac104880d4a5fa91acf9177fcfbc079
+    size: 877013
+    cloud:
+      myminio:
+        etag: 1ac104880d4a5fa91acf9177fcfbc079
+        version_id: fba2c9aa-ad77-47b2-8bef-d580fa68ba5c
+  - relpath: true/83_HONOR-8X_S.jpg
+    md5: 0b6c3df593c1cf96915a1cf70aa2b9f7
+    size: 830738
+    cloud:
+      myminio:
+        etag: 0b6c3df593c1cf96915a1cf70aa2b9f7
+        version_id: 41649873-b659-4ec5-9851-ad32e6ccb3a9
+  - relpath: true/84_IPHONE-XR_S.jpeg
+    md5: 68483b91e58ba15f1a877b6e2a53a803
+    size: 1094264
+    cloud:
+      myminio:
+        etag: 68483b91e58ba15f1a877b6e2a53a803
+        version_id: d002276c-ed89-437f-9e84-44ef63b1897b
+  - relpath: true/85_HONOR-8X_S.jpg
+    md5: e7a90fcc154353fce4b5c27b54f2d932
+    size: 889756
+    cloud:
+      myminio:
+        etag: e7a90fcc154353fce4b5c27b54f2d932
+        version_id: ba380522-2d5d-401d-9cf8-2dc400c9d4c7
+  - relpath: true/86_HONOR-8X_S.jpg
+    md5: a7928efdf90ecef37ce5d0ca3ff4b169
+    size: 960405
+    cloud:
+      myminio:
+        etag: a7928efdf90ecef37ce5d0ca3ff4b169
+        version_id: 7ec4ccf2-2e5e-4894-9cde-61169df58f6b
+  - relpath: true/87_IPHONE-8-PLUS_S.jpg
+    md5: 31506d4ed3353252c485464854c252ee
+    size: 890223
+    cloud:
+      myminio:
+        etag: 31506d4ed3353252c485464854c252ee
+        version_id: 103f62e1-8825-4535-b03a-e556e124dded
+  - relpath: true/88_HONOR-8X_S.jpg
+    md5: 4256f0d1d289afdda0746833c97896cb
+    size: 852462
+    cloud:
+      myminio:
+        etag: 4256f0d1d289afdda0746833c97896cb
+        version_id: e905e43d-81b5-4f08-8c9f-3e6e8fbc564a
+  - relpath: true/89_IPHONE-6S_S.jpeg
+    md5: c0fcd41a50c19bec50d2777ef1ef11bf
+    size: 625148
+    cloud:
+      myminio:
+        etag: c0fcd41a50c19bec50d2777ef1ef11bf
+        version_id: 8d5be612-0190-4249-886a-4d5339ebcc27
+  - relpath: true/8_SAMSUNG-GALAXY-A6_S.jpg
+    md5: e5a61d23de48d6b7ecce4db43650322c
+    size: 677887
+    cloud:
+      myminio:
+        etag: e5a61d23de48d6b7ecce4db43650322c
+        version_id: 55e8c05c-92e5-4c7a-9145-8730f198f186
+  - relpath: true/90_HONOR-7X_S.jpg
+    md5: 4c068f959eafa4fbd122a3d445e73d73
+    size: 937828
+    cloud:
+      myminio:
+        etag: 4c068f959eafa4fbd122a3d445e73d73
+        version_id: 8afa81b0-9c19-45e3-add8-16f7a361ea00
+  - relpath: true/91_HONOR-7X_S.jpg
+    md5: 3556087f15b9ed201ab285fb8c767ef7
+    size: 674937
+    cloud:
+      myminio:
+        etag: 3556087f15b9ed201ab285fb8c767ef7
+        version_id: bfd1c204-d2a1-4333-8f38-d091648feff0
+  - relpath: true/92_IPHONE-7_S.jpeg
+    md5: 3a8f1454b29042bdcab21a3ec140f301
+    size: 654460
+    cloud:
+      myminio:
+        etag: 3a8f1454b29042bdcab21a3ec140f301
+        version_id: b55a624d-b401-4ada-85c9-29fd025aebec
+  - relpath: true/93_HONOR-7X_S.jpg
+    md5: 6013216f57a231629024371d4bbb97f2
+    size: 669000
+    cloud:
+      myminio:
+        etag: 6013216f57a231629024371d4bbb97f2
+        version_id: dca236dc-7f57-42fc-b04e-e8abb5272029
+  - relpath: true/94_HONOR-7X_S.jpg
+    md5: 392ddd3608372424f4fc19aac0a02555
+    size: 774174
+    cloud:
+      myminio:
+        etag: 392ddd3608372424f4fc19aac0a02555
+        version_id: 629ced9d-1e5f-49cc-b3ed-54c378203ef1
+  - relpath: true/95_HONOR-7X_S.jpg
+    md5: 80de23e90f07cdd8ed333ee2e311224b
+    size: 812434
+    cloud:
+      myminio:
+        etag: 80de23e90f07cdd8ed333ee2e311224b
+        version_id: 77b8b701-e315-4b2e-925f-2425666d8710
+  - relpath: true/96_HONOR-7X_S.jpg
+    md5: 2fe40203d7000b447e1c4a7e3c66eaa8
+    size: 844773
+    cloud:
+      myminio:
+        etag: 2fe40203d7000b447e1c4a7e3c66eaa8
+        version_id: 7bbac45f-cba2-4ac2-8b95-c3091a63b7cb
+  - relpath: true/97_HONOR-7X_S.jpg
+    md5: 2b4ac33f5f3f63df9eb45a97675d1d9e
+    size: 871178
+    cloud:
+      myminio:
+        etag: 2b4ac33f5f3f63df9eb45a97675d1d9e
+        version_id: f49b5970-7d9d-44fc-a712-b54efa9437dc
+  - relpath: true/98_HONOR-7X_S.jpg
+    md5: 05ef0f06f5fcd0a21be62f4f186cf8c2
+    size: 958613
+    cloud:
+      myminio:
+        etag: 05ef0f06f5fcd0a21be62f4f186cf8c2
+        version_id: 4e9a3f5f-c5a5-4c7f-a085-14edd65b0c85
+  - relpath: true/99_HONOR-7X_S.jpg
+    md5: 7e679c2a1bdf2eaead746ac75b198be4
+    size: 1005082
+    cloud:
+      myminio:
+        etag: 7e679c2a1bdf2eaead746ac75b198be4
+        version_id: df6d0c76-87c0-488d-bd8a-cedb633a46b4
+  - relpath: true/9_HUAWEI-P20_S.jpg
+    md5: 0650fbd5b2c66ad8de2d121c66df834b
+    size: 616523
+    cloud:
+      myminio:
+        etag: 0650fbd5b2c66ad8de2d121c66df834b
+        version_id: ab833a25-684f-4a62-8661-c9a077512159

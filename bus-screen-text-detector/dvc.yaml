@@ -1,0 +1,37 @@
+stages:
+  download-data:
+    always_changed: true
+    cmd: python scripts/get_labels.py data/2_labellized
+    deps:
+      - scripts/get_labels.py
+    outs:
+      - data/2_labellized/labels.json
+
+  prepare-dataset:
+    cmd: python scripts/labelstudio-json-to-donut.py data/2_labellized/labels.json data/3_dataset
+    deps:
+      - data/1_base_images
+      - data/2_labellized/labels.json
+    outs:
+      - data/3_dataset
+
+  train:
+    cmd: python donut/train.py --config donut/config/train_bus.yaml --exp_version exp1
+    deps:
+      - data/3_dataset
+    outs:
+      - data/4_models/train_bus/exp1
+    params:
+      - donut/config/train_bus.yaml:
+  test:
+    cmd: python donut/test.py --pretrained_model_name_or_path data/4_models/train_bus/exp1 --dataset_name_or_path data/3_dataset/ --task_name 3_dataset --save_path data/5_performance/metrics.json
+    deps:
+      - data/4_models/train_bus/exp1
+    metrics:
+      - data/5_performance/metrics.json:
+          cache: false
+
+plots:
+  - data/5_performance/tracing/exp1/metrics.csv:
+      x: epoch
+      y: [train_loss]

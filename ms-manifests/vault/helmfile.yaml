@@ -1,0 +1,10 @@
+repositories:
+- name: hashicorp
+  url: https://helm.releases.hashicorp.com
+
+releases:
+- name: vault
+  namespace: visionaid-vault
+  chart: hashicorp/vault
+  values:
+  - values.yaml

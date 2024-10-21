@@ -1,0 +1,6 @@
+[core]
+    remote = myminio
+['remote "myminio"']
+    url = s3://pi-aimarket-visionaid/bus-screen-text-detector
+    endpointurl = https://minio1.isc.heia-fr.ch:9013/
+    version_aware = true

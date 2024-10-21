@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: object-detector
+  namespace: pi_aimarket-visionaid
+  labels:
+    app: object-detector
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: object-detector
+  template:
+    metadata:
+      labels:
+        app: object-detector
+    spec:
+      containers:
+      - name: object-detector
+        image: registry.forge.hefr.ch/pi_aimarket-visionaid/object-detector:latest
+        env:
+          - name: URL_PREFIX
+            value: /object-detector
+        ports:
+        - containerPort: 8000
+      imagePullSecrets:
+      - name: visionaid-regsecret

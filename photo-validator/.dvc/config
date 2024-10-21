@@ -1,0 +1,8 @@
+[core]
+    remote = myminio
+['remote "myminio"']
+    url = s3://pi-aimarket-visionaid/photo-validator
+    access_key_id = $minio_access_key_id
+    secret_access_key = $minio_secret_access_key
+    endpointurl = https://minio1.isc.heia-fr.ch:9013/
+    version_aware = true

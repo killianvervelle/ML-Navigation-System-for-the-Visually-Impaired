@@ -1,0 +1,23 @@
+build-object-detector:
+  image: docker:19.03.12
+  stage: build
+  only:
+    changes:
+      - "*.py"
+      - models/**/*
+      - classes.txt
+      - .gitlab-ci.yml
+      - Dockerfile
+      - requirements.txt
+  services:
+    - docker:19.03.12-dind
+  script:
+    - export IMAGE_TAG_LAST=$CI_REGISTRY_IMAGE/visionaid-object-detector:$CI_COMMIT_BRANCH-latest
+    - export IMAGE_TAG_CURRENT=$CI_REGISTRY_IMAGE/visionaid-object-detector:$CI_COMMIT_BRANCH-$(date +'%s') 
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+    - docker pull $IMAGE_TAG_LAST || true
+    - docker build --network host --cache-from $IMAGE_TAG_LAST -t $IMAGE_TAG_CURRENT -t $IMAGE_TAG_LAST .
+    - docker push $IMAGE_TAG_LAST
+    - docker push $IMAGE_TAG_CURRENT
+
+

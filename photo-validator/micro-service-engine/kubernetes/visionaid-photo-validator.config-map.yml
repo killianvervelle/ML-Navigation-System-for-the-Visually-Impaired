@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: visionaid-photo-validator-config
+  labels:
+    app: visionaid-photo-validator
+data:
+  ENVIRONMENT: development
+  LOG_LEVEL: debug
+  ENGINE_URL: http://engine-service:8080
+  # (the port must be the same as in the sample-service.service.yml and unused by other services)
+  SERVICE_URL: http://visionaid-photo-validator-service:8007

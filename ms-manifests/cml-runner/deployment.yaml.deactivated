@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: visionaid-cml-runner
+  namespace: visionaid-flux-system
+  labels:
+    app: visionaid-cml-runner
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: visionaid-cml-runner
+  template:
+    metadata:
+      labels:
+        app: visionaid-cml-runner
+    spec:
+      containers:
+      - name: visionaid-cml-runner
+        image: registry.forge.hefr.ch/pi_aimarket-visionaid/bus-screen-text-detector/cml-pytorch:latest
+        env:
+        - name: GITLAB_TOKEN
+          valueFrom:
+            secretKeyRef:
+              name: visionaid-cml-runner-secret
+              key: GITLAB_TOKEN
+
+        resources:
+          requests:
+            tencent.com/vcuda-core: 20
+            tencent.com/vcuda-memory: 26
+          limits:
+            tencent.com/vcuda-core: 20
+            tencent.com/vcuda-memory: 26
+
+      imagePullSecrets:
+      - name: visionaid-regsecret

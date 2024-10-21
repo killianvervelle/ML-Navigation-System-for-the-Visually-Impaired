@@ -1,0 +1,68 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+resources:
+  - ../base
+nameSuffix: '-dev'
+images:
+  - name: registry.forge.hefr.ch/pi_aimarket-visionaid/gateway/visionaid-gateway
+    newTag: "dev-1685901485" # {"$imagepolicy": "visionaid-flux-system:gateway-dev:tag"}
+patches:
+  - target:
+      kind: Ingress
+    patch: |-
+      - op: replace
+        path: /spec/rules/0/host
+        value: visionaid-gateway-dev.kube.isc.heia-fr.ch
+      - op: replace
+        path: /spec/tls/0/hosts/0
+        value: visionaid-gateway-dev.kube.isc.heia-fr.ch
+  - target:
+      kind: Deployment
+    patch: |-
+      - op: add
+        path: /spec/template/spec/containers/0/env
+        value:
+          - name: URL_PHOTO_VALIDATOR
+            value: "http://visionaid-photo-validator-dev.visionaid-flux-system.svc.cluster.local:8000"
+          - name: URL_OBJECT_DETECTOR
+            value: "http://visionaid-object-detector-dev.visionaid-flux-system.svc.cluster.local:8000"
+          - name: URL_OBJECT_TO_NLP
+            value: "http://visionaid-object-to-nlp-dev.visionaid-flux-system.svc.cluster.local:8000"
+          - name: URL_BUS_SCREEN_CROPPER
+            value: "http://visionaid-bus-screen-cropper-dev.visionaid-flux-system.svc.cluster.local:8000"
+          - name: URL_BUS_SCREEN_TEXT_DETECTOR
+            value: "http://visionaid-bus-screen-text-detector-dev.visionaid-flux-system.svc.cluster.local:8000"
+          - name: URL_ZERO_SHOT_OBJECT_DETECTOR
+            value: "http://visionaid-zero-shot-object-detector-dev.visionaid-flux-system.svc.cluster.local:8000"
+          - name: HOST_MONGODB
+            value: "mongodb://visionaid-gateway-mongodb-dev.visionaid-flux-system.svc.cluster.local:27017/public"
+          - name: MINIO_HOSTNAME
+            value: minio1.isc.heia-fr.ch:9013
+          - name: MINIO_ACCESS_KEY
+            valueFrom:
+              secretKeyRef:
+                name: visionaid-label-studio-text-detector-secret
+                key: MINIO_ACCESS_KEY
+          - name: MINIO_SECRET_KEY
+            valueFrom:
+              secretKeyRef:
+                name: visionaid-label-studio-text-detector-secret
+                key: MINIO_SECRET_KEY
+transformers:
+  - |-
+    apiVersion: builtin
+    kind: LabelTransformer
+    metadata:
+      name: commonLabelsTransformer
+    labels:
+      environment: dev
+    fieldSpecs:
+    - path: spec/template/metadata/labels
+      create: true
+      kind: Deployment
+    - path: spec/selector/matchLabels
+      create: true
+      kind: Deployment
+    - path: spec/selector
+      kind: Service
+      create: true

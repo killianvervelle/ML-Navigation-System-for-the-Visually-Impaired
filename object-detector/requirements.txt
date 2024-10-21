@@ -1,0 +1,13 @@
+uvicorn==0.21.1
+envs==1.4
+predictor==0.1.2
+starlette==0.26.1
+fastapi==0.95.0
+numpy==1.24.2
+oauthlib==3.2.2
+omegaconf==2.3.0
+packaging==23.0
+pandas==2.0.0
+python-multipart==0.0.6
+prometheus-fastapi-instrumentator==6.0.0
+opencv-python-headless==4.7.0.72

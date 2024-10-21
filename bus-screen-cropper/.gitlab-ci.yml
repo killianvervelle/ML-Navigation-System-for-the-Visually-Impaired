@@ -1,0 +1,45 @@
+stages: 
+  - check
+  - build
+
+sonarqube-check:
+  image: 
+    name: sonarsource/sonar-scanner-cli:latest
+    entrypoint: [""]
+  stage: check
+  variables:
+    SONAR_USER_HOME: "${CI_PROJECT_DIR}/.sonar"  # Defines the location of the analysis task cache
+    GIT_DEPTH: "0"  # Tells git to fetch all the branches of the project, required by the analysis task
+  cache:
+    key: "${CI_JOB_NAME}"
+    paths:
+      - .sonar/cache
+  script: 
+    - sonar-scanner
+  allow_failure: true
+  rules:
+    - if: $CI_COMMIT_BRANCH == 'dev'
+
+build-bus-screen-cropper:
+  image: docker:23.0.1
+  stage: build
+  tags: 
+    - dind
+  only:
+    changes:
+      - micro-service/**/*
+      - Dockerfile
+      - .gitlab-ci.yml
+  services:
+    - docker:23.0.1-dind
+  script:
+    - export IMAGE_TAG_LAST=$CI_REGISTRY_IMAGE/visionaid-bus-screen-cropper:$CI_COMMIT_BRANCH-latest
+    - export IMAGE_TAG_CURRENT=$CI_REGISTRY_IMAGE/visionaid-bus-screen-cropper:$CI_COMMIT_BRANCH-$(date +'%s') 
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+    - docker pull $IMAGE_TAG_LAST || true
+    - docker build --network host --cache-from $IMAGE_TAG_LAST -t $IMAGE_TAG_CURRENT -t $IMAGE_TAG_LAST micro-service/
+    - docker push $IMAGE_TAG_LAST
+    - docker push $IMAGE_TAG_CURRENT
+
+
+

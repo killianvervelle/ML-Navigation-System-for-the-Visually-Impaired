@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata: 
+  name: detect-service-engine
+spec:
+  type: LoadBalancer
+  ports:
+    - name: http
+      port: 8009
+      targetPort: 80
+      protocol: TCP
+  selector:
+    app: object-detector

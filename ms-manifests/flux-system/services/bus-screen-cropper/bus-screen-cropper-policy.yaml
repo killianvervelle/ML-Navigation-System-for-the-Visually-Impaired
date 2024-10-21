@@ -1,0 +1,30 @@
+---
+apiVersion: image.toolkit.fluxcd.io/v1beta1
+kind: ImagePolicy
+metadata:
+  name: bus-screen-cropper-prod
+  namespace: visionaid-flux-system
+spec:
+  filterTags:
+    extract: $ts
+    pattern: '^main-(?P<ts>[0-9]*)'
+  imageRepositoryRef:
+    name: bus-screen-cropper
+  policy:
+    alphabetical:
+      order: asc
+---
+apiVersion: image.toolkit.fluxcd.io/v1beta1
+kind: ImagePolicy
+metadata:
+  name: bus-screen-cropper-dev
+  namespace: visionaid-flux-system
+spec:
+  filterTags:
+    extract: $ts
+    pattern: '^dev-(?P<ts>[0-9]*)'
+  imageRepositoryRef:
+    name: bus-screen-cropper
+  policy:
+    alphabetical:
+      order: asc

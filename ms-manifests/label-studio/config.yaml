@@ -1,0 +1,93 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: labelstudio-deployment
+  namespace: visionaid-label-studio
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: labelstudio-deployment
+  template:
+    metadata:
+      labels:
+        app: labelstudio-deployment
+    spec:
+      containers:
+        - name: labelstudio-frontend
+          image: heartexlabs/label-studio:1.7.2
+          ports:
+            - containerPort: 8080
+          env:
+            - name: POSTGRE_NAME
+              value: labelstudio
+            - name: POSTGRE_USER
+              value: labelstudio
+            - name: POSTGRE_PASSWORD
+              value: labelstudio12345
+            - name: POSTGRE_PORT
+              value: "5432"
+            - name: POSTGRE_HOST
+              value: postgres
+            - name: DJANGO_DB
+              value: default
+            - name: DATA_UPLOAD_MAX_MEMORY_SIZE
+              value: "1000000000"
+            - name: LABEL_STUDIO_DISABLE_SIGNUP_WITHOUT_LINK
+              value: "true"
+          volumeMounts:
+            - mountPath: /label-studio/data
+              name: labelstudio-claim
+      volumes:
+        - name: labelstudio-claim
+          persistentVolumeClaim:
+            claimName: labelstudio-claim
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: labelstudio
+  namespace: visionaid-label-studio
+spec:
+  ports:
+    - port: 8080
+  selector:
+    app: labelstudio-deployment
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: labelstudio-ingress
+  namespace: visionaid-label-studio
+  annotations:
+    nginx.ingress.kubernetes.io/proxy-body-size: "0"
+spec:
+  rules:
+    - host: visionaid-labelstudio.kube.isc.heia-fr.ch
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: labelstudio
+                port:
+                  number: 8080
+  tls:
+    - hosts:
+        - visionaid-labelstudio.kube.isc.heia-fr.ch
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: labelstudio-claim
+  namespace: visionaid-label-studio
+  labels:
+    app: labelstudio-data
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 50Gi

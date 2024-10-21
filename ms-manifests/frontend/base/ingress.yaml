@@ -1,0 +1,22 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: visionaid-frontend-ingress
+  namespace: visionaid-flux-system
+  annotations:
+    nginx.ingress.kubernetes.io/proxy-body-size: "0"
+spec:
+  rules:
+    - host: visionaid.kube.isc.heia-fr.ch
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: visionaid-frontend
+                port:
+                  number: 80
+  tls:
+    - hosts:
+        - visionaid.kube.isc.heia-fr.ch

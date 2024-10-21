@@ -1,0 +1,7 @@
+tqdm==4.65.0
+minio==7.1.14
+donut-python==1.0.9
+transformers==4.28.1
+timm==0.5.4
+requests==2.29.0
+pytorch-lightning==1.6.4

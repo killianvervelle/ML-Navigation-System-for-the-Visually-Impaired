@@ -1,0 +1,39 @@
+# DOCKERFILE TO LAUNCH THE MICRO-SERVICE
+
+# Use an official Python runtime as a parent image
+FROM python:3.9
+
+# Set the working directory to /app
+WORKDIR /app
+
+# Copy the requirements file into the container at /app
+COPY requirements.txt /app/requirements.txt
+
+# Environment variables
+ENV ENVIRONMENT=${ENVIRONMENT}
+ENV LOG_LEVEL=${LOG_LEVEL}
+ENV ENGINE_URL=${ENGINE_URL}
+ENV MAX_TASKS=${MAX_TASKS}
+ENV ENGINE_ANNOUNCE_RETRIES=${ENGINE_ANNOUNCE_RETRIES}
+ENV ENGINE_ANNOUNCE_RETRY_DELAY=${ENGINE_ANNOUNCE_RETRY_DELAY}
+
+# Upgrade pip if necessary
+RUN pip3 install --upgrade pip
+RUN pip3 --version
+
+# Install any needed packages specified in requirements.txt
+RUN pip3 install -r requirements.txt
+RUN pip3 install -r requirements.cpu.txt
+
+RUN apt-get update && apt-get install -y python3-opencv
+RUN pip install opencv-python
+RUN python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+
+COPY models /app/models
+COPY *.py /app/
+
+# Make port 8000 available to the world outside this container
+EXPOSE 8000
+
+# Run app.py when the container launches
+CMD ["uvicorn", "--host", "0.0.0.0", "main:app", "--port", "8000"]

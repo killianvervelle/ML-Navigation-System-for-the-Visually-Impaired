@@ -1,0 +1,1633 @@
+outs:
+- path: 1_base_images
+  files:
+  - relpath: 0056eca4-20230330-tpf-volvo-hess-trolleybus-nr507-3610_0.jpg
+    md5: f3f68159a8764860ceb3cd25296e9409
+    size: 3004
+    version_id: f0b05f9d-6f69-4865-a755-713f01de53ec
+    etag: f3f68159a8764860ceb3cd25296e9409
+  - relpath: 00bd63bd-20230330-tpf-volvo-8700-nr102-100278_0.jpg
+    md5: fbc24a11d1a527a17a52ce1d1c524a71
+    size: 6708
+    version_id: bed6422c-f02c-49ab-87b3-2e6601f81cec
+    etag: fbc24a11d1a527a17a52ce1d1c524a71
+  - relpath: 00fcf273-20230330-1-5_0.jpg
+    md5: fd6b10c2aafb19c5ed6051d93a465bc3
+    size: 2217
+    version_id: 54f5fd22-9122-4368-baaf-f7dee4843957
+    etag: fd6b10c2aafb19c5ed6051d93a465bc3
+  - relpath: 01ce03cf-20230330-bus-regionaux--regionalbusse_0.jpg
+    md5: 8c251973f8727ccb0b494408173fdb28
+    size: 37197
+    version_id: 38950eaa-e5cb-41f7-ba26-f38d11cdc303
+    etag: 8c251973f8727ccb0b494408173fdb28
+  - relpath: 0223a65e-20230330-tpf-fribourg-nr-38fr-300324-56637_0.jpg
+    md5: bf80f37d52b0ef6df4355c8d5b681c9b
+    size: 2392
+    version_id: 4276c957-d4bb-4aaf-a1df-c41c091535f5
+    etag: bf80f37d52b0ef6df4355c8d5b681c9b
+  - relpath: 0223a65e-20230330-tpf-fribourg-nr-38fr-300324-56637_1.jpg
+    md5: 3609026cc5a7a18621b934d3ffdac1eb
+    size: 6920
+    version_id: d2dd5204-f06c-4727-956b-f0b9144c276c
+    etag: 3609026cc5a7a18621b934d3ffdac1eb
+  - relpath: 022deb5a-20230330-tpf-volvo-8700-nr106-71074_0.jpg
+    md5: a00b1954b58002798fd47e33525dd661
+    size: 3687
+    version_id: eccccb45-4fdc-4555-864c-25aba77d1b04
+    etag: a00b1954b58002798fd47e33525dd661
+  - relpath: 045636aa-20230330-5-7_0.jpg
+    md5: 6f719155a4398e730ae362335ba79d8a
+    size: 4322
+    version_id: 583c3692-c3df-4b26-8a55-8cd1920585a0
+    etag: 6f719155a4398e730ae362335ba79d8a
+  - relpath: 04ba1df3-20230330-tpf-504al58x_0.jpg
+    md5: 6a52343523af8cae3540edd3ee5318f7
+    size: 3546
+    version_id: 782c9c3c-2b71-4af9-bab1-d5d06485712f
+    etag: 6a52343523af8cae3540edd3ee5318f7
+  - relpath: 05c1327a-20230330-tpf-nr-599-mercedes-citaro-164146_0.jpg
+    md5: 8a75a8489bbc7d477a5f6699b45657b7
+    size: 3498
+    version_id: e3ab1b33-9748-486f-9b18-b431b0e85917
+    etag: 8a75a8489bbc7d477a5f6699b45657b7
+  - relpath: 0682aab5-20230330-tpf-mercedes-citaro-nr554-137097_0.jpg
+    md5: 56a00a479a2a1131f6446f7e067088eb
+    size: 3865
+    version_id: 03383c5d-a874-4949-927e-cb63a9151aa5
+    etag: 56a00a479a2a1131f6446f7e067088eb
+  - relpath: 06eb32d3-20230330-Bild_044_0.jpg
+    md5: 9b1e5ddbd8383ecbc6ef99b35e7698d4
+    size: 5995
+    version_id: 874e462e-b1ca-4824-9b40-e4f96979e9a7
+    etag: 9b1e5ddbd8383ecbc6ef99b35e7698d4
+  - relpath: 08286d96-20230330-tpf-mercedes-citaro-nr162-155516_0.jpg
+    md5: 84a54a74614cf58bad16a40fa5a24c3d
+    size: 3031
+    version_id: 5cb85e9c-fcaa-4d36-8332-a011bdfc95af
+    etag: 84a54a74614cf58bad16a40fa5a24c3d
+  - relpath: 08674ebe-20230330-2-1_0.jpg
+    md5: 0286a5ef047dd63b8851f272125f85c7
+    size: 5980
+    version_id: 21ae3aee-8115-4e55-aa85-abd5d4ba6b71
+    etag: 0286a5ef047dd63b8851f272125f85c7
+  - relpath: 08ab3e71-20230330-image_0.jpg
+    md5: c50e03197f179543e5133ccf47dbe1bc
+    size: 14430
+    version_id: 5da281c8-aeaf-4d68-896f-fca126460660
+    etag: c50e03197f179543e5133ccf47dbe1bc
+  - relpath: 08bf8fc0-20230330-1-11_0.jpg
+    md5: 66997c1e12e23ba7124f457efd137682
+    size: 1588
+    version_id: 1e688aea-ecd9-433e-83a1-f82f36a1210e
+    etag: 66997c1e12e23ba7124f457efd137682
+  - relpath: 0994affc-20230330-tpf-volvo-8700-nr43-137102_0.jpg
+    md5: d3c4b465cfe557e7beb8f8d2c069562e
+    size: 9866
+    version_id: b24a5d9a-47a3-4b24-ad6d-c01a07f4c025
+    etag: d3c4b465cfe557e7beb8f8d2c069562e
+  - relpath: 09edbe47-20230330-13-1_0.jpg
+    md5: 6714f5f169883373bea5786a784c3138
+    size: 3317
+    version_id: cc80ac38-c8c2-4c61-94a1-7ddab329af0e
+    etag: 6714f5f169883373bea5786a784c3138
+  - relpath: 0a81b9fe-20230330-tpf_0.jpg
+    md5: e7d7dc28d70937638511e07af540d9fb
+    size: 7463
+    version_id: 26daceee-b600-495c-8fcb-d8132585221e
+    etag: e7d7dc28d70937638511e07af540d9fb
+  - relpath: 0af06166-20230330-7_0.jpg
+    md5: c948a94c7e1874cbe84b254224a049f8
+    size: 4787
+    version_id: 92b9c42f-2d60-4540-b4ce-ced3e3a0d1ae
+    etag: c948a94c7e1874cbe84b254224a049f8
+  - relpath: 0d4a8452-20230330-tpf-hess-swisstrolleybus-nr525-unter_0.jpg
+    md5: 6f2328b973592278fd05a192138855ed
+    size: 2033
+    version_id: fbf476cb-9b6e-4968-93fc-0642670f7750
+    etag: 6f2328b973592278fd05a192138855ed
+  - relpath: 0e59475b-20230330-tpf13x_0.jpg
+    md5: 96e74b81d007977ba56d258bc236566f
+    size: 5543
+    version_id: 8da27a09-553a-4924-95b4-bf9b859ab26c
+    etag: 96e74b81d007977ba56d258bc236566f
+  - relpath: 0e59475b-20230330-tpf13x_1.jpg
+    md5: 5556a27dc313bfdf5032a55465db709a
+    size: 1125
+    version_id: 4a41b627-39e5-45b4-b8b0-1a397911d95b
+    etag: 5556a27dc313bfdf5032a55465db709a
+  - relpath: 0ed201ad-20230330-CHFR300441_0.jpg
+    md5: bd8e8c0b00d8840fbcd4c907a06a0b0e
+    size: 6192
+    version_id: d58dd190-f76e-4d0d-a29e-e5adce1b8105
+    etag: bd8e8c0b00d8840fbcd4c907a06a0b0e
+  - relpath: 0fe83d2c-20230330-tpf-fribourg-nr-597fr-300399-52646_0.jpg
+    md5: 814d9b81dd01f7c9a4f517fa03ea8855
+    size: 4957
+    version_id: 3f21c006-28a2-4235-88ce-7190a713b474
+    etag: 814d9b81dd01f7c9a4f517fa03ea8855
+  - relpath: 10c9075c-20230330-tpf-trolleybus-nr531-unterwegs-13713_0.jpg
+    md5: 281fcdf42a66bf5486b88dbf20d7b053
+    size: 8585
+    version_id: 62946acc-203e-4fbd-8cfa-62e8fbce3981
+    etag: 281fcdf42a66bf5486b88dbf20d7b053
+  - relpath: 11568375-20230330-1280px-Trolleybus_des_tpf_0.jpg
+    md5: 1bb6f2f0c4f989683f218d20ebf13e75
+    size: 4877
+    version_id: 4ce749d8-44b7-4d17-8563-12490681f03a
+    etag: 1bb6f2f0c4f989683f218d20ebf13e75
+  - relpath: 12c9317b-20230330-8e9a5576_0.jpg
+    md5: a5970f85b48ceaa97a268505d69e8a94
+    size: 2359
+    version_id: 9243ec98-1052-4702-b837-9aff67a108e7
+    etag: a5970f85b48ceaa97a268505d69e8a94
+  - relpath: 12ef7dcc-20230330-tpf-fribourg-nr-516fr-300396-24855_0.jpg
+    md5: 1d10052f3aa580c4bae8c807e9865f36
+    size: 2523
+    version_id: 609167ef-dedf-45bd-b1d6-041f93548431
+    etag: 1d10052f3aa580c4bae8c807e9865f36
+  - relpath: 140c3a76-20230330-tpf-naw-nr391-fr-155540_0.jpg
+    md5: 6b58574b52ef1ec1316875cae229fbcc
+    size: 3693
+    version_id: 0b157ffa-c690-4fb2-9869-66e9e7100c7c
+    etag: 6b58574b52ef1ec1316875cae229fbcc
+  - relpath: 140e89d3-20230330-tpf-fribourg-nr-11fr-69245_0.jpg
+    md5: 2843d13a667c058332a166aedd7ea00a
+    size: 6000
+    version_id: d74e7728-7e45-40bc-8bb9-b77db733e46b
+    etag: 2843d13a667c058332a166aedd7ea00a
+  - relpath: 154426a6-20230330-tpf-fribourg-nr-586fr-90382_0.jpg
+    md5: 970cbeecb5c2d9785cf27bfa4df9a307
+    size: 2711
+    version_id: 1df12e8f-e646-4b0a-97e8-75c06630c710
+    etag: 970cbeecb5c2d9785cf27bfa4df9a307
+  - relpath: 158c003d-20230330-4-2_0.jpg
+    md5: c638c0bbe045f1ee9004e85828b692fb
+    size: 3356
+    version_id: e2558c8e-0542-46a8-a2e7-615c7cb462e9
+    etag: c638c0bbe045f1ee9004e85828b692fb
+  - relpath: 15a92cc5-20230330-3d19451153325c8211c3556d5ced61_0.jpg
+    md5: 640fc046a79bdd6191e956af70794d06
+    size: 1238
+    version_id: f4bb9c43-8548-46cf-941b-ae20c8ba8722
+    etag: 640fc046a79bdd6191e956af70794d06
+  - relpath: 15da2406-20230330-171674-tpf-fribourg--502968_0.jpg
+    md5: 3a5a4e8a711008b8715f6aedfada11e4
+    size: 8406
+    version_id: fd71df1d-9fb7-46f3-826d-6dbfb3f657ce
+    etag: 3a5a4e8a711008b8715f6aedfada11e4
+  - relpath: 163b5f6b-20230330-tpf-mercedes-citaro-nr123-154973_0.jpg
+    md5: 754bfed29338cb557d1d603b2fabc3d9
+    size: 7218
+    version_id: a0b01fb2-2cd7-405d-82bd-cfdde3e97ebf
+    etag: 754bfed29338cb557d1d603b2fabc3d9
+  - relpath: 1644e9a9-20230330-tpf354a_0.jpg
+    md5: db77ba6aec3cf6060025aa14e16abd14
+    size: 1793
+    version_id: 35c1816d-2fdc-48b8-ae3e-df5d2c152351
+    etag: db77ba6aec3cf6060025aa14e16abd14
+  - relpath: 17267dc4-20230330-_DSC3250_0.jpg
+    md5: d017bc4b2847e7d6fc4807001813ea02
+    size: 6392
+    version_id: a7e12032-9a6d-4bf3-ba13-ef997463df0d
+    etag: d017bc4b2847e7d6fc4807001813ea02
+  - relpath: 1757a16d-20230330-p_suisse_tpg_trolley_0.jpg
+    md5: 6519ee268024099ac0e75c443351e6b4
+    size: 2790
+    version_id: 0a58a5b2-6866-485d-b471-233c5424f47e
+    etag: 6519ee268024099ac0e75c443351e6b4
+  - relpath: 1ab07f1b-20230330-tpf-mercedes-citaro-nr383-70723_0.jpg
+    md5: 2e02b70d45c9bff53d0c08162fbaae15
+    size: 6924
+    version_id: dcc41270-3c5b-4e8a-a3c7-a450c461da80
+    etag: 2e02b70d45c9bff53d0c08162fbaae15
+  - relpath: 1b8fb4f9-20230330-5-5_0.jpg
+    md5: 856b628606b955c7f7ce3e1daeb5da7b
+    size: 5360
+    version_id: 154f5a67-495d-49fc-b579-294da844ba56
+    etag: 856b628606b955c7f7ce3e1daeb5da7b
+  - relpath: 1cbafa0b-20230330-auch-mehrere-jahre-nach-fusion-46281_0.jpg
+    md5: 12066bd1b95cb4ec0faf077d3ef15a4e
+    size: 3123
+    version_id: 4b120a0d-f165-468a-b109-867d64158622
+    etag: 12066bd1b95cb4ec0faf077d3ef15a4e
+  - relpath: 1e841dbe-20230330-14-1_0.jpg
+    md5: c1166267e310bbe69282edfbf4d45f9d
+    size: 2848
+    version_id: 6daaca6b-5f0e-40ca-b15a-2d5001b1a467
+    etag: c1166267e310bbe69282edfbf4d45f9d
+  - relpath: 1f6e415b-20230330-bus_web_0.jpg
+    md5: 2eba8bf85b266d437218c5f721cfd558
+    size: 11310
+    version_id: 66315264-d7b0-4bd4-98b5-b9864289c86d
+    etag: 2eba8bf85b266d437218c5f721cfd558
+  - relpath: 20549496-20230330-gelenkbus-101-tpf-bahnhof-fribourg-1_0.jpg
+    md5: f19eaf61e79638858b424379f86f34a1
+    size: 10947
+    version_id: 44657394-820f-4416-89d0-47b55d34cc0c
+    etag: f19eaf61e79638858b424379f86f34a1
+  - relpath: 210a3e28-20230330-214993_orig_0.jpg
+    md5: 4c1be7122c75854de37942b4198d00fa
+    size: 5499
+    version_id: c671bc7f-f15d-432b-b42c-6124191ba428
+    etag: 4c1be7122c75854de37942b4198d00fa
+  - relpath: 210a3e28-20230330-214993_orig_1.jpg
+    md5: 0e67305e97445db63ee86f69e4aa127b
+    size: 2100
+    version_id: fc62ebc6-d351-496d-9107-ea944750bdab
+    etag: 0e67305e97445db63ee86f69e4aa127b
+  - relpath: 2252da17-20230330-tpf-fribourg-nr-386fr-300431-52641_0.jpg
+    md5: 9581347249f53db770aeb9bdd350b24c
+    size: 13551
+    version_id: d70ebcdb-af7a-4d20-896f-a4e07c10d62e
+    etag: 9581347249f53db770aeb9bdd350b24c
+  - relpath: 235f615e-20230330-tpf-fribourg-nr-597fr-300399-20886_0.jpg
+    md5: e0cfa61577d3c19eecf3c5092466bc0f
+    size: 2486
+    version_id: 12499f50-0c99-4905-b0d6-5fa806336790
+    etag: e0cfa61577d3c19eecf3c5092466bc0f
+  - relpath: 238e88d6-20230330-tpf-volvo-hess-trolleybus-nr503-3610_0.jpg
+    md5: 9e48a2812c15cc79b1c4a000a6ea6781
+    size: 4250
+    version_id: bbbf5f09-bd6a-4f97-8813-98672fcfdfa6
+    etag: 9e48a2812c15cc79b1c4a000a6ea6781
+  - relpath: 23fe0ce8-20230330-9-1_0.jpg
+    md5: ec5994b3a1441715bb9ebb18564dce77
+    size: 5444
+    version_id: 46b1207e-58f4-4646-a094-789659575d08
+    etag: ec5994b3a1441715bb9ebb18564dce77
+  - relpath: 24cd853e-20230330-Schermata-2019-11-05-alle-13_0.jpg
+    md5: c209d5548743f65f025f0f15de232c23
+    size: 6368
+    version_id: 4bb82ab2-6723-4e5f-9647-05b245fbe93c
+    etag: c209d5548743f65f025f0f15de232c23
+  - relpath: 24cd853e-20230330-Schermata-2019-11-05-alle-13_1.jpg
+    md5: 6f26a66f96c434e59ae4c7986a0dee35
+    size: 5866
+    version_id: b64d5758-c926-4c2d-822b-731ecefe729f
+    etag: 6f26a66f96c434e59ae4c7986a0dee35
+  - relpath: 24d5455c-20230330-tpf-mercedes-citaro-nr552-137096_0.jpg
+    md5: 3f5a4973f4a1fa8a55274549d2ed2c44
+    size: 12573
+    version_id: e8b7c7d1-9780-40a3-9df1-3cf02d90e963
+    etag: 3f5a4973f4a1fa8a55274549d2ed2c44
+  - relpath: 24d5455c-20230330-tpf-mercedes-citaro-nr552-137096_1.jpg
+    md5: f9dbbe32a3a118581ae792d3453628ec
+    size: 2224
+    version_id: 23a6dc7f-1e02-48ea-b952-4cff719f6355
+    etag: f9dbbe32a3a118581ae792d3453628ec
+  - relpath: 2735f2ae-20230330-11-1_0.jpg
+    md5: 6a33807a6d354ab7de5c4f11b45161b7
+    size: 4854
+    version_id: 9cab030a-bc3c-4b96-bfb3-4795fdb07ca6
+    etag: 6a33807a6d354ab7de5c4f11b45161b7
+  - relpath: 278db450-20230330-tpf-fribourg-nr-597fr-90378_0.jpg
+    md5: c715c02dc8e527a7ced0b4c34534c951
+    size: 2756
+    version_id: 198dd922-58c0-4e5b-9e99-6bae12d167a3
+    etag: c715c02dc8e527a7ced0b4c34534c951
+  - relpath: 27a0f759-20230330-7-1_0.jpg
+    md5: 70bef0f72fd8adce90720dc1834698de
+    size: 6829
+    version_id: fb29e452-f075-4f15-b8b6-13005f12e617
+    etag: 70bef0f72fd8adce90720dc1834698de
+  - relpath: 28707865-20230330-3-3_0.jpg
+    md5: 1bc47359b3eea2c6fe825d4551496c38
+    size: 8749
+    version_id: 6b94bada-9e56-4367-b7e0-6ce2663ba2ab
+    etag: 1bc47359b3eea2c6fe825d4551496c38
+  - relpath: 287476f7-20230330-187672-tpf-fribourg-wieland-597363_0.jpg
+    md5: 900a37dd2eaa8dad8716c2146db3f2e5
+    size: 6245
+    version_id: e91df9bb-a5a0-40ad-8060-31b324d28491
+    etag: 900a37dd2eaa8dad8716c2146db3f2e5
+  - relpath: 289593c3-20230330-maxresdefault_0.jpg
+    md5: b33f0360d44edf5bf7ae1e2fa16af64f
+    size: 2763
+    version_id: 4830a63f-1f12-4342-8bf1-47328200e914
+    etag: b33f0360d44edf5bf7ae1e2fa16af64f
+  - relpath: 2a04b4ae-20230330-tpf-volvo-hess-trolleybus-nr502-3610_0.jpg
+    md5: 238ae938ab9b3d41418bc65dd312e5ab
+    size: 4832
+    version_id: dd85f940-8512-4afc-8d3e-d653578ec9f6
+    etag: 238ae938ab9b3d41418bc65dd312e5ab
+  - relpath: 2af13718-20230330-10-2_0.jpg
+    md5: 3708b538b6af159cd291b0e120bfcd11
+    size: 2560
+    version_id: a3090d20-4e6a-43ba-a3b7-ffa096aa8c70
+    etag: 3708b538b6af159cd291b0e120bfcd11
+  - relpath: 2bfa639e-20230330-20170506_095522_0.jpg
+    md5: e25ff496b1e33346ba35e2966c433567
+    size: 196481
+    version_id: 6fc74377-39ca-4e06-9648-fb95df60f433
+    etag: e25ff496b1e33346ba35e2966c433567
+  - relpath: 2cbc5445-20230330-201040-tpf-fribourg-wieland-646989_0.jpg
+    md5: 6582e42a28670b2eb4f9910e86da94c0
+    size: 7612
+    version_id: 2310f7d4-4db1-4dd0-bdc9-a631dce876ad
+    etag: 6582e42a28670b2eb4f9910e86da94c0
+  - relpath: 2d444850-20230330-201017_Palezieux_bus_TPF_0.jpg
+    md5: f87c6537ac53817d805c270c15ca54bc
+    size: 24588
+    version_id: a80a3efe-baaf-4896-94bb-35a440f7c0b7
+    etag: f87c6537ac53817d805c270c15ca54bc
+  - relpath: 2db00b99-20230330-tpf-fribourg-nr-527-90432_0.jpg
+    md5: 4c266a77fc795f8e278bde0eb6e0b8d4
+    size: 3086
+    version_id: 3021af31-7b9c-4eb4-adaa-b1b6ed57696b
+    etag: 4c266a77fc795f8e278bde0eb6e0b8d4
+  - relpath: 2dcd8c84-20230330-tpf-mercedes-citaro-nr82-13271_0.jpg
+    md5: 56411a684c14b74070a382d9d83a00e7
+    size: 7476
+    version_id: cec65cc2-ec84-4105-a14f-8d7504030f78
+    etag: 56411a684c14b74070a382d9d83a00e7
+  - relpath: 2deffc29-20230330-tpf-353ode7_0.jpg
+    md5: e59e1a828ab7480824d3b5c1cbd27444
+    size: 3905
+    version_id: 057669cb-3a47-449c-ae86-74dda070f7f9
+    etag: e59e1a828ab7480824d3b5c1cbd27444
+  - relpath: 2e2c440d-20230330-4755748_orig_0.jpg
+    md5: f8bc1ecb70ec39684537eb44d4beb88a
+    size: 4733
+    version_id: 7b5e252d-bb15-47bc-88d0-21eff1cd3c54
+    etag: f8bc1ecb70ec39684537eb44d4beb88a
+  - relpath: 2edaadea-20230330-169202_orig_0.jpg
+    md5: a06e21469884116dde66f5ae84eaa788
+    size: 5693
+    version_id: f05f4ab5-0682-41a1-8118-77d8cc46b506
+    etag: a06e21469884116dde66f5ae84eaa788
+  - relpath: 2fa1903e-20230330-tpf-trolleybus-513-unterwegs-154966_0.jpg
+    md5: ad8782e0b34fdf53e62b16cf34dfe1f8
+    size: 4505
+    version_id: 64185acb-fbb7-4b22-adff-b3d734b91a28
+    etag: ad8782e0b34fdf53e62b16cf34dfe1f8
+  - relpath: 3161464e-20230330-pubportfr001_orig_0.jpg
+    md5: 27ea6357ab49c06d7271566fb293879c
+    size: 8027
+    version_id: 3e36791f-9cc9-43a2-b2f2-bcd4cf67508c
+    etag: 27ea6357ab49c06d7271566fb293879c
+  - relpath: 33b64baf-20230330-tpf-fribourg-nr-520fr-69317_0.jpg
+    md5: 8b8ebd28d56a737c0a22a9c1cbb5fb79
+    size: 6520
+    version_id: bae51c1d-f616-440a-9cec-7b707aa09b82
+    etag: 8b8ebd28d56a737c0a22a9c1cbb5fb79
+  - relpath: 34f524f0-20230330-1987230985_small_1_0.jpg
+    md5: 37a24088304cfcfb747aaf361bea189f
+    size: 3098
+    version_id: 406edb82-74fc-413f-8d13-aafe57b1c7f4
+    etag: 37a24088304cfcfb747aaf361bea189f
+  - relpath: 3bb4a01d-20230330-3-7_0.jpg
+    md5: f0036a3d9086875a10e97ffd962fe0d2
+    size: 3253
+    version_id: b41326f3-1ebf-48b2-ab75-5eca351a2a87
+    etag: f0036a3d9086875a10e97ffd962fe0d2
+  - relpath: 3c9b43f9-20230330-4_0.jpg
+    md5: 4dd11add4d010db0d86573099a1bfe62
+    size: 5939
+    version_id: b87b05a7-47ac-4610-b342-759502d0f660
+    etag: 4dd11add4d010db0d86573099a1bfe62
+  - relpath: 3cebc3e8-20230330-tpf-fribourg-nr-524-69237_0.jpg
+    md5: 92a567f41da807f6a38df0a97ee617d2
+    size: 6512
+    version_id: 15670d3f-4abb-496c-bd51-c216e9781fde
+    etag: 92a567f41da807f6a38df0a97ee617d2
+  - relpath: 3dc7da10-20230330-tpf-mercedes-citaro-nr560-155534_0.jpg
+    md5: 346961cff2ce479f6eb19853ccd28425
+    size: 5247
+    version_id: 8d8e8aab-d820-46d2-9564-9188734d66d0
+    etag: 346961cff2ce479f6eb19853ccd28425
+  - relpath: 3de65fc1-20230330-2013-04-04_Fribourg_0534_1a_0.jpg
+    md5: 7874e5ff361d7c56d337aeb263baf024
+    size: 2979
+    version_id: 26dba36f-0220-4112-9ef3-49f361aeb700
+    etag: 7874e5ff361d7c56d337aeb263baf024
+  - relpath: 3e438683-20230330-1-15_0.jpg
+    md5: e168c506115a3d695312faaca17b4c78
+    size: 4617
+    version_id: 033a1485-e0ef-49d5-aef8-51586bb09fb5
+    etag: e168c506115a3d695312faaca17b4c78
+  - relpath: 404ab949-20230330-1-4_0.jpg
+    md5: 071f04391e46913b264121c5a42e17d0
+    size: 3622
+    version_id: 92bea3c7-3cc4-40a9-b153-885e9bffba47
+    etag: 071f04391e46913b264121c5a42e17d0
+  - relpath: 42d44e7c-20230330-24_0.jpg
+    md5: 9f403c7b337ab077f4aeb794f9e34091
+    size: 3285
+    version_id: f1e2f66c-ad4c-4ee5-ae1d-169da6455066
+    etag: 9f403c7b337ab077f4aeb794f9e34091
+  - relpath: 43e71dfa-20230330-6-1_0.jpg
+    md5: 9d4513e247209b9e7a904ccc35ef8b46
+    size: 7310
+    version_id: e6be426e-41d5-4006-ba45-6c7a18f21c34
+    etag: 9d4513e247209b9e7a904ccc35ef8b46
+  - relpath: 47a385f1-20230330-tpf-mercedes-citaro-nr382-128752_0.jpg
+    md5: 94122450e25287d26af371ff26a214a7
+    size: 6646
+    version_id: b07e15c5-9467-414e-93dd-6446c8102c12
+    etag: 94122450e25287d26af371ff26a214a7
+  - relpath: 49050322-20230330-tpf-nr-558-mercedes-citario-164696_0.jpg
+    md5: 2a78d4fb0782ae03361f9f76d4b697f0
+    size: 3045
+    version_id: 4446198b-3a63-4d1d-99b1-69df46868bd2
+    etag: 2a78d4fb0782ae03361f9f76d4b697f0
+  - relpath: 499ce5a8-20230330-tpf-fribourg-nr-384fr-69318_0.jpg
+    md5: 06fd43595248dacb7ba4c072574f9ae0
+    size: 6721
+    version_id: b1f094a1-eed3-40e4-a2b0-bce8af380d79
+    etag: 06fd43595248dacb7ba4c072574f9ae0
+  - relpath: 49e1657c-20230330-tpf-mercedes-citaro-nr61-155510_0.jpg
+    md5: 32576eb3004eca3d10dd106bc6ce6de0
+    size: 1941
+    version_id: bb615751-ea95-43f7-b857-f031a1281e8e
+    etag: 32576eb3004eca3d10dd106bc6ce6de0
+  - relpath: 4a2a107c-20230330-tpf-fribourg-mercedes-benz-citaro-g--1_0.jpg
+    md5: 35ae6909008acbceb4c596ee0a7a561a
+    size: 1903
+    version_id: cd9904ab-abc7-497f-a31a-39d20357211e
+    etag: 35ae6909008acbceb4c596ee0a7a561a
+  - relpath: 4bd9597c-20230330-tpf-volvo-8700-nr71-70884_0.jpg
+    md5: 72dd7c32e34120f7dc553ed63ac047ca
+    size: 6206
+    version_id: 140cad84-1d05-47b1-809b-aacc8194be2f
+    etag: 72dd7c32e34120f7dc553ed63ac047ca
+  - relpath: 4be0a472-20230330-tpf-mercedes-citaro-nr558-163099_0.jpg
+    md5: a49ff0d90a98a064c4df8c5b01f1792e
+    size: 10451
+    version_id: 28fe0728-0b6b-4f5f-a001-3affb5a61640
+    etag: a49ff0d90a98a064c4df8c5b01f1792e
+  - relpath: 4be3c1d8-20230330-17-1_0.jpg
+    md5: 7fba4d238af580fbb5099cdcca716ce5
+    size: 6693
+    version_id: 9dfec019-1964-4082-bf04-861fe7f31d46
+    etag: 7fba4d238af580fbb5099cdcca716ce5
+  - relpath: 4c1fbca1-20230330-13_0.jpg
+    md5: 9d6382674e81d896e788c305f48d7188
+    size: 3121
+    version_id: 6606bb21-d406-467d-ba00-cb4657edae3c
+    etag: 9d6382674e81d896e788c305f48d7188
+  - relpath: 4d17ab76-20230330-tpf-mercedes-citaro-nr19-100273_0.jpg
+    md5: 366c80bc00ef50185a275c9ccf5a6c71
+    size: 5204
+    version_id: f1972458-3742-442e-adfb-4e5f3d35674f
+    etag: 366c80bc00ef50185a275c9ccf5a6c71
+  - relpath: 4d17ab76-20230330-tpf-mercedes-citaro-nr19-100273_1.jpg
+    md5: c1843012c3c49d030a739762fdbff6a8
+    size: 1475
+    version_id: d5ec48c4-4cf8-4b70-8c78-7fc3e6bf301e
+    etag: c1843012c3c49d030a739762fdbff6a8
+  - relpath: 4e9772d3-20230330-1-6_0.jpg
+    md5: 10b8ae464d8b757a99d12dfe07e0cc9a
+    size: 4402
+    version_id: 0a9237b6-642f-47d8-8137-0ebcf38f74f6
+    etag: 10b8ae464d8b757a99d12dfe07e0cc9a
+  - relpath: 4f8bbc4e-20230330-24197511475_45fc18613c_b_0.jpg
+    md5: 8cf8d95b954631d23b80b9187a2f84ca
+    size: 3781
+    version_id: 17f29854-9f1b-4a86-99a4-acea4535cea3
+    etag: 8cf8d95b954631d23b80b9187a2f84ca
+  - relpath: 50284400-20230330-tpf-fribourg-nr-598fr-69319_0.jpg
+    md5: fd3592748f30c6c35e69cec023cec108
+    size: 5274
+    version_id: d7cad2bd-466a-43ea-874f-4358c35da765
+    etag: fd3592748f30c6c35e69cec023cec108
+  - relpath: 50e291b5-20230330-villars_200217awi_089_0.jpg
+    md5: 20f782ce4c1fabcb749596bbb9622dfe
+    size: 3204
+    version_id: 185e9809-2968-497a-a019-47c3d1b4c765
+    etag: 20f782ce4c1fabcb749596bbb9622dfe
+  - relpath: 5281e737-20230330-tpf-mercedes-citaro-nr17-136731_0.jpg
+    md5: df65a483293e849beda8e5810f99959f
+    size: 9170
+    version_id: 942538e8-f397-468f-a283-4cb0abaac1ce
+    etag: df65a483293e849beda8e5810f99959f
+  - relpath: 5287cb03-20230330-3441191_orig_0.jpg
+    md5: 670ef2b987c6c89494a78d976c9e43b5
+    size: 3272
+    version_id: 6d89e9f4-6257-4338-b1db-d2f2891f466a
+    etag: 670ef2b987c6c89494a78d976c9e43b5
+  - relpath: 52aa5286-20230330-tpf-mercedes-citaro-nr561-155535_0.jpg
+    md5: f90fe965c04cafda561a25eb6e7346df
+    size: 8438
+    version_id: 004b0047-5960-4f65-be27-0bc63af2e585
+    etag: f90fe965c04cafda561a25eb6e7346df
+  - relpath: 52e09948-20230330-tpf-mercedes-gelenkbus-transports-42_0.jpg
+    md5: 363b6d692db4bab47ab45092a9822d4d
+    size: 5759
+    version_id: 01940383-5845-4e7a-a7f0-49cf6fbfa655
+    etag: 363b6d692db4bab47ab45092a9822d4d
+  - relpath: 542d68f5-20230330-tpf-nr-551-mercedes-citaro-164052_0.jpg
+    md5: 880c6892de74ad5f61c85e87323c3122
+    size: 4533
+    version_id: 799fa52f-b530-404a-973d-79a8d9fe8911
+    etag: 880c6892de74ad5f61c85e87323c3122
+  - relpath: 55ef708c-20230330-2721585200_small_1_0.jpg
+    md5: b14096ffdedc7e8a1862aeacdae16daa
+    size: 1927
+    version_id: bf1f4d79-15d9-44c8-b0cd-cbdbab02e2db
+    etag: b14096ffdedc7e8a1862aeacdae16daa
+  - relpath: 561399b7-20230330-5-3_0.jpg
+    md5: c375d1ae2a2d6c53c4cdb3e127ed5228
+    size: 3308
+    version_id: aad8792d-f503-43d1-a5a8-09d17667cc3c
+    etag: c375d1ae2a2d6c53c4cdb3e127ed5228
+  - relpath: 584565b2-20230330-tpf-fribourg-nr-511fr-300416-52756_0.jpg
+    md5: dd9076fd09f23afc5aeda09d8fa0cc2f
+    size: 3268
+    version_id: 94aa2935-420c-4afa-9542-b8742c877dec
+    etag: dd9076fd09f23afc5aeda09d8fa0cc2f
+  - relpath: 58656865-20230330-tpf-3_0.jpg
+    md5: 057f8589112f5ff80116b002757c4b3b
+    size: 36661
+    version_id: 5bd25e90-bd35-4445-8fd9-83d48c395bc6
+    etag: 057f8589112f5ff80116b002757c4b3b
+  - relpath: 595d427e-20230330-20_0.jpg
+    md5: b9bf83819de2eec0f03cdaa298cebb52
+    size: 5154
+    version_id: 3baf6428-6343-4bfb-b756-2abe4abcbec8
+    etag: b9bf83819de2eec0f03cdaa298cebb52
+  - relpath: 5b756d7f-20230330-5766393_orig_0.jpg
+    md5: 8152eff96170e775c25b87a2bf91e343
+    size: 4970
+    version_id: 047ff815-cccc-4d23-84e7-ead44ffd5efa
+    etag: 8152eff96170e775c25b87a2bf91e343
+  - relpath: 5b756d7f-20230330-5766393_orig_1.jpg
+    md5: dcc2c278f5816b56acccd9dbbe37acc5
+    size: 2052
+    version_id: b5c37613-6ee1-4e9e-80dc-94c8ab65036d
+    etag: dcc2c278f5816b56acccd9dbbe37acc5
+  - relpath: 5c396101-20230330-6_0.jpg
+    md5: c5c882e740625ced66312160c234ab33
+    size: 5755
+    version_id: ea8e4d7f-0bf8-4fc4-a348-0c4d9d695efc
+    etag: c5c882e740625ced66312160c234ab33
+  - relpath: 5c8741d8-20230330-169229-tpf-fribourg--487116_0.jpg
+    md5: b37bc1416786cc93b597c68679857086
+    size: 4748
+    version_id: 8106dace-0d34-4a73-86dd-39f9a2be030e
+    etag: b37bc1416786cc93b597c68679857086
+  - relpath: 5ccb22a1-20230330-tpf-fribourg-380fr-300422-volvohess-_0.jpg
+    md5: b9df79f293fc35b24242662495641712
+    size: 1954
+    version_id: cff35561-93a4-4dde-891c-93cf9cafd851
+    etag: b9df79f293fc35b24242662495641712
+  - relpath: 5e452074-20230330-2-5_0.jpg
+    md5: 6bd10b51e39c563602c718ccf676add4
+    size: 1389
+    version_id: 432eaa7b-cd0c-4f5f-89d5-301cf23aa6e6
+    etag: 6bd10b51e39c563602c718ccf676add4
+  - relpath: 5e99adce-20230330-tpf-rgional-nr-79-mercedes-95716_0.jpg
+    md5: 7044e0c12a2e336214f1b5efc47a5d0f
+    size: 2047
+    version_id: 6bdfcc1e-e525-46a6-bd71-0ab2f8df03a1
+    etag: 7044e0c12a2e336214f1b5efc47a5d0f
+  - relpath: 5e99adce-20230330-tpf-rgional-nr-79-mercedes-95716_1.jpg
+    md5: 91bf15ee9f158c3b241e87a5e9de7f7f
+    size: 5027
+    version_id: 796cf3f1-06ab-4efe-b54c-62070adeb178
+    etag: 91bf15ee9f158c3b241e87a5e9de7f7f
+  - relpath: 5f536629-20230330-21_0.jpg
+    md5: c91b8c50552ab75dd06b079e9c56d8de
+    size: 6617
+    version_id: b1fe0c93-fafd-4e8e-abf8-504aeef091f4
+    etag: c91b8c50552ab75dd06b079e9c56d8de
+  - relpath: 607b5efe-20230330-tpf-nr-555-mercedes-citaro-164051_0.jpg
+    md5: a9fe792ed02a9a16f43191b856547b8c
+    size: 2972
+    version_id: b026df7e-d6e2-4ad2-886e-a26cba2a61e7
+    etag: a9fe792ed02a9a16f43191b856547b8c
+  - relpath: 64d31ce1-20230330-tpf-mercedes-citaro-nr596-98088_0.jpg
+    md5: 26b463693baa6c904531f1274ac7ae3b
+    size: 9096
+    version_id: aa839eb2-8d4a-4b0c-9a4a-2b874dd1dfd8
+    etag: 26b463693baa6c904531f1274ac7ae3b
+  - relpath: 6596a05d-20230330-2007062800197_IMG_9720_full_0.jpg
+    md5: a0ed59e48583347a168ef2ea5575e746
+    size: 3101
+    version_id: c681c312-3634-46ad-ad29-0635d8ea8456
+    etag: a0ed59e48583347a168ef2ea5575e746
+  - relpath: 669df77c-20230330-12-1_0.jpg
+    md5: 1d27cfe48b02ba5f9e2545cc81c9913d
+    size: 3300
+    version_id: a47aeaa3-ce3c-4198-be8a-526da56292e9
+    etag: 1d27cfe48b02ba5f9e2545cc81c9913d
+  - relpath: 69ac77eb-20230330-2402578491_7edd7ffd65_b_0.jpg
+    md5: 1ea16dd6b35c6c8560ed6ec1d0114ffc
+    size: 5855
+    version_id: f3a23ea5-5874-4825-9b96-dc1d91b7efc4
+    etag: 1ea16dd6b35c6c8560ed6ec1d0114ffc
+  - relpath: 6a0555b0-20230330-tpf-mercedes-citaro-nr555-137098_0.jpg
+    md5: cd1d4d00bfa4db349a0e3aa2442631c5
+    size: 2645
+    version_id: e7861515-25b3-4257-be9a-fba59d0d1d0e
+    etag: cd1d4d00bfa4db349a0e3aa2442631c5
+  - relpath: 6b145f02-20230330-tpf-trolleybus-nr530-unterwegs-11890_0.jpg
+    md5: 5d741d896f184ad9638d1c87cc079bdd
+    size: 4342
+    version_id: 47575252-bc99-4d30-9f65-d7353c1ad467
+    etag: 5d741d896f184ad9638d1c87cc079bdd
+  - relpath: 6b18bae5-20230330-tpf-fribourg-nr-510fr-300415-52893_0.jpg
+    md5: a21277c30fd1cb19b87af8884d37b004
+    size: 3766
+    version_id: 4b31cb81-9b12-46f7-a496-d5a6cb07dfa8
+    etag: a21277c30fd1cb19b87af8884d37b004
+  - relpath: 6b5af364-20230330-tpf-volvo-8700-bus-13275_0.jpg
+    md5: da813a3e32ae26d6246bbc732b6c2897
+    size: 5718
+    version_id: 7ad17265-1d75-4e4c-acd4-0d6a4316b647
+    etag: da813a3e32ae26d6246bbc732b6c2897
+  - relpath: 6c47e1ae-20230330-10_0.jpg
+    md5: dd1c098423aedd7064dc7689bef82f9b
+    size: 4535
+    version_id: 14f79f96-dcc2-42fc-aa7f-b9955560ba4f
+    etag: dd1c098423aedd7064dc7689bef82f9b
+  - relpath: 6d2b0ed5-20230330-2012120902525_ctf_tpf_ce_pab354_tba5_0.jpg
+    md5: 85e6b142470d72e1043007009a5328d4
+    size: 1486
+    version_id: 4da39511-74fb-418a-aaa2-d2e45d7f8058
+    etag: 85e6b142470d72e1043007009a5328d4
+  - relpath: 6d2b0ed5-20230330-2012120902525_ctf_tpf_ce_pab354_tba5_1.jpg
+    md5: c42a1abb84a89afa035b29a0601261af
+    size: 1692
+    version_id: b0ae8038-f92f-4e5c-bf69-a6315fec2c24
+    etag: c42a1abb84a89afa035b29a0601261af
+  - relpath: 6e23e7e9-20230330-tpf-fribourg-nr-105fr-92347_0.jpg
+    md5: 32999a9a9de1532d2024791bd8747cfd
+    size: 3025
+    version_id: de096953-8d54-4d02-ab85-46870555f605
+    etag: 32999a9a9de1532d2024791bd8747cfd
+  - relpath: 6ee01889-20230330-tpf-fribourg-nr-520fr-300435-24881_0.jpg
+    md5: ff9a8e328970b83b7fd94f37baeb60cb
+    size: 2170
+    version_id: fc4ddb06-7672-427c-a722-10d6453470b8
+    etag: ff9a8e328970b83b7fd94f37baeb60cb
+  - relpath: 71f3ab07-20230330-201048-tpf-fribourg-wieland-647122_0.jpg
+    md5: 61db005435e3b59dd8b2890f7442dce5
+    size: 6447
+    version_id: 05d463c2-e21f-4be5-94db-f7e4289685b2
+    etag: 61db005435e3b59dd8b2890f7442dce5
+  - relpath: 71f3ab07-20230330-201048-tpf-fribourg-wieland-647122_1.jpg
+    md5: eee77353e66135c539f2ac68adbe9344
+    size: 2707
+    version_id: c49894dc-6acf-4604-8e52-9a094479fd8a
+    etag: eee77353e66135c539f2ac68adbe9344
+  - relpath: 72894a0c-20230330-tpf-fribourg-nr-353fr-90427_0.jpg
+    md5: d4fbc9d1ab4f94414844a6558df011c7
+    size: 3712
+    version_id: 234e7e66-9579-4bb7-8c01-115132a6e909
+    etag: d4fbc9d1ab4f94414844a6558df011c7
+  - relpath: 750547c7-20230330-tpf-volvo-8700-als-bahnersatzbus-193_0.jpg
+    md5: 7ce4bb307e5c261945ad3001c4544353
+    size: 6527
+    version_id: 98fdfc76-0009-4df9-a01a-ac3d3184a4db
+    etag: 7ce4bb307e5c261945ad3001c4544353
+  - relpath: 7532375d-20230330-bus-alpin_2000_0.jpg
+    md5: 687e0eb52f130e822518f9e1f4e70b37
+    size: 8162
+    version_id: 39f06e44-b140-4a25-ba00-21ad0938b3ef
+    etag: 687e0eb52f130e822518f9e1f4e70b37
+  - relpath: 761901a0-20230330-cts_803_0.jpg
+    md5: e5ad9a750412a8bbe78ee349d18167f0
+    size: 6779
+    version_id: c99927aa-c4e8-4e31-abda-9c2556621269
+    etag: e5ad9a750412a8bbe78ee349d18167f0
+  - relpath: 78d112a7-20230330-tpf-volvo-bus-nr61-36105_0.jpg
+    md5: 31a7af6dd6f0829144ca13d4c9c8123b
+    size: 5049
+    version_id: e5959f09-d10e-4a7a-8759-fa4e2737776f
+    etag: 31a7af6dd6f0829144ca13d4c9c8123b
+  - relpath: 78d112a7-20230330-tpf-volvo-bus-nr61-36105_1.jpg
+    md5: ef37618925848d758c393e1ba20aaebd
+    size: 1965
+    version_id: 9ad7eba9-aafc-4909-aa3c-be5b5f2aad40
+    etag: ef37618925848d758c393e1ba20aaebd
+  - relpath: 79c7671a-20230330-tpf-fribourg-nr-597fr-300399-24887_0.jpg
+    md5: 331a795c15966912f78f16a0d7d6ed0f
+    size: 2312
+    version_id: 0302d6d2-0841-484a-97cc-254bfbf5d257
+    etag: 331a795c15966912f78f16a0d7d6ed0f
+  - relpath: 7a9009a1-20230330-3_0.jpg
+    md5: 92a676f5f3ce1aee657c926b538dc1ce
+    size: 4872
+    version_id: 67393e23-8590-4776-9828-314167616bb3
+    etag: 92a676f5f3ce1aee657c926b538dc1ce
+  - relpath: 7ba65fa7-20230330-tpf-fribourg-nr-520fr-69206_0.jpg
+    md5: e356bbf2c9da0503b6478399c22e2ae0
+    size: 7359
+    version_id: 5eabe477-0275-480e-a193-4a790c4c66b6
+    etag: e356bbf2c9da0503b6478399c22e2ae0
+  - relpath: 7ddab48a-20230330-tpf141_0.jpg
+    md5: e9a507163465291308bc7909e3a96ae0
+    size: 2917
+    version_id: da39f017-9eb1-4793-a214-9e63e96fc73c
+    etag: e9a507163465291308bc7909e3a96ae0
+  - relpath: 7ddab48a-20230330-tpf141_1.jpg
+    md5: 2976dbfb4e53426e66731c03be992482
+    size: 1311
+    version_id: e2e80efd-8b14-487c-99fe-a784327145f4
+    etag: 2976dbfb4e53426e66731c03be992482
+  - relpath: 7e01296b-20230330-tpf-mercedes-citaro-nr392-163098_0.jpg
+    md5: 4eeab0ddb6a21cbccbd2456ad235ef05
+    size: 18243
+    version_id: c2307ed6-106a-46a3-b6b9-1aa4b6a17375
+    etag: 4eeab0ddb6a21cbccbd2456ad235ef05
+  - relpath: 7effca1e-20230330-tpf-mercedes-citaro-nr128-155513_0.jpg
+    md5: 843a918250816125baf7a5de6eacbe5f
+    size: 10159
+    version_id: 47f09dfe-1725-4f3a-8ed1-975d405246ad
+    etag: 843a918250816125baf7a5de6eacbe5f
+  - relpath: 7fbda3a7-20230330-bus-71-flagey_0.jpg
+    md5: 9a7a6a1f5995b83f2847d3f24cd60069
+    size: 14269
+    version_id: bbd27ab0-b840-4e22-a4a6-6e91c501c95b
+    etag: 9a7a6a1f5995b83f2847d3f24cd60069
+  - relpath: 80b643e7-20230330-tpgglobe-limo-sa-nr-1973-159396_0.jpg
+    md5: 8c9de0248bb849cee594eecf150ad493
+    size: 4638
+    version_id: 464caa32-fb34-4502-953b-d16a2df48ed6
+    etag: 8c9de0248bb849cee594eecf150ad493
+  - relpath: 80baa21b-20230330-1-7_0.jpg
+    md5: 624409a56f94fadb0717c7f7719fb77f
+    size: 5168
+    version_id: b919ff8b-cebb-46f9-b649-fa721249cd3a
+    etag: 624409a56f94fadb0717c7f7719fb77f
+  - relpath: 8255be05-20230330-ginko-bus-tramway2-1200x766_0.jpg
+    md5: 24e1cfffc3336932f0c8e5957c082924
+    size: 14802
+    version_id: 8d28c37b-99bc-4be1-932e-46ad2596c371
+    etag: 24e1cfffc3336932f0c8e5957c082924
+  - relpath: 8361ff72-20230330-3-6_0.jpg
+    md5: 529461d138c2097e7c847723f9c087b1
+    size: 4756
+    version_id: 6152ebe7-7344-4e29-a39b-91fc7fac7a37
+    etag: 529461d138c2097e7c847723f9c087b1
+  - relpath: 8368ed28-20230330-9_0.jpg
+    md5: c49debd8b8ff920ff05a9165b2e54434
+    size: 4785
+    version_id: 7b94959c-b1f6-4930-8323-47fae5a4cf22
+    etag: c49debd8b8ff920ff05a9165b2e54434
+  - relpath: 841c0cfd-20230330-2_0.jpg
+    md5: 93becd068f5cb108486929dc2aa2e3fd
+    size: 3773
+    version_id: f48828d6-1e5f-4b34-8896-315b894e02c7
+    etag: 93becd068f5cb108486929dc2aa2e3fd
+  - relpath: 8479b743-20230330-tpf-volvo-8700-nr62-137103_0.jpg
+    md5: 5529103f8e962ec8b496ca5fee126630
+    size: 6686
+    version_id: cdabd6ad-2ccf-4f12-82b4-8f0a3f3baced
+    etag: 5529103f8e962ec8b496ca5fee126630
+  - relpath: 84d162bd-20230330-maxresdefault-2_0.jpg
+    md5: 2f05830322dd323e61547271d5c65ebf
+    size: 22030
+    version_id: 727a73cb-b4a5-424b-b0a3-239cefa01edd
+    etag: 2f05830322dd323e61547271d5c65ebf
+  - relpath: 857154aa-20230330-tpf-volvo-8700-nr98-136738_0.jpg
+    md5: 1f32f95d0d521ccf5f5d86a3b4734188
+    size: 2908
+    version_id: 90f97fb8-3edd-4f0c-9037-1b694fd702ce
+    etag: 1f32f95d0d521ccf5f5d86a3b4734188
+  - relpath: 85a974fe-20230330-title-1378664528_0.jpg
+    md5: b37bacde036771f6759fc44061a7af86
+    size: 14757
+    version_id: 1ec869e3-6001-4244-b591-7b73aab57309
+    etag: b37bacde036771f6759fc44061a7af86
+  - relpath: 86817bec-20230330-1-2_0.jpg
+    md5: 5d99367b5c277df6654fced59ff414ee
+    size: 7278
+    version_id: 229981c2-8cfd-4155-a9d6-3106297228e3
+    etag: 5d99367b5c277df6654fced59ff414ee
+  - relpath: 86bac2ca-20230330-tpf-trolleybus-nr524-unterwegs-11890_0.jpg
+    md5: e1e8e470bbc6faca1b97b10324442144
+    size: 5143
+    version_id: 50ca13d3-44fc-4f9d-8374-0b2bbdd192d7
+    etag: e1e8e470bbc6faca1b97b10324442144
+  - relpath: 894b870f-20230330-tpf-volvo-8700-nr63-155544_0.jpg
+    md5: e14c08a3203d81738a4a909b9908c4e1
+    size: 7555
+    version_id: bba12cf6-a8fc-433d-a3e9-daf04856fb71
+    etag: e14c08a3203d81738a4a909b9908c4e1
+  - relpath: 89a3c352-20230330-tpf-trolleybus-516-unterwegs-154968_0.jpg
+    md5: 2478d05dc756b951e4245465f0507976
+    size: 5869
+    version_id: 9723b45d-c977-4ced-bd6b-4c8f2915e44d
+    etag: 2478d05dc756b951e4245465f0507976
+  - relpath: 89a8ae48-20230330-red1200-20170330-071410-104eos7d_012_0.jpg
+    md5: 81b2bdcb245c15ecc19b9162201ac640
+    size: 4830
+    version_id: 08cd7b83-983b-4d18-9cbe-ae2dc0034db5
+    etag: 81b2bdcb245c15ecc19b9162201ac640
+  - relpath: 8a356343-20230330-tpf-volvo-hess-trolleybus-nr504-3610_0.jpg
+    md5: b2a952b535df386b5960822d2ebc8c81
+    size: 5324
+    version_id: 3efd9339-6875-4eda-ba94-e72f5d8d4255
+    etag: b2a952b535df386b5960822d2ebc8c81
+  - relpath: 8b4134b6-20230330-tpf-trolleybus-nr523-unterwegs-13713_0.jpg
+    md5: e82e871599c1d2b8dad4ee09731a17f8
+    size: 5863
+    version_id: 3308bdb0-c87f-4244-8d1a-5aa4462c9169
+    etag: e82e871599c1d2b8dad4ee09731a17f8
+  - relpath: 8c7d4300-20230330-3336556052_2_3_kNjirXLe_0.jpg
+    md5: deb12d9a4b99a22ac6624ec11c3f206b
+    size: 3562
+    version_id: 8fb98677-da15-4655-be76-24c95477d554
+    etag: deb12d9a4b99a22ac6624ec11c3f206b
+  - relpath: 8da63c86-20230330-tpf-fribourg-nr-596fr-300398-56638_0.jpg
+    md5: 8ea9571ae4cd835b9d9acb03858bfb53
+    size: 6190
+    version_id: 81f11866-4d1f-4e66-ba9b-eea157c71e44
+    etag: 8ea9571ae4cd835b9d9acb03858bfb53
+  - relpath: 8e3bc1c7-20230330-15-1_0.jpg
+    md5: 5be5bc082958fd33ecfda01c3dee37c0
+    size: 2369
+    version_id: 41af568f-0541-441d-9e99-bcb05ed95d86
+    etag: 5be5bc082958fd33ecfda01c3dee37c0
+  - relpath: 8e8c9b60-20230330-5e6ec8b7dddd43592cbb6fafc9e09b8a_0.jpg
+    md5: 0925e5a6fb22a5f9694c59ac810edb08
+    size: 16023
+    version_id: 34bc67e8-4d06-4f13-adf7-5f0a54f9a9fb
+    etag: 0925e5a6fb22a5f9694c59ac810edb08
+  - relpath: 8e8c9b60-20230330-5e6ec8b7dddd43592cbb6fafc9e09b8a_1.jpg
+    md5: 3117f3b420640d73909cf9b37dc5cfd5
+    size: 2371
+    version_id: 48225ac6-efc3-4c54-b6f0-cd94fb02facf
+    etag: 3117f3b420640d73909cf9b37dc5cfd5
+  - relpath: 90da4151-20230330-5503896_1_orig_0.jpg
+    md5: 03735b9741be99bdf6f20cb28178fcfa
+    size: 9394
+    version_id: 1b1712da-81af-497e-bd86-d97d9c8cd3f0
+    etag: 03735b9741be99bdf6f20cb28178fcfa
+  - relpath: 90da4151-20230330-5503896_1_orig_1.jpg
+    md5: 5699623954772c442b4f0c8f81c263e4
+    size: 2024
+    version_id: 1731a7e0-a0b5-444b-996b-d5dc4b005ced
+    etag: 5699623954772c442b4f0c8f81c263e4
+  - relpath: 91a6e7d7-20230330-tpf-fribourg-387fr-300432-mercedes-1_0.jpg
+    md5: 27a084f9c26a7480717702b76c163da7
+    size: 3655
+    version_id: 6e473b73-a9af-440b-b746-d081b1c3cac0
+    etag: 27a084f9c26a7480717702b76c163da7
+  - relpath: 923b113e-20230330-tpf31_0.jpg
+    md5: 441692659f5be2d098c42ae49ab7e4a0
+    size: 3838
+    version_id: 18c437ef-95f9-405d-bcf6-5fd59fd45d89
+    etag: 441692659f5be2d098c42ae49ab7e4a0
+  - relpath: 92612abb-20230330-8-2_0.jpg
+    md5: 6e8008a5f3125509a92ceba260dd0ad1
+    size: 4237
+    version_id: 4720c36d-3c6d-4512-a402-e50f03a38dbe
+    etag: 6e8008a5f3125509a92ceba260dd0ad1
+  - relpath: 92fa2200-20230330-tpf524b_0.jpg
+    md5: 4988438dd1cf8b140cb1cb8fe950ded8
+    size: 3605
+    version_id: b97dc8e4-bfd3-446c-90ff-4e438e44bed2
+    etag: 4988438dd1cf8b140cb1cb8fe950ded8
+  - relpath: 94720de6-20230330-3-4_0.jpg
+    md5: d7fd879ed7a7dc68e273a432a18d680a
+    size: 3533
+    version_id: 2cfea1d2-82ca-4911-8334-07fd9977c8c5
+    etag: d7fd879ed7a7dc68e273a432a18d680a
+  - relpath: 94a2aa2f-20230330-111244527_o_0.jpg
+    md5: bb04bcaae12c12de0d76ece8922de2b6
+    size: 49942
+    version_id: bf909227-b332-4cb0-9ebb-0f2b179fcde7
+    etag: bb04bcaae12c12de0d76ece8922de2b6
+  - relpath: 9627dd34-20230330-__6950343_0.jpg
+    md5: 51158bfb449d36cc2170a40cbd9d2ba9
+    size: 1036
+    version_id: 193d737a-ca8f-46e7-9c84-e173fa9ecbdd
+    etag: 51158bfb449d36cc2170a40cbd9d2ba9
+  - relpath: 966b3fdf-20230330-tpf-3463ui4_0.jpg
+    md5: 6ac503b3d909596e88b3bc858e159dde
+    size: 3220
+    version_id: 0f7cdf68-f851-4157-958a-3aabc19fb563
+    etag: 6ac503b3d909596e88b3bc858e159dde
+  - relpath: 96b88872-20230330-551939_0.jpg
+    md5: 0a10e370ad76425c5ce15cc2e1dde57f
+    size: 6847
+    version_id: 860c51ee-6a90-4f94-910b-acafbff899c6
+    etag: 0a10e370ad76425c5ce15cc2e1dde57f
+  - relpath: 977704b0-20230330-1-8_0.jpg
+    md5: a61839791948b624a41a41d30f753f8e
+    size: 3375
+    version_id: 0d63e7ab-b778-4853-a835-a508bd28faf4
+    etag: a61839791948b624a41a41d30f753f8e
+  - relpath: 98171778-20230330-5-1_0.jpg
+    md5: 46af50e66a79f94615e3bcb3df5ee2cc
+    size: 2348
+    version_id: 85cd1531-b096-4ac0-8922-885cbc45755b
+    etag: 46af50e66a79f94615e3bcb3df5ee2cc
+  - relpath: 98a6432c-20230330-6-4_0.jpg
+    md5: 4d8993d6dd45be7f0961a28b140648ee
+    size: 6163
+    version_id: e296ace0-a9d2-47d5-a1ba-7b5bae7c9186
+    etag: 4d8993d6dd45be7f0961a28b140648ee
+  - relpath: 9947a461-20230330-P7090245_0.jpg
+    md5: 9af0af4405bdce763e9d71c322b760a4
+    size: 36514
+    version_id: 63f78cba-f04f-4914-85b6-de0eed9fd5cd
+    etag: 9af0af4405bdce763e9d71c322b760a4
+  - relpath: 9be20eb4-20230330-43759430800_df7058a5f6_z_0.jpg
+    md5: 24ef1fa5c8d8f4d17877792901720565
+    size: 4145
+    version_id: 8d6cf968-9545-4de2-bd7a-4e02e80fbdbe
+    etag: 24ef1fa5c8d8f4d17877792901720565
+  - relpath: 9ca2591a-20230330-tpf515_0.jpg
+    md5: a4dee83b112f0b48c40b754e2f25fba1
+    size: 4036
+    version_id: 3ef8967c-7ef0-470d-ba0f-f53cce03a3c6
+    etag: a4dee83b112f0b48c40b754e2f25fba1
+  - relpath: 9d348bda-20230330-16_0.jpg
+    md5: c7f6ee5c41ca8a61e68f7ccd827b7b77
+    size: 5412
+    version_id: 5b0a6bf9-0183-4a81-b89d-7519bc6f0acf
+    etag: c7f6ee5c41ca8a61e68f7ccd827b7b77
+  - relpath: 9eb68fdc-20230330-14_0.jpg
+    md5: 6c4773ed68b893dc944a6517871ad343
+    size: 2420
+    version_id: 518a3fb0-1260-4dd5-9bc6-17bc61834f3d
+    etag: 6c4773ed68b893dc944a6517871ad343
+  - relpath: 9ee86b70-20230330-tpf-mercedes-citaro-nr166-118904_0.jpg
+    md5: 28a073c925fccf47cef7bc5a80cd02ce
+    size: 3687
+    version_id: 868977ae-f35b-4abd-9458-a3127011a1be
+    etag: 28a073c925fccf47cef7bc5a80cd02ce
+  - relpath: 9ee86b70-20230330-tpf-mercedes-citaro-nr166-118904_1.jpg
+    md5: cd37d6d67ef0923a23c85a38cf3f7643
+    size: 14476
+    version_id: 3b2abbf9-b482-425d-897b-758965374add
+    etag: cd37d6d67ef0923a23c85a38cf3f7643
+  - relpath: 9f0bb55b-20230330-csm_Web_3_TPF_Fribourg_961c5ee54f-e1-1_0.jpg
+    md5: 9f5f7c9aa4ce5fd5f3ab6f6b74fa12f9
+    size: 3369
+    version_id: acaeee9a-1b2f-49fa-a65a-29f625618595
+    etag: 9f5f7c9aa4ce5fd5f3ab6f6b74fa12f9
+  - relpath: 9f0bb55b-20230330-csm_Web_3_TPF_Fribourg_961c5ee54f-e1-1_1.jpg
+    md5: 4eae68e0a8e7e3316fb5995f47d8c0eb
+    size: 1629
+    version_id: e9941877-02d4-490f-a4c2-40b4ebdbe25c
+    etag: 4eae68e0a8e7e3316fb5995f47d8c0eb
+  - relpath: 9f899bfe-20230330-1-1_0.jpg
+    md5: f0d8c11a7975ecfb53bb684de9a18707
+    size: 2812
+    version_id: 5353272e-fadf-4caf-bf79-f45182ead4ad
+    etag: f0d8c11a7975ecfb53bb684de9a18707
+  - relpath: a158d2ac-20230330-tpf-mercedes-citaro-nr7-136730_0.jpg
+    md5: 091ad45025297e3a0def8655efab6abb
+    size: 13357
+    version_id: b0bedaa0-3cc6-4710-90b7-2779d1ec2c50
+    etag: 091ad45025297e3a0def8655efab6abb
+  - relpath: a162f109-20230330-7-3_0.jpg
+    md5: 71307435da1a59ddb456412bb780405f
+    size: 3947
+    version_id: 99407e66-4ef2-47a6-b87c-2dd9c7da8d4b
+    etag: 71307435da1a59ddb456412bb780405f
+  - relpath: a1d0b7f3-20230330-2-2_0.jpg
+    md5: cc1a51cb5d31ea4178c3583403083425
+    size: 3716
+    version_id: 791ce75c-21ab-4b54-a613-14785920cf02
+    etag: cc1a51cb5d31ea4178c3583403083425
+  - relpath: a1d0b7f3-20230330-2-2_1.jpg
+    md5: 435148102d6946a79f795adda8468e5f
+    size: 1983
+    version_id: c76ca362-597c-4360-94ce-c12007f89e38
+    etag: 435148102d6946a79f795adda8468e5f
+  - relpath: a2831e8c-20230330-6-2_0.jpg
+    md5: 56366b2ae5dc1e5a6a1a81e0897e900d
+    size: 4734
+    version_id: 4bb019f2-df96-49b3-a8d8-a97fabae2ff6
+    etag: 56366b2ae5dc1e5a6a1a81e0897e900d
+  - relpath: a2966c42-20230330-transport-luxembourg_0.jpg
+    md5: f443a7f98d3694deef430dc1169f8728
+    size: 5053
+    version_id: b3394344-cd20-4108-915e-cd082b4c83c9
+    etag: f443a7f98d3694deef430dc1169f8728
+  - relpath: a303dfe9-20230330-tpf-trolleybus-515-unterwegs-154967_0.jpg
+    md5: 1f4a943e9a9b783960ada6c5428311f8
+    size: 5120
+    version_id: a3e719da-d656-41b6-b867-69fe6ce88a38
+    etag: 1f4a943e9a9b783960ada6c5428311f8
+  - relpath: a3214670-20230330-tpf-trolleybus-nr522-unterwegs-13713_0.jpg
+    md5: 9cb5f1ec202b07afe5dabd6313101ffc
+    size: 3314
+    version_id: 510065b4-8a62-4605-942d-e69ae4f03747
+    etag: 9cb5f1ec202b07afe5dabd6313101ffc
+  - relpath: a3314bee-20230330-tpf-volvo-hess-trolleybus-nr510-3611_0.jpg
+    md5: 0633165a82417f90a82ec9bfceac74aa
+    size: 2252
+    version_id: 368b33b2-c68e-4d11-82ba-e2dcefebcd0e
+    etag: 0633165a82417f90a82ec9bfceac74aa
+  - relpath: a44ddc38-20230330-tpf-mercedes-citaro-nr594-137100_0.jpg
+    md5: dccbd135cb80e1ad072cd89acbba5248
+    size: 5886
+    version_id: a12ad8be-ab7b-4be3-90b5-062aed705d3c
+    etag: dccbd135cb80e1ad072cd89acbba5248
+  - relpath: a52cce71-20230330-1-3_0.jpg
+    md5: 68ea40bcad2f537884dd599ad33ed521
+    size: 6112
+    version_id: 80080152-c282-4fcd-b551-d8658e69016f
+    etag: 68ea40bcad2f537884dd599ad33ed521
+  - relpath: a52cce71-20230330-1-3_1.jpg
+    md5: b8cef70410f4f75bfa4184a81f283502
+    size: 1593
+    version_id: a7642dfd-c648-453c-8aec-b2473258a29d
+    etag: b8cef70410f4f75bfa4184a81f283502
+  - relpath: a5af52e2-20230330-30635714697_d6aea27643_b_0.jpg
+    md5: f65c0278ece6d34af61cfecc06ec9c4e
+    size: 5036
+    version_id: 5dc48398-539b-4dc9-82a5-9c441eb8bbee
+    etag: f65c0278ece6d34af61cfecc06ec9c4e
+  - relpath: a5af52e2-20230330-30635714697_d6aea27643_b_1.jpg
+    md5: d864fa6eb9f7edf3006309bc805b653c
+    size: 1871
+    version_id: a0dd6956-5ae6-4d5e-892d-7c7801091e82
+    etag: d864fa6eb9f7edf3006309bc805b653c
+  - relpath: a5c2f57c-20230330-tpf-mercedes-citaro-nr587-36516_0.jpg
+    md5: 6ef558fe23623b884b61c038ab0dda84
+    size: 4341
+    version_id: bb82252c-ac17-46ec-82b8-a709a67c9054
+    etag: 6ef558fe23623b884b61c038ab0dda84
+  - relpath: a60a3073-20230330-20171113063817-21aaa82d-me-f0d1e3530_0.jpg
+    md5: e53930374625ba941fce713569ff57d8
+    size: 3577
+    version_id: bfe0351e-de24-4fab-a105-9fc19544f0ae
+    etag: e53930374625ba941fce713569ff57d8
+  - relpath: a6b73931-20230330-9244607911_555ded5eb5_b_0.jpg
+    md5: 11faa3d8ffe3882150009b3a906038b2
+    size: 3552
+    version_id: c600225c-d8a7-4a5a-984e-254157cb31ad
+    etag: 11faa3d8ffe3882150009b3a906038b2
+  - relpath: a716c5f6-20230330-3-5_0.jpg
+    md5: 499b67bb957f82bf090c33e3b3db40f3
+    size: 11487
+    version_id: 22e5f58e-5a80-4766-8e20-6048ed7576be
+    etag: 499b67bb957f82bf090c33e3b3db40f3
+  - relpath: a729a47a-20230330-TPF-1_0.jpg
+    md5: 57abb4e9fdd7a28c22ddfbb817d9be62
+    size: 7064
+    version_id: f8c7efe4-1cfc-42af-9d1a-9bff25460110
+    etag: 57abb4e9fdd7a28c22ddfbb817d9be62
+  - relpath: a7da39ac-20230330-fld-d01asas22_orig_0.jpg
+    md5: fba8bcd42cf6c0ab7be971f18b7e5ef5
+    size: 11027
+    version_id: 806f459a-e7b0-48b7-ac77-185ff3e0cbeb
+    etag: fba8bcd42cf6c0ab7be971f18b7e5ef5
+  - relpath: ab2444e5-20230330-tpf-mercedes-citaro-nr583-70879_0.jpg
+    md5: e1433e99aaf0c0aab56115f868ff8968
+    size: 4864
+    version_id: 82f58354-d26d-4ff1-8363-353948505e28
+    etag: e1433e99aaf0c0aab56115f868ff8968
+  - relpath: acb1897d-20230330-tpf-mercedes-citrao-regio-4348_0.jpg
+    md5: 43661ad2fe7e7c02f7bfd6161fe50c4d
+    size: 7441
+    version_id: 196ff451-18cd-4bb6-a9ed-42edd67c4c33
+    etag: 43661ad2fe7e7c02f7bfd6161fe50c4d
+  - relpath: ad17fe18-20230330-tpf-fribourg-nrn-4-fr-28996_0.jpg
+    md5: e4182b1c65ce636a8fc5f25d15670c52
+    size: 1916
+    version_id: c827ede5-3ec1-4a46-98b0-be1fbc9232cf
+    etag: e4182b1c65ce636a8fc5f25d15670c52
+  - relpath: adf12270-20230330-tpf-mercedes-citaro-nr592-155536_0.jpg
+    md5: bca63900adee1d242f695c2de795061a
+    size: 9449
+    version_id: ff5877da-d3d8-4c78-9bc0-3b21670a59e5
+    etag: bca63900adee1d242f695c2de795061a
+  - relpath: ae37676f-20230330-17_0.jpg
+    md5: 929b952ef4e713998274fd64455dc09d
+    size: 2502
+    version_id: b6fc8659-10c0-42a7-adb2-dc82d6c20606
+    etag: 929b952ef4e713998274fd64455dc09d
+  - relpath: af0a5566-20230330-057234-tpf-fribourg--243043_0.jpg
+    md5: fa6148696563a39eecd5744b0b51dba6
+    size: 3037
+    version_id: 12ef2e99-8218-4f7d-a83c-5a192c7f96e6
+    etag: fa6148696563a39eecd5744b0b51dba6
+  - relpath: af92f837-20230330-tpf-volvo-8700-nr89-70885_0.jpg
+    md5: 46c152a5e839086d5d1a811ed41deaa2
+    size: 6685
+    version_id: 6262c4d9-1a24-472c-b29d-8fe885da25f6
+    etag: 46c152a5e839086d5d1a811ed41deaa2
+  - relpath: afc91bf0-20230330-203265-tpf-fribourg--653791_0.jpg
+    md5: aeeb777a3d94842cf5a8649c7e13538b
+    size: 11089
+    version_id: 5cc60268-ba39-422c-8ec4-a4118211226f
+    etag: aeeb777a3d94842cf5a8649c7e13538b
+  - relpath: b15ff517-20230330-4-3_0.jpg
+    md5: cc2a9229ee4febdbe06e53276fb02f67
+    size: 2542
+    version_id: 3f288fa6-ef3d-4e72-b254-4b189ad3d200
+    etag: cc2a9229ee4febdbe06e53276fb02f67
+  - relpath: b1a7f06f-20230330-tpf-hess-trolleybus-nr516-155362_0.jpg
+    md5: 011bfb1f9da96b438de30dc8880abe45
+    size: 3897
+    version_id: ad17b03c-7e10-4645-b923-8d81ddef2aa4
+    etag: 011bfb1f9da96b438de30dc8880abe45
+  - relpath: b217c506-20230330-tpf-fribourg-mercedes-benz-citaro-g-_0.jpg
+    md5: 1f6d361b8afa21cf979bbb2c5ec5c60b
+    size: 3858
+    version_id: e4f477dd-89df-476b-89c0-bbee9168b011
+    etag: 1f6d361b8afa21cf979bbb2c5ec5c60b
+  - relpath: b3a8ae1c-20230330-16-1_0.jpg
+    md5: ce57dc54ccb1a661b6749c68582d1e77
+    size: 2007
+    version_id: 5b523492-f45e-4ec7-b941-a08b6955d17f
+    etag: ce57dc54ccb1a661b6749c68582d1e77
+  - relpath: b493340c-20230330-fribourg-tpf-autobus-381-man-niederf_0.jpg
+    md5: ca549bea9974d7b0f7f9a0d758ddab91
+    size: 10485
+    version_id: a139e83f-ffbf-4128-af02-b15749b6ddf2
+    etag: ca549bea9974d7b0f7f9a0d758ddab91
+  - relpath: b564104a-20230330-tpf-mercedes-citaro-nr111-155511_0.jpg
+    md5: 96aae875e4f23d61874358458d1cbef5
+    size: 12479
+    version_id: c82f4a62-17d4-40de-8f46-9bf079171efa
+    etag: 96aae875e4f23d61874358458d1cbef5
+  - relpath: b6168721-20230330-tpf351_0.jpg
+    md5: 0708b940bac1e8cfef9ecf45eeb188b4
+    size: 3806
+    version_id: 948b99bd-8c14-4ed6-a6a1-397c9e361b3d
+    etag: 0708b940bac1e8cfef9ecf45eeb188b4
+  - relpath: ba871bfd-20230330-171800-tpf-fribourg--504269_0.jpg
+    md5: ab65fd430f465a7989281b76291d616b
+    size: 4074
+    version_id: 92699270-43b8-4d2e-8df3-a671b481ea44
+    etag: ab65fd430f465a7989281b76291d616b
+  - relpath: bab64dac-20230330-tpf-volvo-nr127-fr-100275_0.jpg
+    md5: 517fea1bdaf943c223cba8d5508255bd
+    size: 4225
+    version_id: 552222df-bde7-4254-9958-e34e57fb02de
+    etag: 517fea1bdaf943c223cba8d5508255bd
+  - relpath: bab64dac-20230330-tpf-volvo-nr127-fr-100275_1.jpg
+    md5: 4d9eb1b54e08aa3a9890712f7fb869e3
+    size: 2248
+    version_id: 8bc34679-736b-41e6-a161-d0304bf29bbb
+    etag: 4d9eb1b54e08aa3a9890712f7fb869e3
+  - relpath: bad6c660-20230330-tpf-trolleybus-nr528-unterwegs-16309_0.jpg
+    md5: 0b2d422106a12dc57934bedc9a1a392c
+    size: 7525
+    version_id: a755caf1-d26c-4839-81dc-a20ba784c9d7
+    etag: 0b2d422106a12dc57934bedc9a1a392c
+  - relpath: bb8b82b6-20230330-aus-dem-archiv-gfm-fribourg-40519_0.jpg
+    md5: df77200d970722695126f96fef96c76b
+    size: 4242
+    version_id: 5d88d771-f26f-4dc4-890d-f65d50b8a48d
+    etag: df77200d970722695126f96fef96c76b
+  - relpath: be5bf0f0-20230330-2010041700-Ab63-Kerzers1-0001_0.jpg
+    md5: ad5ce11005fc15cc8f2c32b80f85fe50
+    size: 3615
+    version_id: b3cac8d2-13e0-42dc-ac9a-75da28719afe
+    etag: ad5ce11005fc15cc8f2c32b80f85fe50
+  - relpath: be5bf0f0-20230330-2010041700-Ab63-Kerzers1-0001_1.jpg
+    md5: ceba161692194724c76d13a2c0033092
+    size: 2109
+    version_id: 07382fa5-57c0-4bd0-876e-95ed0303a262
+    etag: ceba161692194724c76d13a2c0033092
+  - relpath: beacbaef-20230330-4-7_0.jpg
+    md5: 0ffec2e74235a266dbe7458c42913ddd
+    size: 1578
+    version_id: f00a958f-6a46-4a45-b006-864e21a7c3bd
+    etag: 0ffec2e74235a266dbe7458c42913ddd
+  - relpath: bfee7d82-20230330-005f2a5a-a30b-4ee5-8944-d0af78530a8c_0.jpg
+    md5: 090d5d8f0ad98a3d6055dd464865863f
+    size: 2561
+    version_id: 7a7b7549-d920-4d1a-8c27-1a94b3bbb64e
+    etag: 090d5d8f0ad98a3d6055dd464865863f
+  - relpath: c2e7122d-20230330-viesasis-transportas-81245529_0.jpg
+    md5: 2bcf8294345b7fc92b343fa77633ea19
+    size: 3802
+    version_id: 7b8878a7-9790-483f-b11e-3e53a3e963a8
+    etag: 2bcf8294345b7fc92b343fa77633ea19
+  - relpath: c2e7122d-20230330-viesasis-transportas-81245529_1.jpg
+    md5: 3808b3aa2fb5887e105722259e0cb12e
+    size: 2831
+    version_id: 921561be-3a28-47e8-b928-ed228cf07968
+    etag: 3808b3aa2fb5887e105722259e0cb12e
+  - relpath: c2e941df-20230330-wegen-verzoegerten-ablieferung-neuen_0.jpg
+    md5: fdf66586f07687f6262ea664e74c8154
+    size: 3724
+    version_id: 5be7b7fa-cf7c-4aef-9ac9-324aaa11ce90
+    etag: fdf66586f07687f6262ea664e74c8154
+  - relpath: c2e941df-20230330-wegen-verzoegerten-ablieferung-neuen_1.jpg
+    md5: 7848317adcf6950d185f013ab6c35959
+    size: 9505
+    version_id: 09826334-46e0-4879-a196-ae0e5fa2d614
+    etag: 7848317adcf6950d185f013ab6c35959
+  - relpath: c36712d7-20230330-tpf-volvo-8700-nr95-70886_0.jpg
+    md5: 2558c1483138d1e57ee7d0307a0dc781
+    size: 6922
+    version_id: 3cc228e2-9e7f-4ab8-8419-fbcb084156e3
+    etag: 2558c1483138d1e57ee7d0307a0dc781
+  - relpath: c77b4481-20230330-tpf-508vuau_0.jpg
+    md5: 2ee85afa55f5221552de78fc626f8010
+    size: 3374
+    version_id: ea119b53-331d-49de-9ba6-318911c3a7cf
+    etag: 2ee85afa55f5221552de78fc626f8010
+  - relpath: c7d3d199-20230330-7-2_0.jpg
+    md5: 9752c4b3a6871eb8b13e4164ac748f24
+    size: 5704
+    version_id: a41014bc-432a-4fd1-b806-8fe392afc9e0
+    etag: 9752c4b3a6871eb8b13e4164ac748f24
+  - relpath: c98eccc7-20230330-2-12_0.jpg
+    md5: d0ed94f071b3179cc129e84c1a805f60
+    size: 5400
+    version_id: 62d4f976-184f-4ad2-88d5-0952f64992c2
+    etag: d0ed94f071b3179cc129e84c1a805f60
+  - relpath: c98eccc7-20230330-2-12_1.jpg
+    md5: 9eaf60f4960c8ddfce41c64cc1773891
+    size: 2437
+    version_id: 34a30e94-5bb2-4e8b-8070-bdedab0973d7
+    etag: 9eaf60f4960c8ddfce41c64cc1773891
+  - relpath: c9d4ef0e-20230330-tpf-fribourg-nr-60fr-300284-63421_0.jpg
+    md5: 69dd1828a4d5bfda5f1a1805af80d1b6
+    size: 3926
+    version_id: e9d3a1a3-c874-4a45-aca3-33677be2a15d
+    etag: 69dd1828a4d5bfda5f1a1805af80d1b6
+  - relpath: ca7a2cd7-20230330-red1200-20180225-093641-camera_029_0.jpg
+    md5: 976cabc10d73a419c54191fc4fc785a9
+    size: 17192
+    version_id: 51b22c26-5d24-4d76-bb1c-fadf58bde18c
+    etag: 976cabc10d73a419c54191fc4fc785a9
+  - relpath: cd70cf38-20230330-2-11_0.jpg
+    md5: d1f26f2d747866a8ab946bae86487d9c
+    size: 2329
+    version_id: af4538cd-6547-4282-80e2-92d65497ce6d
+    etag: d1f26f2d747866a8ab946bae86487d9c
+  - relpath: cdc19cf6-20230330-1-13_0.jpg
+    md5: a6582c914d08dc911ff6a116d5b7fe5a
+    size: 3646
+    version_id: 4362e303-77af-460d-befb-bc17288c171a
+    etag: a6582c914d08dc911ff6a116d5b7fe5a
+  - relpath: ced94b2c-20230330-tpf-volvo-8700-bus-13115_0.jpg
+    md5: 7fbf3336746415236adb2f0335e1006b
+    size: 5645
+    version_id: 92b9ae69-ed58-47c7-ae28-a8d18cd7084c
+    etag: 7fbf3336746415236adb2f0335e1006b
+  - relpath: d02bd1dc-20230330-tpf-fribourg-nr-382fr-90430_0.jpg
+    md5: 99a037438eeba967055b3c0fd0e6481f
+    size: 5189
+    version_id: 925dd829-bd8c-4dbd-982c-3db511876c0f
+    etag: 99a037438eeba967055b3c0fd0e6481f
+  - relpath: d0502872-20230330-tpf-mercedes-citaro-nr121-163095_0.jpg
+    md5: 25d98afeb4da99ecf98be96748a3fe9b
+    size: 13356
+    version_id: 619b9cbd-a044-425f-bda6-b3e44e1232c9
+    etag: 25d98afeb4da99ecf98be96748a3fe9b
+  - relpath: d09e552a-20230330-maxresdefault-5_0.jpg
+    md5: 47b91b69f4441fc37e643d0da3be2b34
+    size: 4431
+    version_id: f2174574-655b-4f62-ba00-e97ddfbeb748
+    etag: 47b91b69f4441fc37e643d0da3be2b34
+  - relpath: d0c6e9f7-20230330-red1200-20200103-130624-107eos7d_002_0.jpg
+    md5: 0702b38f7c65935c3b049de6faa7fe97
+    size: 4871
+    version_id: ac6d6b2e-94c3-429a-9e93-c1569f6cd2ff
+    etag: 0702b38f7c65935c3b049de6faa7fe97
+  - relpath: d0d46bcf-20230330-tpf-fribourg-nr-596fr-300398-24884_0.jpg
+    md5: 045a76c4f2f5a8c90a397e7f97f63d1f
+    size: 2193
+    version_id: 8977033d-36d8-491b-9a46-e94050e65aef
+    etag: 045a76c4f2f5a8c90a397e7f97f63d1f
+  - relpath: d110a2e4-20230330-12-2_0.jpg
+    md5: 903616c0424a0b489a2634d144ef800d
+    size: 1907
+    version_id: 49337065-fe7e-4404-8d6d-0aafa4ea24e8
+    etag: 903616c0424a0b489a2634d144ef800d
+  - relpath: d1346760-20230330-1-12_0.jpg
+    md5: befb18b2314b2d27202ca8f8994524ea
+    size: 2880
+    version_id: e2215213-ce53-4199-ba61-27b36ef953cd
+    etag: befb18b2314b2d27202ca8f8994524ea
+  - relpath: d250bc49-20230330-freiburger-verkehrs-ag-wagen-976-evo_0.jpg
+    md5: f21a2e196ce36f79ff6b0b61dfbd3a3a
+    size: 9337
+    version_id: 1de986f4-ad7f-40f2-93ad-6c3c2197a44c
+    etag: f21a2e196ce36f79ff6b0b61dfbd3a3a
+  - relpath: d2a0b238-20230330-11-2_0.jpg
+    md5: b0ce3dc70c057c080960d9c5d656473b
+    size: 5211
+    version_id: 8d0901e6-f12d-48ae-80c8-3d62426c4651
+    etag: b0ce3dc70c057c080960d9c5d656473b
+  - relpath: d40cf99d-20230330-tl-lausanne-nr-610vd-310038-38179_0.jpg
+    md5: b92aaae19faa72dee86a795f0da05635
+    size: 6699
+    version_id: 98016e65-0199-4e07-9eaf-bc329f60d9b2
+    etag: b92aaae19faa72dee86a795f0da05635
+  - relpath: d440e635-20230330-4-6_0.jpg
+    md5: 772e781369bfd93b2865b5c5f69e66a1
+    size: 3432
+    version_id: b4755b10-7480-43d4-90d4-c519fb8a5b7a
+    etag: 772e781369bfd93b2865b5c5f69e66a1
+  - relpath: d55505cc-20230330-tpf-hess-trolleybus-nr520-fr-13193_0.jpg
+    md5: 94332878728520560c0d850df07690cf
+    size: 3764
+    version_id: 68dc8af3-317e-461e-99a0-259c44597544
+    etag: 94332878728520560c0d850df07690cf
+  - relpath: d59650cb-20230330-tpf-nr-87-mercedes-citaro-164032_0.jpg
+    md5: 19e1e0b3e7b8872fe34eba0a4ba57b29
+    size: 2253
+    version_id: 85a51ee2-03a3-4585-808e-080ecb655425
+    etag: 19e1e0b3e7b8872fe34eba0a4ba57b29
+  - relpath: d67faae5-20230330-eb40_orig_0.jpg
+    md5: 5adcc22b37aad8c02a703b6e22844e13
+    size: 14232
+    version_id: 3f051099-fa43-44b7-8ad9-958a878c6de2
+    etag: 5adcc22b37aad8c02a703b6e22844e13
+  - relpath: d6fd1ca5-20230330-tpf-volvo-8700-bus-13879_0.jpg
+    md5: 2ad6f638f68b01f91d20ed6c1a61eebe
+    size: 5838
+    version_id: 547fe9c4-0b18-42ad-bf2f-54a0f292edea
+    etag: 2ad6f638f68b01f91d20ed6c1a61eebe
+  - relpath: d83043d6-20230330-bus-system-in-barcelona-spain-1024x6_0.jpg
+    md5: 61b961900fb5777e0362ec0420f9f261
+    size: 4312
+    version_id: 128eb784-8f6a-49aa-9516-6ccda24a8412
+    etag: 61b961900fb5777e0362ec0420f9f261
+  - relpath: d8eaa72b-20230330-tpf-volvo-8700-nr23-45558_0.jpg
+    md5: 818ca653e31a5287a8071f16989b2615
+    size: 5353
+    version_id: fb634cfc-0438-4d00-b5a0-37d8c9193593
+    etag: 818ca653e31a5287a8071f16989b2615
+  - relpath: d9943ac9-20230330-tpf-volvo-8700-nr98-155546_0.jpg
+    md5: 008d5f0eb12beb11ad8d46fe42eef6d0
+    size: 2966
+    version_id: ef907f17-8ce4-40b3-a8cb-5aa2dd8c9d7a
+    etag: 008d5f0eb12beb11ad8d46fe42eef6d0
+  - relpath: db5eaa7f-20230330-5_0.jpg
+    md5: f65147c7e00c2857f323fe62ddb71983
+    size: 2777
+    version_id: d04ea5ce-da37-4471-8198-0cfd05952234
+    etag: f65147c7e00c2857f323fe62ddb71983
+  - relpath: dbd53bad-20230330-tpf-hess-trolleybus-nr518-fr-36426_0.jpg
+    md5: 6260bed95aae5655099f80fea77f229c
+    size: 10269
+    version_id: 60f4514d-fb97-402e-85f6-bc11f437d31f
+    etag: 6260bed95aae5655099f80fea77f229c
+  - relpath: dbd53bad-20230330-tpf-hess-trolleybus-nr518-fr-36426_1.jpg
+    md5: f9e081888c1bc43a723ef79cde43b654
+    size: 2333
+    version_id: 30d81a48-b46d-4bb0-a97a-0a6738e6a0ca
+    etag: f9e081888c1bc43a723ef79cde43b654
+  - relpath: dc144688-20230330-tpf-fribourg-nr-551fr-90425_0.jpg
+    md5: f0af642dadaf80945f6c741bd920100b
+    size: 3650
+    version_id: ef714889-1a1c-4447-b0c4-b050a8433b3d
+    etag: f0af642dadaf80945f6c741bd920100b
+  - relpath: dd71b277-20230330-tpf-fribourg-nr-519fr-300434-20885_0.jpg
+    md5: 4a2bb776b4b6cc5c171eefccb4719278
+    size: 3778
+    version_id: d5553af5-bca0-4e56-8d79-cfeff7c2c9ff
+    etag: 4a2bb776b4b6cc5c171eefccb4719278
+  - relpath: de1deadb-20230330-4733879_orig_0.jpg
+    md5: 60ff7aefb00c25b9178cee9157a9ba8c
+    size: 8219
+    version_id: c691a016-b3ea-4fbf-a1d9-ffd95acef9ee
+    etag: 60ff7aefb00c25b9178cee9157a9ba8c
+  - relpath: de1deadb-20230330-4733879_orig_1.jpg
+    md5: 7c4adb0f3376db94db66c28968a17fbc
+    size: 2079
+    version_id: 374543a1-c980-418d-8259-014429ec2046
+    etag: 7c4adb0f3376db94db66c28968a17fbc
+  - relpath: df2c2d99-20230330-tpf-fototermin-mit-dem-20758_0.jpg
+    md5: 8d1fc13889430ab6f587cf1c0229b1d0
+    size: 3831
+    version_id: 92870b8a-91d3-4b73-abe5-16519709d18e
+    etag: 8d1fc13889430ab6f587cf1c0229b1d0
+  - relpath: df2c2d99-20230330-tpf-fototermin-mit-dem-20758_1.jpg
+    md5: 0aa624b91b5ae0724eaba414fa12ca19
+    size: 3374
+    version_id: 58718032-db17-4d6a-aa4b-844fffb96c6a
+    etag: 0aa624b91b5ae0724eaba414fa12ca19
+  - relpath: df4be628-20230330-8-3_0.jpg
+    md5: b20ab83bb2217710ac481519f41e783d
+    size: 3578
+    version_id: aeec64e0-c7aa-4670-a2ef-6480ad028da0
+    etag: b20ab83bb2217710ac481519f41e783d
+  - relpath: df4ce825-20230330-tpf-volvo-8700-bus-13116_0.jpg
+    md5: 0754466e9b60cc29e81d8d2fe576d89c
+    size: 6754
+    version_id: af4bd67f-dac8-4bb2-bfd2-97955e1e5122
+    etag: 0754466e9b60cc29e81d8d2fe576d89c
+  - relpath: e040faba-20230330-3-2_0.jpg
+    md5: 586ac584c7a57f6f479d355559152cf3
+    size: 4504
+    version_id: af3d5a4b-2e21-430e-b47d-001b0f5a47aa
+    etag: 586ac584c7a57f6f479d355559152cf3
+  - relpath: e098223e-20230330-tpf-fribourg-nr-599fr-300420-52640_0.jpg
+    md5: 5d32c0d44974faaafe4277524186ce25
+    size: 6723
+    version_id: de16d17e-705e-4812-a7fc-aa8a3dd618bb
+    etag: 5d32c0d44974faaafe4277524186ce25
+  - relpath: e154f8c8-20230330-tpf-trolleybus-nr532-unterwegs-13713_0.jpg
+    md5: 398c6685aed767b313931cf75f50e81d
+    size: 3671
+    version_id: ecbb1266-68ce-4f06-9da3-9fecdfdb2b40
+    etag: 398c6685aed767b313931cf75f50e81d
+  - relpath: e4a51b27-20230330-9003309_0.jpg
+    md5: 193b7173e3267bf4e888888d55033db5
+    size: 2119
+    version_id: 5085ff9c-e84e-41ee-a19f-c657f3a7a164
+    etag: 193b7173e3267bf4e888888d55033db5
+  - relpath: e50011a9-20230330-11_0.jpg
+    md5: b6d11c2b54330b4c012e624930744afb
+    size: 6489
+    version_id: 3eb31494-b9d4-4279-81c2-67a15f0a5236
+    etag: b6d11c2b54330b4c012e624930744afb
+  - relpath: e50de381-20230330-1_0.jpg
+    md5: f65c29795780ea08ac27c08dd5fce0d7
+    size: 6263
+    version_id: e7403b38-935b-4ecb-a0dd-6531c81a809c
+    etag: f65c29795780ea08ac27c08dd5fce0d7
+  - relpath: e567980f-20230330-4-5_0.jpg
+    md5: 8cb90905ec7c3b23d4d436b553ffd34f
+    size: 6211
+    version_id: 07b247df-a11c-468b-a481-9ce18df3767a
+    etag: 8cb90905ec7c3b23d4d436b553ffd34f
+  - relpath: e5769b5e-20230330-27803851853_0b34f11b67_0.jpg
+    md5: 9f63073dd559e1760e2e87847771c16f
+    size: 1655
+    version_id: 41fdff80-b137-44ee-88cb-0e41b25f2dcf
+    etag: 9f63073dd559e1760e2e87847771c16f
+  - relpath: e57dd213-20230330-tpf-fribourg-nr-19-fr-30723_0.jpg
+    md5: de9674c523997af26e7aef05bb628486
+    size: 2588
+    version_id: 6018d63d-f41b-4644-9d60-0c169dbe5376
+    etag: de9674c523997af26e7aef05bb628486
+  - relpath: e57dd213-20230330-tpf-fribourg-nr-19-fr-30723_1.jpg
+    md5: 5f853af9f84f3b612e2c475adbbb8f65
+    size: 5234
+    version_id: 42fb4780-448a-4f0d-8ee5-922ef70be52c
+    etag: 5f853af9f84f3b612e2c475adbbb8f65
+  - relpath: e70e2ef0-20230330-22_0.jpg
+    md5: f66dcdba53a5d22b2629d934d2ba7a9a
+    size: 3763
+    version_id: 296c51f8-eaa3-4d14-8bf2-82b8a6fd4763
+    etag: f66dcdba53a5d22b2629d934d2ba7a9a
+  - relpath: e7924f24-20230330-9-2_0.jpg
+    md5: 2cb90c75140f5e8e0a3e416426964635
+    size: 2975
+    version_id: 4d96d9c2-f766-4641-930a-db7a3c5dcc1d
+    etag: 2cb90c75140f5e8e0a3e416426964635
+  - relpath: e8504c5e-20230330-tpf-volvo-8700-bus-13278_0.jpg
+    md5: 47c288be6904a6ef11d0c32a73392b3c
+    size: 5649
+    version_id: 308fedb6-2769-4068-9161-544eb9cbd8db
+    etag: 47c288be6904a6ef11d0c32a73392b3c
+  - relpath: e9c6de59-20230330-tpf-man-lions-city-13796_0.jpg
+    md5: 5b2a5af07a4bf76706b6ae3b28bfee77
+    size: 6579
+    version_id: 54baf419-3aa0-46ae-9278-73137f8def50
+    etag: 5b2a5af07a4bf76706b6ae3b28bfee77
+  - relpath: ea854ebe-20230330-6091838160db387e09ee50058fdb9bb9_0.jpg
+    md5: 9ab4c3da84b7e8ec0ee3f4dae5ea5b8b
+    size: 10325
+    version_id: 1a435e32-926c-4069-b6a8-2044d0b22200
+    etag: 9ab4c3da84b7e8ec0ee3f4dae5ea5b8b
+  - relpath: eb9ec36f-20230330-tpf-volvo-8700-bus-13274_0.jpg
+    md5: ce4cf9f954bd7f9ecb1957e8a4ae52d3
+    size: 5465
+    version_id: 689f3d46-bc00-48ac-b407-eca76a3ae74a
+    etag: ce4cf9f954bd7f9ecb1957e8a4ae52d3
+  - relpath: ed746c10-20230330-4-8_0.jpg
+    md5: 698aaf0a9ee010a706cc2fb05d2ed0b4
+    size: 2423
+    version_id: ce6adbea-5183-4b45-9b34-17687e228a2e
+    etag: 698aaf0a9ee010a706cc2fb05d2ed0b4
+  - relpath: ed746c10-20230330-4-8_1.jpg
+    md5: b4367e96f23c46409399b3d5c6804756
+    size: 1560
+    version_id: a99a4e09-7274-4076-8a12-e07246bd7717
+    etag: b4367e96f23c46409399b3d5c6804756
+  - relpath: edaf9ccc-20230330-tpf-nr-527-hess-swisstrolley-164695_0.jpg
+    md5: 2074fb4fd0d7e8a9e92b3cf1876d4bb2
+    size: 2714
+    version_id: f7195318-1b59-4b6d-a9fa-17a49f304fb7
+    etag: 2074fb4fd0d7e8a9e92b3cf1876d4bb2
+  - relpath: ede05553-20230330-195613-tpf-fribourg--625316_0.jpg
+    md5: fded8718afaef45b6e302ee043e04774
+    size: 14203
+    version_id: e4eae3ed-dcb8-472b-9b20-de8a3c1cf845
+    etag: fded8718afaef45b6e302ee043e04774
+  - relpath: ee7b5bfc-20230330-4-1_0.jpg
+    md5: 459d231d31d0e2cb93938ad8ae13d606
+    size: 4985
+    version_id: 757f9fb1-90a3-44e0-a49b-17ce062276ed
+    etag: 459d231d31d0e2cb93938ad8ae13d606
+  - relpath: ee944371-20230330-tpf-volvo-8700-nr18-70883_0.jpg
+    md5: 4fa1e9a163f7f8bbca9501aae6a633dd
+    size: 7207
+    version_id: 4d88641f-fe6e-4c97-ae0f-d856352c99a2
+    etag: 4fa1e9a163f7f8bbca9501aae6a633dd
+  - relpath: ee95f003-20230330-tpf-fribourg-350fr-300418-man-10954_0.jpg
+    md5: a82822c0d8ff7095471bbed696768511
+    size: 3792
+    version_id: 1face040-b1d6-478d-981e-f0886f039d73
+    etag: a82822c0d8ff7095471bbed696768511
+  - relpath: eeaf1794-20230330-tpf-trolleybus-nr521-fr-137130_0.jpg
+    md5: 0b11176f18a183e3e9e4b5b7756fe9a9
+    size: 6455
+    version_id: 57874c70-6664-407d-a8cf-41cb29121bbd
+    etag: 0b11176f18a183e3e9e4b5b7756fe9a9
+  - relpath: efa245cb-20230330-transport_030420awi_07_0.jpg
+    md5: 6ced2b2bd2e4a9134f47c8a5ab15b07c
+    size: 8904
+    version_id: c7af474c-e729-4014-968f-0b8cc6e43ce7
+    etag: 6ced2b2bd2e4a9134f47c8a5ab15b07c
+  - relpath: efa245cb-20230330-transport_030420awi_07_1.jpg
+    md5: 8edc9779cf4627c519e0e545083d9cd9
+    size: 2167
+    version_id: 7639f324-86f2-44c2-954d-d37e2c37f6b6
+    etag: 8edc9779cf4627c519e0e545083d9cd9
+  - relpath: f2031d74-20230330-tpf-fribourg-nr-4-fr-27072_0.jpg
+    md5: c994f32b61d2c4dc6fae7f83bab20553
+    size: 6178
+    version_id: a598cbbe-b31c-431c-a343-929e4332c2b9
+    etag: c994f32b61d2c4dc6fae7f83bab20553
+  - relpath: f250affd-20230330-tpf-mercedes-citaro-nr1020-188986_0.jpg
+    md5: 627fb92be0dc0e063de58ca3f395d705
+    size: 5358
+    version_id: a45aa450-ecbb-4347-9bf7-22c74f5c36ce
+    etag: 627fb92be0dc0e063de58ca3f395d705
+  - relpath: f32562bd-20230330-tpf_520_0.jpg
+    md5: f9fdd3cce163ecf153965d5e3bf41802
+    size: 2169
+    version_id: 98e28d34-8fa2-4e1d-8743-a1d34643e055
+    etag: f9fdd3cce163ecf153965d5e3bf41802
+  - relpath: f42989b3-20230330-18_0.jpg
+    md5: a5718e58bbbd816a6e0d27e8b5cb5ee9
+    size: 2564
+    version_id: 030ff9ac-46a2-4a33-a6f7-869558a3eb7b
+    etag: a5718e58bbbd816a6e0d27e8b5cb5ee9
+  - relpath: f496ad43-20230330-tpf-507a6gx_0.jpg
+    md5: 42344d3c21519ac86bd89e90685ac4e5
+    size: 2426
+    version_id: 97197053-eba5-42a1-b5c3-e7a800fdef52
+    etag: 42344d3c21519ac86bd89e90685ac4e5
+  - relpath: f499177b-20230330-tpf-mercedes-citaro-nr594-104995_0.jpg
+    md5: 87a65484081155de2cd1f6ca1cad8987
+    size: 5066
+    version_id: 69faaae5-2490-4664-99ea-5f1c461f7491
+    etag: 87a65484081155de2cd1f6ca1cad8987
+  - relpath: f50ecf50-20230330-tpf-volvo-8700-bus-13876_0.jpg
+    md5: 4e03538fcd34af8fe8fdadf3c994c6b1
+    size: 7132
+    version_id: 1adbf76c-0796-431a-8cd6-e5442cf8f7cf
+    etag: 4e03538fcd34af8fe8fdadf3c994c6b1
+  - relpath: f5da857b-20230330-tpf-hess-trolleybus-nr-190635_0.jpg
+    md5: d1c7f584db008c6fb4038922f44a7330
+    size: 5146
+    version_id: a97e9d96-df23-448c-81c3-da95e6aa17ab
+    etag: d1c7f584db008c6fb4038922f44a7330
+  - relpath: f8543dc9-20230330-0_0.jpg
+    md5: 30a54aede37b353c04246ddb7c83a8a0
+    size: 2179
+    version_id: 766739cc-c9f4-4652-af9d-2018361805e3
+    etag: 30a54aede37b353c04246ddb7c83a8a0
+  - relpath: f8543dc9-20230330-0_1.jpg
+    md5: 319838f72951b3059d4d6cae109c14ff
+    size: 4746
+    version_id: ffb3c329-b999-4dda-999a-5bbe09374bb3
+    etag: 319838f72951b3059d4d6cae109c14ff
+  - relpath: f8ea9a14-20230330-tpf-mercedes-citaro-nr84-128751_0.jpg
+    md5: c5fa9c31f1ff2bc0888cb4af41f0f5e5
+    size: 13980
+    version_id: 512efe70-f50b-4cd5-a84d-5c69a3c96bac
+    etag: c5fa9c31f1ff2bc0888cb4af41f0f5e5
+  - relpath: f99e33c2-20230330-201020-tpf-fribourg-wieland-646969_0.jpg
+    md5: 6ec755367434b1619fe4ec953ca29f92
+    size: 6341
+    version_id: 8cfbf02c-5123-4c62-9064-3524daa438f8
+    etag: 6ec755367434b1619fe4ec953ca29f92
+  - relpath: f99e33c2-20230330-201020-tpf-fribourg-wieland-646969_1.jpg
+    md5: cf030924918fbbb314e9f2fbcbdbfe20
+    size: 1629
+    version_id: c5343ab2-1e5a-4946-ad71-d1cac5f22333
+    etag: cf030924918fbbb314e9f2fbcbdbfe20
+  - relpath: fa46d230-20230330-2-9_0.jpg
+    md5: 834c5218ad0e93445812ff48f74b35f7
+    size: 3273
+    version_id: 25e67575-a3f1-40f8-85a6-d7e04b94db7a
+    etag: 834c5218ad0e93445812ff48f74b35f7
+  - relpath: fb3b7f5d-20230330-tpf-mercedes-citaro-nr125-163096_0.jpg
+    md5: 97d0a3d1b5c1ae6e8cfffb91fdb6863c
+    size: 11533
+    version_id: e871cd8d-5eac-43b3-953b-0bdb0b2c07af
+    etag: 97d0a3d1b5c1ae6e8cfffb91fdb6863c
+  - relpath: fbb5589d-20230330-2615644_0.jpg
+    md5: 32830ea6d0ab5594f82c96dff1a16d3b
+    size: 3441
+    version_id: b1dc7f58-c1c3-4c52-8b46-a31eefc5ebb5
+    etag: 32830ea6d0ab5594f82c96dff1a16d3b
+  - relpath: fe41c0e4-20230330-tpf_513_0.jpg
+    md5: d135b56726f274bb0c464ab86b993182
+    size: 1730
+    version_id: 16db668b-edc1-4e91-b317-82654646d357
+    etag: d135b56726f274bb0c464ab86b993182
+  - relpath: ff768bba-20230330-tpf-volvo-8700-nr105-71073_0.jpg
+    md5: 747c94ae522a9516508ed20f36f6440b
+    size: 6985
+    version_id: 904889ff-3d5e-49fc-ab79-316fdff80da5
+    etag: 747c94ae522a9516508ed20f36f6440b
+  - relpath: ff82b6d9-20230330-tpf-fribourg-nr-590fr-300380-52760_0.jpg
+    md5: ae99d35ee5c6cd00bf09cad4d99b0305
+    size: 5667
+    version_id: 0c38ef88-8002-409f-b78c-5f271e664d75
+    etag: ae99d35ee5c6cd00bf09cad4d99b0305
