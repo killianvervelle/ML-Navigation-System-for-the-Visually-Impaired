@@ -1,7 +1,6 @@
 from pydantic import BaseModel
 from datetime import datetime
 from enum import Enum
-from typing import Optional
 
 class Mode(str, Enum):
     DESCRIPTION = "description"
@@ -10,7 +9,6 @@ class Mode(str, Enum):
 
 class ResponseOut(BaseModel):
     result: str
-
 
 class PipelineHistoryStep(BaseModel):
     error: bool

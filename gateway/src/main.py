@@ -71,5 +71,6 @@ async def pipeline_history():
 
 
 app.include_router(router)
+#Prometheus instrumentator for metrics tracking
 Instrumentator().instrument(app).expose(app)
 

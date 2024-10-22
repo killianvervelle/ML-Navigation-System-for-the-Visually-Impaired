@@ -10,7 +10,7 @@ URL_BUS_SCREEN_TEXT_DETECTOR: str = os.getenv("URL_BUS_SCREEN_TEXT_DETECTOR", "h
 URL_ZERO_SHOT_OBJECT_DETECTOR: str = os.getenv("URL_ZERO_SHOT_OBJECT_DETECTOR", "http://localhost:8006")
 
 
-HOST_MONGODB: str = os.getenv("HOST_MONGODB", "mongodb://localhost:27017/public")
+HOST_MONGODB: str = os.getenv("HOST_MONGODB", "mongodb://localhost:27017")
 
 MINIO_HOSTNAME: str = os.getenv("MINIO_HOSTNAME", "localhost:9000")
 MINIO_ACCESS_KEY: str = os.getenv("MINIO_ACCESS_KEY", "ROOT")

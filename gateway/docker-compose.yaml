@@ -1,11 +1,19 @@
 services:
   gateway:
-    build: .
+    build: 
+      context: .
+      dockerfile: Dockerfile
     ports:
       - 8000:8000
     environment:
-      - HOST_MONGODB=mongodb://mongo:27017/public
+      - CONN_STR=mongodb://${MONGO_INITDB_ROOT_USERNAME}:${MONGO_INITDB_ROOT_PASSWORD}@mongo:27017
+      - HOST_MONGODB=mongodb://${MONGO_INITDB_ROOT_USERNAME}:${MONGO_INITDB_ROOT_PASSWORD}@mongo:27017
+    command: '/bin/bash -c "sleep 5; mongosh $CONN_STR --eval \"show dbs;\""'
+    depends_on:
+      - mongo
   mongo:
     image: mongo:latest
     ports: 
       - 27017:27017
+    env_file:
+      - .env

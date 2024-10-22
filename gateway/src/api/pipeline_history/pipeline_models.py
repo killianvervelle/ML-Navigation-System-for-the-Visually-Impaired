@@ -16,14 +16,13 @@ class MicroService(ABC):
     name: str
     url: str
 
-
     @abstractmethod
     async def run_microservice(self, pipeline_history_api, input: any) -> any:
         pass
 
     async def _manage_request(self, request):
         try:
-            request_response = await request;
+            request_response = await request
         except Exception as e:
             raise ServerChainingException(f"Error in step {self.name}: {e.args[0]}", self.name, e.args[0])
                 
@@ -47,8 +46,6 @@ class Element(ABC):
     async def run_pipeline_element(self, pipeline_history_api, pipeline_id, param: any, additional_params: dict):
         pass
     
-
-
 class PipelineElement(Element):
     microservice: MicroService
     passthrough: bool = False
@@ -81,7 +78,6 @@ class PipelineElement(Element):
         await pipeline_history_api.add_steps_history(pipeline_id, self.microservice.name, initial_result)
 
         return result, initial_result
-
     
 class ConditionalPipelineElement(Element):
     init_pipeline_element: Element
@@ -105,9 +101,8 @@ class ConditionalPipelineElement(Element):
         self.result_check = result_check
         self.failed_pipeline_elements = failed_pipeline_elements
         self.success_pipeline_elements = success_pipeline_elements
-        self.failed_passthrough = failed_passthrough,
+        self.failed_passthrough = failed_passthrough
         self.success_passthrough = success_passthrough
-
 
     async def run_pipeline_element(self, pipeline_history_api, pipeline_id, param, additional_params: dict):
         self.init_pipeline_element.report_error = False
@@ -122,7 +117,6 @@ class ConditionalPipelineElement(Element):
 
         for element in next_pipeline_elements:
             previous_response, _ = await element.run_pipeline_element(pipeline_history_api, pipeline_id, previous_response, additional_params)
-
 
         return previous_response, None
 
@@ -141,7 +135,6 @@ class MultiParamInputTransformer(Element):
             new_param.append(additional_params[name])
 
         return await self.pipeline_element.run_pipeline_element(pipeline_history_api, pipeline_id, new_param, additional_params)
-
 
 class Pipeline:
     elements: list[Element]
