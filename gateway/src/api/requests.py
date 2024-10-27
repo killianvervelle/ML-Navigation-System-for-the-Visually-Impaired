@@ -1,4 +1,3 @@
-import httpx
 from fastapi import UploadFile
 from envs import *
 from models.models import *
@@ -16,12 +15,10 @@ class Request:
 
     async def run(self, image: UploadFile, mode: Mode):
         response = None
-        
         if mode == Mode.BUS:
             response = await self.run_bus(image)
         elif mode == Mode.DESCRIPTION:
             response = await self.run_description(image)
-    
         return response
 
     async def run_description(self, image: UploadFile) -> ResponseOut:
@@ -45,9 +42,7 @@ class Request:
                 ),
             ]
         )
-
         response = await pipeline.run_pipeline(image)
-
         return ResponseOut(result=response)
     
     async def run_bus(self, image: UploadFile) -> ResponseOut:
@@ -81,17 +76,14 @@ class Request:
                             result_check=lambda result: len(result) != 0,
                             error_name="No text detected"
                         )
-                    ]
-                    
+                    ]    
                 ),
                 PipelineElement(
                     microservice=ObjectToNLPMicroService(),
                 ),
             ]
         )
-
         response = await pipeline.run_pipeline(image)
-
         return ResponseOut(result=response)
     
     async def run_tracking(self, image: UploadFile, prompt: str) -> ResponseOut:
@@ -118,8 +110,6 @@ class Request:
                 ),
             ]
         )
-
         response = await pipeline.run_pipeline(image, {"prompt": prompt})
-
         return ResponseOut(result=response)
 

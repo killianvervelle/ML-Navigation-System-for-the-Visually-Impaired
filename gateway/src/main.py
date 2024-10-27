@@ -42,27 +42,23 @@ request = Request()
 @router.post("/process", response_model=ResponseOut)
 async def process(image: UploadFile, mode: Literal[Mode.BUS, Mode.DESCRIPTION]):
     response = None
-
     try:
         response = await request.run(image, mode)
     except ServerChainingException as e:
         raise HTTPException(status_code=500, detail=e.args[0])
     except ParameterChainingException as e:
-        raise HTTPException(status_code=422, detail=e.args[0])
-    
+        raise HTTPException(status_code=400, detail=e.args[0])
     return response
 
 @router.post("/process-tracking", response_model=ResponseOut)
 async def process_tracking(image: UploadFile, prompt: str):
     response = None
-
     try:
         response = await request.run_tracking(image, prompt)
     except ServerChainingException as e:
         raise HTTPException(status_code=500, detail=e.args[0])
     except ParameterChainingException as e:
-        raise HTTPException(status_code=422, detail=e.args[0])
-    
+        raise HTTPException(status_code=400, detail=e.args[0])
     return response
 
 @router.get("/pipelines-history", response_model=list[PipelineHistory])

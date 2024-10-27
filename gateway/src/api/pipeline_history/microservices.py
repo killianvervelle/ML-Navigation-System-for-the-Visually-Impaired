@@ -1,4 +1,3 @@
-
 from envs import *
 import httpx
 from .pipeline_models import MicroService
@@ -10,13 +9,11 @@ from concurrent.futures import ThreadPoolExecutor
 class PhotoValidatorMicroService(MicroService):
     name = "photo-validator"
     url = URL_PHOTO_VALIDATOR
-
+    
     async def run_microservice(self, input: any) -> any:
         response = None
-        
         async with httpx.AsyncClient() as client:
             response = await self._manage_request(client.post(f"{self.url}/process", files=self._get_image_to_httpx(input, "file")))
-
         return response.json()["result"]
 
 class ObjectDetectorMicroService(MicroService):
@@ -25,10 +22,8 @@ class ObjectDetectorMicroService(MicroService):
 
     async def run_microservice(self, input: any) -> any:
         response = None
-        
         async with httpx.AsyncClient() as client:
             response = await self._manage_request(client.post(f"{self.url}/process", files=self._get_image_to_httpx(input, "file")))
-
         return response.json()["result"]
     
 class ObjectToNLPMicroService(MicroService):
@@ -37,10 +32,8 @@ class ObjectToNLPMicroService(MicroService):
 
     async def run_microservice(self, input: any) -> any:
         response = None
-        
         async with httpx.AsyncClient(timeout=10.0) as client:
-            response = await self._manage_request(client.post(f"{self.url}/process", json=input))
-            
+            response = await self._manage_request(client.post(f"{self.url}/process", json=input))  
         return response.json()["result"]
     
 class BusScreenCropperMicroService(MicroService):
@@ -53,11 +46,9 @@ class BusScreenCropperMicroService(MicroService):
 
     async def run_microservice(self, input: any) -> any:
         response = None
-        
         async with httpx.AsyncClient() as client:
             response = await self._manage_request(client.post(f"{self.url}/process", files=self._get_image_to_httpx(input, "file")))
             ThreadPoolExecutor().submit(self.minio_ctrl.image_upload, response.content)
-
         return BytesIO(response.content)
 
 class BusScreenTextDetectorMicroService(MicroService):
@@ -66,7 +57,6 @@ class BusScreenTextDetectorMicroService(MicroService):
 
     async def run_microservice(self, input: any) -> any:
         response = None
-
         async with httpx.AsyncClient() as client:
             response = await self._manage_request(client.post(f"{self.url}/process", files={
 			"file": (
@@ -75,7 +65,6 @@ class BusScreenTextDetectorMicroService(MicroService):
 				"image/png"
 				)
 			}))
-
         return response.json()["result"]
     
 class ZeroShotObjectDetectorMicroService(MicroService):
@@ -84,7 +73,6 @@ class ZeroShotObjectDetectorMicroService(MicroService):
 
     async def run_microservice(self, input: any) -> any:
         response = None
-
         async with httpx.AsyncClient() as client:
             response = await self._manage_request(
                 client.post(
@@ -94,5 +82,4 @@ class ZeroShotObjectDetectorMicroService(MicroService):
                     }
                 )
             )
-
         return response.json()["result"]

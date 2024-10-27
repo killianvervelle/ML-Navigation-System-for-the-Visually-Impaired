@@ -25,10 +25,6 @@ class MicroService(ABC):
             request_response = await request
         except Exception as e:
             raise ServerChainingException(f"Error in step {self.name}: {e.args[0]}", self.name, e.args[0])
-                
-        if request_response.status_code != 200:
-            raise ServerChainingException(f"Error in step {self.name}: {request_response.text}", self.name, request_response.text)
-        
         return request_response
     
     def _get_image_to_httpx(self, image: UploadFile, param_name: str):
@@ -41,7 +37,6 @@ class MicroService(ABC):
 			}
 
 class Element(ABC):
-
     @abstractmethod
     async def run_pipeline_element(self, pipeline_history_api, pipeline_id, param: any, additional_params: dict):
         pass
@@ -53,7 +48,6 @@ class PipelineElement(Element):
     error_name: str
     result_check: Callable[[any], bool]
 
-
     def __init__(self, microservice, error_name="", result_check=lambda _: True, passthrough=False) -> None:
         super().__init__()
         self.microservice = microservice
@@ -62,22 +56,13 @@ class PipelineElement(Element):
         self.passthrough = passthrough
 
     async def run_pipeline_element(self, pipeline_history_api, pipeline_id, param, _):
-        result = None
-        
         result = await self.microservice.run_microservice(param)
-
-        initial_result = result
-
         if not self.result_check(result):
             raise ParameterChainingException(self.microservice.name, self.error_name)
-
-
         if self.passthrough:
             result = param
-
-        await pipeline_history_api.add_steps_history(pipeline_id, self.microservice.name, initial_result)
-
-        return result, initial_result
+        await pipeline_history_api.add_steps_history(pipeline_id, self.microservice.name, result)
+        return result
     
 class ConditionalPipelineElement(Element):
     init_pipeline_element: Element
@@ -104,21 +89,14 @@ class ConditionalPipelineElement(Element):
         self.failed_passthrough = failed_passthrough
         self.success_passthrough = success_passthrough
 
-    async def run_pipeline_element(self, pipeline_history_api, pipeline_id, param, additional_params: dict):
-        self.init_pipeline_element.report_error = False
-        
-        result, initial_result = await self.init_pipeline_element.run_pipeline_element(pipeline_history_api, pipeline_id, param, additional_params)
-
-        success = self.result_check(initial_result)
-
+    async def run_pipeline_element(self, pipeline_history_api, pipeline_id, param, additional_params: dict):  
+        result, _ = await self.init_pipeline_element.run_pipeline_element(pipeline_history_api, pipeline_id, param, additional_params)
+        success = self.result_check(result)
         next_pipeline_elements = self.success_pipeline_elements if success else self.failed_pipeline_elements 
-        
-        previous_response = param if (self.failed_passthrough and not success) or (self.success_passthrough and success) else result
-
+        previous_response = result
         for element in next_pipeline_elements:
             previous_response, _ = await element.run_pipeline_element(pipeline_history_api, pipeline_id, previous_response, additional_params)
-
-        return previous_response, None
+        return previous_response
 
 class MultiParamInputTransformer(Element):
     pipeline_element: Element
@@ -133,7 +111,6 @@ class MultiParamInputTransformer(Element):
         new_param = [param]
         for name in self.additional_params_names:
             new_param.append(additional_params[name])
-
         return await self.pipeline_element.run_pipeline_element(pipeline_history_api, pipeline_id, new_param, additional_params)
 
 class Pipeline:
@@ -148,19 +125,15 @@ class Pipeline:
 
     async def run_pipeline(self, initial_param: any, additional_params: dict = {}) -> any:
         pipeline_id = await self.pipeline_history_api.create_history(initial_param, self.mode, additional_params)
-
         previous_param = initial_param
-
         for element in self.elements:
             try:
                 previous_param, _ = await element.run_pipeline_element(self.pipeline_history_api, pipeline_id, previous_param, additional_params)
             except ParameterChainingException as e:
-                await self.pipeline_history_api.add_steps_history(pipeline_id, e.args[1], e.args[0])
-                raise e
-            except ServerChainingException as e:
                 await self.pipeline_history_api.add_steps_history(pipeline_id, e.args[1], e.args[0], error=True)
                 raise e
-
+            except (TimeoutError, ConnectionError) as e:
+                await self.pipeline_history_api.add_steps_history(pipeline_id, e.args[1], e.args[0], error=True)
+                raise e
         self.pipeline_history_api.mark_history_as_completed(pipeline_id)
-
         return previous_param
